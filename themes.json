@@ -13110,7 +13110,7 @@
     "author_name": "Brainstorm Force",
     "author_url": "https://profiles.wordpress.org/brainstormforce/",
     "rating": 98,
-    "num_ratings": 6458,
+    "num_ratings": 6459,
     "requires_wordpress": "5.3",
     "requires_php": "5.3",
     "preview_url": "https://wp-themes.com/astra/",
@@ -30692,7 +30692,7 @@
   {
     "name": "BlogSpare",
     "slug": "blogspare",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 0,
@@ -30700,12 +30700,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/blogspare/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/blogspare/screenshot.png?ver=2.0.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/blogspare/screenshot.png?ver=2.0.1",
     "homepage": "https://wordpress.org/themes/blogspare/",
     "template": "newspare",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/blogspare.2.0.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/blogspare.2.0.1.zip"
   },
   {
     "name": "BlogSquare",
@@ -33338,7 +33338,7 @@
   {
     "name": "Book Author Template",
     "slug": "book-author-template",
-    "version": "1.1.7",
+    "version": "1.1.8",
     "author_name": "RS WP THEMES",
     "author_url": "https://profiles.wordpress.org/rswpthemes/",
     "rating": 0,
@@ -33346,12 +33346,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "8.0",
     "preview_url": "https://wp-themes.com/book-author-template/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/book-author-template/screenshot.png?ver=1.1.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/book-author-template/screenshot.png?ver=1.1.8",
     "homepage": "https://wordpress.org/themes/book-author-template/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/book-author-template.1.1.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/book-author-template.1.1.8.zip"
   },
   {
     "name": "Book Blogger",
@@ -84440,7 +84440,7 @@
   {
     "name": "Expert Adventure Guide",
     "slug": "expert-adventure-guide",
-    "version": "11.8",
+    "version": "11.9",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -84448,17 +84448,17 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/expert-adventure-guide/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/expert-adventure-guide/screenshot.png?ver=11.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/expert-adventure-guide/screenshot.png?ver=11.9",
     "homepage": "https://wordpress.org/themes/expert-adventure-guide/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/expert-adventure-guide.11.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/expert-adventure-guide.11.9.zip"
   },
   {
     "name": "Expert Author",
     "slug": "expert-author",
-    "version": "11.8",
+    "version": "11.9",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -84466,12 +84466,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/expert-author/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/expert-author/screenshot.png?ver=11.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/expert-author/screenshot.png?ver=11.9",
     "homepage": "https://wordpress.org/themes/expert-author/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/expert-author.11.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/expert-author.11.9.zip"
   },
   {
     "name": "Expert Bakers Shop",
@@ -84530,7 +84530,7 @@
   {
     "name": "Expert Business Consultant",
     "slug": "expert-business-consultant",
-    "version": "11.8",
+    "version": "12.1",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -84538,12 +84538,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/expert-business-consultant/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/expert-business-consultant/screenshot.png?ver=11.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/expert-business-consultant/screenshot.png?ver=12.1",
     "homepage": "https://wordpress.org/themes/expert-business-consultant/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/expert-business-consultant.11.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/expert-business-consultant.12.1.zip"
   },
   {
     "name": "Expert Carpenter",
@@ -84764,7 +84764,7 @@
   {
     "name": "Expert Food Blog",
     "slug": "expert-food-blog",
-    "version": "11.8",
+    "version": "11.9",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -84772,17 +84772,17 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/expert-food-blog/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/expert-food-blog/screenshot.png?ver=11.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/expert-food-blog/screenshot.png?ver=11.9",
     "homepage": "https://wordpress.org/themes/expert-food-blog/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/expert-food-blog.11.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/expert-food-blog.11.9.zip"
   },
   {
     "name": "Expert Gamer",
     "slug": "expert-gamer",
-    "version": "5.9",
+    "version": "6.0",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -84790,12 +84790,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/expert-gamer/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/expert-gamer/screenshot.png?ver=5.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/expert-gamer/screenshot.png?ver=6.0",
     "homepage": "https://wordpress.org/themes/expert-gamer/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/expert-gamer.5.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/expert-gamer.6.0.zip"
   },
   {
     "name": "Expert Gardener",
@@ -84836,7 +84836,7 @@
   {
     "name": "Expert Healthcare",
     "slug": "expert-healthcare",
-    "version": "11.7",
+    "version": "11.8",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -84844,17 +84844,17 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/expert-healthcare/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/expert-healthcare/screenshot.png?ver=11.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/expert-healthcare/screenshot.png?ver=11.8",
     "homepage": "https://wordpress.org/themes/expert-healthcare/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/expert-healthcare.11.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/expert-healthcare.11.8.zip"
   },
   {
     "name": "Expert Hotel Booking",
     "slug": "expert-hotel-booking",
-    "version": "4.4",
+    "version": "4.5",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -84862,12 +84862,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/expert-hotel-booking/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/expert-hotel-booking/screenshot.png?ver=4.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/expert-hotel-booking/screenshot.png?ver=4.5",
     "homepage": "https://wordpress.org/themes/expert-hotel-booking/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/expert-hotel-booking.4.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/expert-hotel-booking.4.5.zip"
   },
   {
     "name": "Expert Influencer Agency",
@@ -84908,7 +84908,7 @@
   {
     "name": "Expert Life Coach",
     "slug": "expert-life-coach",
-    "version": "9.0",
+    "version": "9.1",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -84916,12 +84916,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/expert-life-coach/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/expert-life-coach/screenshot.png?ver=9.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/expert-life-coach/screenshot.png?ver=9.1",
     "homepage": "https://wordpress.org/themes/expert-life-coach/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/expert-life-coach.9.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/expert-life-coach.9.1.zip"
   },
   {
     "name": "Expert Makeup Artist",
@@ -84944,7 +84944,7 @@
   {
     "name": "Expert Makeup Stylist",
     "slug": "expert-makeup-stylist",
-    "version": "8.0",
+    "version": "8.1",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -84952,12 +84952,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/expert-makeup-stylist/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/expert-makeup-stylist/screenshot.png?ver=8.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/expert-makeup-stylist/screenshot.png?ver=8.1",
     "homepage": "https://wordpress.org/themes/expert-makeup-stylist/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/expert-makeup-stylist.8.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/expert-makeup-stylist.8.1.zip"
   },
   {
     "name": "Expert Mechanic",
@@ -85160,7 +85160,7 @@
   {
     "name": "Expert Travel Vlogger",
     "slug": "expert-travel-vlogger",
-    "version": "11.8",
+    "version": "11.9",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -85168,12 +85168,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/expert-travel-vlogger/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/expert-travel-vlogger/screenshot.png?ver=11.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/expert-travel-vlogger/screenshot.png?ver=11.9",
     "homepage": "https://wordpress.org/themes/expert-travel-vlogger/",
     "template": "travel-booking-expert",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/expert-travel-vlogger.11.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/expert-travel-vlogger.11.9.zip"
   },
   {
     "name": "Expert Videographer",
@@ -89714,7 +89714,7 @@
   {
     "name": "Film Studio",
     "slug": "film-studio",
-    "version": "4.7",
+    "version": "4.8",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -89722,12 +89722,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/film-studio/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/film-studio/screenshot.png?ver=4.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/film-studio/screenshot.png?ver=4.8",
     "homepage": "https://wordpress.org/themes/film-studio/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/film-studio.4.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/film-studio.4.8.zip"
   },
   {
     "name": "Filmways Lite",
@@ -99416,7 +99416,7 @@
   {
     "name": "Gadget Store",
     "slug": "gadget-store",
-    "version": "11.0.6",
+    "version": "11.0.7",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 60,
@@ -99424,12 +99424,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/gadget-store/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/gadget-store/screenshot.png?ver=11.0.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/gadget-store/screenshot.png?ver=11.0.7",
     "homepage": "https://wordpress.org/themes/gadget-store/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/gadget-store.11.0.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/gadget-store.11.0.7.zip"
   },
   {
     "name": "Gadget Story",
@@ -133256,7 +133256,7 @@
   {
     "name": "LED TV",
     "slug": "led-tv",
-    "version": "8.0",
+    "version": "8.1",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -133264,12 +133264,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/led-tv/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/led-tv/screenshot.png?ver=8.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/led-tv/screenshot.png?ver=8.1",
     "homepage": "https://wordpress.org/themes/led-tv/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/led-tv.8.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/led-tv.8.1.zip"
   },
   {
     "name": "Leento",
@@ -153362,7 +153362,7 @@
   {
     "name": "MoreNews",
     "slug": "morenews",
-    "version": "4.1.0",
+    "version": "4.2.0",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 98,
@@ -153370,12 +153370,12 @@
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/morenews/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/morenews/screenshot.png?ver=4.1.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/morenews/screenshot.png?ver=4.2.0",
     "homepage": "https://wordpress.org/themes/morenews/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/morenews.4.1.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/morenews.4.2.0.zip"
   },
   {
     "name": "Morfeu",
@@ -163154,7 +163154,7 @@
   {
     "name": "NewSpare",
     "slug": "newspare",
-    "version": "4.1.2",
+    "version": "4.1.3",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 0,
@@ -163162,12 +163162,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/newspare/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newspare/screenshot.png?ver=4.1.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newspare/screenshot.png?ver=4.1.3",
     "homepage": "https://wordpress.org/themes/newspare/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newspare.4.1.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newspare.4.1.3.zip"
   },
   {
     "name": "Newsper",
@@ -236918,7 +236918,7 @@
   {
     "name": "Travel Booking Expert",
     "slug": "travel-booking-expert",
-    "version": "11.8",
+    "version": "11.9",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -236926,12 +236926,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/travel-booking-expert/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/travel-booking-expert/screenshot.png?ver=11.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/travel-booking-expert/screenshot.png?ver=11.9",
     "homepage": "https://wordpress.org/themes/travel-booking-expert/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/travel-booking-expert.11.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/travel-booking-expert.11.9.zip"
   },
   {
     "name": "Travel Booking Offers",
@@ -244118,7 +244118,7 @@
   {
     "name": "Vacation Rental Expert",
     "slug": "vacation-rental-expert",
-    "version": "11.8",
+    "version": "11.9",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -244126,12 +244126,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vacation-rental-expert/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vacation-rental-expert/screenshot.png?ver=11.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vacation-rental-expert/screenshot.png?ver=11.9",
     "homepage": "https://wordpress.org/themes/vacation-rental-expert/",
     "template": "travel-booking-expert",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vacation-rental-expert.11.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vacation-rental-expert.11.9.zip"
   },
   {
     "name": "Vaccination Center",
@@ -255854,7 +255854,7 @@
   {
     "name": "Woodworking Workshop",
     "slug": "woodworking-workshop",
-    "version": "8.4",
+    "version": "8.6",
     "author_name": "drakearthur",
     "author_url": "https://profiles.wordpress.org/drakearthur/",
     "rating": 0,
@@ -255862,12 +255862,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/woodworking-workshop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/woodworking-workshop/screenshot.png?ver=8.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/woodworking-workshop/screenshot.png?ver=8.6",
     "homepage": "https://wordpress.org/themes/woodworking-workshop/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/woodworking-workshop.8.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/woodworking-workshop.8.6.zip"
   },
   {
     "name": "Woostify",
