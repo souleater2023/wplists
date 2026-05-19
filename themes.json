@@ -19800,6 +19800,24 @@
     "download_link": "https://downloads.wordpress.org/theme/bee-news.1.5.zip"
   },
   {
+    "name": "Bee Real Estate",
+    "slug": "bee-real-estate",
+    "version": "1.0.2",
+    "author_name": "Bee Themes",
+    "author_url": "https://profiles.wordpress.org/beetheme/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.1",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/bee-real-estate/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/bee-real-estate/screenshot.png?ver=1.0.2",
+    "homepage": "https://wordpress.org/themes/bee-real-estate/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/bee-real-estate.1.0.2.zip"
+  },
+  {
     "name": "Beetan",
     "slug": "beetan",
     "version": "1.0.12",
@@ -33428,7 +33446,7 @@
   {
     "name": "Book Publisher",
     "slug": "book-publisher",
-    "version": "0.6.3",
+    "version": "0.6.4",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -33436,12 +33454,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/book-publisher/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/book-publisher/screenshot.png?ver=0.6.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/book-publisher/screenshot.png?ver=0.6.4",
     "homepage": "https://wordpress.org/themes/book-publisher/",
     "template": "digital-books",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/book-publisher.0.6.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/book-publisher.0.6.4.zip"
   },
   {
     "name": "Book Publisher Agency",
@@ -40394,7 +40412,7 @@
   {
     "name": "Business Lawyer Firm",
     "slug": "business-lawyer-firm",
-    "version": "0.6.7",
+    "version": "0.6.8",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -40402,12 +40420,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/business-lawyer-firm/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/business-lawyer-firm/screenshot.png?ver=0.6.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/business-lawyer-firm/screenshot.png?ver=0.6.8",
     "homepage": "https://wordpress.org/themes/business-lawyer-firm/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/business-lawyer-firm.0.6.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/business-lawyer-firm.0.6.8.zip"
   },
   {
     "name": "Business Leader",
@@ -69194,7 +69212,7 @@
   {
     "name": "Digital Storefront",
     "slug": "digital-storefront",
-    "version": "0.7.9",
+    "version": "0.8.0",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -69202,12 +69220,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/digital-storefront/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/digital-storefront/screenshot.png?ver=0.7.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/digital-storefront/screenshot.png?ver=0.8.0",
     "homepage": "https://wordpress.org/themes/digital-storefront/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/digital-storefront.0.7.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/digital-storefront.0.8.0.zip"
   },
   {
     "name": "Digital Techup",
@@ -70454,7 +70472,7 @@
   {
     "name": "Dog Breeder",
     "slug": "dog-breeder",
-    "version": "0.6.7",
+    "version": "0.6.8",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 48,
@@ -70462,12 +70480,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/dog-breeder/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/dog-breeder/screenshot.png?ver=0.6.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/dog-breeder/screenshot.png?ver=0.6.8",
     "homepage": "https://wordpress.org/themes/dog-breeder/",
     "template": "pet-care-zone",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/dog-breeder.0.6.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/dog-breeder.0.6.8.zip"
   },
   {
     "name": "Dog Channel",
@@ -79256,7 +79274,7 @@
   {
     "name": "eLMS",
     "slug": "elms",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "author_name": "Md Abdul Kader",
     "author_url": "https://profiles.wordpress.org/babuwpd/",
     "rating": 0,
@@ -79264,12 +79282,12 @@
     "requires_wordpress": "",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/elms/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/elms/screenshot.png?ver=1.0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/elms/screenshot.png?ver=1.0.5",
     "homepage": "https://wordpress.org/themes/elms/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/elms.1.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/elms.1.0.5.zip"
   },
   {
     "name": "Elo",
@@ -87266,7 +87284,7 @@
   {
     "name": "Fashion Blogs",
     "slug": "fashion-blogs",
-    "version": "0.5.6",
+    "version": "0.5.7",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -87274,12 +87292,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/fashion-blogs/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fashion-blogs/screenshot.png?ver=0.5.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fashion-blogs/screenshot.png?ver=0.5.7",
     "homepage": "https://wordpress.org/themes/fashion-blogs/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fashion-blogs.0.5.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fashion-blogs.0.5.7.zip"
   },
   {
     "name": "Fashion Boutique",
@@ -87626,7 +87644,7 @@
   {
     "name": "Fashion Photography",
     "slug": "fashion-photography",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -87634,12 +87652,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/fashion-photography/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fashion-photography/screenshot.png?ver=1.1.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fashion-photography/screenshot.png?ver=1.1.5",
     "homepage": "https://wordpress.org/themes/fashion-photography/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fashion-photography.1.1.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fashion-photography.1.1.5.zip"
   },
   {
     "name": "Fashion Pin",
@@ -94196,7 +94214,7 @@
   {
     "name": "Food Recipe Blog",
     "slug": "food-recipe-blog",
-    "version": "2.9.7",
+    "version": "2.9.8",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -94204,12 +94222,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/food-recipe-blog/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/food-recipe-blog/screenshot.png?ver=2.9.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/food-recipe-blog/screenshot.png?ver=2.9.8",
     "homepage": "https://wordpress.org/themes/food-recipe-blog/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/food-recipe-blog.2.9.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/food-recipe-blog.2.9.8.zip"
   },
   {
     "name": "Food Recipes",
@@ -164828,7 +164846,7 @@
   {
     "name": "NGO Social Services",
     "slug": "ngo-social-services",
-    "version": "0.6.3",
+    "version": "0.6.4",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -164836,12 +164854,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/ngo-social-services/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/ngo-social-services/screenshot.png?ver=0.6.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ngo-social-services/screenshot.png?ver=0.6.4",
     "homepage": "https://wordpress.org/themes/ngo-social-services/",
     "template": "charity-zone",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/ngo-social-services.0.6.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/ngo-social-services.0.6.4.zip"
   },
   {
     "name": "Nhuja News",
@@ -167704,6 +167722,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/nxt-apostille.1.1.zip"
+  },
+  {
+    "name": "NXT Chiropractor",
+    "slug": "nxt-chiropractor",
+    "version": "1.0",
+    "author_name": "novexthemes",
+    "author_url": "https://profiles.wordpress.org/novexthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.5",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/nxt-chiropractor/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/nxt-chiropractor/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/nxt-chiropractor/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/nxt-chiropractor.1.0.zip"
   },
   {
     "name": "NXT Event Planner",
@@ -171362,7 +171398,7 @@
   {
     "name": "Online Tutor",
     "slug": "online-tutor",
-    "version": "0.6.6",
+    "version": "0.6.8",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -171370,12 +171406,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/online-tutor/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/online-tutor/screenshot.png?ver=0.6.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/online-tutor/screenshot.png?ver=0.6.8",
     "homepage": "https://wordpress.org/themes/online-tutor/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/online-tutor.0.6.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/online-tutor.0.6.8.zip"
   },
   {
     "name": "Online Video Games",
@@ -178418,7 +178454,7 @@
   {
     "name": "Pet Care Zone",
     "slug": "pet-care-zone",
-    "version": "4.9.4",
+    "version": "4.9.5",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 76,
@@ -178426,12 +178462,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/pet-care-zone/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/pet-care-zone/screenshot.png?ver=4.9.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/pet-care-zone/screenshot.png?ver=4.9.5",
     "homepage": "https://wordpress.org/themes/pet-care-zone/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/pet-care-zone.4.9.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/pet-care-zone.4.9.5.zip"
   },
   {
     "name": "Pet Ecommerce Store",
@@ -185146,6 +185182,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/premier.1.5.7.zip"
+  },
+  {
+    "name": "Premier News",
+    "slug": "premier-news",
+    "version": "1.0.1",
+    "author_name": "Ascendoor",
+    "author_url": "https://profiles.wordpress.org/ascendoor/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/premier-news/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/premier-news/screenshot.png?ver=1.0.1",
+    "homepage": "https://wordpress.org/themes/premier-news/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/premier-news.1.0.1.zip"
   },
   {
     "name": "Premium Modern Orange",
@@ -216218,7 +216272,7 @@
   {
     "name": "Smart Cleaning",
     "slug": "smart-cleaning",
-    "version": "4.8.1",
+    "version": "4.8.2",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 100,
@@ -216226,12 +216280,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/smart-cleaning/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/smart-cleaning/screenshot.png?ver=4.8.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/smart-cleaning/screenshot.png?ver=4.8.2",
     "homepage": "https://wordpress.org/themes/smart-cleaning/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/smart-cleaning.4.8.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/smart-cleaning.4.8.2.zip"
   },
   {
     "name": "Smart Cleaning Company",
@@ -247156,6 +247210,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/viral-news-center.0.7.0.zip"
+  },
+  {
+    "name": "Viral Times",
+    "slug": "viral-times",
+    "version": "1.0.05",
+    "author_name": "hashthemes",
+    "author_url": "https://profiles.wordpress.org/hashthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/viral-times/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/viral-times/screenshot.jpg?ver=1.0.05",
+    "homepage": "https://wordpress.org/themes/viral-times/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/viral-times.1.0.05.zip"
   },
   {
     "name": "Viralblog Lite",
