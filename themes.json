@@ -92216,7 +92216,7 @@
   {
     "name": "Fleks",
     "slug": "fleks",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "author_name": "Kadim Gültekin",
     "author_url": "https://profiles.wordpress.org/arkenon/",
     "rating": 0,
@@ -92224,12 +92224,12 @@
     "requires_wordpress": "6.3",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/fleks/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fleks/screenshot.jpg?ver=1.0.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fleks/screenshot.jpg?ver=1.0.5",
     "homepage": "https://wordpress.org/themes/fleks/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fleks.1.0.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fleks.1.0.5.zip"
   },
   {
     "name": "Fleming",
@@ -120750,7 +120750,7 @@
     "author_name": "WPZOOM",
     "author_url": "https://profiles.wordpress.org/wpzoom/",
     "rating": 94,
-    "num_ratings": 127,
+    "num_ratings": 126,
     "requires_wordpress": "6.4",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/inspiro/",
@@ -139372,6 +139372,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/machine-repair.2.7.zip"
+  },
+  {
+    "name": "Machinery Rental",
+    "slug": "machinery-rental",
+    "version": "1.0",
+    "author_name": "drakearthur",
+    "author_url": "https://profiles.wordpress.org/drakearthur/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.9",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/machinery-rental/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/machinery-rental/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/machinery-rental/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/machinery-rental.1.0.zip"
   },
   {
     "name": "Macro News",
@@ -159032,20 +159050,20 @@
   {
     "name": "NEOVANTAGE",
     "slug": "neovantage",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "author_name": "PixelsPress",
     "author_url": "https://profiles.wordpress.org/pixelspress/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "",
+    "requires_wordpress": "5.3",
     "requires_php": "8.0",
     "preview_url": "https://wp-themes.com/neovantage/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/neovantage/screenshot.png?ver=2.1.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/neovantage/screenshot.png?ver=2.2.0",
     "homepage": "https://wordpress.org/themes/neovantage/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/neovantage.2.1.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/neovantage.2.2.0.zip"
   },
   {
     "name": "NepalBuzz",
@@ -180146,7 +180164,7 @@
   {
     "name": "Photofocus Blocks",
     "slug": "photofocus-blocks",
-    "version": "3.0.1",
+    "version": "3.1",
     "author_name": "Catch Themes",
     "author_url": "https://profiles.wordpress.org/catchthemes/",
     "rating": 0,
@@ -180154,12 +180172,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/photofocus-blocks/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/photofocus-blocks/screenshot.png?ver=3.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/photofocus-blocks/screenshot.png?ver=3.1",
     "homepage": "https://wordpress.org/themes/photofocus-blocks/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/photofocus-blocks.3.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/photofocus-blocks.3.1.zip"
   },
   {
     "name": "PhotoFocus Light",
@@ -227466,6 +227484,24 @@
     "download_link": "https://downloads.wordpress.org/theme/superb-landingpage.3.6.zip"
   },
   {
+    "name": "Superb Lifestyle Blog",
+    "slug": "superb-lifestyle-blog",
+    "version": "1.3",
+    "author_name": "SuperbThemes",
+    "author_url": "https://profiles.wordpress.org/superbthemescom/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.1",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/superb-lifestyle-blog/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/superb-lifestyle-blog/screenshot.png?ver=1.3",
+    "homepage": "https://wordpress.org/themes/superb-lifestyle-blog/",
+    "template": "creativity-hub",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/superb-lifestyle-blog.1.3.zip"
+  },
+  {
     "name": "Superb Pixels",
     "slug": "superb-pixels",
     "version": "3.1",
@@ -235078,6 +235114,24 @@
     "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/thryve-biz.1.2.zip"
+  },
+  {
+    "name": "Thryve Corporate",
+    "slug": "thryve-corporate",
+    "version": "1.0",
+    "author_name": "thryvewp",
+    "author_url": "https://profiles.wordpress.org/thryvewp/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.5",
+    "requires_php": "7.0",
+    "preview_url": "https://wp-themes.com/thryve-corporate/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/thryve-corporate/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/thryve-corporate/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/thryve-corporate.1.0.zip"
   },
   {
     "name": "Thryve School",
