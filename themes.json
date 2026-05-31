@@ -7346,7 +7346,7 @@
   {
     "name": "Alvert",
     "slug": "alvert",
-    "version": "1.0.66",
+    "version": "1.0.67",
     "author_name": "Themes Daddy",
     "author_url": "https://profiles.wordpress.org/themesdaddy/",
     "rating": 0,
@@ -7354,12 +7354,12 @@
     "requires_wordpress": "",
     "requires_php": "5.4",
     "preview_url": "https://wp-themes.com/alvert/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/alvert/screenshot.png?ver=1.0.66",
+    "screenshot_url": "//ts.w.org/wp-content/themes/alvert/screenshot.png?ver=1.0.67",
     "homepage": "https://wordpress.org/themes/alvert/",
     "template": "flixita",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/alvert.1.0.66.zip"
+    "download_link": "https://downloads.wordpress.org/theme/alvert.1.0.67.zip"
   },
   {
     "name": "Alyssa's Blog",
@@ -15932,7 +15932,7 @@
   {
     "name": "Avinza",
     "slug": "avinza",
-    "version": "1.0.57",
+    "version": "1.0.58",
     "author_name": "Themes Daddy",
     "author_url": "https://profiles.wordpress.org/themesdaddy/",
     "rating": 0,
@@ -15940,12 +15940,12 @@
     "requires_wordpress": "",
     "requires_php": "5.4",
     "preview_url": "https://wp-themes.com/avinza/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/avinza/screenshot.png?ver=1.0.57",
+    "screenshot_url": "//ts.w.org/wp-content/themes/avinza/screenshot.png?ver=1.0.58",
     "homepage": "https://wordpress.org/themes/avinza/",
     "template": "flixita",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/avinza.1.0.57.zip"
+    "download_link": "https://downloads.wordpress.org/theme/avinza.1.0.58.zip"
   },
   {
     "name": "Avior",
@@ -37442,7 +37442,7 @@
   {
     "name": "Britely",
     "slug": "britely",
-    "version": "1.0.50",
+    "version": "1.0.51",
     "author_name": "Themes Daddy",
     "author_url": "https://profiles.wordpress.org/themesdaddy/",
     "rating": 0,
@@ -37450,12 +37450,12 @@
     "requires_wordpress": "",
     "requires_php": "5.4",
     "preview_url": "https://wp-themes.com/britely/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/britely/screenshot.png?ver=1.0.50",
+    "screenshot_url": "//ts.w.org/wp-content/themes/britely/screenshot.png?ver=1.0.51",
     "homepage": "https://wordpress.org/themes/britely/",
     "template": "flixita",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/britely.1.0.50.zip"
+    "download_link": "https://downloads.wordpress.org/theme/britely.1.0.51.zip"
   },
   {
     "name": "Britt",
@@ -78984,6 +78984,24 @@
     "download_link": "https://downloads.wordpress.org/theme/eliot.1.0.6.zip"
   },
   {
+    "name": "Elisen Travel",
+    "slug": "elisen-travel",
+    "version": "1.0.0",
+    "author_name": "kantipurthemes",
+    "author_url": "https://profiles.wordpress.org/kantipurthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.4",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/elisen-travel/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/elisen-travel/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/elisen-travel/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/elisen-travel.1.0.0.zip"
+  },
+  {
     "name": "Elisium",
     "slug": "elisium",
     "version": "1.5",
@@ -92198,7 +92216,7 @@
   {
     "name": "Flectine",
     "slug": "flectine",
-    "version": "1.0.50",
+    "version": "1.0.51",
     "author_name": "Themes Daddy",
     "author_url": "https://profiles.wordpress.org/themesdaddy/",
     "rating": 0,
@@ -92206,17 +92224,17 @@
     "requires_wordpress": "",
     "requires_php": "5.4",
     "preview_url": "https://wp-themes.com/flectine/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/flectine/screenshot.png?ver=1.0.50",
+    "screenshot_url": "//ts.w.org/wp-content/themes/flectine/screenshot.png?ver=1.0.51",
     "homepage": "https://wordpress.org/themes/flectine/",
     "template": "flixita",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/flectine.1.0.50.zip"
+    "download_link": "https://downloads.wordpress.org/theme/flectine.1.0.51.zip"
   },
   {
     "name": "Flecto",
     "slug": "flecto",
-    "version": "1.0.78",
+    "version": "1.0.79",
     "author_name": "Themes Daddy",
     "author_url": "https://profiles.wordpress.org/themesdaddy/",
     "rating": 0,
@@ -92224,12 +92242,12 @@
     "requires_wordpress": "",
     "requires_php": "5.4",
     "preview_url": "https://wp-themes.com/flecto/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/flecto/screenshot.png?ver=1.0.78",
+    "screenshot_url": "//ts.w.org/wp-content/themes/flecto/screenshot.png?ver=1.0.79",
     "homepage": "https://wordpress.org/themes/flecto/",
     "template": "flixita",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/flecto.1.0.78.zip"
+    "download_link": "https://downloads.wordpress.org/theme/flecto.1.0.79.zip"
   },
   {
     "name": "Fleks",
@@ -104866,6 +104884,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/graceful-nova-blog.1.0.0.zip"
+  },
+  {
+    "name": "Graceful Omni Blog",
+    "slug": "graceful-omni-blog",
+    "version": "1.0.0",
+    "author_name": "Aslam",
+    "author_url": "https://profiles.wordpress.org/aslamnaik/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.3",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/graceful-omni-blog/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/graceful-omni-blog/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/graceful-omni-blog/",
+    "template": "graceful",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/graceful-omni-blog.1.0.0.zip"
   },
   {
     "name": "Graceful Opal Blog",
@@ -138800,7 +138836,7 @@
   {
     "name": "LuxuryConceptFree",
     "slug": "luxuryconceptfree",
-    "version": "1.3.9",
+    "version": "1.4.0",
     "author_name": "Stefano",
     "author_url": "https://profiles.wordpress.org/stefacchio/",
     "rating": 100,
@@ -138808,12 +138844,12 @@
     "requires_wordpress": "",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/luxuryconceptfree/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/luxuryconceptfree/screenshot.png?ver=1.3.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/luxuryconceptfree/screenshot.png?ver=1.4.0",
     "homepage": "https://wordpress.org/themes/luxuryconceptfree/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/luxuryconceptfree.1.3.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/luxuryconceptfree.1.4.0.zip"
   },
   {
     "name": "Lyampe",
@@ -186282,6 +186318,24 @@
     "download_link": "https://downloads.wordpress.org/theme/prespa-travel.1.0.4.zip"
   },
   {
+    "name": "Prespa Wellness",
+    "slug": "prespa-wellness",
+    "version": "1.0.4",
+    "author_name": "Atanas Yonkov",
+    "author_url": "https://profiles.wordpress.org/nravota12/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.1",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/prespa-wellness/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/prespa-wellness/screenshot.png?ver=1.0.4",
+    "homepage": "https://wordpress.org/themes/prespa-wellness/",
+    "template": "prespa",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/prespa-wellness.1.0.4.zip"
+  },
+  {
     "name": "Press News",
     "slug": "press-news",
     "version": "1.0.0",
@@ -190820,7 +190874,7 @@
   {
     "name": "QuickBiz",
     "slug": "quickbiz",
-    "version": "1.0.73",
+    "version": "1.0.74",
     "author_name": "Themes Daddy",
     "author_url": "https://profiles.wordpress.org/themesdaddy/",
     "rating": 100,
@@ -190828,12 +190882,12 @@
     "requires_wordpress": "",
     "requires_php": "5.4",
     "preview_url": "https://wp-themes.com/quickbiz/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/quickbiz/screenshot.png?ver=1.0.73",
+    "screenshot_url": "//ts.w.org/wp-content/themes/quickbiz/screenshot.png?ver=1.0.74",
     "homepage": "https://wordpress.org/themes/quickbiz/",
     "template": "flixita",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/quickbiz.1.0.73.zip"
+    "download_link": "https://downloads.wordpress.org/theme/quickbiz.1.0.74.zip"
   },
   {
     "name": "QuickChic",
@@ -190874,7 +190928,7 @@
   {
     "name": "Quickify",
     "slug": "quickify",
-    "version": "1.0.61",
+    "version": "1.0.62",
     "author_name": "Themes Daddy",
     "author_url": "https://profiles.wordpress.org/themesdaddy/",
     "rating": 0,
@@ -190882,12 +190936,12 @@
     "requires_wordpress": "",
     "requires_php": "5.4",
     "preview_url": "https://wp-themes.com/quickify/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/quickify/screenshot.png?ver=1.0.61",
+    "screenshot_url": "//ts.w.org/wp-content/themes/quickify/screenshot.png?ver=1.0.62",
     "homepage": "https://wordpress.org/themes/quickify/",
     "template": "flixita",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/quickify.1.0.61.zip"
+    "download_link": "https://downloads.wordpress.org/theme/quickify.1.0.62.zip"
   },
   {
     "name": "QuickPic",
