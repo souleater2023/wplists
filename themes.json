@@ -1424,7 +1424,7 @@
   {
     "name": "Academic Tutor",
     "slug": "academic-tutor",
-    "version": "0.0.9",
+    "version": "1.0.0",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -1432,12 +1432,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/academic-tutor/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/academic-tutor/screenshot.png?ver=0.0.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/academic-tutor/screenshot.png?ver=1.0.0",
     "homepage": "https://wordpress.org/themes/academic-tutor/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/academic-tutor.0.0.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/academic-tutor.1.0.0.zip"
   },
   {
     "name": "Academica",
@@ -14294,7 +14294,7 @@
   {
     "name": "Author Book Publisher",
     "slug": "author-book-publisher",
-    "version": "0.6",
+    "version": "0.6.1",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -14302,12 +14302,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/author-book-publisher/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/author-book-publisher/screenshot.png?ver=0.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/author-book-publisher/screenshot.png?ver=0.6.1",
     "homepage": "https://wordpress.org/themes/author-book-publisher/",
     "template": "digital-books",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/author-book-publisher.0.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/author-book-publisher.0.6.1.zip"
   },
   {
     "name": "Author Book Writer",
@@ -19064,7 +19064,7 @@
   {
     "name": "BBH Lite",
     "slug": "bbh-lite",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author_name": "Md Jahid Shah",
     "author_url": "https://profiles.wordpress.org/jahidshah/",
     "rating": 0,
@@ -19072,12 +19072,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/bbh-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/bbh-lite/screenshot.jpg?ver=1.0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/bbh-lite/screenshot.jpg?ver=1.0.4",
     "homepage": "https://wordpress.org/themes/bbh-lite/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/bbh-lite.1.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/bbh-lite.1.0.4.zip"
   },
   {
     "name": "BBird Under",
@@ -65252,20 +65252,20 @@
   {
     "name": "Dark Pastel",
     "slug": "dark-pastel",
-    "version": "0.2",
+    "version": "0.3",
     "author_name": "Andrew Serong",
     "author_url": "https://profiles.wordpress.org/andrewserong/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "6.1",
-    "requires_php": "5.6",
+    "requires_wordpress": "6.9",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/dark-pastel/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/dark-pastel/screenshot.png?ver=0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/dark-pastel/screenshot.png?ver=0.3",
     "homepage": "https://wordpress.org/themes/dark-pastel/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/dark-pastel.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/dark-pastel.0.3.zip"
   },
   {
     "name": "Dark Photography",
@@ -66440,7 +66440,7 @@
   {
     "name": "Decor Shop",
     "slug": "decor-shop",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -66448,12 +66448,12 @@
     "requires_wordpress": "6.2",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/decor-shop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/decor-shop/screenshot.png?ver=0.0.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/decor-shop/screenshot.png?ver=0.0.7",
     "homepage": "https://wordpress.org/themes/decor-shop/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/decor-shop.0.0.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/decor-shop.0.0.7.zip"
   },
   {
     "name": "Decorative",
@@ -73730,7 +73730,7 @@
   {
     "name": "Eauto Repair",
     "slug": "eauto-repair",
-    "version": "0.1.7",
+    "version": "0.1.8",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -73738,12 +73738,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/eauto-repair/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/eauto-repair/screenshot.png?ver=0.1.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/eauto-repair/screenshot.png?ver=0.1.8",
     "homepage": "https://wordpress.org/themes/eauto-repair/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/eauto-repair.0.1.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/eauto-repair.0.1.8.zip"
   },
   {
     "name": "EazyShop",
@@ -77996,7 +77996,7 @@
   {
     "name": "Electronics Equipment",
     "slug": "electronics-equipment",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -78004,12 +78004,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/electronics-equipment/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/electronics-equipment/screenshot.png?ver=0.0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/electronics-equipment/screenshot.png?ver=0.0.4",
     "homepage": "https://wordpress.org/themes/electronics-equipment/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/electronics-equipment.0.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/electronics-equipment.0.0.4.zip"
   },
   {
     "name": "Electronics Gadgets",
@@ -83288,7 +83288,7 @@
   {
     "name": "Event Dining Catering",
     "slug": "event-dining-catering",
-    "version": "0.1.8",
+    "version": "0.1.9",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -83296,12 +83296,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/event-dining-catering/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/event-dining-catering/screenshot.png?ver=0.1.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/event-dining-catering/screenshot.png?ver=0.1.9",
     "homepage": "https://wordpress.org/themes/event-dining-catering/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/event-dining-catering.0.1.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/event-dining-catering.0.1.9.zip"
   },
   {
     "name": "Event Elementor",
@@ -83991,7 +83991,7 @@
     "name": "exbico",
     "slug": "exbico",
     "version": "1.1.4",
-    "author_name": "PencilWP - Themes",
+    "author_name": "SiteBland",
     "author_url": "https://profiles.wordpress.org/sitebland/",
     "rating": 0,
     "num_ratings": 0,
@@ -94664,7 +94664,7 @@
   {
     "name": "Food Restro Zone",
     "slug": "food-restro-zone",
-    "version": "0.1.9",
+    "version": "0.2.0",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -94672,12 +94672,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/food-restro-zone/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/food-restro-zone/screenshot.png?ver=0.1.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/food-restro-zone/screenshot.png?ver=0.2.0",
     "homepage": "https://wordpress.org/themes/food-restro-zone/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/food-restro-zone.0.1.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/food-restro-zone.0.2.0.zip"
   },
   {
     "name": "Food Travel Blog",
@@ -107570,7 +107570,7 @@
   {
     "name": "Grocery Marketplace",
     "slug": "grocery-marketplace",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -107578,12 +107578,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/grocery-marketplace/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/grocery-marketplace/screenshot.png?ver=0.0.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/grocery-marketplace/screenshot.png?ver=0.0.9",
     "homepage": "https://wordpress.org/themes/grocery-marketplace/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/grocery-marketplace.0.0.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/grocery-marketplace.0.0.9.zip"
   },
   {
     "name": "Grocery Shop",
@@ -116858,7 +116858,7 @@
   {
     "name": "House Roofing",
     "slug": "house-roofing",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -116866,12 +116866,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/house-roofing/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/house-roofing/screenshot.png?ver=0.0.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/house-roofing/screenshot.png?ver=0.0.5",
     "homepage": "https://wordpress.org/themes/house-roofing/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/house-roofing.0.0.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/house-roofing.0.0.5.zip"
   },
   {
     "name": "House State",
@@ -138981,7 +138981,7 @@
     "name": "Lyra AI",
     "slug": "lyra-ai",
     "version": "1.2.1",
-    "author_name": "nicoquindt",
+    "author_name": "NICOLAS A QUINDT",
     "author_url": "https://profiles.wordpress.org/nicoquindt/",
     "rating": 0,
     "num_ratings": 0,
@@ -171056,7 +171056,7 @@
   {
     "name": "OnePress",
     "slug": "onepress",
-    "version": "2.3.17",
+    "version": "2.3.18",
     "author_name": "FameThemes",
     "author_url": "https://profiles.wordpress.org/famethemes/",
     "rating": 92,
@@ -171064,12 +171064,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/onepress/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/onepress/screenshot.png?ver=2.3.17",
+    "screenshot_url": "//ts.w.org/wp-content/themes/onepress/screenshot.png?ver=2.3.18",
     "homepage": "https://wordpress.org/themes/onepress/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/onepress.2.3.17.zip"
+    "download_link": "https://downloads.wordpress.org/theme/onepress.2.3.18.zip"
   },
   {
     "name": "Oner",
@@ -175539,7 +175539,7 @@
     "name": "Paira",
     "slug": "paira",
     "version": "1.0.9",
-    "author_name": "PencilWP - Themes",
+    "author_name": "SiteBland",
     "author_url": "https://profiles.wordpress.org/sitebland/",
     "rating": 0,
     "num_ratings": 0,
@@ -183296,7 +183296,7 @@
   {
     "name": "Plumbing Mechanic",
     "slug": "plumbing-mechanic",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -183304,12 +183304,12 @@
     "requires_wordpress": "6.2",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/plumbing-mechanic/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/plumbing-mechanic/screenshot.png?ver=0.0.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/plumbing-mechanic/screenshot.png?ver=0.0.5",
     "homepage": "https://wordpress.org/themes/plumbing-mechanic/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/plumbing-mechanic.0.0.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/plumbing-mechanic.0.0.5.zip"
   },
   {
     "name": "Plumbing Services",
@@ -186158,7 +186158,7 @@
   {
     "name": "Preschool Classes",
     "slug": "preschool-classes",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -186166,12 +186166,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/preschool-classes/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/preschool-classes/screenshot.png?ver=0.1.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/preschool-classes/screenshot.png?ver=0.1.4",
     "homepage": "https://wordpress.org/themes/preschool-classes/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/preschool-classes.0.1.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/preschool-classes.0.1.4.zip"
   },
   {
     "name": "Preschool Nursery",
@@ -190173,7 +190173,7 @@
     "name": "PW Agency",
     "slug": "pw-agency",
     "version": "1.2",
-    "author_name": "PencilWP - Themes",
+    "author_name": "SiteBland",
     "author_url": "https://profiles.wordpress.org/sitebland/",
     "rating": 0,
     "num_ratings": 0,
@@ -190191,7 +190191,7 @@
     "name": "PW Business",
     "slug": "pw-business",
     "version": "1.2",
-    "author_name": "PencilWP - Themes",
+    "author_name": "SiteBland",
     "author_url": "https://profiles.wordpress.org/sitebland/",
     "rating": 0,
     "num_ratings": 0,
@@ -199425,7 +199425,7 @@
     "name": "roland",
     "slug": "roland",
     "version": "1.1.2",
-    "author_name": "PencilWP - Themes",
+    "author_name": "SiteBland",
     "author_url": "https://profiles.wordpress.org/sitebland/",
     "rating": 0,
     "num_ratings": 0,
@@ -201098,7 +201098,7 @@
   {
     "name": "SAAS Software",
     "slug": "saas-software",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -201106,12 +201106,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/saas-software/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/saas-software/screenshot.png?ver=0.1.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/saas-software/screenshot.png?ver=0.1.4",
     "homepage": "https://wordpress.org/themes/saas-software/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/saas-software.0.1.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/saas-software.0.1.4.zip"
   },
   {
     "name": "SAAS Software Technology",
@@ -233930,7 +233930,7 @@
   {
     "name": "The Perfumist",
     "slug": "the-perfumist",
-    "version": "0.0.9",
+    "version": "1.0.0",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -233938,12 +233938,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/the-perfumist/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/the-perfumist/screenshot.png?ver=0.0.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/the-perfumist/screenshot.png?ver=1.0.0",
     "homepage": "https://wordpress.org/themes/the-perfumist/",
     "template": "the-perfume-shop",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/the-perfumist.0.0.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/the-perfumist.1.0.0.zip"
   },
   {
     "name": "The Pet Clinic",
@@ -235622,7 +235622,7 @@
   {
     "name": "Timber Work",
     "slug": "timber-work",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -235630,12 +235630,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/timber-work/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/timber-work/screenshot.png?ver=0.0.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/timber-work/screenshot.png?ver=0.0.7",
     "homepage": "https://wordpress.org/themes/timber-work/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/timber-work.0.0.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/timber-work.0.0.7.zip"
   },
   {
     "name": "TimeBlog",
@@ -252452,7 +252452,7 @@
   {
     "name": "Watch Store Shop",
     "slug": "watch-store-shop",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -252460,12 +252460,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/watch-store-shop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/watch-store-shop/screenshot.png?ver=0.0.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/watch-store-shop/screenshot.png?ver=0.0.8",
     "homepage": "https://wordpress.org/themes/watch-store-shop/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/watch-store-shop.0.0.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/watch-store-shop.0.0.8.zip"
   },
   {
     "name": "Water Delivery",
@@ -264261,7 +264261,7 @@
     "name": "Zfolio",
     "slug": "zfolio",
     "version": "2.1",
-    "author_name": "PencilWP - Themes",
+    "author_name": "SiteBland",
     "author_url": "https://profiles.wordpress.org/sitebland/",
     "rating": 0,
     "num_ratings": 0,
