@@ -34452,6 +34452,24 @@
     "download_link": "https://downloads.wordpress.org/theme/bosa-app-hub.1.0.1.zip"
   },
   {
+    "name": "Bosa Bakery",
+    "slug": "bosa-bakery",
+    "version": "1.0.1",
+    "author_name": "Bosa Themes",
+    "author_url": "https://profiles.wordpress.org/bosathemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/bosa-bakery/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/bosa-bakery/screenshot.png?ver=1.0.1",
+    "homepage": "https://wordpress.org/themes/bosa-bakery/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/bosa-bakery.1.0.1.zip"
+  },
+  {
     "name": "Bosa Beauty Care",
     "slug": "bosa-beauty-care",
     "version": "1.0.1",
@@ -113406,7 +113424,7 @@
     "author_name": "Elementor",
     "author_url": "https://profiles.wordpress.org/elemntor/",
     "rating": 84,
-    "num_ratings": 125,
+    "num_ratings": 126,
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/hello-elementor/",
@@ -189936,6 +189954,24 @@
     "download_link": "https://downloads.wordpress.org/theme/pumori.1.0.1.zip"
   },
   {
+    "name": "Punk",
+    "slug": "punk",
+    "version": "1.0.7",
+    "author_name": "Automattic",
+    "author_url": "https://profiles.wordpress.org/automattic/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.8",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/punk/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/punk/screenshot.png?ver=1.0.7",
+    "homepage": "https://wordpress.org/themes/punk/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/punk.1.0.7.zip"
+  },
+  {
     "name": "Punte",
     "slug": "punte",
     "version": "1.1.3",
@@ -194524,6 +194560,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/reckon.0.4.zip"
+  },
+  {
+    "name": "Reclaim the Web",
+    "slug": "reclaim-the-web",
+    "version": "0.1.1",
+    "author_name": "Ryan C.",
+    "author_url": "https://profiles.wordpress.org/ryanc413/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.6",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/reclaim-the-web/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/reclaim-the-web/screenshot.png?ver=0.1.1",
+    "homepage": "https://wordpress.org/themes/reclaim-the-web/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/reclaim-the-web.0.1.1.zip"
   },
   {
     "name": "Recluse",
@@ -223002,6 +223056,24 @@
     "download_link": "https://downloads.wordpress.org/theme/st-laundry-services.1.4.zip"
   },
   {
+    "name": "ST Logistics",
+    "slug": "st-logistics",
+    "version": "1.1",
+    "author_name": "Kristyna Bennett",
+    "author_url": "https://profiles.wordpress.org/kristynabennett/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "4.7",
+    "requires_php": "5.2",
+    "preview_url": "https://wp-themes.com/st-logistics/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/st-logistics/screenshot.png?ver=1.1",
+    "homepage": "https://wordpress.org/themes/st-logistics/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/st-logistics.1.1.zip"
+  },
+  {
     "name": "ST Notary",
     "slug": "st-notary",
     "version": "1.4",
@@ -238068,6 +238140,24 @@
     "download_link": "https://downloads.wordpress.org/theme/transport-carrier.0.0.3.zip"
   },
   {
+    "name": "Transport Company",
+    "slug": "transport-company",
+    "version": "1.0",
+    "author_name": "astertheme",
+    "author_url": "https://profiles.wordpress.org/astertheme/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/transport-company/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/transport-company/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/transport-company/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/transport-company.1.0.zip"
+  },
+  {
     "name": "Transport Freight",
     "slug": "transport-freight",
     "version": "1.0.1",
@@ -246616,6 +246706,24 @@
     "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/vehicle-detailing.1.1.8.zip"
+  },
+  {
+    "name": "Vehicle Rental",
+    "slug": "vehicle-rental",
+    "version": "1.0.0",
+    "author_name": "Creta Themes",
+    "author_url": "https://profiles.wordpress.org/cretathemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.9",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/vehicle-rental/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vehicle-rental/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/vehicle-rental/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/vehicle-rental.1.0.0.zip"
   },
   {
     "name": "Veloce",
