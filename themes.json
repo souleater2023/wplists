@@ -22122,24 +22122,6 @@
     "download_link": "https://downloads.wordpress.org/theme/bike-workshop.2.4.1.zip"
   },
   {
-    "name": "Billie",
-    "slug": "billie",
-    "version": "1.1.4",
-    "author_name": "Carolina Nymark",
-    "author_url": "https://profiles.wordpress.org/poena/",
-    "rating": 100,
-    "num_ratings": 1,
-    "requires_wordpress": "5.0",
-    "requires_php": "5.6",
-    "preview_url": "https://wp-themes.com/billie/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/billie/screenshot.png?ver=1.1.4",
-    "homepage": "https://wordpress.org/themes/billie/",
-    "template": "",
-    "is_commercial": false,
-    "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/billie.1.1.4.zip"
-  },
-  {
     "name": "Billions",
     "slug": "billions",
     "version": "1.1.4",
@@ -32657,8 +32639,8 @@
     "version": "3.9.4",
     "author_name": "Nilambar Sharma",
     "author_url": "https://profiles.wordpress.org/nilambar/",
-    "rating": 100,
-    "num_ratings": 21,
+    "rating": 98,
+    "num_ratings": 22,
     "requires_wordpress": "4.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/blue-planet/",
@@ -79830,6 +79812,24 @@
     "download_link": "https://downloads.wordpress.org/theme/elite-soccer-club.1.7.4.zip"
   },
   {
+    "name": "Elite Storefront",
+    "slug": "elite-storefront",
+    "version": "1.0.3",
+    "author_name": "Gradient Themes",
+    "author_url": "https://profiles.wordpress.org/gradientthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/elite-storefront/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/elite-storefront/screenshot.gif?ver=1.0.3",
+    "homepage": "https://wordpress.org/themes/elite-storefront/",
+    "template": "best-shop",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/elite-storefront.1.0.3.zip"
+  },
+  {
     "name": "Eliteflow",
     "slug": "eliteflow",
     "version": "1.2",
@@ -113024,20 +113024,20 @@
   {
     "name": "Havenlytics Realty",
     "slug": "havenlytics-realty",
-    "version": "1.15.0",
+    "version": "1.15.5",
     "author_name": "Havenlytics",
     "author_url": "https://profiles.wordpress.org/havenlytics/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "",
+    "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/havenlytics-realty/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/havenlytics-realty/screenshot.png?ver=1.15.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/havenlytics-realty/screenshot.png?ver=1.15.5",
     "homepage": "https://wordpress.org/themes/havenlytics-realty/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/havenlytics-realty.1.15.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/havenlytics-realty.1.15.5.zip"
   },
   {
     "name": "Havi",
@@ -132226,24 +132226,6 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/kuza-slider.1.0.1.zip"
-  },
-  {
-    "name": "Kvarken",
-    "slug": "kvarken",
-    "version": "3.0",
-    "author_name": "Carolina Nymark",
-    "author_url": "https://profiles.wordpress.org/poena/",
-    "rating": 100,
-    "num_ratings": 3,
-    "requires_wordpress": "5.0",
-    "requires_php": "5.2",
-    "preview_url": "https://wp-themes.com/kvarken/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/kvarken/screenshot.png?ver=3.0",
-    "homepage": "https://wordpress.org/themes/kvarken/",
-    "template": "",
-    "is_commercial": false,
-    "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/kvarken.3.0.zip"
   },
   {
     "name": "KwikLoad",
@@ -159428,7 +159410,7 @@
   {
     "name": "Navid",
     "slug": "navid",
-    "version": "1.1.0",
+    "version": "1.1.4",
     "author_name": "WPMatcha",
     "author_url": "https://profiles.wordpress.org/wpmatcha/",
     "rating": 0,
@@ -159436,12 +159418,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/navid/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/navid/screenshot.png?ver=1.1.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/navid/screenshot.png?ver=1.1.4",
     "homepage": "https://wordpress.org/themes/navid/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/navid.1.1.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/navid.1.1.4.zip"
   },
   {
     "name": "Naya Lite",
@@ -178598,7 +178580,7 @@
   {
     "name": "PawsCentral",
     "slug": "pawscentral",
-    "version": "2.4.1",
+    "version": "2.4.2",
     "author_name": "Catch Themes",
     "author_url": "https://profiles.wordpress.org/catchthemes/",
     "rating": 0,
@@ -178606,12 +178588,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/pawscentral/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/pawscentral/screenshot.png?ver=2.4.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/pawscentral/screenshot.png?ver=2.4.2",
     "homepage": "https://wordpress.org/themes/pawscentral/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/pawscentral.2.4.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/pawscentral.2.4.2.zip"
   },
   {
     "name": "Paxxer",
