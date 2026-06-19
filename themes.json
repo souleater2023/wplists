@@ -45792,6 +45792,24 @@
     "download_link": "https://downloads.wordpress.org/theme/castpress.1.0.4.zip"
   },
   {
+    "name": "Casual Fashion Store",
+    "slug": "casual-fashion-store",
+    "version": "1.0.1",
+    "author_name": "thethemenook",
+    "author_url": "https://profiles.wordpress.org/thethemenook/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.9",
+    "requires_php": "5.7",
+    "preview_url": "https://wp-themes.com/casual-fashion-store/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/casual-fashion-store/screenshot.png?ver=1.0.1",
+    "homepage": "https://wordpress.org/themes/casual-fashion-store/",
+    "template": "fashion-nook",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/casual-fashion-store.1.0.1.zip"
+  },
+  {
     "name": "Casually",
     "slug": "casually",
     "version": "1.0.10",
@@ -64512,6 +64530,24 @@
     "download_link": "https://downloads.wordpress.org/theme/cycnus.1.1.1.zip"
   },
   {
+    "name": "D3 Lite",
+    "slug": "d3-lite",
+    "version": "1.0.1",
+    "author_name": "vinit sharma",
+    "author_url": "https://profiles.wordpress.org/vinit-sharma/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "7.0",
+    "preview_url": "https://wp-themes.com/d3-lite/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/d3-lite/screenshot.png?ver=1.0.1",
+    "homepage": "https://wordpress.org/themes/d3-lite/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/d3-lite.1.0.1.zip"
+  },
+  {
     "name": "D5 Business Line",
     "slug": "d5-business-line",
     "version": "4.3",
@@ -77830,6 +77866,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/elara.1.7.zip"
+  },
+  {
+    "name": "Elara Nails And Beauty",
+    "slug": "elara-nails-and-beauty",
+    "version": "1.1",
+    "author_name": "SuperbThemes",
+    "author_url": "https://profiles.wordpress.org/superbthemescom/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.0",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/elara-nails-and-beauty/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/elara-nails-and-beauty/screenshot.png?ver=1.1",
+    "homepage": "https://wordpress.org/themes/elara-nails-and-beauty/",
+    "template": "luxe-hair-salon",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/elara-nails-and-beauty.1.1.zip"
   },
   {
     "name": "Elasta",
@@ -171126,6 +171180,24 @@
     "download_link": "https://downloads.wordpress.org/theme/omnipress-magazine.1.1.1.zip"
   },
   {
+    "name": "Omphalos",
+    "slug": "omphalos",
+    "version": "0.1.3",
+    "author_name": "김지운",
+    "author_url": "https://profiles.wordpress.org/kimjiwoon/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.7",
+    "requires_php": "8.1",
+    "preview_url": "https://wp-themes.com/omphalos/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/omphalos/screenshot.jpg?ver=0.1.3",
+    "homepage": "https://wordpress.org/themes/omphalos/",
+    "template": "twentytwentyfive",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/omphalos.0.1.3.zip"
+  },
+  {
     "name": "Omtria",
     "slug": "omtria",
     "version": "2.1.0",
@@ -213104,20 +213176,20 @@
   {
     "name": "Simone",
     "slug": "simone",
-    "version": "2.1.5",
+    "version": "2.2",
     "author_name": "Carolina Nymark",
     "author_url": "https://profiles.wordpress.org/poena/",
     "rating": 98,
     "num_ratings": 26,
-    "requires_wordpress": "3.8",
-    "requires_php": "5.0",
+    "requires_wordpress": "7.0",
+    "requires_php": "8.3",
     "preview_url": "https://wp-themes.com/simone/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/simone/screenshot.png?ver=2.1.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/simone/screenshot.png?ver=2.2",
     "homepage": "https://wordpress.org/themes/simone/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/simone.2.1.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/simone.2.2.zip"
   },
   {
     "name": "SimpCalar",
@@ -239618,7 +239690,7 @@
   {
     "name": "Travel Buzz",
     "slug": "travel-buzz",
-    "version": "2.2.1",
+    "version": "2.2.2",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -239626,12 +239698,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/travel-buzz/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/travel-buzz/screenshot.png?ver=2.2.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/travel-buzz/screenshot.png?ver=2.2.2",
     "homepage": "https://wordpress.org/themes/travel-buzz/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/travel-buzz.2.2.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/travel-buzz.2.2.2.zip"
   },
   {
     "name": "Travel Cart",
@@ -239780,7 +239852,7 @@
   {
     "name": "Travel Escape",
     "slug": "travel-escape",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -239788,12 +239860,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/travel-escape/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/travel-escape/screenshot.png?ver=1.2.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/travel-escape/screenshot.png?ver=1.2.3",
     "homepage": "https://wordpress.org/themes/travel-escape/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/travel-escape.1.2.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/travel-escape.1.2.3.zip"
   },
   {
     "name": "Travel Explorer",
@@ -240032,7 +240104,7 @@
   {
     "name": "Travel Joy",
     "slug": "travel-joy",
-    "version": "1.6.2",
+    "version": "1.6.3",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 60,
@@ -240040,12 +240112,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/travel-joy/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/travel-joy/screenshot.png?ver=1.6.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/travel-joy/screenshot.png?ver=1.6.3",
     "homepage": "https://wordpress.org/themes/travel-joy/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/travel-joy.1.6.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/travel-joy.1.6.3.zip"
   },
   {
     "name": "Travel Knock",
@@ -240122,7 +240194,7 @@
   {
     "name": "Travel Log",
     "slug": "travel-log",
-    "version": "2.0",
+    "version": "2.1",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 70,
@@ -240130,12 +240202,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/travel-log/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/travel-log/screenshot.png?ver=2.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/travel-log/screenshot.png?ver=2.1",
     "homepage": "https://wordpress.org/themes/travel-log/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/travel-log.2.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/travel-log.2.1.zip"
   },
   {
     "name": "Travel Magazine",
@@ -241220,7 +241292,7 @@
   {
     "name": "Travelvania",
     "slug": "travelvania",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -241228,12 +241300,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/travelvania/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/travelvania/screenshot.png?ver=1.0.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/travelvania/screenshot.png?ver=1.0.6",
     "homepage": "https://wordpress.org/themes/travelvania/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/travelvania.1.0.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/travelvania.1.0.6.zip"
   },
   {
     "name": "TravelVerse",
@@ -256196,7 +256268,7 @@
   {
     "name": "WENS Haelo",
     "slug": "wens-haelo",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -256204,12 +256276,12 @@
     "requires_wordpress": "6.4",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-haelo/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-haelo/screenshot.png?ver=1.0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-haelo/screenshot.png?ver=1.0.3",
     "homepage": "https://wordpress.org/themes/wens-haelo/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-haelo.1.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-haelo.1.0.3.zip"
   },
   {
     "name": "WENS Healthy Plates",
@@ -260570,7 +260642,7 @@
   {
     "name": "WP Travel FSE",
     "slug": "wp-travel-fse",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -260578,12 +260650,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wp-travel-fse/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wp-travel-fse/screenshot.png?ver=1.1.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wp-travel-fse/screenshot.png?ver=1.1.2",
     "homepage": "https://wordpress.org/themes/wp-travel-fse/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wp-travel-fse.1.1.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wp-travel-fse.1.1.2.zip"
   },
   {
     "name": "WP Travel Magazine",
