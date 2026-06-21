@@ -9813,7 +9813,7 @@
     "name": "Applicator",
     "slug": "applicator",
     "version": "2.2.7.32",
-    "author_name": "Brian Dys Sahagun",
+    "author_name": "Brian Dys",
     "author_url": "https://profiles.wordpress.org/briansahagun/",
     "rating": 0,
     "num_ratings": 0,
@@ -77996,7 +77996,7 @@
   {
     "name": "Elayne",
     "slug": "elayne",
-    "version": "4.6.1",
+    "version": "4.6.2",
     "author_name": "Rhand",
     "author_url": "https://profiles.wordpress.org/rhand/",
     "rating": 0,
@@ -78004,12 +78004,12 @@
     "requires_wordpress": "6.6",
     "requires_php": "8.0",
     "preview_url": "https://wp-themes.com/elayne/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/elayne/screenshot.png?ver=4.6.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/elayne/screenshot.png?ver=4.6.2",
     "homepage": "https://wordpress.org/themes/elayne/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/elayne.4.6.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/elayne.4.6.2.zip"
   },
   {
     "name": "Elazi Lite",
@@ -116859,7 +116859,7 @@
     "name": "HopScotch",
     "slug": "hopscotch",
     "version": "2.1.7",
-    "author_name": "Brian Dys Sahagun",
+    "author_name": "Brian Dys",
     "author_url": "https://profiles.wordpress.org/briansahagun/",
     "rating": 100,
     "num_ratings": 1,
@@ -168735,7 +168735,7 @@
     "name": "NTT",
     "slug": "ntt",
     "version": "0.9.9.9.14",
-    "author_name": "Brian Dys Sahagun",
+    "author_name": "Brian Dys",
     "author_url": "https://profiles.wordpress.org/briansahagun/",
     "rating": 0,
     "num_ratings": 0,
@@ -255998,7 +255998,7 @@
   {
     "name": "WENS Agrovibe",
     "slug": "wens-agrovibe",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 20,
@@ -256006,12 +256006,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-agrovibe/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-agrovibe/screenshot.png?ver=1.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-agrovibe/screenshot.png?ver=1.0.2",
     "homepage": "https://wordpress.org/themes/wens-agrovibe/",
     "template": "wens-haelo",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-agrovibe.1.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-agrovibe.1.0.2.zip"
   },
   {
     "name": "WENS Architecture",
@@ -256268,7 +256268,7 @@
   {
     "name": "WENS Food Palette",
     "slug": "wens-food-palette",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -256276,12 +256276,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-food-palette/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-food-palette/screenshot.png?ver=1.0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-food-palette/screenshot.png?ver=1.0.3",
     "homepage": "https://wordpress.org/themes/wens-food-palette/",
     "template": "wens-haelo",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-food-palette.1.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-food-palette.1.0.3.zip"
   },
   {
     "name": "WENS Furnitecture",
@@ -256430,7 +256430,7 @@
   {
     "name": "WENS Styllusion",
     "slug": "wens-styllusion",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -256438,12 +256438,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-styllusion/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-styllusion/screenshot.png?ver=1.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-styllusion/screenshot.png?ver=1.0.2",
     "homepage": "https://wordpress.org/themes/wens-styllusion/",
     "template": "wens-haelo",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-styllusion.1.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-styllusion.1.0.2.zip"
   },
   {
     "name": "WENS Thought",
@@ -256520,7 +256520,7 @@
   {
     "name": "WENS Travel Expanse",
     "slug": "wens-travel-expanse",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -256528,12 +256528,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-travel-expanse/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-travel-expanse/screenshot.png?ver=1.0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-travel-expanse/screenshot.png?ver=1.0.3",
     "homepage": "https://wordpress.org/themes/wens-travel-expanse/",
     "template": "wens-haelo",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-travel-expanse.1.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-travel-expanse.1.0.3.zip"
   },
   {
     "name": "WENS Travel Joy",
