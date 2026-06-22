@@ -26340,7 +26340,7 @@
     "author_name": "Creative Themes",
     "author_url": "https://profiles.wordpress.org/creativethemeshq/",
     "rating": 100,
-    "num_ratings": 868,
+    "num_ratings": 869,
     "requires_wordpress": "6.7",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/blocksy/",
@@ -77388,7 +77388,7 @@
     "author_name": "Dumitru Brinzan",
     "author_url": "https://profiles.wordpress.org/ilovewpcom/",
     "rating": 96,
-    "num_ratings": 12,
+    "num_ratings": 13,
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/edupress/",
@@ -113204,7 +113204,7 @@
   {
     "name": "Havenlytics Realty",
     "slug": "havenlytics-realty",
-    "version": "1.20.0",
+    "version": "1.21.0",
     "author_name": "Havenlytics",
     "author_url": "https://profiles.wordpress.org/havenlytics/",
     "rating": 100,
@@ -113212,12 +113212,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/havenlytics-realty/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/havenlytics-realty/screenshot.png?ver=1.20.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/havenlytics-realty/screenshot.png?ver=1.21.0",
     "homepage": "https://wordpress.org/themes/havenlytics-realty/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/havenlytics-realty.1.20.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/havenlytics-realty.1.21.0.zip"
   },
   {
     "name": "Havi",
@@ -114284,7 +114284,7 @@
   {
     "name": "Hello Plus",
     "slug": "hello-plus",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "author_name": "Aminul Islam",
     "author_url": "https://profiles.wordpress.org/theaminuldev/",
     "rating": 0,
@@ -114292,12 +114292,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/hello-plus/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/hello-plus/screenshot.png?ver=1.4.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/hello-plus/screenshot.png?ver=1.5.0",
     "homepage": "https://wordpress.org/themes/hello-plus/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/hello-plus.1.4.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/hello-plus.1.5.0.zip"
   },
   {
     "name": "Hello Shoppable",
@@ -116638,6 +116638,24 @@
     "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/homelancer.1.0.5.zip"
+  },
+  {
+    "name": "Homerix",
+    "slug": "homerix",
+    "version": "1.0.6",
+    "author_name": "FARAZFRANK",
+    "author_url": "https://profiles.wordpress.org/farazfrank/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/homerix/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/homerix/screenshot.jpg?ver=1.0.6",
+    "homepage": "https://wordpress.org/themes/homerix/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/homerix.1.0.6.zip"
   },
   {
     "name": "Homestay",
@@ -145350,6 +145368,24 @@
     "download_link": "https://downloads.wordpress.org/theme/matyou.1.0.3.zip"
   },
   {
+    "name": "Mavix Accounting",
+    "slug": "mavix-accounting",
+    "version": "1.0",
+    "author_name": "creativthemes",
+    "author_url": "https://profiles.wordpress.org/creativthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.1",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/mavix-accounting/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/mavix-accounting/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/mavix-accounting/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/mavix-accounting.1.0.zip"
+  },
+  {
     "name": "Mavix Agency",
     "slug": "mavix-agency",
     "version": "1.3",
@@ -150856,6 +150892,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/minamaze-store.1.0.4.zip"
+  },
+  {
+    "name": "Minamaze weBlog",
+    "slug": "minamaze-weblog",
+    "version": "1.0.0",
+    "author_name": "ThinkUpThemes",
+    "author_url": "https://profiles.wordpress.org/thinkupthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "7.0",
+    "preview_url": "https://wp-themes.com/minamaze-weblog/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/minamaze-weblog/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/minamaze-weblog/",
+    "template": "minamaze",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/minamaze-weblog.1.0.0.zip"
   },
   {
     "name": "Minaz",
@@ -237872,7 +237926,7 @@
   {
     "name": "Toocheke",
     "slug": "toocheke",
-    "version": "1.2.13",
+    "version": "1.2.14",
     "author_name": "toocheke",
     "author_url": "https://profiles.wordpress.org/toocheke/",
     "rating": 100,
@@ -237880,12 +237934,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/toocheke/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/toocheke/screenshot.png?ver=1.2.13",
+    "screenshot_url": "//ts.w.org/wp-content/themes/toocheke/screenshot.png?ver=1.2.14",
     "homepage": "https://wordpress.org/themes/toocheke/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/toocheke.1.2.13.zip"
+    "download_link": "https://downloads.wordpress.org/theme/toocheke.1.2.14.zip"
   },
   {
     "name": "ToomMorel Lite",
@@ -248812,6 +248866,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/vexis.1.0.5.zip"
+  },
+  {
+    "name": "Vexora",
+    "slug": "vexora",
+    "version": "1.3.0",
+    "author_name": "Effe Themes",
+    "author_url": "https://profiles.wordpress.org/effethemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.6",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/vexora/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vexora/screenshot.png?ver=1.3.0",
+    "homepage": "https://wordpress.org/themes/vexora/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/vexora.1.3.0.zip"
   },
   {
     "name": "VG Responsive Simple",
