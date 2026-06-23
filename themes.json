@@ -3528,6 +3528,24 @@
     "download_link": "https://downloads.wordpress.org/theme/advertica-lite.1.0.11.zip"
   },
   {
+    "name": "Advertising Services",
+    "slug": "advertising-services",
+    "version": "0.0.1",
+    "author_name": "themagnifico52",
+    "author_url": "https://profiles.wordpress.org/themagnifico52/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.2",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/advertising-services/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/advertising-services/screenshot.png?ver=0.0.1",
+    "homepage": "https://wordpress.org/themes/advertising-services/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/advertising-services.0.0.1.zip"
+  },
+  {
     "name": "Advertising Techup",
     "slug": "advertising-techup",
     "version": "1.1",
@@ -60624,6 +60642,24 @@
     "download_link": "https://downloads.wordpress.org/theme/courier-services.0.5.1.zip"
   },
   {
+    "name": "Courier Shipping",
+    "slug": "courier-shipping",
+    "version": "1.0",
+    "author_name": "Apex Themes",
+    "author_url": "https://profiles.wordpress.org/apextheme/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.5",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/courier-shipping/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/courier-shipping/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/courier-shipping/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/courier-shipping.1.0.zip"
+  },
+  {
     "name": "Course",
     "slug": "course",
     "version": "1.3.9",
@@ -62206,6 +62242,24 @@
     "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/creative-design-agency.1.1.6.zip"
+  },
+  {
+    "name": "Creative Designer",
+    "slug": "creative-designer",
+    "version": "1.0.0",
+    "author_name": "WP Radiant",
+    "author_url": "https://profiles.wordpress.org/wpradiant/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.0",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/creative-designer/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/creative-designer/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/creative-designer/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/creative-designer.1.0.0.zip"
   },
   {
     "name": "Creative Focus",
@@ -78050,7 +78104,7 @@
   {
     "name": "Elayne",
     "slug": "elayne",
-    "version": "4.6.2",
+    "version": "4.6.3",
     "author_name": "Rhand",
     "author_url": "https://profiles.wordpress.org/rhand/",
     "rating": 0,
@@ -78058,12 +78112,12 @@
     "requires_wordpress": "6.6",
     "requires_php": "8.0",
     "preview_url": "https://wp-themes.com/elayne/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/elayne/screenshot.png?ver=4.6.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/elayne/screenshot.png?ver=4.6.3",
     "homepage": "https://wordpress.org/themes/elayne/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/elayne.4.6.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/elayne.4.6.3.zip"
   },
   {
     "name": "Elazi Lite",
@@ -84472,6 +84526,24 @@
     "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/everyday-fashion-nook.1.0.2.zip"
+  },
+  {
+    "name": "Everyday News",
+    "slug": "everyday-news",
+    "version": "1.0.1",
+    "author_name": "artifythemes",
+    "author_url": "https://profiles.wordpress.org/artifythemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/everyday-news/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/everyday-news/screenshot.png?ver=1.0.1",
+    "homepage": "https://wordpress.org/themes/everyday-news/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/everyday-news.1.0.1.zip"
   },
   {
     "name": "Evezza Lite",
@@ -107393,8 +107465,8 @@
     "version": "2.6.5",
     "author_name": "wpsoul",
     "author_url": "https://profiles.wordpress.org/wpsoul/",
-    "rating": 100,
-    "num_ratings": 17,
+    "rating": 96,
+    "num_ratings": 18,
     "requires_wordpress": "6.7",
     "requires_php": "",
     "preview_url": "https://wp-themes.com/greenshift/",
@@ -113866,6 +113938,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/hecate.1.0.4.zip"
+  },
+  {
+    "name": "Heckl",
+    "slug": "heckl",
+    "version": "1.1.3",
+    "author_name": "Maggie Cabrera",
+    "author_url": "https://profiles.wordpress.org/onemaggie/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.6",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/heckl/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/heckl/screenshot.jpg?ver=1.1.3",
+    "homepage": "https://wordpress.org/themes/heckl/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/heckl.1.1.3.zip"
   },
   {
     "name": "Hedron",
@@ -172944,6 +173034,24 @@
     "download_link": "https://downloads.wordpress.org/theme/online-library.2.3.1.zip"
   },
   {
+    "name": "Online LMS",
+    "slug": "online-lms",
+    "version": "1.0.0",
+    "author_name": "ThemeGrill",
+    "author_url": "https://profiles.wordpress.org/themegrill/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.9",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/online-lms/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/online-lms/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/online-lms/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/online-lms.1.0.0.zip"
+  },
+  {
     "name": "Online Magazine",
     "slug": "online-magazine",
     "version": "3.2.1",
@@ -181158,7 +181266,7 @@
     "author_name": "averta",
     "author_url": "https://profiles.wordpress.org/averta/",
     "rating": 96,
-    "num_ratings": 861,
+    "num_ratings": 862,
     "requires_wordpress": "",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/phlox/",
@@ -204932,20 +205040,20 @@
   {
     "name": "Screenr",
     "slug": "screenr",
-    "version": "1.2.7",
+    "version": "1.2.10",
     "author_name": "FameThemes",
     "author_url": "https://profiles.wordpress.org/famethemes/",
     "rating": 88,
     "num_ratings": 21,
-    "requires_wordpress": "",
-    "requires_php": "5.6",
+    "requires_wordpress": "6.0",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/screenr/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/screenr/screenshot.png?ver=1.2.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/screenr/screenshot.png?ver=1.2.10",
     "homepage": "https://wordpress.org/themes/screenr/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/screenr.1.2.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/screenr.1.2.10.zip"
   },
   {
     "name": "screwdriver",
@@ -236810,7 +236918,7 @@
   {
     "name": "Thryve Biz Light",
     "slug": "thryve-biz-light",
-    "version": "1.0",
+    "version": "1.1",
     "author_name": "thryvewp",
     "author_url": "https://profiles.wordpress.org/thryvewp/",
     "rating": 0,
@@ -236818,12 +236926,12 @@
     "requires_wordpress": "6.5",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/thryve-biz-light/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/thryve-biz-light/screenshot.png?ver=1.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/thryve-biz-light/screenshot.png?ver=1.1",
     "homepage": "https://wordpress.org/themes/thryve-biz-light/",
     "template": "thryve-biz",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/thryve-biz-light.1.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/thryve-biz-light.1.1.zip"
   },
   {
     "name": "Thryve Corporate",
