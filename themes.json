@@ -5222,7 +5222,7 @@
   {
     "name": "AirTheme",
     "slug": "airtheme",
-    "version": "1.1.3",
+    "version": "1.1.5",
     "author_name": "Alexander Alekseenko",
     "author_url": "https://profiles.wordpress.org/alexwp12/",
     "rating": 100,
@@ -5230,12 +5230,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/airtheme/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/airtheme/screenshot.png?ver=1.1.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/airtheme/screenshot.png?ver=1.1.5",
     "homepage": "https://wordpress.org/themes/airtheme/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/airtheme.1.1.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/airtheme.1.1.5.zip"
   },
   {
     "name": "ajaira",
@@ -11702,7 +11702,7 @@
   {
     "name": "Aromatic",
     "slug": "aromatic",
-    "version": "27.5",
+    "version": "27.6",
     "author_name": "Seller Themes",
     "author_url": "https://profiles.wordpress.org/sellerthemes/",
     "rating": 70,
@@ -11710,12 +11710,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/aromatic/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/aromatic/screenshot.png?ver=27.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/aromatic/screenshot.png?ver=27.6",
     "homepage": "https://wordpress.org/themes/aromatic/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/aromatic.27.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/aromatic.27.6.zip"
   },
   {
     "name": "Aron",
@@ -14783,8 +14783,8 @@
     "version": "1.0.5",
     "author_name": "TemplateHouse",
     "author_url": "https://profiles.wordpress.org/templatehouse/",
-    "rating": 0,
-    "num_ratings": 0,
+    "rating": 20,
+    "num_ratings": 1,
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/auto-parts-and-car-accessories/",
@@ -17192,7 +17192,7 @@
   {
     "name": "Ayroma",
     "slug": "ayroma",
-    "version": "26.8",
+    "version": "26.9",
     "author_name": "Seller Themes",
     "author_url": "https://profiles.wordpress.org/sellerthemes/",
     "rating": 0,
@@ -17200,12 +17200,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/ayroma/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/ayroma/screenshot.png?ver=26.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ayroma/screenshot.png?ver=26.9",
     "homepage": "https://wordpress.org/themes/ayroma/",
     "template": "aromatic",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/ayroma.26.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/ayroma.26.9.zip"
   },
   {
     "name": "Aytias",
@@ -65000,7 +65000,7 @@
   {
     "name": "Daily Mart",
     "slug": "daily-mart",
-    "version": "5.8",
+    "version": "5.9",
     "author_name": "Seller Themes",
     "author_url": "https://profiles.wordpress.org/sellerthemes/",
     "rating": 0,
@@ -65008,12 +65008,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/daily-mart/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/daily-mart/screenshot.jpg?ver=5.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/daily-mart/screenshot.jpg?ver=5.9",
     "homepage": "https://wordpress.org/themes/daily-mart/",
     "template": "mega-mart",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/daily-mart.5.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/daily-mart.5.9.zip"
   },
   {
     "name": "Daily News Blog",
@@ -68438,7 +68438,7 @@
   {
     "name": "Designexo",
     "slug": "designexo",
-    "version": "18.0.4",
+    "version": "18.0.5",
     "author_name": "Theme Arile",
     "author_url": "https://profiles.wordpress.org/themearile/",
     "rating": 100,
@@ -68446,12 +68446,12 @@
     "requires_wordpress": "",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/designexo/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/designexo/screenshot.png?ver=18.0.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/designexo/screenshot.png?ver=18.0.5",
     "homepage": "https://wordpress.org/themes/designexo/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/designexo.18.0.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/designexo.18.0.5.zip"
   },
   {
     "name": "DesignHub",
@@ -78500,7 +78500,7 @@
   {
     "name": "Electromix",
     "slug": "electromix",
-    "version": "2.8",
+    "version": "2.9",
     "author_name": "Seller Themes",
     "author_url": "https://profiles.wordpress.org/sellerthemes/",
     "rating": 0,
@@ -78508,12 +78508,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/electromix/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/electromix/screenshot.jpg?ver=2.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/electromix/screenshot.jpg?ver=2.9",
     "homepage": "https://wordpress.org/themes/electromix/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/electromix.2.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/electromix.2.9.zip"
   },
   {
     "name": "Electromix Digital",
@@ -85808,7 +85808,7 @@
   {
     "name": "Expert Computer Repair",
     "slug": "expert-computer-repair",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "author_name": "Logical Themes",
     "author_url": "https://profiles.wordpress.org/sonal6578/",
     "rating": 0,
@@ -85816,12 +85816,12 @@
     "requires_wordpress": "5.3",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/expert-computer-repair/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/expert-computer-repair/screenshot.png?ver=0.1.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/expert-computer-repair/screenshot.png?ver=0.1.3",
     "homepage": "https://wordpress.org/themes/expert-computer-repair/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/expert-computer-repair.0.1.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/expert-computer-repair.0.1.3.zip"
   },
   {
     "name": "Expert Construction Company",
@@ -94250,7 +94250,7 @@
   {
     "name": "Flossy",
     "slug": "flossy",
-    "version": "19.3",
+    "version": "19.4",
     "author_name": "Seller Themes",
     "author_url": "https://profiles.wordpress.org/sellerthemes/",
     "rating": 0,
@@ -94258,12 +94258,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/flossy/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/flossy/screenshot.jpg?ver=19.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/flossy/screenshot.jpg?ver=19.4",
     "homepage": "https://wordpress.org/themes/flossy/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/flossy.19.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/flossy.19.4.zip"
   },
   {
     "name": "Flounder",
@@ -108491,8 +108491,8 @@
     "version": "1.0.8",
     "author_name": "TemplateHouse",
     "author_url": "https://profiles.wordpress.org/templatehouse/",
-    "rating": 0,
-    "num_ratings": 0,
+    "rating": 20,
+    "num_ratings": 1,
     "requires_wordpress": "5.9",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/grocery-and-organic-store/",
@@ -124850,7 +124850,7 @@
   {
     "name": "Janitorial Cleaning Services",
     "slug": "janitorial-cleaning-services",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author_name": "Logical Themes",
     "author_url": "https://profiles.wordpress.org/sonal6578/",
     "rating": 0,
@@ -124858,12 +124858,12 @@
     "requires_wordpress": "5.3",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/janitorial-cleaning-services/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/janitorial-cleaning-services/screenshot.png?ver=0.1.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/janitorial-cleaning-services/screenshot.png?ver=0.1.2",
     "homepage": "https://wordpress.org/themes/janitorial-cleaning-services/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/janitorial-cleaning-services.0.1.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/janitorial-cleaning-services.0.1.2.zip"
   },
   {
     "name": "Janma",
@@ -163910,7 +163910,7 @@
   {
     "name": "NewsGoal",
     "slug": "newsgoal",
-    "version": "0.1",
+    "version": "0.2",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 0,
@@ -163918,12 +163918,12 @@
     "requires_wordpress": "6.6",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/newsgoal/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsgoal/screenshot.jpg?ver=0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsgoal/screenshot.jpg?ver=0.2",
     "homepage": "https://wordpress.org/themes/newsgoal/",
     "template": "newsup",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsgoal.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsgoal.0.2.zip"
   },
   {
     "name": "NewsGrove",
@@ -172424,7 +172424,7 @@
   {
     "name": "OnePress",
     "slug": "onepress",
-    "version": "2.3.18",
+    "version": "2.3.20",
     "author_name": "FameThemes",
     "author_url": "https://profiles.wordpress.org/famethemes/",
     "rating": 92,
@@ -172432,12 +172432,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/onepress/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/onepress/screenshot.png?ver=2.3.18",
+    "screenshot_url": "//ts.w.org/wp-content/themes/onepress/screenshot.png?ver=2.3.20",
     "homepage": "https://wordpress.org/themes/onepress/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/onepress.2.3.18.zip"
+    "download_link": "https://downloads.wordpress.org/theme/onepress.2.3.20.zip"
   },
   {
     "name": "Oner",
@@ -188786,7 +188786,7 @@
   {
     "name": "Prime Fitness Gym",
     "slug": "prime-fitness-gym",
-    "version": "1.0.26",
+    "version": "1.0.27",
     "author_name": "hemaganuwala",
     "author_url": "https://profiles.wordpress.org/hemaganuwala/",
     "rating": 0,
@@ -188794,12 +188794,12 @@
     "requires_wordpress": "",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/prime-fitness-gym/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/prime-fitness-gym/screenshot.png?ver=1.0.26",
+    "screenshot_url": "//ts.w.org/wp-content/themes/prime-fitness-gym/screenshot.png?ver=1.0.27",
     "homepage": "https://wordpress.org/themes/prime-fitness-gym/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/prime-fitness-gym.1.0.26.zip"
+    "download_link": "https://downloads.wordpress.org/theme/prime-fitness-gym.1.0.27.zip"
   },
   {
     "name": "Prime FSE",
@@ -189290,7 +189290,7 @@
   {
     "name": "Prismix",
     "slug": "prismix",
-    "version": "1.0.18",
+    "version": "1.0.19",
     "author_name": "Shakil Ahamed",
     "author_url": "https://profiles.wordpress.org/devshakil/",
     "rating": 0,
@@ -189298,12 +189298,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/prismix/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/prismix/screenshot.png?ver=1.0.18",
+    "screenshot_url": "//ts.w.org/wp-content/themes/prismix/screenshot.png?ver=1.0.19",
     "homepage": "https://wordpress.org/themes/prismix/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/prismix.1.0.18.zip"
+    "download_link": "https://downloads.wordpress.org/theme/prismix.1.0.19.zip"
   },
   {
     "name": "Pritam",
