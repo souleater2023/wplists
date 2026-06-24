@@ -119142,6 +119142,24 @@
     "download_link": "https://downloads.wordpress.org/theme/iconic-one.3.4.zip"
   },
   {
+    "name": "iConvert Beauty",
+    "slug": "iconvert-beauty",
+    "version": "1.0.14",
+    "author_name": "iconvertpro",
+    "author_url": "https://profiles.wordpress.org/iconvertpro/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.6",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/iconvert-beauty/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/iconvert-beauty/screenshot.png?ver=1.0.14",
+    "homepage": "https://wordpress.org/themes/iconvert-beauty/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/iconvert-beauty.1.0.14.zip"
+  },
+  {
     "name": "iConvert Shoply",
     "slug": "iconvert-shoply",
     "version": "1.0.36",
@@ -258266,7 +258284,7 @@
   {
     "name": "Wira",
     "slug": "wira",
-    "version": "1.0.9",
+    "version": "1.1.0",
     "author_name": "Wiratheme",
     "author_url": "https://profiles.wordpress.org/kahfimaarif/",
     "rating": 100,
@@ -258274,12 +258292,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wira/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wira/screenshot.jpg?ver=1.0.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wira/screenshot.jpg?ver=1.1.0",
     "homepage": "https://wordpress.org/themes/wira/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wira.1.0.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wira.1.1.0.zip"
   },
   {
     "name": "Wira Business",
