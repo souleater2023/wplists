@@ -31196,7 +31196,7 @@
   {
     "name": "Blogstep",
     "slug": "blogstep",
-    "version": "0.3",
+    "version": "0.4",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 0,
@@ -31204,12 +31204,12 @@
     "requires_wordpress": "6.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/blogstep/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/blogstep/screenshot.jpg?ver=0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/blogstep/screenshot.jpg?ver=0.4",
     "homepage": "https://wordpress.org/themes/blogstep/",
     "template": "blogus",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/blogstep.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/blogstep.0.4.zip"
   },
   {
     "name": "blogster-utility",
@@ -31340,7 +31340,7 @@
   {
     "name": "Blogtimes",
     "slug": "blogtimes",
-    "version": "0.2",
+    "version": "0.3",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 0,
@@ -31348,12 +31348,12 @@
     "requires_wordpress": "6.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/blogtimes/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/blogtimes/screenshot.jpg?ver=0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/blogtimes/screenshot.jpg?ver=0.3",
     "homepage": "https://wordpress.org/themes/blogtimes/",
     "template": "blogus",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/blogtimes.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/blogtimes.0.3.zip"
   },
   {
     "name": "Blogto",
@@ -163892,7 +163892,7 @@
   {
     "name": "NewsGo",
     "slug": "newsgo",
-    "version": "0.3",
+    "version": "0.4",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 0,
@@ -163900,12 +163900,12 @@
     "requires_wordpress": "6.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/newsgo/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsgo/screenshot.jpg?ver=0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsgo/screenshot.jpg?ver=0.4",
     "homepage": "https://wordpress.org/themes/newsgo/",
     "template": "newsup",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsgo.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsgo.0.4.zip"
   },
   {
     "name": "NewsGoal",
@@ -163946,20 +163946,20 @@
   {
     "name": "Newshike",
     "slug": "newshike",
-    "version": "0.3",
+    "version": "0.4",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "5.4",
-    "requires_php": "7.0",
+    "requires_wordpress": "6.7",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/newshike/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newshike/screenshot.jpg?ver=0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newshike/screenshot.jpg?ver=0.4",
     "homepage": "https://wordpress.org/themes/newshike/",
     "template": "newsup",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newshike.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newshike.0.4.zip"
   },
   {
     "name": "NewsHit",
@@ -164414,20 +164414,20 @@
   {
     "name": "Newsmark",
     "slug": "newsmark",
-    "version": "0.5",
+    "version": "0.6",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "5.4",
-    "requires_php": "7.0",
+    "requires_wordpress": "6.7",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/newsmark/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsmark/screenshot.jpg?ver=0.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsmark/screenshot.jpg?ver=0.6",
     "homepage": "https://wordpress.org/themes/newsmark/",
     "template": "newsup",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsmark.0.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsmark.0.6.zip"
   },
   {
     "name": "NewsMarks",
@@ -165566,7 +165566,7 @@
   {
     "name": "Newstack",
     "slug": "newstack",
-    "version": "2.7",
+    "version": "2.8",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 0,
@@ -165574,12 +165574,12 @@
     "requires_wordpress": "6.6",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/newstack/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newstack/screenshot.jpg?ver=2.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newstack/screenshot.jpg?ver=2.8",
     "homepage": "https://wordpress.org/themes/newstack/",
     "template": "newsup",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newstack.2.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newstack.2.8.zip"
   },
   {
     "name": "Newstag",
@@ -165764,7 +165764,7 @@
   {
     "name": "NewsTwenty",
     "slug": "newstwenty",
-    "version": "0.4",
+    "version": "0.5",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 0,
@@ -165772,12 +165772,12 @@
     "requires_wordpress": "6.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/newstwenty/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newstwenty/screenshot.jpg?ver=0.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newstwenty/screenshot.jpg?ver=0.5",
     "homepage": "https://wordpress.org/themes/newstwenty/",
     "template": "newsup",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newstwenty.0.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newstwenty.0.5.zip"
   },
   {
     "name": "Newstype",
@@ -169414,6 +169414,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/nutofito.2.1.2.zip"
+  },
+  {
+    "name": "Nutrawell",
+    "slug": "nutrawell",
+    "version": "1.0.6",
+    "author_name": "Maulik Vora",
+    "author_url": "https://profiles.wordpress.org/zluck/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.5",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/nutrawell/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/nutrawell/screenshot.png?ver=1.0.6",
+    "homepage": "https://wordpress.org/themes/nutrawell/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/nutrawell.1.0.6.zip"
   },
   {
     "name": "Nutrella",
@@ -178904,7 +178922,7 @@
   {
     "name": "Patterns Store Front",
     "slug": "patterns-store-front",
-    "version": "1.0.5",
+    "version": "2.0.0",
     "author_name": "PatternsWP",
     "author_url": "https://profiles.wordpress.org/patternswp/",
     "rating": 0,
@@ -178912,12 +178930,12 @@
     "requires_wordpress": "6.6",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/patterns-store-front/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/patterns-store-front/screenshot.png?ver=1.0.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/patterns-store-front/screenshot.png?ver=2.0.0",
     "homepage": "https://wordpress.org/themes/patterns-store-front/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/patterns-store-front.1.0.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/patterns-store-front.2.0.0.zip"
   },
   {
     "name": "Patus",
@@ -256718,7 +256736,7 @@
   {
     "name": "WENS Furnitecture",
     "slug": "wens-furnitecture",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -256726,12 +256744,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-furnitecture/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-furnitecture/screenshot.png?ver=1.0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-furnitecture/screenshot.png?ver=1.0.3",
     "homepage": "https://wordpress.org/themes/wens-furnitecture/",
     "template": "wens-haelo",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-furnitecture.1.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-furnitecture.1.0.3.zip"
   },
   {
     "name": "WENS Haelo",
@@ -256754,7 +256772,7 @@
   {
     "name": "WENS Healthy Plates",
     "slug": "wens-healthy-plates",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -256762,12 +256780,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-healthy-plates/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-healthy-plates/screenshot.png?ver=1.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-healthy-plates/screenshot.png?ver=1.0.2",
     "homepage": "https://wordpress.org/themes/wens-healthy-plates/",
     "template": "wens-haelo",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-healthy-plates.1.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-healthy-plates.1.0.2.zip"
   },
   {
     "name": "WENS Honey",
@@ -256826,7 +256844,7 @@
   {
     "name": "WENS Next Gen Blog",
     "slug": "wens-next-gen-blog",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -256834,12 +256852,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-next-gen-blog/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-next-gen-blog/screenshot.png?ver=1.0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-next-gen-blog/screenshot.png?ver=1.0.3",
     "homepage": "https://wordpress.org/themes/wens-next-gen-blog/",
     "template": "wens-haelo",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-next-gen-blog.1.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-next-gen-blog.1.0.3.zip"
   },
   {
     "name": "WENS Portfolio",
@@ -257060,7 +257078,7 @@
   {
     "name": "WENS Vibes",
     "slug": "wens-vibes",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -257068,17 +257086,17 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-vibes/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-vibes/screenshot.png?ver=1.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-vibes/screenshot.png?ver=1.0.2",
     "homepage": "https://wordpress.org/themes/wens-vibes/",
     "template": "wens-haelo",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-vibes.1.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-vibes.1.0.2.zip"
   },
   {
     "name": "WENS Vivid",
     "slug": "wens-vivid",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -257086,12 +257104,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-vivid/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-vivid/screenshot.png?ver=1.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-vivid/screenshot.png?ver=1.0.2",
     "homepage": "https://wordpress.org/themes/wens-vivid/",
     "template": "wens-haelo",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-vivid.1.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-vivid.1.0.2.zip"
   },
   {
     "name": "WENS Wander",
