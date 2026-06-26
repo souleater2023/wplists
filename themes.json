@@ -3638,20 +3638,20 @@
   {
     "name": "Advocate Lite",
     "slug": "advocate-lite",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "author_name": "flythemes",
     "author_url": "https://profiles.wordpress.org/fly2sky/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "6.1",
-    "requires_php": "7.0",
+    "requires_wordpress": "6.8",
+    "requires_php": "8.0",
     "preview_url": "https://wp-themes.com/advocate-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/advocate-lite/screenshot.png?ver=1.1.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/advocate-lite/screenshot.png?ver=1.1.3",
     "homepage": "https://wordpress.org/themes/advocate-lite/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/advocate-lite.1.1.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/advocate-lite.1.1.3.zip"
   },
   {
     "name": "Advocator Lite",
@@ -23593,7 +23593,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/bizlink/screenshot.png?ver=1.3",
     "homepage": "https://wordpress.org/themes/bizlink/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/bizlink.1.3.zip"
   },
@@ -34472,7 +34472,7 @@
   {
     "name": "Bootstrap Fitness",
     "slug": "bootstrap-fitness",
-    "version": "1.10.1",
+    "version": "1.11.0",
     "author_name": "The_Bootstrap_Themes",
     "author_url": "https://profiles.wordpress.org/thebootstrapthemes/",
     "rating": 100,
@@ -34480,12 +34480,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/bootstrap-fitness/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/bootstrap-fitness/screenshot.jpg?ver=1.10.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/bootstrap-fitness/screenshot.jpg?ver=1.11.0",
     "homepage": "https://wordpress.org/themes/bootstrap-fitness/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/bootstrap-fitness.1.10.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/bootstrap-fitness.1.11.0.zip"
   },
   {
     "name": "Bootstrap Four",
@@ -48458,7 +48458,7 @@
   {
     "name": "Chic Lifestyle",
     "slug": "chic-lifestyle",
-    "version": "11.2.0",
+    "version": "11.3.0",
     "author_name": "The_Bootstrap_Themes",
     "author_url": "https://profiles.wordpress.org/thebootstrapthemes/",
     "rating": 100,
@@ -48466,12 +48466,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/chic-lifestyle/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/chic-lifestyle/screenshot.jpg?ver=11.2.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/chic-lifestyle/screenshot.jpg?ver=11.3.0",
     "homepage": "https://wordpress.org/themes/chic-lifestyle/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/chic-lifestyle.11.2.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/chic-lifestyle.11.3.0.zip"
   },
   {
     "name": "Chic Lite",
@@ -70231,7 +70231,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/digitalgrove-dark/screenshot.png?ver=1.1",
     "homepage": "https://wordpress.org/themes/digitalgrove-dark/",
     "template": "digitalgrove",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/digitalgrove-dark.1.1.zip"
   },
@@ -80113,7 +80113,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/elitegrove-dark/screenshot.png?ver=1.2",
     "homepage": "https://wordpress.org/themes/elitegrove-dark/",
     "template": "elitegrove",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/elitegrove-dark.1.2.zip"
   },
@@ -111181,7 +111181,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/gutentools-dark/screenshot.png?ver=1.1",
     "homepage": "https://wordpress.org/themes/gutentools-dark/",
     "template": "gutentools",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/gutentools-dark.1.1.zip"
   },
@@ -111217,7 +111217,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/gutentools-fashion/screenshot.png?ver=1.0",
     "homepage": "https://wordpress.org/themes/gutentools-fashion/",
     "template": "gutentools",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/gutentools-fashion.1.0.zip"
   },
@@ -113330,7 +113330,7 @@
   {
     "name": "Havenlytics Realty",
     "slug": "havenlytics-realty",
-    "version": "1.23.0",
+    "version": "1.24.0",
     "author_name": "Havenlytics",
     "author_url": "https://profiles.wordpress.org/havenlytics/",
     "rating": 100,
@@ -113338,12 +113338,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/havenlytics-realty/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/havenlytics-realty/screenshot.png?ver=1.23.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/havenlytics-realty/screenshot.png?ver=1.24.0",
     "homepage": "https://wordpress.org/themes/havenlytics-realty/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/havenlytics-realty.1.23.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/havenlytics-realty.1.24.0.zip"
   },
   {
     "name": "Havi",
@@ -118046,7 +118046,7 @@
   {
     "name": "Hover Boards",
     "slug": "hover-boards",
-    "version": "1.0",
+    "version": "1.1",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 0,
@@ -118054,12 +118054,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/hover-boards/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/hover-boards/screenshot.png?ver=1.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/hover-boards/screenshot.png?ver=1.1",
     "homepage": "https://wordpress.org/themes/hover-boards/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/hover-boards.1.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/hover-boards.1.1.zip"
   },
   {
     "name": "Hoverbest",
@@ -252038,7 +252038,7 @@
   {
     "name": "VW Book Store",
     "slug": "vw-book-store",
-    "version": "1.7.5",
+    "version": "1.7.6",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 90,
@@ -252046,12 +252046,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-book-store/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-book-store/screenshot.png?ver=1.7.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-book-store/screenshot.png?ver=1.7.6",
     "homepage": "https://wordpress.org/themes/vw-book-store/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-book-store.1.7.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-book-store.1.7.6.zip"
   },
   {
     "name": "VW Business Consulting",
@@ -252272,7 +252272,7 @@
   {
     "name": "VW Corporate Lite",
     "slug": "vw-corporate-lite",
-    "version": "2.8.6",
+    "version": "2.8.7",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 100,
@@ -252280,12 +252280,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-corporate-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-corporate-lite/screenshot.png?ver=2.8.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-corporate-lite/screenshot.png?ver=2.8.7",
     "homepage": "https://wordpress.org/themes/vw-corporate-lite/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-corporate-lite.2.8.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-corporate-lite.2.8.7.zip"
   },
   {
     "name": "VW Dark",
@@ -252416,7 +252416,7 @@
   {
     "name": "VW Education Lite",
     "slug": "vw-education-lite",
-    "version": "2.2.4",
+    "version": "2.2.5",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 100,
@@ -252424,12 +252424,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-education-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-education-lite/screenshot.png?ver=2.2.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-education-lite/screenshot.png?ver=2.2.5",
     "homepage": "https://wordpress.org/themes/vw-education-lite/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-education-lite.2.2.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-education-lite.2.2.5.zip"
   },
   {
     "name": "VW Event Planner",
@@ -252452,7 +252452,7 @@
   {
     "name": "VW Fitness",
     "slug": "vw-fitness",
-    "version": "4.3.8",
+    "version": "4.3.9",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 0,
@@ -252460,12 +252460,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-fitness/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-fitness/screenshot.png?ver=4.3.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-fitness/screenshot.png?ver=4.3.9",
     "homepage": "https://wordpress.org/themes/vw-fitness/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-fitness.4.3.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-fitness.4.3.9.zip"
   },
   {
     "name": "VW Fitness Gym",
@@ -252668,7 +252668,7 @@
   {
     "name": "VW Hospital Lite",
     "slug": "vw-hospital-lite",
-    "version": "2.2.9",
+    "version": "2.3.0",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 100,
@@ -252676,12 +252676,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-hospital-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-hospital-lite/screenshot.png?ver=2.2.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-hospital-lite/screenshot.png?ver=2.3.0",
     "homepage": "https://wordpress.org/themes/vw-hospital-lite/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-hospital-lite.2.2.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-hospital-lite.2.3.0.zip"
   },
   {
     "name": "VW Hosting Services",
@@ -252704,7 +252704,7 @@
   {
     "name": "VW Hotel",
     "slug": "vw-hotel",
-    "version": "1.3.8",
+    "version": "1.3.9",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 100,
@@ -252712,17 +252712,17 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-hotel/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-hotel/screenshot.png?ver=1.3.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-hotel/screenshot.png?ver=1.3.9",
     "homepage": "https://wordpress.org/themes/vw-hotel/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-hotel.1.3.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-hotel.1.3.9.zip"
   },
   {
     "name": "VW Interior Designs",
     "slug": "vw-interior-designs",
-    "version": "1.3.5",
+    "version": "1.3.6",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 74,
@@ -252730,12 +252730,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-interior-designs/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-interior-designs/screenshot.png?ver=1.3.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-interior-designs/screenshot.png?ver=1.3.6",
     "homepage": "https://wordpress.org/themes/vw-interior-designs/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-interior-designs.1.3.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-interior-designs.1.3.6.zip"
   },
   {
     "name": "VW Job Board",
@@ -253010,7 +253010,7 @@
   {
     "name": "VW Mobile App",
     "slug": "vw-mobile-app",
-    "version": "1.6.1",
+    "version": "1.6.2",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 100,
@@ -253018,12 +253018,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-mobile-app/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-mobile-app/screenshot.png?ver=1.6.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-mobile-app/screenshot.png?ver=1.6.2",
     "homepage": "https://wordpress.org/themes/vw-mobile-app/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-mobile-app.1.6.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-mobile-app.1.6.2.zip"
   },
   {
     "name": "VW Modern Kitchen",
@@ -253046,7 +253046,7 @@
   {
     "name": "VW Newspaper",
     "slug": "vw-newspaper",
-    "version": "1.4.8",
+    "version": "1.4.9",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 100,
@@ -253054,12 +253054,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-newspaper/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-newspaper/screenshot.png?ver=1.4.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-newspaper/screenshot.png?ver=1.4.9",
     "homepage": "https://wordpress.org/themes/vw-newspaper/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-newspaper.1.4.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-newspaper.1.4.9.zip"
   },
   {
     "name": "VW Nutritionist Coach",
@@ -253208,7 +253208,7 @@
   {
     "name": "VW Photography",
     "slug": "vw-photography",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 60,
@@ -253216,17 +253216,17 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-photography/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-photography/screenshot.png?ver=1.4.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-photography/screenshot.png?ver=1.4.3",
     "homepage": "https://wordpress.org/themes/vw-photography/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-photography.1.4.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-photography.1.4.3.zip"
   },
   {
     "name": "VW Portfolio",
     "slug": "vw-portfolio",
-    "version": "1.3.10",
+    "version": "1.4.0",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 0,
@@ -253234,12 +253234,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-portfolio/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-portfolio/screenshot.png?ver=1.3.10",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-portfolio/screenshot.png?ver=1.4.0",
     "homepage": "https://wordpress.org/themes/vw-portfolio/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-portfolio.1.3.10.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-portfolio.1.4.0.zip"
   },
   {
     "name": "VW Project Management",
@@ -253298,7 +253298,7 @@
   {
     "name": "VW Restaurant Lite",
     "slug": "vw-restaurant-lite",
-    "version": "2.5.8",
+    "version": "2.5.9",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 100,
@@ -253306,12 +253306,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-restaurant-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-restaurant-lite/screenshot.png?ver=2.5.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-restaurant-lite/screenshot.png?ver=2.5.9",
     "homepage": "https://wordpress.org/themes/vw-restaurant-lite/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-restaurant-lite.2.5.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-restaurant-lite.2.5.9.zip"
   },
   {
     "name": "VW SAAS Services",
@@ -253352,7 +253352,7 @@
   {
     "name": "VW Security Guard",
     "slug": "vw-security-guard",
-    "version": "1.3.6",
+    "version": "1.3.7",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 100,
@@ -253360,12 +253360,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-security-guard/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-security-guard/screenshot.png?ver=1.3.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-security-guard/screenshot.png?ver=1.3.7",
     "homepage": "https://wordpress.org/themes/vw-security-guard/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-security-guard.1.3.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-security-guard.1.3.7.zip"
   },
   {
     "name": "VW Shopping Mall",
@@ -253406,7 +253406,7 @@
   {
     "name": "VW Spa Lite",
     "slug": "vw-spa-lite",
-    "version": "2.6.8",
+    "version": "2.6.9",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 60,
@@ -253414,12 +253414,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-spa-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-spa-lite/screenshot.png?ver=2.6.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-spa-lite/screenshot.png?ver=2.6.9",
     "homepage": "https://wordpress.org/themes/vw-spa-lite/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-spa-lite.2.6.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-spa-lite.2.6.9.zip"
   },
   {
     "name": "VW Sports",
@@ -253442,7 +253442,7 @@
   {
     "name": "VW Startup",
     "slug": "vw-startup",
-    "version": "1.4.5",
+    "version": "1.4.6",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 100,
@@ -253450,12 +253450,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-startup/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-startup/screenshot.png?ver=1.4.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-startup/screenshot.png?ver=1.4.6",
     "homepage": "https://wordpress.org/themes/vw-startup/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-startup.1.4.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-startup.1.4.6.zip"
   },
   {
     "name": "VW Stock Images",
@@ -253514,7 +253514,7 @@
   {
     "name": "VW Tour Lite",
     "slug": "vw-tour-lite",
-    "version": "2.0.7",
+    "version": "2.0.8",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 100,
@@ -253522,12 +253522,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-tour-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-tour-lite/screenshot.png?ver=2.0.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-tour-lite/screenshot.png?ver=2.0.8",
     "homepage": "https://wordpress.org/themes/vw-tour-lite/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-tour-lite.2.0.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-tour-lite.2.0.8.zip"
   },
   {
     "name": "VW Tourism",
@@ -253586,7 +253586,7 @@
   {
     "name": "VW Wedding",
     "slug": "vw-wedding",
-    "version": "1.3.6",
+    "version": "1.3.7",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 0,
@@ -253594,12 +253594,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-wedding/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-wedding/screenshot.png?ver=1.3.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-wedding/screenshot.png?ver=1.3.7",
     "homepage": "https://wordpress.org/themes/vw-wedding/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-wedding.1.3.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-wedding.1.3.7.zip"
   },
   {
     "name": "VW Wellness Coach",
@@ -253640,7 +253640,7 @@
   {
     "name": "VW Writer Blog",
     "slug": "vw-writer-blog",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "author_name": "VW THEMES",
     "author_url": "https://profiles.wordpress.org/vowelweb/",
     "rating": 100,
@@ -253648,12 +253648,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vw-writer-blog/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vw-writer-blog/screenshot.png?ver=1.4.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vw-writer-blog/screenshot.png?ver=1.4.2",
     "homepage": "https://wordpress.org/themes/vw-writer-blog/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vw-writer-blog.1.4.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vw-writer-blog.1.4.2.zip"
   },
   {
     "name": "VW Yoga Fitness",
