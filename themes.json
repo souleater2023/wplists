@@ -118165,7 +118165,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/hover-boards/screenshot.png?ver=1.1",
     "homepage": "https://wordpress.org/themes/hover-boards/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/hover-boards.1.1.zip"
   },
@@ -123997,7 +123997,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/isp-internet-provider/screenshot.png?ver=1.1",
     "homepage": "https://wordpress.org/themes/isp-internet-provider/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/isp-internet-provider.1.1.zip"
   },
@@ -137702,7 +137702,7 @@
   {
     "name": "Listdomer",
     "slug": "listdomer",
-    "version": "4.5.0",
+    "version": "4.6.0",
     "author_name": "Webilia Inc.",
     "author_url": "https://profiles.wordpress.org/webilia/",
     "rating": 86,
@@ -137710,12 +137710,12 @@
     "requires_wordpress": "5.3",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/listdomer/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/listdomer/screenshot.png?ver=4.5.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/listdomer/screenshot.png?ver=4.6.0",
     "homepage": "https://wordpress.org/themes/listdomer/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/listdomer.4.5.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/listdomer.4.6.0.zip"
   },
   {
     "name": "listing",
@@ -145075,7 +145075,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/master-education/screenshot.png?ver=0.1",
     "homepage": "https://wordpress.org/themes/master-education/",
     "template": "ecommerce-landing-page",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/master-education.0.1.zip"
   },
