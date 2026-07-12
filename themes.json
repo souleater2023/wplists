@@ -170826,7 +170826,7 @@
     "author_name": "oceanwp",
     "author_url": "https://profiles.wordpress.org/oceanwp/",
     "rating": 98,
-    "num_ratings": 5704,
+    "num_ratings": 5705,
     "requires_wordpress": "5.6",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/oceanwp/",
@@ -179566,6 +179566,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/pawscentral.2.5.zip"
+  },
+  {
+    "name": "PawWell",
+    "slug": "pawwell",
+    "version": "1.0",
+    "author_name": "Spiracle Themes",
+    "author_url": "https://profiles.wordpress.org/spiraclethemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.0",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/pawwell/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/pawwell/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/pawwell/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/pawwell.1.0.zip"
   },
   {
     "name": "Paxxer",
@@ -191000,7 +191018,7 @@
   {
     "name": "Promptless",
     "slug": "promptless",
-    "version": "1.2.6",
+    "version": "1.2.7",
     "author_name": "promptlesswp",
     "author_url": "https://profiles.wordpress.org/promptlesswp/",
     "rating": 0,
@@ -191008,12 +191026,12 @@
     "requires_wordpress": "6.6",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/promptless/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/promptless/screenshot.png?ver=1.2.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/promptless/screenshot.png?ver=1.2.7",
     "homepage": "https://wordpress.org/themes/promptless/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/promptless.1.2.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/promptless.1.2.7.zip"
   },
   {
     "name": "Property Broker",
@@ -241241,8 +241259,8 @@
     "version": "3.2.2",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
-    "rating": 100,
-    "num_ratings": 1,
+    "rating": 0,
+    "num_ratings": 0,
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/travel-influencer-blogs/",
