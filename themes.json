@@ -5814,6 +5814,24 @@
     "download_link": "https://downloads.wordpress.org/theme/alante-eshop.1.0.1.zip"
   },
   {
+    "name": "Alante eStore",
+    "slug": "alante-estore",
+    "version": "1.0.0",
+    "author_name": "ThinkUpThemes",
+    "author_url": "https://profiles.wordpress.org/thinkupthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "7.0",
+    "preview_url": "https://wp-themes.com/alante-estore/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/alante-estore/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/alante-estore/",
+    "template": "alante",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/alante-estore.1.0.0.zip"
+  },
+  {
     "name": "Alante Grid",
     "slug": "alante-grid",
     "version": "1.1.13",
@@ -13344,7 +13362,7 @@
     "author_name": "Brainstorm Force",
     "author_url": "https://profiles.wordpress.org/brainstormforce/",
     "rating": 98,
-    "num_ratings": 6486,
+    "num_ratings": 6487,
     "requires_wordpress": "5.3",
     "requires_php": "5.3",
     "preview_url": "https://wp-themes.com/astra/",
@@ -50634,6 +50652,24 @@
     "download_link": "https://downloads.wordpress.org/theme/claritymag-news.1.0.2.zip"
   },
   {
+    "name": "Clarix",
+    "slug": "clarix",
+    "version": "1.0.2",
+    "author_name": "NiteshPatel",
+    "author_url": "https://profiles.wordpress.org/nitspatel/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.0",
+    "requires_php": "8.0",
+    "preview_url": "https://wp-themes.com/clarix/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/clarix/screenshot.png?ver=1.0.2",
+    "homepage": "https://wordpress.org/themes/clarix/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/clarix.1.0.2.zip"
+  },
+  {
     "name": "Classic",
     "slug": "classic",
     "version": "1.6",
@@ -74900,7 +74936,7 @@
   {
     "name": "Eco Landscaping",
     "slug": "eco-landscaping",
-    "version": "3.3",
+    "version": "3.4",
     "author_name": "legacythemes",
     "author_url": "https://profiles.wordpress.org/legacythemes/",
     "rating": 0,
@@ -74908,12 +74944,12 @@
     "requires_wordpress": "5.5",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/eco-landscaping/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/eco-landscaping/screenshot.png?ver=3.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/eco-landscaping/screenshot.png?ver=3.4",
     "homepage": "https://wordpress.org/themes/eco-landscaping/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/eco-landscaping.3.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/eco-landscaping.3.4.zip"
   },
   {
     "name": "Eco Nature Zone",
@@ -116930,7 +116966,7 @@
   {
     "name": "Home Shifting Services",
     "slug": "home-shifting-services",
-    "version": "3.4",
+    "version": "3.5",
     "author_name": "legacythemes",
     "author_url": "https://profiles.wordpress.org/legacythemes/",
     "rating": 0,
@@ -116938,12 +116974,12 @@
     "requires_wordpress": "5.5",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/home-shifting-services/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/home-shifting-services/screenshot.png?ver=3.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/home-shifting-services/screenshot.png?ver=3.5",
     "homepage": "https://wordpress.org/themes/home-shifting-services/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/home-shifting-services.3.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/home-shifting-services.3.5.zip"
   },
   {
     "name": "Home Styling Interior",
@@ -127244,7 +127280,7 @@
   {
     "name": "Jungle Eco Tours",
     "slug": "jungle-eco-tours",
-    "version": "3.1",
+    "version": "3.2",
     "author_name": "legacythemes",
     "author_url": "https://profiles.wordpress.org/legacythemes/",
     "rating": 0,
@@ -127252,12 +127288,12 @@
     "requires_wordpress": "5.5",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/jungle-eco-tours/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/jungle-eco-tours/screenshot.png?ver=3.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/jungle-eco-tours/screenshot.png?ver=3.2",
     "homepage": "https://wordpress.org/themes/jungle-eco-tours/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/jungle-eco-tours.3.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/jungle-eco-tours.3.2.zip"
   },
   {
     "name": "Jungle Safari",
@@ -130322,7 +130358,7 @@
   {
     "name": "Kindergarten Art School",
     "slug": "kindergarten-art-school",
-    "version": "3.4",
+    "version": "3.5",
     "author_name": "legacythemes",
     "author_url": "https://profiles.wordpress.org/legacythemes/",
     "rating": 0,
@@ -130330,12 +130366,12 @@
     "requires_wordpress": "5.5",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/kindergarten-art-school/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/kindergarten-art-school/screenshot.png?ver=3.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/kindergarten-art-school/screenshot.png?ver=3.5",
     "homepage": "https://wordpress.org/themes/kindergarten-art-school/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/kindergarten-art-school.3.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/kindergarten-art-school.3.5.zip"
   },
   {
     "name": "Kindergarten Education",
@@ -131596,6 +131632,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/kortez-business.1.0.3.zip"
+  },
+  {
+    "name": "Kortez Cafe",
+    "slug": "kortez-cafe",
+    "version": "1.0.0",
+    "author_name": "kortezthemes",
+    "author_url": "https://profiles.wordpress.org/kortezthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/kortez-cafe/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/kortez-cafe/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/kortez-cafe/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/kortez-cafe.1.0.0.zip"
   },
   {
     "name": "Kortez Charity",
@@ -173486,7 +173540,7 @@
   {
     "name": "Online Education Classes",
     "slug": "online-education-classes",
-    "version": "3.2",
+    "version": "3.3",
     "author_name": "legacythemes",
     "author_url": "https://profiles.wordpress.org/legacythemes/",
     "rating": 0,
@@ -173494,12 +173548,12 @@
     "requires_wordpress": "5.5",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/online-education-classes/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/online-education-classes/screenshot.png?ver=3.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/online-education-classes/screenshot.png?ver=3.3",
     "homepage": "https://wordpress.org/themes/online-education-classes/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/online-education-classes.3.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/online-education-classes.3.3.zip"
   },
   {
     "name": "Online Education LMS",
@@ -179678,7 +179732,7 @@
   {
     "name": "PawWell",
     "slug": "pawwell",
-    "version": "1.0",
+    "version": "1.1",
     "author_name": "Spiracle Themes",
     "author_url": "https://profiles.wordpress.org/spiraclethemes/",
     "rating": 0,
@@ -179686,12 +179740,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/pawwell/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/pawwell/screenshot.png?ver=1.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/pawwell/screenshot.png?ver=1.1",
     "homepage": "https://wordpress.org/themes/pawwell/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/pawwell.1.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/pawwell.1.1.zip"
   },
   {
     "name": "Paxxer",
@@ -238034,7 +238088,7 @@
   {
     "name": "Ticket Booking",
     "slug": "ticket-booking",
-    "version": "3.5",
+    "version": "3.6",
     "author_name": "legacythemes",
     "author_url": "https://profiles.wordpress.org/legacythemes/",
     "rating": 0,
@@ -238042,12 +238096,12 @@
     "requires_wordpress": "5.5",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/ticket-booking/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/ticket-booking/screenshot.png?ver=3.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ticket-booking/screenshot.png?ver=3.6",
     "homepage": "https://wordpress.org/themes/ticket-booking/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/ticket-booking.3.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/ticket-booking.3.6.zip"
   },
   {
     "name": "Tidy",
@@ -246548,7 +246602,7 @@
   {
     "name": "Unique Gift Shop",
     "slug": "unique-gift-shop",
-    "version": "3.2",
+    "version": "3.3",
     "author_name": "legacythemes",
     "author_url": "https://profiles.wordpress.org/legacythemes/",
     "rating": 0,
@@ -246556,12 +246610,12 @@
     "requires_wordpress": "5.5",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/unique-gift-shop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/unique-gift-shop/screenshot.png?ver=3.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/unique-gift-shop/screenshot.png?ver=3.3",
     "homepage": "https://wordpress.org/themes/unique-gift-shop/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/unique-gift-shop.3.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/unique-gift-shop.3.3.zip"
   },
   {
     "name": "Unique Graphic Designer",
