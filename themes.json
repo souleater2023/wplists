@@ -37530,6 +37530,24 @@
     "download_link": "https://downloads.wordpress.org/theme/bread-and-cake.1.1.3.zip"
   },
   {
+    "name": "Breek Lite",
+    "slug": "breek-lite",
+    "version": "1.0.0",
+    "author_name": "EstudioPatagon",
+    "author_url": "https://profiles.wordpress.org/estudiopatagon/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "",
+    "requires_php": "7.0",
+    "preview_url": "https://wp-themes.com/breek-lite/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/breek-lite/screenshot.jpg?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/breek-lite/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/breek-lite.1.0.0.zip"
+  },
+  {
     "name": "Breevia",
     "slug": "breevia",
     "version": "1.0.26",
@@ -170476,6 +170494,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/nxt-chiropractor.1.2.zip"
+  },
+  {
+    "name": "NXT Electrician",
+    "slug": "nxt-electrician",
+    "version": "1.0",
+    "author_name": "novexthemes",
+    "author_url": "https://profiles.wordpress.org/novexthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.5",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/nxt-electrician/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/nxt-electrician/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/nxt-electrician/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/nxt-electrician.1.0.zip"
   },
   {
     "name": "NXT Event Planner",
