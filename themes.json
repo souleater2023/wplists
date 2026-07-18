@@ -11036,7 +11036,7 @@
   {
     "name": "Architecture Building",
     "slug": "architecture-building",
-    "version": "5.9.1",
+    "version": "5.9.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 0,
@@ -11044,12 +11044,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/architecture-building/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/architecture-building/screenshot.png?ver=5.9.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/architecture-building/screenshot.png?ver=5.9.2",
     "homepage": "https://wordpress.org/themes/architecture-building/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/architecture-building.5.9.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/architecture-building.5.9.2.zip"
   },
   {
     "name": "Architecture Construction",
@@ -13398,7 +13398,7 @@
     "author_name": "Brainstorm Force",
     "author_url": "https://profiles.wordpress.org/brainstormforce/",
     "rating": 98,
-    "num_ratings": 6491,
+    "num_ratings": 6492,
     "requires_wordpress": "5.3",
     "requires_php": "5.3",
     "preview_url": "https://wp-themes.com/astra/",
@@ -19856,7 +19856,7 @@
   {
     "name": "Beauty Hair Salon",
     "slug": "beauty-hair-salon",
-    "version": "6.0.1",
+    "version": "6.0.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 20,
@@ -19864,12 +19864,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/beauty-hair-salon/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/beauty-hair-salon/screenshot.png?ver=6.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/beauty-hair-salon/screenshot.png?ver=6.0.2",
     "homepage": "https://wordpress.org/themes/beauty-hair-salon/",
     "template": "beauty-salon-spa",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/beauty-hair-salon.6.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/beauty-hair-salon.6.0.2.zip"
   },
   {
     "name": "Beauty Makeup Stylist",
@@ -37260,6 +37260,24 @@
     "download_link": "https://downloads.wordpress.org/theme/boyo.2.1.2.zip"
   },
   {
+    "name": "BPO Services",
+    "slug": "bpo-services",
+    "version": "1.0.1",
+    "author_name": "pewilliams",
+    "author_url": "https://profiles.wordpress.org/pewilliams/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.1",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/bpo-services/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/bpo-services/screenshot.png?ver=1.0.1",
+    "homepage": "https://wordpress.org/themes/bpo-services/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/bpo-services.1.0.1.zip"
+  },
+  {
     "name": "BPT Bootstrap",
     "slug": "bpt-bootstrap",
     "version": "2.2",
@@ -48026,7 +48044,7 @@
   {
     "name": "Charity Foundation",
     "slug": "charity-foundation",
-    "version": "6.4.1",
+    "version": "6.4.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 100,
@@ -48034,12 +48052,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/charity-foundation/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/charity-foundation/screenshot.png?ver=6.4.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/charity-foundation/screenshot.png?ver=6.4.2",
     "homepage": "https://wordpress.org/themes/charity-foundation/",
     "template": "ngo-charity-donation",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/charity-foundation.6.4.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/charity-foundation.6.4.2.zip"
   },
   {
     "name": "Charity Fundraiser",
@@ -49160,7 +49178,7 @@
   {
     "name": "Chiropractor Therapy",
     "slug": "chiropractor-therapy",
-    "version": "6.0.1",
+    "version": "6.0.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 0,
@@ -49168,12 +49186,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/chiropractor-therapy/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/chiropractor-therapy/screenshot.png?ver=6.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/chiropractor-therapy/screenshot.png?ver=6.0.2",
     "homepage": "https://wordpress.org/themes/chiropractor-therapy/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/chiropractor-therapy.6.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/chiropractor-therapy.6.0.2.zip"
   },
   {
     "name": "Chitta",
@@ -53282,7 +53300,7 @@
   {
     "name": "Clothing Store",
     "slug": "clothing-store",
-    "version": "6.7.1",
+    "version": "6.7.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 0,
@@ -53290,12 +53308,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/clothing-store/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/clothing-store/screenshot.png?ver=6.7.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/clothing-store/screenshot.png?ver=6.7.2",
     "homepage": "https://wordpress.org/themes/clothing-store/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/clothing-store.6.7.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/clothing-store.6.7.2.zip"
   },
   {
     "name": "Clothing Store Blocks",
@@ -64946,7 +64964,7 @@
   {
     "name": "Cyber Security Services",
     "slug": "cyber-security-services",
-    "version": "6.2.1",
+    "version": "6.2.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 20,
@@ -64954,12 +64972,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/cyber-security-services/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/cyber-security-services/screenshot.png?ver=6.2.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/cyber-security-services/screenshot.png?ver=6.2.2",
     "homepage": "https://wordpress.org/themes/cyber-security-services/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/cyber-security-services.6.2.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/cyber-security-services.6.2.2.zip"
   },
   {
     "name": "cybercube",
@@ -68420,7 +68438,7 @@
   {
     "name": "Dentistry Clinic",
     "slug": "dentistry-clinic",
-    "version": "5.8.1",
+    "version": "5.8.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 100,
@@ -68428,12 +68446,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/dentistry-clinic/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/dentistry-clinic/screenshot.png?ver=5.8.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/dentistry-clinic/screenshot.png?ver=5.8.2",
     "homepage": "https://wordpress.org/themes/dentistry-clinic/",
     "template": "dental-insight",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/dentistry-clinic.5.8.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/dentistry-clinic.5.8.2.zip"
   },
   {
     "name": "Dentistry Hospital",
@@ -88940,7 +88958,7 @@
   {
     "name": "Fashion Designer Studio",
     "slug": "fashion-designer-studio",
-    "version": "6.0.1",
+    "version": "6.0.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 0,
@@ -88948,12 +88966,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/fashion-designer-studio/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fashion-designer-studio/screenshot.png?ver=6.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fashion-designer-studio/screenshot.png?ver=6.0.2",
     "homepage": "https://wordpress.org/themes/fashion-designer-studio/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fashion-designer-studio.6.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fashion-designer-studio.6.0.2.zip"
   },
   {
     "name": "Fashion Diva",
@@ -90124,6 +90142,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/fcorpo.1.6.6.zip"
+  },
+  {
+    "name": "FDA Starter Lite",
+    "slug": "fda-starter-lite",
+    "version": "1.2.12",
+    "author_name": "francescoluiseweb",
+    "author_url": "https://profiles.wordpress.org/francescoluiseweb/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.4",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/fda-starter-lite/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fda-starter-lite/screenshot.png?ver=1.2.12",
+    "homepage": "https://wordpress.org/themes/fda-starter-lite/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/fda-starter-lite.1.2.12.zip"
   },
   {
     "name": "fDesign",
@@ -92342,7 +92378,7 @@
   {
     "name": "Fitmeal Dietitian",
     "slug": "fitmeal-dietitian",
-    "version": "6.2.1",
+    "version": "6.2.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 0,
@@ -92350,12 +92386,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/fitmeal-dietitian/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fitmeal-dietitian/screenshot.png?ver=6.2.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fitmeal-dietitian/screenshot.png?ver=6.2.2",
     "homepage": "https://wordpress.org/themes/fitmeal-dietitian/",
     "template": "nutrition-diet",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fitmeal-dietitian.6.2.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fitmeal-dietitian.6.2.2.zip"
   },
   {
     "name": "Fitness and Gym WDA",
@@ -137036,7 +137072,7 @@
   {
     "name": "Lifestyle Blogging",
     "slug": "lifestyle-blogging",
-    "version": "6.1.1",
+    "version": "6.1.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 0,
@@ -137044,12 +137080,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/lifestyle-blogging/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/lifestyle-blogging/screenshot.png?ver=6.1.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/lifestyle-blogging/screenshot.png?ver=6.1.2",
     "homepage": "https://wordpress.org/themes/lifestyle-blogging/",
     "template": "ovation-blog",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/lifestyle-blogging.6.1.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/lifestyle-blogging.6.1.2.zip"
   },
   {
     "name": "Lifestyle Magazine",
@@ -156012,7 +156048,7 @@
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 98,
-    "num_ratings": 65,
+    "num_ratings": 66,
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/morenews/",
@@ -156350,7 +156386,7 @@
   {
     "name": "Motivational Speaker",
     "slug": "motivational-speaker",
-    "version": "6.6.1",
+    "version": "6.6.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 0,
@@ -156358,12 +156394,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/motivational-speaker/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/motivational-speaker/screenshot.png?ver=6.6.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/motivational-speaker/screenshot.png?ver=6.6.2",
     "homepage": "https://wordpress.org/themes/motivational-speaker/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/motivational-speaker.6.6.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/motivational-speaker.6.6.2.zip"
   },
   {
     "name": "Moto News",
@@ -170408,7 +170444,7 @@
   {
     "name": "Nutrition Diet",
     "slug": "nutrition-diet",
-    "version": "7.0.1",
+    "version": "7.0.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 0,
@@ -170416,12 +170452,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/nutrition-diet/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/nutrition-diet/screenshot.png?ver=7.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/nutrition-diet/screenshot.png?ver=7.0.2",
     "homepage": "https://wordpress.org/themes/nutrition-diet/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/nutrition-diet.7.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/nutrition-diet.7.0.2.zip"
   },
   {
     "name": "Nuvia",
@@ -181046,7 +181082,7 @@
   {
     "name": "Personal Gym Trainer",
     "slug": "personal-gym-trainer",
-    "version": "6.7.1",
+    "version": "6.7.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 0,
@@ -181054,12 +181090,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/personal-gym-trainer/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/personal-gym-trainer/screenshot.png?ver=6.7.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/personal-gym-trainer/screenshot.png?ver=6.7.2",
     "homepage": "https://wordpress.org/themes/personal-gym-trainer/",
     "template": "fitness-insight",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/personal-gym-trainer.6.7.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/personal-gym-trainer.6.7.2.zip"
   },
   {
     "name": "Personal Info",
@@ -197066,7 +197102,7 @@
   {
     "name": "Recycling Energy",
     "slug": "recycling-energy",
-    "version": "6.1.1",
+    "version": "6.1.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 0,
@@ -197074,12 +197110,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/recycling-energy/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/recycling-energy/screenshot.png?ver=6.1.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/recycling-energy/screenshot.png?ver=6.1.2",
     "homepage": "https://wordpress.org/themes/recycling-energy/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/recycling-energy.6.1.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/recycling-energy.6.1.2.zip"
   },
   {
     "name": "Red Delicious",
@@ -232076,7 +232112,7 @@
   {
     "name": "T-Shirt Clothing",
     "slug": "t-shirt-clothing",
-    "version": "6.1.1",
+    "version": "6.1.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 100,
@@ -232084,12 +232120,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/t-shirt-clothing/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/t-shirt-clothing/screenshot.png?ver=6.1.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/t-shirt-clothing/screenshot.png?ver=6.1.2",
     "homepage": "https://wordpress.org/themes/t-shirt-clothing/",
     "template": "clothing-store",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/t-shirt-clothing.6.1.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/t-shirt-clothing.6.1.2.zip"
   },
   {
     "name": "T Shirt Printing Shop",
@@ -265358,7 +265394,7 @@
   {
     "name": "Yoga Coach",
     "slug": "yoga-coach",
-    "version": "7.4.1",
+    "version": "7.4.2",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 20,
@@ -265366,12 +265402,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/yoga-coach/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/yoga-coach/screenshot.png?ver=7.4.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/yoga-coach/screenshot.png?ver=7.4.2",
     "homepage": "https://wordpress.org/themes/yoga-coach/",
     "template": "yoga-studio",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/yoga-coach.7.4.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/yoga-coach.7.4.2.zip"
   },
   {
     "name": "Yoga Fitness",
