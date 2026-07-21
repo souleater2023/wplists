@@ -4590,6 +4590,24 @@
     "download_link": "https://downloads.wordpress.org/theme/agencygrove-dark.1.4.zip"
   },
   {
+    "name": "Agencygrove Marketing",
+    "slug": "agencygrove-marketing",
+    "version": "1.0",
+    "author_name": "Themegrovewp",
+    "author_url": "https://profiles.wordpress.org/themegrove/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.0",
+    "requires_php": "7.0",
+    "preview_url": "https://wp-themes.com/agencygrove-marketing/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/agencygrove-marketing/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/agencygrove-marketing/",
+    "template": "agencygrove",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/agencygrove-marketing.1.0.zip"
+  },
+  {
     "name": "Agencyio",
     "slug": "agencyio",
     "version": "0.3",
@@ -8242,6 +8260,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/ampy.0.1.4.zip"
+  },
+  {
+    "name": "Amsel",
+    "slug": "amsel",
+    "version": "1.0.2",
+    "author_name": "Roman Fink",
+    "author_url": "https://profiles.wordpress.org/romanfink/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.7",
+    "requires_php": "8.0",
+    "preview_url": "https://wp-themes.com/amsel/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/amsel/screenshot.png?ver=1.0.2",
+    "homepage": "https://wordpress.org/themes/amsel/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/amsel.1.0.2.zip"
   },
   {
     "name": "AmStore",
@@ -13398,7 +13434,7 @@
     "author_name": "Brainstorm Force",
     "author_url": "https://profiles.wordpress.org/brainstormforce/",
     "rating": 98,
-    "num_ratings": 6495,
+    "num_ratings": 6496,
     "requires_wordpress": "5.3",
     "requires_php": "5.3",
     "preview_url": "https://wp-themes.com/astra/",
@@ -77672,7 +77708,7 @@
   {
     "name": "Educve Online Course",
     "slug": "educve-online-course",
-    "version": "1.2",
+    "version": "1.4",
     "author_name": "yetiwp",
     "author_url": "https://profiles.wordpress.org/yetiwp/",
     "rating": 0,
@@ -77680,12 +77716,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/educve-online-course/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/educve-online-course/screenshot.png?ver=1.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/educve-online-course/screenshot.png?ver=1.4",
     "homepage": "https://wordpress.org/themes/educve-online-course/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/educve-online-course.1.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/educve-online-course.1.4.zip"
   },
   {
     "name": "Edufication",
@@ -165996,6 +166032,24 @@
     "download_link": "https://downloads.wordpress.org/theme/newspaper-minimalistal.1.1.zip"
   },
   {
+    "name": "Newspaper Prime",
+    "slug": "newspaper-prime",
+    "version": "1.0.1",
+    "author_name": "CodeVibrant",
+    "author_url": "https://profiles.wordpress.org/codevibrant/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/newspaper-prime/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newspaper-prime/screenshot.png?ver=1.0.1",
+    "homepage": "https://wordpress.org/themes/newspaper-prime/",
+    "template": "news-vibrant",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/newspaper-prime.1.0.1.zip"
+  },
+  {
     "name": "Newspaper Story",
     "slug": "newspaper-story",
     "version": "1.0.25",
@@ -201582,6 +201636,24 @@
     "download_link": "https://downloads.wordpress.org/theme/ringbinder.1.3.zip"
   },
   {
+    "name": "Rinico",
+    "slug": "rinico",
+    "version": "1.0.6",
+    "author_name": "Al Amin",
+    "author_url": "https://profiles.wordpress.org/alamincmt/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.1",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/rinico/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/rinico/screenshot.png?ver=1.0.6",
+    "homepage": "https://wordpress.org/themes/rinico/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/rinico.1.0.6.zip"
+  },
+  {
     "name": "Rinova Blog",
     "slug": "rinova-blog",
     "version": "1.1",
@@ -208762,6 +208834,24 @@
     "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/serval.1.0.2.zip"
+  },
+  {
+    "name": "Service Business",
+    "slug": "service-business",
+    "version": "1.0",
+    "author_name": "VW THEMES",
+    "author_url": "https://profiles.wordpress.org/vowelweb/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.9",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/service-business/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/service-business/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/service-business/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/service-business.1.0.zip"
   },
   {
     "name": "Servicer",
