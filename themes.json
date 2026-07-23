@@ -2209,7 +2209,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/activewear-fashion-nook/screenshot.png?ver=1.0.1",
     "homepage": "https://wordpress.org/themes/activewear-fashion-nook/",
     "template": "fashion-nook",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/activewear-fashion-nook.1.0.1.zip"
   },
@@ -14672,7 +14672,7 @@
   {
     "name": "Author Personal Blog",
     "slug": "author-personal-blog",
-    "version": "3.2.58",
+    "version": "3.2.59",
     "author_name": "RS WP THEMES",
     "author_url": "https://profiles.wordpress.org/rswpthemes/",
     "rating": 100,
@@ -14680,12 +14680,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "8.0",
     "preview_url": "https://wp-themes.com/author-personal-blog/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/author-personal-blog/screenshot.png?ver=3.2.58",
+    "screenshot_url": "//ts.w.org/wp-content/themes/author-personal-blog/screenshot.png?ver=3.2.59",
     "homepage": "https://wordpress.org/themes/author-personal-blog/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/author-personal-blog.3.2.58.zip"
+    "download_link": "https://downloads.wordpress.org/theme/author-personal-blog.3.2.59.zip"
   },
   {
     "name": "Author Portfolio",
@@ -14762,7 +14762,7 @@
   {
     "name": "AuthorPro",
     "slug": "authorpro",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "author_name": "RS WP THEMES",
     "author_url": "https://profiles.wordpress.org/rswpthemes/",
     "rating": 0,
@@ -14770,12 +14770,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/authorpro/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/authorpro/screenshot.png?ver=1.0.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/authorpro/screenshot.png?ver=1.0.8",
     "homepage": "https://wordpress.org/themes/authorpro/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/authorpro.1.0.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/authorpro.1.0.8.zip"
   },
   {
     "name": "Auto Car Care",
@@ -34292,7 +34292,7 @@
   {
     "name": "Book Store Cart",
     "slug": "book-store-cart",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "author_name": "Themes Cart",
     "author_url": "https://profiles.wordpress.org/themescart/",
     "rating": 0,
@@ -34300,12 +34300,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/book-store-cart/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/book-store-cart/screenshot.png?ver=1.0.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/book-store-cart/screenshot.png?ver=1.0.8",
     "homepage": "https://wordpress.org/themes/book-store-cart/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/book-store-cart.1.0.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/book-store-cart.1.0.8.zip"
   },
   {
     "name": "Book Store Lite",
@@ -46291,7 +46291,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/casual-fashion-store/screenshot.png?ver=1.0.2",
     "homepage": "https://wordpress.org/themes/casual-fashion-store/",
     "template": "fashion-nook",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/casual-fashion-store.1.0.2.zip"
   },
@@ -56450,7 +56450,7 @@
   {
     "name": "Computer Repair Solutions",
     "slug": "computer-repair-solutions",
-    "version": "14.0.3",
+    "version": "14.0.4",
     "author_name": "hemaganuwala",
     "author_url": "https://profiles.wordpress.org/hemaganuwala/",
     "rating": 0,
@@ -56458,12 +56458,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/computer-repair-solutions/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/computer-repair-solutions/screenshot.png?ver=14.0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/computer-repair-solutions/screenshot.png?ver=14.0.4",
     "homepage": "https://wordpress.org/themes/computer-repair-solutions/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/computer-repair-solutions.14.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/computer-repair-solutions.14.0.4.zip"
   },
   {
     "name": "Computer Repair Store",
@@ -84638,7 +84638,7 @@
   {
     "name": "Event Managerial Service",
     "slug": "event-managerial-service",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "author_name": "Themes Cart",
     "author_url": "https://profiles.wordpress.org/themescart/",
     "rating": 0,
@@ -84646,12 +84646,12 @@
     "requires_wordpress": "5.5",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/event-managerial-service/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/event-managerial-service/screenshot.png?ver=1.0.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/event-managerial-service/screenshot.png?ver=1.0.7",
     "homepage": "https://wordpress.org/themes/event-managerial-service/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/event-managerial-service.1.0.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/event-managerial-service.1.0.7.zip"
   },
   {
     "name": "Event Organizer Elemento",
@@ -85250,7 +85250,7 @@
   {
     "name": "EVSE Charging Dock",
     "slug": "evse-charging-dock",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "author_name": "Themes Cart",
     "author_url": "https://profiles.wordpress.org/themescart/",
     "rating": 0,
@@ -85258,12 +85258,12 @@
     "requires_wordpress": "5.5",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/evse-charging-dock/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/evse-charging-dock/screenshot.png?ver=1.1.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/evse-charging-dock/screenshot.png?ver=1.1.5",
     "homepage": "https://wordpress.org/themes/evse-charging-dock/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/evse-charging-dock.1.1.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/evse-charging-dock.1.1.5.zip"
   },
   {
     "name": "Ex Astris",
@@ -99434,7 +99434,7 @@
   {
     "name": "FSE Church",
     "slug": "fse-church",
-    "version": "1.3.6",
+    "version": "1.3.7",
     "author_name": "Themes Cart",
     "author_url": "https://profiles.wordpress.org/themescart/",
     "rating": 0,
@@ -99442,12 +99442,12 @@
     "requires_wordpress": "",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/fse-church/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fse-church/screenshot.png?ver=1.3.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fse-church/screenshot.png?ver=1.3.7",
     "homepage": "https://wordpress.org/themes/fse-church/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fse-church.1.3.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fse-church.1.3.7.zip"
   },
   {
     "name": "FSE Cleaning Services",
@@ -99686,7 +99686,7 @@
   {
     "name": "FSE Gamer",
     "slug": "fse-gamer",
-    "version": "1.2.5",
+    "version": "1.2.6",
     "author_name": "Themes Cart",
     "author_url": "https://profiles.wordpress.org/themescart/",
     "rating": 0,
@@ -99694,12 +99694,12 @@
     "requires_wordpress": "",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/fse-gamer/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fse-gamer/screenshot.png?ver=1.2.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fse-gamer/screenshot.png?ver=1.2.6",
     "homepage": "https://wordpress.org/themes/fse-gamer/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fse-gamer.1.2.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fse-gamer.1.2.6.zip"
   },
   {
     "name": "FSE Green",
@@ -99920,7 +99920,7 @@
   {
     "name": "FSE Political",
     "slug": "fse-political",
-    "version": "1.3.8",
+    "version": "1.3.9",
     "author_name": "Themes Cart",
     "author_url": "https://profiles.wordpress.org/themescart/",
     "rating": 0,
@@ -99928,12 +99928,12 @@
     "requires_wordpress": "",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/fse-political/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fse-political/screenshot.png?ver=1.3.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fse-political/screenshot.png?ver=1.3.9",
     "homepage": "https://wordpress.org/themes/fse-political/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fse-political.1.3.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fse-political.1.3.9.zip"
   },
   {
     "name": "FSE Portfolio",
@@ -113960,7 +113960,7 @@
   {
     "name": "Havenlytics Realty",
     "slug": "havenlytics-realty",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "author_name": "Havenlytics",
     "author_url": "https://profiles.wordpress.org/havenlytics/",
     "rating": 100,
@@ -113968,12 +113968,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/havenlytics-realty/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/havenlytics-realty/screenshot.png?ver=2.1.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/havenlytics-realty/screenshot.png?ver=2.1.1",
     "homepage": "https://wordpress.org/themes/havenlytics-realty/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/havenlytics-realty.2.1.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/havenlytics-realty.2.1.1.zip"
   },
   {
     "name": "Havi",
@@ -120314,7 +120314,7 @@
   {
     "name": "Ilex",
     "slug": "ilex",
-    "version": "2.4.0",
+    "version": "2.4.1",
     "author_name": "dotecsa",
     "author_url": "https://profiles.wordpress.org/dotecsa/",
     "rating": 0,
@@ -120322,12 +120322,12 @@
     "requires_wordpress": "5.5",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/ilex/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/ilex/screenshot.png?ver=2.4.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ilex/screenshot.png?ver=2.4.1",
     "homepage": "https://wordpress.org/themes/ilex/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/ilex.2.4.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/ilex.2.4.1.zip"
   },
   {
     "name": "Ilisa",
@@ -239816,7 +239816,7 @@
   {
     "name": "Toocheke",
     "slug": "toocheke",
-    "version": "1.2.18",
+    "version": "1.2.19",
     "author_name": "toocheke",
     "author_url": "https://profiles.wordpress.org/toocheke/",
     "rating": 100,
@@ -239824,12 +239824,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/toocheke/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/toocheke/screenshot.png?ver=1.2.18",
+    "screenshot_url": "//ts.w.org/wp-content/themes/toocheke/screenshot.png?ver=1.2.19",
     "homepage": "https://wordpress.org/themes/toocheke/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/toocheke.1.2.18.zip"
+    "download_link": "https://downloads.wordpress.org/theme/toocheke.1.2.19.zip"
   },
   {
     "name": "ToomMorel Lite",
@@ -253298,7 +253298,7 @@
   {
     "name": "Voltmaster Electrician",
     "slug": "voltmaster-electrician",
-    "version": "15.0.4",
+    "version": "15.0.5",
     "author_name": "hemaganuwala",
     "author_url": "https://profiles.wordpress.org/hemaganuwala/",
     "rating": 0,
@@ -253306,12 +253306,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/voltmaster-electrician/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/voltmaster-electrician/screenshot.png?ver=15.0.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/voltmaster-electrician/screenshot.png?ver=15.0.5",
     "homepage": "https://wordpress.org/themes/voltmaster-electrician/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/voltmaster-electrician.15.0.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/voltmaster-electrician.15.0.5.zip"
   },
   {
     "name": "Voluto",
