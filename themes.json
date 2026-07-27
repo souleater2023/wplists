@@ -13434,7 +13434,7 @@
     "author_name": "Brainstorm Force",
     "author_url": "https://profiles.wordpress.org/brainstormforce/",
     "rating": 98,
-    "num_ratings": 6497,
+    "num_ratings": 6498,
     "requires_wordpress": "5.3",
     "requires_php": "5.3",
     "preview_url": "https://wp-themes.com/astra/",
@@ -194184,6 +194184,24 @@
     "download_link": "https://downloads.wordpress.org/theme/quiet-blog.1.0.zip"
   },
   {
+    "name": "Quiet Press",
+    "slug": "quiet-press",
+    "version": "0.4.24",
+    "author_name": "isenne",
+    "author_url": "https://profiles.wordpress.org/isenne/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.6",
+    "requires_php": "8.1",
+    "preview_url": "https://wp-themes.com/quiet-press/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/quiet-press/screenshot.png?ver=0.4.24",
+    "homepage": "https://wordpress.org/themes/quiet-press/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/quiet-press.0.4.24.zip"
+  },
+  {
     "name": "Quietly Simple",
     "slug": "quietly-simple",
     "version": "1.0",
@@ -226078,6 +226096,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/st-church.1.5.zip"
+  },
+  {
+    "name": "ST Cosmetic Surgery",
+    "slug": "st-cosmetic-surgery",
+    "version": "1.0",
+    "author_name": "Kristyna Bennett",
+    "author_url": "https://profiles.wordpress.org/kristynabennett/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "4.7",
+    "requires_php": "5.2",
+    "preview_url": "https://wp-themes.com/st-cosmetic-surgery/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/st-cosmetic-surgery/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/st-cosmetic-surgery/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/st-cosmetic-surgery.1.0.zip"
   },
   {
     "name": "ST Currency Exchange",
@@ -258662,7 +258698,7 @@
   {
     "name": "WENS Architecture",
     "slug": "wens-architecture",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -258670,12 +258706,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-architecture/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-architecture/screenshot.png?ver=1.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-architecture/screenshot.png?ver=1.0.2",
     "homepage": "https://wordpress.org/themes/wens-architecture/",
     "template": "wens-haelo",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-architecture.1.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-architecture.1.0.2.zip"
   },
   {
     "name": "WENS Barber",
@@ -258824,7 +258860,7 @@
   {
     "name": "WENS Digital Agency",
     "slug": "wens-digital-agency",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -258832,12 +258868,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-digital-agency/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-digital-agency/screenshot.png?ver=1.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-digital-agency/screenshot.png?ver=1.0.2",
     "homepage": "https://wordpress.org/themes/wens-digital-agency/",
     "template": "wens-haelo",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-digital-agency.1.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-digital-agency.1.0.2.zip"
   },
   {
     "name": "WENS Explore Ease",
@@ -258986,7 +259022,7 @@
   {
     "name": "WENS Honey",
     "slug": "wens-honey",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -258994,12 +259030,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-honey/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-honey/screenshot.png?ver=1.0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-honey/screenshot.png?ver=1.0.4",
     "homepage": "https://wordpress.org/themes/wens-honey/",
     "template": "wens-haelo",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-honey.1.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-honey.1.0.4.zip"
   },
   {
     "name": "WENS Inspire",
@@ -259256,7 +259292,7 @@
   {
     "name": "WENS TravelGo",
     "slug": "wens-travelgo",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -259264,12 +259300,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-travelgo/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-travelgo/screenshot.png?ver=1.0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-travelgo/screenshot.png?ver=1.0.3",
     "homepage": "https://wordpress.org/themes/wens-travelgo/",
     "template": "wens-haelo",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-travelgo.1.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-travelgo.1.0.3.zip"
   },
   {
     "name": "WENS Travelx",
