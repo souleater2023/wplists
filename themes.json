@@ -78842,7 +78842,7 @@
   {
     "name": "Elayne",
     "slug": "elayne",
-    "version": "4.8.0",
+    "version": "4.8.1",
     "author_name": "Rhand",
     "author_url": "https://profiles.wordpress.org/rhand/",
     "rating": 0,
@@ -78850,12 +78850,12 @@
     "requires_wordpress": "6.6",
     "requires_php": "8.0",
     "preview_url": "https://wp-themes.com/elayne/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/elayne/screenshot.png?ver=4.8.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/elayne/screenshot.png?ver=4.8.1",
     "homepage": "https://wordpress.org/themes/elayne/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/elayne.4.8.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/elayne.4.8.1.zip"
   },
   {
     "name": "Elazi Lite",
@@ -126776,7 +126776,7 @@
   {
     "name": "JGD-BizElite",
     "slug": "jgd-bizelite",
-    "version": "1.6.6",
+    "version": "1.6.7",
     "author_name": "jgpws",
     "author_url": "https://profiles.wordpress.org/jgpws/",
     "rating": 0,
@@ -126784,12 +126784,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/jgd-bizelite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/jgd-bizelite/screenshot.png?ver=1.6.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/jgd-bizelite/screenshot.png?ver=1.6.7",
     "homepage": "https://wordpress.org/themes/jgd-bizelite/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/jgd-bizelite.1.6.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/jgd-bizelite.1.6.7.zip"
   },
   {
     "name": "Jhakkas",
@@ -136317,7 +136317,7 @@
     "name": "Legacy Law",
     "slug": "legacy-law",
     "version": "1.0.2",
-    "author_name": "Code and Core",
+    "author_name": "Code and core",
     "author_url": "https://profiles.wordpress.org/codeandcore/",
     "rating": 0,
     "num_ratings": 0,
@@ -261236,20 +261236,20 @@
   {
     "name": "Wise News",
     "slug": "wise-news",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author_name": "artifythemes",
     "author_url": "https://profiles.wordpress.org/artifythemes/",
     "rating": 0,
     "num_ratings": 0,
     "requires_wordpress": "5.0",
-    "requires_php": "7.4",
+    "requires_php": "8.0",
     "preview_url": "https://wp-themes.com/wise-news/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wise-news/screenshot.png?ver=1.0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wise-news/screenshot.png?ver=1.0.4",
     "homepage": "https://wordpress.org/themes/wise-news/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wise-news.1.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wise-news.1.0.4.zip"
   },
   {
     "name": "Wishbone",
