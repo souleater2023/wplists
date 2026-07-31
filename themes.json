@@ -58302,6 +58302,24 @@
     "download_link": "https://downloads.wordpress.org/theme/consultingwp.1.8.zip"
   },
   {
+    "name": "Consultiq",
+    "slug": "consultiq",
+    "version": "1.0.0",
+    "author_name": "trendsthemeswp",
+    "author_url": "https://profiles.wordpress.org/trendsthemeswp/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.9",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/consultiq/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/consultiq/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/consultiq/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/consultiq.1.0.0.zip"
+  },
+  {
     "name": "Consultly",
     "slug": "consultly",
     "version": "0.3",
