@@ -29072,7 +29072,7 @@
   {
     "name": "BlogData",
     "slug": "blogdata",
-    "version": "1.9.0",
+    "version": "1.9.1",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 100,
@@ -29080,12 +29080,12 @@
     "requires_wordpress": "6.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/blogdata/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/blogdata/screenshot.jpg?ver=1.9.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/blogdata/screenshot.jpg?ver=1.9.1",
     "homepage": "https://wordpress.org/themes/blogdata/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/blogdata.1.9.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/blogdata.1.9.1.zip"
   },
   {
     "name": "Blogdot",
@@ -31898,7 +31898,7 @@
   {
     "name": "Blogus",
     "slug": "blogus",
-    "version": "3.0.6",
+    "version": "3.0.7",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 98,
@@ -31906,12 +31906,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/blogus/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/blogus/screenshot.jpg?ver=3.0.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/blogus/screenshot.jpg?ver=3.0.7",
     "homepage": "https://wordpress.org/themes/blogus/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/blogus.3.0.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/blogus.3.0.7.zip"
   },
   {
     "name": "Bloguten",
@@ -86310,6 +86310,24 @@
     "download_link": "https://downloads.wordpress.org/theme/experon-grid.1.0.4.zip"
   },
   {
+    "name": "Experon iMagazine",
+    "slug": "experon-imagazine",
+    "version": "1.0.1",
+    "author_name": "ThinkUpThemes",
+    "author_url": "https://profiles.wordpress.org/thinkupthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "7.0",
+    "preview_url": "https://wp-themes.com/experon-imagazine/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/experon-imagazine/screenshot.png?ver=1.0.1",
+    "homepage": "https://wordpress.org/themes/experon-imagazine/",
+    "template": "experon",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/experon-imagazine.1.0.1.zip"
+  },
+  {
     "name": "Experon Magazine",
     "slug": "experon-magazine",
     "version": "1.0.10",
@@ -92198,7 +92216,7 @@
   {
     "name": "Finix Investment Firm",
     "slug": "finix-investment-firm",
-    "version": "0.5.4",
+    "version": "0.5.5",
     "author_name": "themespride",
     "author_url": "https://profiles.wordpress.org/themespride/",
     "rating": 0,
@@ -92206,12 +92224,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/finix-investment-firm/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/finix-investment-firm/screenshot.png?ver=0.5.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/finix-investment-firm/screenshot.png?ver=0.5.5",
     "homepage": "https://wordpress.org/themes/finix-investment-firm/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/finix-investment-firm.0.5.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/finix-investment-firm.0.5.5.zip"
   },
   {
     "name": "Finley",
@@ -95546,7 +95564,7 @@
   {
     "name": "FM Radio Station",
     "slug": "fm-radio-station",
-    "version": "1.9.4",
+    "version": "1.9.5",
     "author_name": "themespride",
     "author_url": "https://profiles.wordpress.org/themespride/",
     "rating": 0,
@@ -95554,12 +95572,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/fm-radio-station/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fm-radio-station/screenshot.png?ver=1.9.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fm-radio-station/screenshot.png?ver=1.9.5",
     "homepage": "https://wordpress.org/themes/fm-radio-station/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fm-radio-station.1.9.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fm-radio-station.1.9.5.zip"
   },
   {
     "name": "fMagazine",
@@ -119108,7 +119126,7 @@
   {
     "name": "HR Services",
     "slug": "hr-services",
-    "version": "1.7.4",
+    "version": "1.7.5",
     "author_name": "themespride",
     "author_url": "https://profiles.wordpress.org/themespride/",
     "rating": 0,
@@ -119116,17 +119134,17 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/hr-services/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/hr-services/screenshot.png?ver=1.7.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/hr-services/screenshot.png?ver=1.7.5",
     "homepage": "https://wordpress.org/themes/hr-services/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/hr-services.1.7.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/hr-services.1.7.5.zip"
   },
   {
     "name": "HR Staffing Agency",
     "slug": "hr-staffing-agency",
-    "version": "1.2.4",
+    "version": "1.2.5",
     "author_name": "themespride",
     "author_url": "https://profiles.wordpress.org/themespride/",
     "rating": 0,
@@ -119134,12 +119152,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/hr-staffing-agency/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/hr-staffing-agency/screenshot.png?ver=1.2.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/hr-staffing-agency/screenshot.png?ver=1.2.5",
     "homepage": "https://wordpress.org/themes/hr-staffing-agency/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/hr-staffing-agency.1.2.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/hr-staffing-agency.1.2.5.zip"
   },
   {
     "name": "Hrasva",
@@ -144740,7 +144758,7 @@
   {
     "name": "Manufacturing Hub",
     "slug": "manufacturing-hub",
-    "version": "2.7.4",
+    "version": "2.7.5",
     "author_name": "themespride",
     "author_url": "https://profiles.wordpress.org/themespride/",
     "rating": 0,
@@ -144748,12 +144766,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/manufacturing-hub/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/manufacturing-hub/screenshot.png?ver=2.7.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/manufacturing-hub/screenshot.png?ver=2.7.5",
     "homepage": "https://wordpress.org/themes/manufacturing-hub/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/manufacturing-hub.2.7.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/manufacturing-hub.2.7.5.zip"
   },
   {
     "name": "Manufacturing Industry",
@@ -164612,7 +164630,7 @@
   {
     "name": "Newsair",
     "slug": "newsair",
-    "version": "2.3.4",
+    "version": "2.3.5",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 100,
@@ -164620,12 +164638,12 @@
     "requires_wordpress": "6.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/newsair/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsair/screenshot.jpg?ver=2.3.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsair/screenshot.jpg?ver=2.3.5",
     "homepage": "https://wordpress.org/themes/newsair/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsair.2.3.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsair.2.3.5.zip"
   },
   {
     "name": "NewsAlert",
@@ -165332,7 +165350,7 @@
   {
     "name": "Newses",
     "slug": "newses",
-    "version": "2.0.0.82",
+    "version": "2.0.0.83",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 88,
@@ -165340,12 +165358,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/newses/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newses/screenshot.jpg?ver=2.0.0.82",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newses/screenshot.jpg?ver=2.0.0.83",
     "homepage": "https://wordpress.org/themes/newses/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newses.2.0.0.82.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newses.2.0.0.83.zip"
   },
   {
     "name": "Newsetmag",
@@ -166592,7 +166610,7 @@
   {
     "name": "Newspaper Magazine Blog",
     "slug": "newspaper-magazine-blog",
-    "version": "2.6.4",
+    "version": "2.6.5",
     "author_name": "themespride",
     "author_url": "https://profiles.wordpress.org/themespride/",
     "rating": 0,
@@ -166600,12 +166618,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/newspaper-magazine-blog/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newspaper-magazine-blog/screenshot.png?ver=2.6.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newspaper-magazine-blog/screenshot.png?ver=2.6.5",
     "homepage": "https://wordpress.org/themes/newspaper-magazine-blog/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newspaper-magazine-blog.2.6.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newspaper-magazine-blog.2.6.5.zip"
   },
   {
     "name": "Newspaper Minimalistal",
@@ -166862,7 +166880,7 @@
   {
     "name": "Newspaperup",
     "slug": "newspaperup",
-    "version": "1.8.0",
+    "version": "1.8.1",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 100,
@@ -166870,12 +166888,12 @@
     "requires_wordpress": "6.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/newspaperup/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newspaperup/screenshot.jpg?ver=1.8.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newspaperup/screenshot.jpg?ver=1.8.1",
     "homepage": "https://wordpress.org/themes/newspaperup/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newspaperup.1.8.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newspaperup.1.8.1.zip"
   },
   {
     "name": "NewSpare",
@@ -167420,7 +167438,7 @@
   {
     "name": "Newsup",
     "slug": "newsup",
-    "version": "5.5.2",
+    "version": "5.5.3",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 96,
@@ -167428,12 +167446,12 @@
     "requires_wordpress": "6.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/newsup/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsup/screenshot.jpg?ver=5.5.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsup/screenshot.jpg?ver=5.5.3",
     "homepage": "https://wordpress.org/themes/newsup/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsup.5.5.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsup.5.5.3.zip"
   },
   {
     "name": "Newsus Elementor",
@@ -167636,7 +167654,7 @@
   {
     "name": "Newsxo",
     "slug": "newsxo",
-    "version": "1.6.0",
+    "version": "1.6.1",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 100,
@@ -167644,12 +167662,12 @@
     "requires_wordpress": "6.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/newsxo/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsxo/screenshot.jpg?ver=1.6.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsxo/screenshot.jpg?ver=1.6.1",
     "homepage": "https://wordpress.org/themes/newsxo/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsxo.1.6.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsxo.1.6.1.zip"
   },
   {
     "name": "Newsxpo",
@@ -174584,7 +174602,7 @@
   {
     "name": "Online Education LMS",
     "slug": "online-education-lms",
-    "version": "2.0.4",
+    "version": "2.0.5",
     "author_name": "themespride",
     "author_url": "https://profiles.wordpress.org/themespride/",
     "rating": 0,
@@ -174592,12 +174610,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/online-education-lms/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/online-education-lms/screenshot.png?ver=2.0.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/online-education-lms/screenshot.png?ver=2.0.5",
     "homepage": "https://wordpress.org/themes/online-education-lms/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/online-education-lms.2.0.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/online-education-lms.2.0.5.zip"
   },
   {
     "name": "Online Educational Courses",
@@ -175682,7 +175700,7 @@
   {
     "name": "Optical Glasses",
     "slug": "optical-glasses",
-    "version": "1.1",
+    "version": "1.2",
     "author_name": "themespride",
     "author_url": "https://profiles.wordpress.org/themespride/",
     "rating": 0,
@@ -175690,12 +175708,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/optical-glasses/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/optical-glasses/screenshot.png?ver=1.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/optical-glasses/screenshot.png?ver=1.2",
     "homepage": "https://wordpress.org/themes/optical-glasses/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/optical-glasses.1.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/optical-glasses.1.2.zip"
   },
   {
     "name": "Optical Lens Shop",
@@ -179192,20 +179210,20 @@
   {
     "name": "Paper News",
     "slug": "paper-news",
-    "version": "1.0",
+    "version": "1.1",
     "author_name": "themeansar",
     "author_url": "https://profiles.wordpress.org/themeansar/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "5.4",
+    "requires_wordpress": "6.0",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/paper-news/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/paper-news/screenshot.jpg?ver=1.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/paper-news/screenshot.jpg?ver=1.1",
     "homepage": "https://wordpress.org/themes/paper-news/",
     "template": "newsair",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/paper-news.1.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/paper-news.1.1.zip"
   },
   {
     "name": "Paper3",
@@ -183156,7 +183174,7 @@
     "author_name": "averta",
     "author_url": "https://profiles.wordpress.org/averta/",
     "rating": 96,
-    "num_ratings": 862,
+    "num_ratings": 863,
     "requires_wordpress": "",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/phlox/",
@@ -204626,7 +204644,7 @@
   {
     "name": "SAAS Agency",
     "slug": "saas-agency",
-    "version": "2.5.4",
+    "version": "2.5.5",
     "author_name": "themespride",
     "author_url": "https://profiles.wordpress.org/themespride/",
     "rating": 0,
@@ -204634,12 +204652,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/saas-agency/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/saas-agency/screenshot.png?ver=2.5.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/saas-agency/screenshot.png?ver=2.5.5",
     "homepage": "https://wordpress.org/themes/saas-agency/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/saas-agency.2.5.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/saas-agency.2.5.5.zip"
   },
   {
     "name": "SAAS Company",
@@ -258284,7 +258302,7 @@
   {
     "name": "Wedding Managerial Service",
     "slug": "wedding-managerial-service",
-    "version": "0.1",
+    "version": "0.2",
     "author_name": "themespride",
     "author_url": "https://profiles.wordpress.org/themespride/",
     "rating": 0,
@@ -258292,12 +258310,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/wedding-managerial-service/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wedding-managerial-service/screenshot.png?ver=0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wedding-managerial-service/screenshot.png?ver=0.2",
     "homepage": "https://wordpress.org/themes/wedding-managerial-service/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wedding-managerial-service.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wedding-managerial-service.0.2.zip"
   },
   {
     "name": "Wedding Photography",
