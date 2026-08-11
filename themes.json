@@ -4621,7 +4621,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/agencygrove-marketing/screenshot.png?ver=1.1",
     "homepage": "https://wordpress.org/themes/agencygrove-marketing/",
     "template": "agencygrove",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/agencygrove-marketing.1.1.zip"
   },
@@ -14092,6 +14092,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/atrium-lite.1.0.1.zip"
+  },
+  {
+    "name": "Atromax",
+    "slug": "atromax",
+    "version": "0.1",
+    "author_name": "Desert Themes",
+    "author_url": "https://profiles.wordpress.org/desertthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "4.7",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/atromax/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/atromax/screenshot.png?ver=0.1",
+    "homepage": "https://wordpress.org/themes/atromax/",
+    "template": "ploto",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/atromax.0.1.zip"
   },
   {
     "name": "Atrux",
@@ -23899,7 +23917,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/bizlink-dark/screenshot.png?ver=1.1",
     "homepage": "https://wordpress.org/themes/bizlink-dark/",
     "template": "bizlink",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/bizlink-dark.1.1.zip"
   },
@@ -71041,7 +71059,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/digitalgrove-next/screenshot.png?ver=1.1",
     "homepage": "https://wordpress.org/themes/digitalgrove-next/",
     "template": "digitalgrove",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/digitalgrove-next.1.1.zip"
   },
@@ -84494,7 +84512,7 @@
   {
     "name": "eStore",
     "slug": "estore",
-    "version": "1.6.11",
+    "version": "1.6.12",
     "author_name": "ThemeGrill",
     "author_url": "https://profiles.wordpress.org/themegrill/",
     "rating": 92,
@@ -84502,12 +84520,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/estore/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/estore/screenshot.jpg?ver=1.6.11",
+    "screenshot_url": "//ts.w.org/wp-content/themes/estore/screenshot.jpg?ver=1.6.12",
     "homepage": "https://wordpress.org/themes/estore/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/estore.1.6.11.zip"
+    "download_link": "https://downloads.wordpress.org/theme/estore.1.6.12.zip"
   },
   {
     "name": "Estore Woocommerce",
@@ -187110,6 +187128,24 @@
     "download_link": "https://downloads.wordpress.org/theme/plumbing-technician.1.3.3.zip"
   },
   {
+    "name": "Plumbing Works",
+    "slug": "plumbing-works",
+    "version": "1.0.4",
+    "author_name": "hemaganuwala",
+    "author_url": "https://profiles.wordpress.org/hemaganuwala/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/plumbing-works/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/plumbing-works/screenshot.png?ver=1.0.4",
+    "homepage": "https://wordpress.org/themes/plumbing-works/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/plumbing-works.1.0.4.zip"
+  },
+  {
     "name": "Plus News",
     "slug": "plus-news",
     "version": "1.0.29",
@@ -226314,6 +226350,24 @@
     "download_link": "https://downloads.wordpress.org/theme/sports-lite.2.1.zip"
   },
   {
+    "name": "Sports News FSE",
+    "slug": "sports-news-fse",
+    "version": "1.0.0",
+    "author_name": "DesignOrbital",
+    "author_url": "https://profiles.wordpress.org/designorbital/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.9",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/sports-news-fse/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/sports-news-fse/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/sports-news-fse/",
+    "template": "fresh-blog-lite",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/sports-news-fse.1.0.0.zip"
+  },
+  {
     "name": "Sports Nutritionist",
     "slug": "sports-nutritionist",
     "version": "2.6.4",
@@ -233545,7 +233599,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/swp-notary/screenshot.png?ver=1.2",
     "homepage": "https://wordpress.org/themes/swp-notary/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/swp-notary.1.2.zip"
   },
@@ -239290,6 +239344,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/theme-latobi-ii.1.0.8.zip"
+  },
+  {
+    "name": "Themecut",
+    "slug": "themecut",
+    "version": "1.0.5",
+    "author_name": "Themecut",
+    "author_url": "https://profiles.wordpress.org/themecut/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.7",
+    "requires_php": "8.1",
+    "preview_url": "https://wp-themes.com/themecut/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/themecut/screenshot.png?ver=1.0.5",
+    "homepage": "https://wordpress.org/themes/themecut/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/themecut.1.0.5.zip"
   },
   {
     "name": "Themelia",
@@ -248434,6 +248506,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/unexposed.1.0.4.zip"
+  },
+  {
+    "name": "Unfiltered News",
+    "slug": "unfiltered-news",
+    "version": "1.0.0",
+    "author_name": "artifythemes",
+    "author_url": "https://profiles.wordpress.org/artifythemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "8.0",
+    "preview_url": "https://wp-themes.com/unfiltered-news/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/unfiltered-news/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/unfiltered-news/",
+    "template": "wise-news",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/unfiltered-news.1.0.0.zip"
   },
   {
     "name": "Uni Course",
