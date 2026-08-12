@@ -48420,6 +48420,24 @@
     "download_link": "https://downloads.wordpress.org/theme/charity-care.1.1.1.zip"
   },
   {
+    "name": "Charity Elemento",
+    "slug": "charity-elemento",
+    "version": "0.0.1",
+    "author_name": "wpelemento",
+    "author_url": "https://profiles.wordpress.org/wpelemento/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/charity-elemento/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/charity-elemento/screenshot.png?ver=0.0.1",
+    "homepage": "https://wordpress.org/themes/charity-elemento/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/charity-elemento.0.0.1.zip"
+  },
+  {
     "name": "Charity Elite",
     "slug": "charity-elite",
     "version": "1.0.8",
@@ -54596,7 +54614,7 @@
   {
     "name": "Codersly Shop",
     "slug": "codersly-shop",
-    "version": "1.1.7",
+    "version": "1.1.8",
     "author_name": "Codersly",
     "author_url": "https://profiles.wordpress.org/codersly/",
     "rating": 100,
@@ -54604,12 +54622,12 @@
     "requires_wordpress": "6.3",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/codersly-shop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/codersly-shop/screenshot.png?ver=1.1.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/codersly-shop/screenshot.png?ver=1.1.8",
     "homepage": "https://wordpress.org/themes/codersly-shop/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/codersly-shop.1.1.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/codersly-shop.1.1.8.zip"
   },
   {
     "name": "codescheme_blue",
