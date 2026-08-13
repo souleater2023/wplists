@@ -216902,7 +216902,7 @@
   {
     "name": "Simple Grey",
     "slug": "simple-grey",
-    "version": "1.8.1",
+    "version": "2.0.0",
     "author_name": "Peter Hebert",
     "author_url": "https://profiles.wordpress.org/peterhebert/",
     "rating": 0,
@@ -216910,12 +216910,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/simple-grey/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/simple-grey/screenshot.png?ver=1.8.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/simple-grey/screenshot.png?ver=2.0.0",
     "homepage": "https://wordpress.org/themes/simple-grey/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/simple-grey.1.8.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/simple-grey.2.0.0.zip"
   },
   {
     "name": "Simple Grid",
@@ -246940,6 +246940,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/ttm-business.1.0.8.zip"
+  },
+  {
+    "name": "TTSunSolar",
+    "slug": "ttsunsolar",
+    "version": "1.0",
+    "author_name": "themestulip",
+    "author_url": "https://profiles.wordpress.org/themestulip/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/ttsunsolar/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ttsunsolar/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/ttsunsolar/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/ttsunsolar.1.0.zip"
   },
   {
     "name": ".TUBE",
