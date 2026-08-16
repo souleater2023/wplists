@@ -14168,7 +14168,7 @@
   {
     "name": "Attesa",
     "slug": "attesa",
-    "version": "1.5.9.5",
+    "version": "1.5.9.6",
     "author_name": "CrestaProject",
     "author_url": "https://profiles.wordpress.org/crestaproject/",
     "rating": 86,
@@ -14176,12 +14176,12 @@
     "requires_wordpress": "",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/attesa/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/attesa/screenshot.png?ver=1.5.9.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/attesa/screenshot.png?ver=1.5.9.6",
     "homepage": "https://wordpress.org/themes/attesa/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/attesa.1.5.9.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/attesa.1.5.9.6.zip"
   },
   {
     "name": "Attimo",
@@ -162095,8 +162095,8 @@
     "version": "1.1.9",
     "author_name": "WPMatcha",
     "author_url": "https://profiles.wordpress.org/wpmatcha/",
-    "rating": 20,
-    "num_ratings": 1,
+    "rating": 60,
+    "num_ratings": 2,
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/navid/",
