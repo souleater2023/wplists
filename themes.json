@@ -27661,7 +27661,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/blog-hub/screenshot.png?ver=1.0.0",
     "homepage": "https://wordpress.org/themes/blog-hub/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/blog-hub.1.0.0.zip"
   },
@@ -27697,7 +27697,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/blog-ink/screenshot.png?ver=1.1.0",
     "homepage": "https://wordpress.org/themes/blog-ink/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/blog-ink.1.1.0.zip"
   },
@@ -27805,7 +27805,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/blog-log/screenshot.png?ver=1.0.1",
     "homepage": "https://wordpress.org/themes/blog-log/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/blog-log.1.0.1.zip"
   },
@@ -49430,7 +49430,7 @@
   {
     "name": "Child Education",
     "slug": "child-education",
-    "version": "1.2",
+    "version": "1.3",
     "author_name": "hippothemes",
     "author_url": "https://profiles.wordpress.org/hippothemes/",
     "rating": 54,
@@ -49438,12 +49438,12 @@
     "requires_wordpress": "5.4",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/child-education/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/child-education/screenshot.png?ver=1.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/child-education/screenshot.png?ver=1.3",
     "homepage": "https://wordpress.org/themes/child-education/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/child-education.1.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/child-education.1.3.zip"
   },
   {
     "name": "childcare",
@@ -56497,7 +56497,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/commerce-grove/screenshot.png?ver=1.1",
     "homepage": "https://wordpress.org/themes/commerce-grove/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/commerce-grove.1.1.zip"
   },
@@ -58657,7 +58657,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/consultiq/screenshot.png?ver=1.0.1",
     "homepage": "https://wordpress.org/themes/consultiq/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/consultiq.1.0.1.zip"
   },
@@ -58693,7 +58693,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/consultora/screenshot.png?ver=1.0.2",
     "homepage": "https://wordpress.org/themes/consultora/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/consultora.1.0.2.zip"
   },
@@ -61933,7 +61933,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/covixa/screenshot.png?ver=1.0.1",
     "homepage": "https://wordpress.org/themes/covixa/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/covixa.1.0.1.zip"
   },
@@ -71285,8 +71285,8 @@
     "version": "1.4",
     "author_name": "Themegrovewp",
     "author_url": "https://profiles.wordpress.org/themegrove/",
-    "rating": 0,
-    "num_ratings": 0,
+    "rating": 100,
+    "num_ratings": 1,
     "requires_wordpress": "6.0",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/digitalgrove/",
@@ -85837,7 +85837,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/everyday-news/screenshot.png?ver=1.0.1",
     "homepage": "https://wordpress.org/themes/everyday-news/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/everyday-news.1.0.1.zip"
   },
@@ -93494,7 +93494,7 @@
   {
     "name": "Fitness Freak",
     "slug": "fitness-freak",
-    "version": "1.1",
+    "version": "1.2",
     "author_name": "hippothemes",
     "author_url": "https://profiles.wordpress.org/hippothemes/",
     "rating": 0,
@@ -93502,12 +93502,12 @@
     "requires_wordpress": "5.4",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/fitness-freak/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fitness-freak/screenshot.jpg?ver=1.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fitness-freak/screenshot.jpg?ver=1.2",
     "homepage": "https://wordpress.org/themes/fitness-freak/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fitness-freak.1.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fitness-freak.1.2.zip"
   },
   {
     "name": "Fitness FSE",
@@ -110263,7 +110263,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/grove-app/screenshot.png?ver=1.1",
     "homepage": "https://wordpress.org/themes/grove-app/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/grove-app.1.1.zip"
   },
@@ -164443,7 +164443,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/news-flow/screenshot.png?ver=1.0.0",
     "homepage": "https://wordpress.org/themes/news-flow/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/news-flow.1.0.0.zip"
   },
@@ -165127,7 +165127,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/news-record/screenshot.png?ver=1.0.0",
     "homepage": "https://wordpress.org/themes/news-record/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/news-record.1.0.0.zip"
   },
@@ -171625,7 +171625,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/novexa/screenshot.png?ver=1.0.2",
     "homepage": "https://wordpress.org/themes/novexa/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/novexa.1.0.2.zip"
   },
@@ -178652,7 +178652,7 @@
   {
     "name": "Ovation Health Blog",
     "slug": "ovation-health-blog",
-    "version": "7.5.2",
+    "version": "7.5.3",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 20,
@@ -178660,12 +178660,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/ovation-health-blog/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/ovation-health-blog/screenshot.png?ver=7.5.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ovation-health-blog/screenshot.png?ver=7.5.3",
     "homepage": "https://wordpress.org/themes/ovation-health-blog/",
     "template": "ovation-blog",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/ovation-health-blog.7.5.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/ovation-health-blog.7.5.3.zip"
   },
   {
     "name": "Ovation Spa Blocks",
@@ -201978,6 +201978,24 @@
     "download_link": "https://downloads.wordpress.org/theme/restaurant-culinary.1.3.3.zip"
   },
   {
+    "name": "Restaurant Eatery",
+    "slug": "restaurant-eatery",
+    "version": "0.1",
+    "author_name": "themespride",
+    "author_url": "https://profiles.wordpress.org/themespride/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/restaurant-eatery/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/restaurant-eatery/screenshot.png?ver=0.1",
+    "homepage": "https://wordpress.org/themes/restaurant-eatery/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/restaurant-eatery.0.1.zip"
+  },
+  {
     "name": "Restaurant Elementor",
     "slug": "restaurant-elementor",
     "version": "1.8",
@@ -213590,7 +213608,7 @@
   {
     "name": "Shopper Ecommerce",
     "slug": "shopper-ecommerce",
-    "version": "7.1.2",
+    "version": "7.1.3",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 0,
@@ -213598,12 +213616,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/shopper-ecommerce/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/shopper-ecommerce/screenshot.png?ver=7.1.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/shopper-ecommerce/screenshot.png?ver=7.1.3",
     "homepage": "https://wordpress.org/themes/shopper-ecommerce/",
     "template": "modern-ecommerce",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/shopper-ecommerce.7.1.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/shopper-ecommerce.7.1.3.zip"
   },
   {
     "name": "Shopper Shop",
@@ -234360,6 +234378,24 @@
     "download_link": "https://downloads.wordpress.org/theme/swp-dental-clinic.1.0.zip"
   },
   {
+    "name": "SWP Florist",
+    "slug": "swp-florist",
+    "version": "1.0",
+    "author_name": "scintillawpthemes",
+    "author_url": "https://profiles.wordpress.org/scintillawpthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.5",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/swp-florist/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/swp-florist/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/swp-florist/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/swp-florist.1.0.zip"
+  },
+  {
     "name": "SWP Notary",
     "slug": "swp-notary",
     "version": "1.2",
@@ -249403,7 +249439,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/unfiltered-news/screenshot.png?ver=1.0.0",
     "homepage": "https://wordpress.org/themes/unfiltered-news/",
     "template": "wise-news",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/unfiltered-news.1.0.0.zip"
   },
@@ -251800,6 +251836,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/vantage.1.20.33.zip"
+  },
+  {
+    "name": "Vantree",
+    "slug": "vantree",
+    "version": "1.0.3",
+    "author_name": "saumya010",
+    "author_url": "https://profiles.wordpress.org/saumya010/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.4",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/vantree/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vantree/screenshot.png?ver=1.0.3",
+    "homepage": "https://wordpress.org/themes/vantree/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/vantree.1.0.3.zip"
   },
   {
     "name": "Varela Blog",
@@ -268454,7 +268508,7 @@
   {
     "name": "Yoga Coach",
     "slug": "yoga-coach",
-    "version": "7.4.2",
+    "version": "7.4.3",
     "author_name": "pewilliams",
     "author_url": "https://profiles.wordpress.org/pewilliams/",
     "rating": 20,
@@ -268462,12 +268516,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/yoga-coach/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/yoga-coach/screenshot.png?ver=7.4.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/yoga-coach/screenshot.png?ver=7.4.3",
     "homepage": "https://wordpress.org/themes/yoga-coach/",
     "template": "yoga-studio",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/yoga-coach.7.4.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/yoga-coach.7.4.3.zip"
   },
   {
     "name": "Yoga Fitness",
