@@ -67610,20 +67610,20 @@
   {
     "name": "Datar",
     "slug": "datar",
-    "version": "1.0.71",
+    "version": "1.1.0",
     "author_name": "Walter Pinem",
     "author_url": "https://profiles.wordpress.org/walterpinem/",
     "rating": 100,
     "num_ratings": 1,
-    "requires_wordpress": "4.0",
-    "requires_php": "",
+    "requires_wordpress": "5.2",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/datar/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/datar/screenshot.png?ver=1.0.71",
+    "screenshot_url": "//ts.w.org/wp-content/themes/datar/screenshot.png?ver=1.1.0",
     "homepage": "https://wordpress.org/themes/datar/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/datar.1.0.71.zip"
+    "download_link": "https://downloads.wordpress.org/theme/datar.1.1.0.zip"
   },
   {
     "name": "Dating Coach",
@@ -72236,7 +72236,7 @@
   {
     "name": "DIY Handmade",
     "slug": "diy-handmade",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -72244,12 +72244,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/diy-handmade/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/diy-handmade/screenshot.png?ver=1.0.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/diy-handmade/screenshot.png?ver=1.0.1",
     "homepage": "https://wordpress.org/themes/diy-handmade/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/diy-handmade.1.0.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/diy-handmade.1.0.1.zip"
   },
   {
     "name": "DIY Tutorials",
@@ -84220,6 +84220,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/erma.1.0.11.zip"
+  },
+  {
+    "name": "Eronex",
+    "slug": "eronex",
+    "version": "0.0.3",
+    "author_name": "deveasel",
+    "author_url": "https://profiles.wordpress.org/deveasel/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.5",
+    "requires_php": "8.0",
+    "preview_url": "https://wp-themes.com/eronex/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/eronex/screenshot.jpg?ver=0.0.3",
+    "homepage": "https://wordpress.org/themes/eronex/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/eronex.0.0.3.zip"
   },
   {
     "name": "Eroshiksavp",
@@ -162344,7 +162362,7 @@
   {
     "name": "Navid",
     "slug": "navid",
-    "version": "1.1.9",
+    "version": "1.2.0",
     "author_name": "WPMatcha",
     "author_url": "https://profiles.wordpress.org/wpmatcha/",
     "rating": 60,
@@ -162352,12 +162370,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/navid/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/navid/screenshot.png?ver=1.1.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/navid/screenshot.png?ver=1.2.0",
     "homepage": "https://wordpress.org/themes/navid/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/navid.1.1.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/navid.1.2.0.zip"
   },
   {
     "name": "Navid Magazine",
