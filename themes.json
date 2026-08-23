@@ -4358,20 +4358,20 @@
   {
     "name": "Agency Ecommerce",
     "slug": "agency-ecommerce",
-    "version": "2.1.3",
+    "version": "2.1.4",
     "author_name": "MantraBrain",
     "author_url": "https://profiles.wordpress.org/mantrabrain/",
     "rating": 100,
     "num_ratings": 8,
-    "requires_wordpress": "",
+    "requires_wordpress": "4.5",
     "requires_php": "5.4",
     "preview_url": "https://wp-themes.com/agency-ecommerce/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/agency-ecommerce/screenshot.png?ver=2.1.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/agency-ecommerce/screenshot.png?ver=2.1.4",
     "homepage": "https://wordpress.org/themes/agency-ecommerce/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/agency-ecommerce.2.1.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/agency-ecommerce.2.1.4.zip"
   },
   {
     "name": "Agency Elementor",
@@ -143948,38 +143948,38 @@
   {
     "name": "MagazineNP",
     "slug": "magazinenp",
-    "version": "1.2.11",
+    "version": "1.2.12",
     "author_name": "MantraBrain",
     "author_url": "https://profiles.wordpress.org/mantrabrain/",
     "rating": 94,
     "num_ratings": 13,
-    "requires_wordpress": "",
+    "requires_wordpress": "4.7",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/magazinenp/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/magazinenp/screenshot.png?ver=1.2.11",
+    "screenshot_url": "//ts.w.org/wp-content/themes/magazinenp/screenshot.png?ver=1.2.12",
     "homepage": "https://wordpress.org/themes/magazinenp/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/magazinenp.1.2.11.zip"
+    "download_link": "https://downloads.wordpress.org/theme/magazinenp.1.2.12.zip"
   },
   {
     "name": "Magazineplus",
     "slug": "magazineplus",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "author_name": "MantraBrain",
     "author_url": "https://profiles.wordpress.org/mantrabrain/",
     "rating": 100,
     "num_ratings": 2,
-    "requires_wordpress": "",
+    "requires_wordpress": "4.7",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/magazineplus/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/magazineplus/screenshot.png?ver=1.0.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/magazineplus/screenshot.png?ver=1.0.8",
     "homepage": "https://wordpress.org/themes/magazineplus/",
     "template": "magazinenp",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/magazineplus.1.0.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/magazineplus.1.0.8.zip"
   },
   {
     "name": "Magaziner",
@@ -157574,20 +157574,20 @@
   {
     "name": "MonoWP",
     "slug": "monowp",
-    "version": "1.9.8",
+    "version": "1.9.9",
     "author_name": "Ignazio Di Maio",
     "author_url": "https://profiles.wordpress.org/ignaziodimaio/",
     "rating": 0,
     "num_ratings": 0,
     "requires_wordpress": "6.3",
-    "requires_php": "7.0",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/monowp/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/monowp/screenshot.png?ver=1.9.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/monowp/screenshot.png?ver=1.9.9",
     "homepage": "https://wordpress.org/themes/monowp/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/monowp.1.9.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/monowp.1.9.9.zip"
   },
   {
     "name": "Monsoon Blog",
@@ -187778,7 +187778,7 @@
   {
     "name": "Plover",
     "slug": "plover",
-    "version": "1.4.6",
+    "version": "1.4.7",
     "author_name": "WP Plover",
     "author_url": "https://profiles.wordpress.org/plover/",
     "rating": 74,
@@ -187786,12 +187786,12 @@
     "requires_wordpress": "6.4",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/plover/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/plover/screenshot.png?ver=1.4.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/plover/screenshot.png?ver=1.4.7",
     "homepage": "https://wordpress.org/themes/plover/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/plover.1.4.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/plover.1.4.7.zip"
   },
   {
     "name": "Plug Shop",
@@ -201404,20 +201404,20 @@
   {
     "name": "Resa",
     "slug": "resa",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "author_name": "MantraBrain",
     "author_url": "https://profiles.wordpress.org/mantrabrain/",
     "rating": 0,
     "num_ratings": 0,
     "requires_wordpress": "5.3",
-    "requires_php": "5.3",
+    "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/resa/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/resa/screenshot.png?ver=1.0.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/resa/screenshot.png?ver=1.0.7",
     "homepage": "https://wordpress.org/themes/resa/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/resa.1.0.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/resa.1.0.7.zip"
   },
   {
     "name": "Reseller Store",
@@ -267824,7 +267824,7 @@
   {
     "name": "X-T9",
     "slug": "x-t9",
-    "version": "1.42.0",
+    "version": "1.42.1",
     "author_name": "Hidekazu Ishikawa",
     "author_url": "https://profiles.wordpress.org/kurudrive/",
     "rating": 86,
@@ -267832,12 +267832,12 @@
     "requires_wordpress": "7.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/x-t9/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/x-t9/screenshot.jpg?ver=1.42.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/x-t9/screenshot.jpg?ver=1.42.1",
     "homepage": "https://wordpress.org/themes/x-t9/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/x-t9.1.42.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/x-t9.1.42.1.zip"
   },
   {
     "name": "X3P0 - Reflections",
