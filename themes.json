@@ -1190,7 +1190,7 @@
   {
     "name": "Absolute 2026",
     "slug": "absolute-2026",
-    "version": "1.3.0",
+    "version": "1.3.1",
     "author_name": "Don Schnitzius",
     "author_url": "https://profiles.wordpress.org/don1138/",
     "rating": 0,
@@ -1198,12 +1198,12 @@
     "requires_wordpress": "7.0",
     "requires_php": "8.3",
     "preview_url": "https://wp-themes.com/absolute-2026/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/absolute-2026/screenshot.png?ver=1.3.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/absolute-2026/screenshot.png?ver=1.3.1",
     "homepage": "https://wordpress.org/themes/absolute-2026/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/absolute-2026.1.3.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/absolute-2026.1.3.1.zip"
   },
   {
     "name": "Absolutte",
@@ -120451,7 +120451,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/hvac-fse/screenshot.png?ver=1.0.0",
     "homepage": "https://wordpress.org/themes/hvac-fse/",
     "template": "fresh-blog-lite",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/hvac-fse.1.0.0.zip"
   },
@@ -163924,24 +163924,6 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/newdark.1.1.7.zip"
-  },
-  {
-    "name": "NewDevelopments",
-    "slug": "newdevelopments",
-    "version": "2.0.5",
-    "author_name": "Fran Rosa",
-    "author_url": "https://profiles.wordpress.org/franrosa/",
-    "rating": 0,
-    "num_ratings": 0,
-    "requires_wordpress": "6.0",
-    "requires_php": "7.4",
-    "preview_url": "https://wp-themes.com/newdevelopments/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newdevelopments/screenshot.png?ver=2.0.5",
-    "homepage": "https://wordpress.org/themes/newdevelopments/",
-    "template": "",
-    "is_commercial": false,
-    "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newdevelopments.2.0.5.zip"
   },
   {
     "name": "Newfangled",
@@ -227515,7 +227497,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/sports-news-fse/screenshot.png?ver=1.0.0",
     "homepage": "https://wordpress.org/themes/sports-news-fse/",
     "template": "fresh-blog-lite",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/sports-news-fse.1.0.0.zip"
   },
@@ -242365,7 +242347,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/today-blog/screenshot.png?ver=1.0.1",
     "homepage": "https://wordpress.org/themes/today-blog/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/today-blog.1.0.1.zip"
   },
