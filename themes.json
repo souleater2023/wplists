@@ -166266,6 +166266,24 @@
     "download_link": "https://downloads.wordpress.org/theme/newscastle.1.1.8.zip"
   },
   {
+    "name": "NewsCave",
+    "slug": "newscave",
+    "version": "1.0.0",
+    "author_name": "AF themes",
+    "author_url": "https://profiles.wordpress.org/afthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "7.0",
+    "preview_url": "https://wp-themes.com/newscave/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newscave/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/newscave/",
+    "template": "covernews",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/newscave.1.0.0.zip"
+  },
+  {
     "name": "Newschannel",
     "slug": "newschannel",
     "version": "1.6",
