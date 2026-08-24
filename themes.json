@@ -13578,7 +13578,7 @@
     "author_name": "Brainstorm Force",
     "author_url": "https://profiles.wordpress.org/brainstormforce/",
     "rating": 98,
-    "num_ratings": 6510,
+    "num_ratings": 6511,
     "requires_wordpress": "5.3",
     "requires_php": "5.3",
     "preview_url": "https://wp-themes.com/astra/",
@@ -18232,6 +18232,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/babysitting-day-care.2.1.3.zip"
+  },
+  {
+    "name": "Bachpan School",
+    "slug": "bachpan-school",
+    "version": "1.0.4",
+    "author_name": "Kuldeep Singh",
+    "author_url": "https://profiles.wordpress.org/shubhamkuldeep/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.8",
+    "requires_php": "8.0",
+    "preview_url": "https://wp-themes.com/bachpan-school/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/bachpan-school/screenshot.png?ver=1.0.4",
+    "homepage": "https://wordpress.org/themes/bachpan-school/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/bachpan-school.1.0.4.zip"
   },
   {
     "name": "Backphoto",
@@ -155270,7 +155288,7 @@
   {
     "name": "Mise",
     "slug": "mise",
-    "version": "1.9.4",
+    "version": "1.9.5",
     "author_name": "CrestaProject",
     "author_url": "https://profiles.wordpress.org/crestaproject/",
     "rating": 100,
@@ -155278,12 +155296,12 @@
     "requires_wordpress": "",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/mise/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/mise/screenshot.png?ver=1.9.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/mise/screenshot.png?ver=1.9.5",
     "homepage": "https://wordpress.org/themes/mise/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/mise.1.9.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/mise.1.9.5.zip"
   },
   {
     "name": "Mismo",
