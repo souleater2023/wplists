@@ -176544,6 +176544,24 @@
     "download_link": "https://downloads.wordpress.org/theme/online-notary.2.0.6.zip"
   },
   {
+    "name": "Online Organic Store",
+    "slug": "online-organic-store",
+    "version": "1.0",
+    "author_name": "Titan Themes",
+    "author_url": "https://profiles.wordpress.org/titanthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.1",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/online-organic-store/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/online-organic-store/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/online-organic-store/",
+    "template": "organic-store",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/online-organic-store.1.0.zip"
+  },
+  {
     "name": "Online Personal Trainer",
     "slug": "online-personal-trainer",
     "version": "1.4",
@@ -230760,6 +230778,24 @@
     "download_link": "https://downloads.wordpress.org/theme/storecommerce.2.1.2.zip"
   },
   {
+    "name": "Storecraft",
+    "slug": "storecraft",
+    "version": "1.0.2",
+    "author_name": "frtechnologies",
+    "author_url": "https://profiles.wordpress.org/frtechnologies/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/storecraft/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/storecraft/screenshot.png?ver=1.0.2",
+    "homepage": "https://wordpress.org/themes/storecraft/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/storecraft.1.0.2.zip"
+  },
+  {
     "name": "Storefit",
     "slug": "storefit",
     "version": "23.1",
@@ -268166,7 +268202,7 @@
   {
     "name": "X-Nihilo",
     "slug": "x-nihilo",
-    "version": "1.0.7",
+    "version": "1.1.0",
     "author_name": "Thomas Lloancy",
     "author_url": "https://profiles.wordpress.org/tlloancy/",
     "rating": 0,
@@ -268174,12 +268210,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "8.0",
     "preview_url": "https://wp-themes.com/x-nihilo/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/x-nihilo/screenshot.png?ver=1.0.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/x-nihilo/screenshot.png?ver=1.1.0",
     "homepage": "https://wordpress.org/themes/x-nihilo/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/x-nihilo.1.0.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/x-nihilo.1.1.0.zip"
   },
   {
     "name": "X Portfolio",
