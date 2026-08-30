@@ -10136,7 +10136,7 @@
   {
     "name": "Applience Shop",
     "slug": "applience-shop",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author_name": "Gradient Themes",
     "author_url": "https://profiles.wordpress.org/gradientthemes/",
     "rating": 0,
@@ -10144,12 +10144,12 @@
     "requires_wordpress": "",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/applience-shop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/applience-shop/screenshot.png?ver=1.0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/applience-shop/screenshot.png?ver=1.0.4",
     "homepage": "https://wordpress.org/themes/applience-shop/",
     "template": "best-shop",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/applience-shop.1.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/applience-shop.1.0.4.zip"
   },
   {
     "name": "Appointable",
@@ -34094,7 +34094,7 @@
   {
     "name": "Bluetooth Speaker",
     "slug": "bluetooth-speaker",
-    "version": "3.4.4",
+    "version": "3.4.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -34102,12 +34102,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/bluetooth-speaker/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/bluetooth-speaker/screenshot.png?ver=3.4.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/bluetooth-speaker/screenshot.png?ver=3.4.5",
     "homepage": "https://wordpress.org/themes/bluetooth-speaker/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/bluetooth-speaker.3.4.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/bluetooth-speaker.3.4.5.zip"
   },
   {
     "name": "Blume Beauty",
@@ -37276,6 +37276,24 @@
     "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/bosa-shopper.1.0.5.zip"
+  },
+  {
+    "name": "Bosa Spa Wellness",
+    "slug": "bosa-spa-wellness",
+    "version": "1.0.1",
+    "author_name": "Bosa Themes",
+    "author_url": "https://profiles.wordpress.org/bosathemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/bosa-spa-wellness/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/bosa-spa-wellness/screenshot.png?ver=1.0.1",
+    "homepage": "https://wordpress.org/themes/bosa-spa-wellness/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/bosa-spa-wellness.1.0.1.zip"
   },
   {
     "name": "Bosa Startup Business",
@@ -65810,7 +65828,7 @@
   {
     "name": "CV Workfolio",
     "slug": "cv-workfolio",
-    "version": "3.7.4",
+    "version": "3.7.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -65818,12 +65836,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/cv-workfolio/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/cv-workfolio/screenshot.png?ver=3.7.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/cv-workfolio/screenshot.png?ver=3.7.5",
     "homepage": "https://wordpress.org/themes/cv-workfolio/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/cv-workfolio.3.7.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/cv-workfolio.3.7.5.zip"
   },
   {
     "name": "Cvee",
@@ -69223,7 +69241,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/denovr-lite/screenshot.jpg?ver=1.0.1",
     "homepage": "https://wordpress.org/themes/denovr-lite/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/denovr-lite.1.0.1.zip"
   },
@@ -72974,7 +72992,7 @@
   {
     "name": "Dogcare Grooming",
     "slug": "dogcare-grooming",
-    "version": "2.6.4",
+    "version": "2.6.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -72982,12 +73000,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/dogcare-grooming/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/dogcare-grooming/screenshot.png?ver=2.6.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/dogcare-grooming/screenshot.png?ver=2.6.5",
     "homepage": "https://wordpress.org/themes/dogcare-grooming/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/dogcare-grooming.2.6.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/dogcare-grooming.2.6.5.zip"
   },
   {
     "name": "Dogcare Hub",
@@ -76932,24 +76950,6 @@
     "download_link": "https://downloads.wordpress.org/theme/ecommerce-star.1.3.9.zip"
   },
   {
-    "name": "eCommerce Startup",
-    "slug": "ecommerce-startup",
-    "version": "1.0.1",
-    "author_name": "Gradient Themes",
-    "author_url": "https://profiles.wordpress.org/gradientthemes/",
-    "rating": 0,
-    "num_ratings": 0,
-    "requires_wordpress": "",
-    "requires_php": "5.6",
-    "preview_url": "https://wp-themes.com/ecommerce-startup/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/ecommerce-startup/screenshot.png?ver=1.0.1",
-    "homepage": "https://wordpress.org/themes/ecommerce-startup/",
-    "template": "best-shop",
-    "is_commercial": false,
-    "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/ecommerce-startup.1.0.1.zip"
-  },
-  {
     "name": "eCommerce Store",
     "slug": "ecommerce-store",
     "version": "1.0.5",
@@ -77024,7 +77024,7 @@
   {
     "name": "Ecommerce Trendy Outfits",
     "slug": "ecommerce-trendy-outfits",
-    "version": "2.6.4",
+    "version": "2.6.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -77032,12 +77032,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/ecommerce-trendy-outfits/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/ecommerce-trendy-outfits/screenshot.png?ver=2.6.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ecommerce-trendy-outfits/screenshot.png?ver=2.6.5",
     "homepage": "https://wordpress.org/themes/ecommerce-trendy-outfits/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/ecommerce-trendy-outfits.2.6.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/ecommerce-trendy-outfits.2.6.5.zip"
   },
   {
     "name": "Ecommerce Watch Store",
@@ -78176,7 +78176,7 @@
   {
     "name": "Education Management",
     "slug": "education-management",
-    "version": "3.4.4",
+    "version": "3.4.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -78184,12 +78184,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/education-management/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/education-management/screenshot.png?ver=3.4.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/education-management/screenshot.png?ver=3.4.5",
     "homepage": "https://wordpress.org/themes/education-management/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/education-management.3.4.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/education-management.3.4.5.zip"
   },
   {
     "name": "Education Master",
@@ -89534,7 +89534,7 @@
   {
     "name": "Family Photographer",
     "slug": "family-photographer",
-    "version": "2.6.4",
+    "version": "2.6.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -89542,12 +89542,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/family-photographer/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/family-photographer/screenshot.png?ver=2.6.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/family-photographer/screenshot.png?ver=2.6.5",
     "homepage": "https://wordpress.org/themes/family-photographer/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/family-photographer.2.6.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/family-photographer.2.6.5.zip"
   },
   {
     "name": "Fancier",
@@ -95942,7 +95942,7 @@
   {
     "name": "Florist Blocks",
     "slug": "florist-blocks",
-    "version": "2.1.4",
+    "version": "2.1.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -95950,12 +95950,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/florist-blocks/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/florist-blocks/screenshot.png?ver=2.1.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/florist-blocks/screenshot.png?ver=2.1.5",
     "homepage": "https://wordpress.org/themes/florist-blocks/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/florist-blocks.2.1.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/florist-blocks.2.1.5.zip"
   },
   {
     "name": "Florist Bouquet",
@@ -99596,7 +99596,7 @@
   {
     "name": "Freelance Portfolio",
     "slug": "freelance-portfolio",
-    "version": "3.6.4",
+    "version": "3.6.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -99604,12 +99604,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/freelance-portfolio/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/freelance-portfolio/screenshot.png?ver=3.6.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/freelance-portfolio/screenshot.png?ver=3.6.5",
     "homepage": "https://wordpress.org/themes/freelance-portfolio/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/freelance-portfolio.3.6.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/freelance-portfolio.3.6.5.zip"
   },
   {
     "name": "Freelancer",
@@ -118028,7 +118028,7 @@
   {
     "name": "Holistic Health Coach",
     "slug": "holistic-health-coach",
-    "version": "3.3.4",
+    "version": "3.3.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -118036,12 +118036,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/holistic-health-coach/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/holistic-health-coach/screenshot.png?ver=3.3.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/holistic-health-coach/screenshot.png?ver=3.3.5",
     "homepage": "https://wordpress.org/themes/holistic-health-coach/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/holistic-health-coach.3.3.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/holistic-health-coach.3.3.5.zip"
   },
   {
     "name": "Holistic Teahouse",
@@ -118370,7 +118370,7 @@
   {
     "name": "Home Decorative Items",
     "slug": "home-decorative-items",
-    "version": "3.4.4",
+    "version": "3.4.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -118378,12 +118378,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/home-decorative-items/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/home-decorative-items/screenshot.png?ver=3.4.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/home-decorative-items/screenshot.png?ver=3.4.5",
     "homepage": "https://wordpress.org/themes/home-decorative-items/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/home-decorative-items.3.4.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/home-decorative-items.3.4.5.zip"
   },
   {
     "name": "Home Electrician",
@@ -118820,7 +118820,7 @@
   {
     "name": "Home Theatre",
     "slug": "home-theatre",
-    "version": "2.9.4",
+    "version": "2.9.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -118828,12 +118828,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/home-theatre/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/home-theatre/screenshot.png?ver=2.9.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/home-theatre/screenshot.png?ver=2.9.5",
     "homepage": "https://wordpress.org/themes/home-theatre/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/home-theatre.2.9.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/home-theatre.2.9.5.zip"
   },
   {
     "name": "Home Tutor",
@@ -126506,7 +126506,7 @@
   {
     "name": "IT Services Management",
     "slug": "it-services-management",
-    "version": "3.6.4",
+    "version": "3.6.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -126514,12 +126514,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/it-services-management/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/it-services-management/screenshot.png?ver=3.6.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/it-services-management/screenshot.png?ver=3.6.5",
     "homepage": "https://wordpress.org/themes/it-services-management/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/it-services-management.3.6.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/it-services-management.3.6.5.zip"
   },
   {
     "name": "IT Simpl",
@@ -149276,7 +149276,7 @@
   {
     "name": "Mechanic Car Repair",
     "slug": "mechanic-car-repair",
-    "version": "3.8.4",
+    "version": "3.8.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -149284,12 +149284,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/mechanic-car-repair/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/mechanic-car-repair/screenshot.png?ver=3.8.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/mechanic-car-repair/screenshot.png?ver=3.8.5",
     "homepage": "https://wordpress.org/themes/mechanic-car-repair/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/mechanic-car-repair.3.8.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/mechanic-car-repair.3.8.5.zip"
   },
   {
     "name": "Mechanical Industry",
@@ -167870,7 +167870,7 @@
   {
     "name": "NewsNation",
     "slug": "newsnation",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "author_name": "WPInterface",
     "author_url": "https://profiles.wordpress.org/wpinterface/",
     "rating": 0,
@@ -167878,12 +167878,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/newsnation/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsnation/screenshot.png?ver=1.0.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsnation/screenshot.png?ver=1.0.7",
     "homepage": "https://wordpress.org/themes/newsnation/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsnation.1.0.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsnation.1.0.7.zip"
   },
   {
     "name": "NewsNest",
@@ -173670,7 +173670,7 @@
     "author_name": "oceanwp",
     "author_url": "https://profiles.wordpress.org/oceanwp/",
     "rating": 98,
-    "num_ratings": 5713,
+    "num_ratings": 5714,
     "requires_wordpress": "5.9",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/oceanwp/",
@@ -176834,7 +176834,7 @@
   {
     "name": "Online Sneaker Shop",
     "slug": "online-sneaker-shop",
-    "version": "3.3.4",
+    "version": "3.3.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -176842,12 +176842,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/online-sneaker-shop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/online-sneaker-shop/screenshot.png?ver=3.3.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/online-sneaker-shop/screenshot.png?ver=3.3.5",
     "homepage": "https://wordpress.org/themes/online-sneaker-shop/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/online-sneaker-shop.3.3.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/online-sneaker-shop.3.3.5.zip"
   },
   {
     "name": "Online Startup Agency",
@@ -195655,7 +195655,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/qalour-lite/screenshot.jpg?ver=1.0.1",
     "homepage": "https://wordpress.org/themes/qalour-lite/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/qalour-lite.1.0.1.zip"
   },
@@ -198362,7 +198362,7 @@
   {
     "name": "Readers Digest",
     "slug": "readers-digest",
-    "version": "2.2.4",
+    "version": "2.2.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -198370,12 +198370,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/readers-digest/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/readers-digest/screenshot.png?ver=2.2.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/readers-digest/screenshot.png?ver=2.2.5",
     "homepage": "https://wordpress.org/themes/readers-digest/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/readers-digest.2.2.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/readers-digest.2.2.5.zip"
   },
   {
     "name": "Readline",
@@ -242606,7 +242606,7 @@
   {
     "name": "Titan Business Agency",
     "slug": "titan-business-agency",
-    "version": "3.7.4",
+    "version": "3.7.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -242614,12 +242614,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/titan-business-agency/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/titan-business-agency/screenshot.png?ver=3.7.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/titan-business-agency/screenshot.png?ver=3.7.5",
     "homepage": "https://wordpress.org/themes/titan-business-agency/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/titan-business-agency.3.7.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/titan-business-agency.3.7.5.zip"
   },
   {
     "name": "Titan Digital Agency",
@@ -242642,7 +242642,7 @@
   {
     "name": "Titan Elearning",
     "slug": "titan-elearning",
-    "version": "3.0.4",
+    "version": "3.0.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -242650,12 +242650,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/titan-elearning/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/titan-elearning/screenshot.png?ver=3.0.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/titan-elearning/screenshot.png?ver=3.0.5",
     "homepage": "https://wordpress.org/themes/titan-elearning/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/titan-elearning.3.0.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/titan-elearning.3.0.5.zip"
   },
   {
     "name": "Titan Event Management",
@@ -242696,7 +242696,7 @@
   {
     "name": "Titan Tools center",
     "slug": "titan-tools-center",
-    "version": "2.3.4",
+    "version": "2.3.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -242704,12 +242704,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/titan-tools-center/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/titan-tools-center/screenshot.png?ver=2.3.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/titan-tools-center/screenshot.png?ver=2.3.5",
     "homepage": "https://wordpress.org/themes/titan-tools-center/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/titan-tools-center.2.3.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/titan-tools-center.2.3.5.zip"
   },
   {
     "name": "Titanium",
@@ -252254,7 +252254,7 @@
   {
     "name": "Vacation Booking",
     "slug": "vacation-booking",
-    "version": "2.8.4",
+    "version": "2.8.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -252262,12 +252262,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vacation-booking/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vacation-booking/screenshot.png?ver=2.8.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vacation-booking/screenshot.png?ver=2.8.5",
     "homepage": "https://wordpress.org/themes/vacation-booking/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vacation-booking.2.8.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vacation-booking.2.8.5.zip"
   },
   {
     "name": "Vacation Lite",
