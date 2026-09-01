@@ -3764,20 +3764,20 @@
   {
     "name": "Adwa",
     "slug": "adwa",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "author_name": "E David Man",
     "author_url": "https://profiles.wordpress.org/edavidman/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "6.6",
+    "requires_wordpress": "6.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/adwa/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/adwa/screenshot.png?ver=1.0.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/adwa/screenshot.png?ver=1.0.5",
     "homepage": "https://wordpress.org/themes/adwa/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/adwa.1.0.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/adwa.1.0.5.zip"
   },
   {
     "name": "AeonAccess",
@@ -92666,7 +92666,7 @@
   {
     "name": "Filmmaker Production Studio",
     "slug": "filmmaker-production-studio",
-    "version": "1.1",
+    "version": "1.2",
     "author_name": "Stacy Dolan",
     "author_url": "https://profiles.wordpress.org/stacydolan/",
     "rating": 0,
@@ -92674,12 +92674,12 @@
     "requires_wordpress": "6.5",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/filmmaker-production-studio/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/filmmaker-production-studio/screenshot.png?ver=1.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/filmmaker-production-studio/screenshot.png?ver=1.2",
     "homepage": "https://wordpress.org/themes/filmmaker-production-studio/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/filmmaker-production-studio.1.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/filmmaker-production-studio.1.2.zip"
   },
   {
     "name": "Filmways Lite",
@@ -113380,6 +113380,24 @@
     "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/gutentools-starter.1.3.zip"
+  },
+  {
+    "name": "Gutentype FSE",
+    "slug": "gutentype-fse",
+    "version": "1.0.3",
+    "author_name": "TemplateHouse",
+    "author_url": "https://profiles.wordpress.org/templatehouse/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.1",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/gutentype-fse/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/gutentype-fse/screenshot.png?ver=1.0.3",
+    "homepage": "https://wordpress.org/themes/gutentype-fse/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/gutentype-fse.1.0.3.zip"
   },
   {
     "name": "Guto Lite",
@@ -155792,20 +155810,20 @@
   {
     "name": "Misty Lake",
     "slug": "misty-lake",
-    "version": "1.2.3",
+    "version": "1.2.5",
     "author_name": "Automattic",
     "author_url": "https://profiles.wordpress.org/automattic/",
     "rating": 100,
     "num_ratings": 3,
-    "requires_wordpress": "",
-    "requires_php": "",
+    "requires_wordpress": "6.0",
+    "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/misty-lake/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/misty-lake/screenshot.png?ver=1.2.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/misty-lake/screenshot.png?ver=1.2.5",
     "homepage": "https://wordpress.org/themes/misty-lake/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/misty-lake.1.2.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/misty-lake.1.2.5.zip"
   },
   {
     "name": "Mitco Tech",
@@ -158024,20 +158042,20 @@
   {
     "name": "Monster",
     "slug": "monster",
-    "version": "1.2.1",
+    "version": "1.2.4",
     "author_name": "Automattic",
     "author_url": "https://profiles.wordpress.org/automattic/",
     "rating": 100,
     "num_ratings": 2,
-    "requires_wordpress": "",
-    "requires_php": "",
+    "requires_wordpress": "6.0",
+    "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/monster/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/monster/screenshot.png?ver=1.2.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/monster/screenshot.png?ver=1.2.4",
     "homepage": "https://wordpress.org/themes/monster/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/monster.1.2.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/monster.1.2.4.zip"
   },
   {
     "name": "Monster Business",
@@ -244402,6 +244420,24 @@
     "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/training-institute-academy.1.3.2.zip"
+  },
+  {
+    "name": "Trama",
+    "slug": "trama",
+    "version": "1.0.42",
+    "author_name": "Franchi Denis",
+    "author_url": "https://profiles.wordpress.org/franchidesign/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.7",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/trama/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/trama/screenshot.png?ver=1.0.42",
+    "homepage": "https://wordpress.org/themes/trama/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/trama.1.0.42.zip"
   },
   {
     "name": "trance",
