@@ -100118,20 +100118,20 @@
   {
     "name": "Fresh Blog Lite",
     "slug": "fresh-blog-lite",
-    "version": "2.0.6",
+    "version": "2.0.7",
     "author_name": "DesignOrbital",
     "author_url": "https://profiles.wordpress.org/designorbital/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "6.9",
+    "requires_wordpress": "7.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/fresh-blog-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fresh-blog-lite/screenshot.png?ver=2.0.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fresh-blog-lite/screenshot.png?ver=2.0.7",
     "homepage": "https://wordpress.org/themes/fresh-blog-lite/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fresh-blog-lite.2.0.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fresh-blog-lite.2.0.7.zip"
   },
   {
     "name": "Fresh Editorial",
@@ -186878,20 +186878,20 @@
   {
     "name": "Pink Touch 2",
     "slug": "pink-touch-2",
-    "version": "1.3.1",
+    "version": "1.3.3",
     "author_name": "Automattic",
     "author_url": "https://profiles.wordpress.org/automattic/",
     "rating": 40,
     "num_ratings": 1,
-    "requires_wordpress": "",
-    "requires_php": "",
+    "requires_wordpress": "6.0",
+    "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/pink-touch-2/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/pink-touch-2/screenshot.png?ver=1.3.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/pink-touch-2/screenshot.png?ver=1.3.3",
     "homepage": "https://wordpress.org/themes/pink-touch-2/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/pink-touch-2.1.3.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/pink-touch-2.1.3.3.zip"
   },
   {
     "name": "Pink Tulip",
@@ -196760,7 +196760,7 @@
   {
     "name": "Quintus",
     "slug": "quintus",
-    "version": "1.2.8",
+    "version": "1.2.9",
     "author_name": "Automattic",
     "author_url": "https://profiles.wordpress.org/automattic/",
     "rating": 100,
@@ -196768,12 +196768,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/quintus/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/quintus/screenshot.png?ver=1.2.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/quintus/screenshot.png?ver=1.2.9",
     "homepage": "https://wordpress.org/themes/quintus/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/quintus.1.2.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/quintus.1.2.9.zip"
   },
   {
     "name": "Quna",
@@ -233732,20 +233732,20 @@
   {
     "name": "Sundance",
     "slug": "sundance",
-    "version": "1.1.3",
+    "version": "1.1.7",
     "author_name": "Automattic",
     "author_url": "https://profiles.wordpress.org/automattic/",
     "rating": 100,
     "num_ratings": 1,
-    "requires_wordpress": "",
-    "requires_php": "",
+    "requires_wordpress": "6.0",
+    "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/sundance/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/sundance/screenshot.png?ver=1.1.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/sundance/screenshot.png?ver=1.1.7",
     "homepage": "https://wordpress.org/themes/sundance/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/sundance.1.1.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/sundance.1.1.7.zip"
   },
   {
     "name": "Sundara",
@@ -233894,20 +233894,20 @@
   {
     "name": "Sunspot",
     "slug": "sunspot",
-    "version": "1.1.4",
+    "version": "1.1.6",
     "author_name": "Automattic",
     "author_url": "https://profiles.wordpress.org/automattic/",
     "rating": 90,
     "num_ratings": 4,
-    "requires_wordpress": "",
-    "requires_php": "",
+    "requires_wordpress": "6.0",
+    "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/sunspot/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/sunspot/screenshot.png?ver=1.1.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/sunspot/screenshot.png?ver=1.1.6",
     "homepage": "https://wordpress.org/themes/sunspot/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/sunspot.1.1.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/sunspot.1.1.6.zip"
   },
   {
     "name": "Suntech",
@@ -254270,20 +254270,20 @@
   {
     "name": "Vertigo",
     "slug": "vertigo",
-    "version": "1.50.3",
+    "version": "1.50.6",
     "author_name": "Automattic",
     "author_url": "https://profiles.wordpress.org/automattic/",
     "rating": 100,
     "num_ratings": 1,
-    "requires_wordpress": "",
-    "requires_php": "",
+    "requires_wordpress": "6.0",
+    "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vertigo/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vertigo/screenshot.png?ver=1.50.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vertigo/screenshot.png?ver=1.50.6",
     "homepage": "https://wordpress.org/themes/vertigo/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vertigo.1.50.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vertigo.1.50.6.zip"
   },
   {
     "name": "Verve Blog",
@@ -262496,7 +262496,7 @@
   {
     "name": "WENS Magazine",
     "slug": "wens-magazine",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author_name": "WEN Solutions",
     "author_url": "https://profiles.wordpress.org/wen-solutions/",
     "rating": 0,
@@ -262504,12 +262504,12 @@
     "requires_wordpress": "6.4",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wens-magazine/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wens-magazine/screenshot.png?ver=1.0.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wens-magazine/screenshot.png?ver=1.0.1",
     "homepage": "https://wordpress.org/themes/wens-magazine/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wens-magazine.1.0.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wens-magazine.1.0.1.zip"
   },
   {
     "name": "WENS Musico",
