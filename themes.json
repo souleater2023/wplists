@@ -27038,7 +27038,7 @@
   {
     "name": "Blocksy",
     "slug": "blocksy",
-    "version": "2.1.55",
+    "version": "2.1.56",
     "author_name": "Creative Themes",
     "author_url": "https://profiles.wordpress.org/creativethemeshq/",
     "rating": 100,
@@ -27046,12 +27046,12 @@
     "requires_wordpress": "6.7",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/blocksy/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/blocksy/screenshot.jpg?ver=2.1.55",
+    "screenshot_url": "//ts.w.org/wp-content/themes/blocksy/screenshot.jpg?ver=2.1.56",
     "homepage": "https://wordpress.org/themes/blocksy/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/blocksy.2.1.55.zip"
+    "download_link": "https://downloads.wordpress.org/theme/blocksy.2.1.56.zip"
   },
   {
     "name": "BlockVerse",
@@ -114104,20 +114104,20 @@
   {
     "name": "Hafen",
     "slug": "hafen",
-    "version": "0.9.1",
+    "version": "1.0.0",
     "author_name": "hafenstudios",
     "author_url": "https://profiles.wordpress.org/hafenstudios/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "6.4",
+    "requires_wordpress": "6.6",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/hafen/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/hafen/screenshot.png?ver=0.9.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/hafen/screenshot.png?ver=1.0.0",
     "homepage": "https://wordpress.org/themes/hafen/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/hafen.0.9.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/hafen.1.0.0.zip"
   },
   {
     "name": "Hague Firm",
@@ -120494,7 +120494,7 @@
   {
     "name": "Hq Pages",
     "slug": "hq-pages",
-    "version": "1.0.74",
+    "version": "1.0.75",
     "author_name": "hq-web",
     "author_url": "https://profiles.wordpress.org/hqweb/",
     "rating": 0,
@@ -120502,12 +120502,12 @@
     "requires_wordpress": "6.4",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/hq-pages/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/hq-pages/screenshot.png?ver=1.0.74",
+    "screenshot_url": "//ts.w.org/wp-content/themes/hq-pages/screenshot.png?ver=1.0.75",
     "homepage": "https://wordpress.org/themes/hq-pages/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/hq-pages.1.0.74.zip"
+    "download_link": "https://downloads.wordpress.org/theme/hq-pages.1.0.75.zip"
   },
   {
     "name": "HR Management",
@@ -120854,20 +120854,20 @@
   {
     "name": "HVAC FSE",
     "slug": "hvac-fse",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author_name": "DesignOrbital",
     "author_url": "https://profiles.wordpress.org/designorbital/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "6.8",
-    "requires_php": "8.3",
+    "requires_wordpress": "7.0",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/hvac-fse/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/hvac-fse/screenshot.png?ver=1.0.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/hvac-fse/screenshot.png?ver=1.0.1",
     "homepage": "https://wordpress.org/themes/hvac-fse/",
     "template": "fresh-blog-lite",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/hvac-fse.1.0.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/hvac-fse.1.0.1.zip"
   },
   {
     "name": "HVAC Repair",
@@ -172656,6 +172656,24 @@
     "download_link": "https://downloads.wordpress.org/theme/novi.1.0.8.zip"
   },
   {
+    "name": "Novo Lite Photography",
+    "slug": "novo-lite-photography",
+    "version": "1.0.4",
+    "author_name": "Promo Theme",
+    "author_url": "https://profiles.wordpress.org/promothemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.4",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/novo-lite-photography/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/novo-lite-photography/screenshot.jpg?ver=1.0.4",
+    "homepage": "https://wordpress.org/themes/novo-lite-photography/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/novo-lite-photography.1.0.4.zip"
+  },
+  {
     "name": "Novyra",
     "slug": "novyra",
     "version": "1.0",
@@ -183782,20 +183800,20 @@
   {
     "name": "Perfume Store FSE",
     "slug": "perfume-store-fse",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "author_name": "DesignOrbital",
     "author_url": "https://profiles.wordpress.org/designorbital/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "6.7",
-    "requires_php": "7.2",
+    "requires_wordpress": "7.0",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/perfume-store-fse/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/perfume-store-fse/screenshot.png?ver=1.0.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/perfume-store-fse/screenshot.png?ver=1.0.5",
     "homepage": "https://wordpress.org/themes/perfume-store-fse/",
     "template": "fresh-blog-lite",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/perfume-store-fse.1.0.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/perfume-store-fse.1.0.5.zip"
   },
   {
     "name": "Perfumery Store",
@@ -214454,7 +214472,7 @@
   {
     "name": "ShopMarkaz Lite",
     "slug": "shopmarkaz-lite",
-    "version": "1.9.5",
+    "version": "1.9.6",
     "author_name": "abdulrehman4964",
     "author_url": "https://profiles.wordpress.org/abdulrehman4964/",
     "rating": 0,
@@ -214462,12 +214480,12 @@
     "requires_wordpress": "6.4",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/shopmarkaz-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/shopmarkaz-lite/screenshot.png?ver=1.9.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/shopmarkaz-lite/screenshot.png?ver=1.9.6",
     "homepage": "https://wordpress.org/themes/shopmarkaz-lite/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/shopmarkaz-lite.1.9.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/shopmarkaz-lite.1.9.6.zip"
   },
   {
     "name": "ShopMax",
@@ -228782,20 +228800,20 @@
   {
     "name": "Squash Personal Coach",
     "slug": "squash-personal-coach",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author_name": "DesignOrbital",
     "author_url": "https://profiles.wordpress.org/designorbital/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "6.7",
-    "requires_php": "7.2",
+    "requires_wordpress": "7.0",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/squash-personal-coach/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/squash-personal-coach/screenshot.png?ver=1.0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/squash-personal-coach/screenshot.png?ver=1.0.3",
     "homepage": "https://wordpress.org/themes/squash-personal-coach/",
     "template": "fresh-blog-lite",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/squash-personal-coach.1.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/squash-personal-coach.1.0.3.zip"
   },
   {
     "name": "SqueezeMe",
