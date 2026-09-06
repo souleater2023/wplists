@@ -5654,7 +5654,7 @@
   {
     "name": "Al Hathaway",
     "slug": "al-hathaway",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author_name": "Atanas Yonkov",
     "author_url": "https://profiles.wordpress.org/nravota12/",
     "rating": 0,
@@ -5662,12 +5662,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/al-hathaway/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/al-hathaway/screenshot.png?ver=0.0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/al-hathaway/screenshot.png?ver=0.0.4",
     "homepage": "https://wordpress.org/themes/al-hathaway/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/al-hathaway.0.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/al-hathaway.0.0.4.zip"
   },
   {
     "name": "Alacrity Lite",
@@ -34907,8 +34907,8 @@
     "version": "1.4.4",
     "author_name": "RS WP THEMES",
     "author_url": "https://profiles.wordpress.org/rswpthemes/",
-    "rating": 0,
-    "num_ratings": 0,
+    "rating": 80,
+    "num_ratings": 1,
     "requires_wordpress": "5.0",
     "requires_php": "8.0",
     "preview_url": "https://wp-themes.com/book-review-blog/",
