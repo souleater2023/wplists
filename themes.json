@@ -1190,7 +1190,7 @@
   {
     "name": "Absolute 2026",
     "slug": "absolute-2026",
-    "version": "1.4.1",
+    "version": "1.5.0",
     "author_name": "Don Schnitzius",
     "author_url": "https://profiles.wordpress.org/don1138/",
     "rating": 0,
@@ -1198,12 +1198,12 @@
     "requires_wordpress": "7.0",
     "requires_php": "8.3",
     "preview_url": "https://wp-themes.com/absolute-2026/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/absolute-2026/screenshot.png?ver=1.4.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/absolute-2026/screenshot.png?ver=1.5.0",
     "homepage": "https://wordpress.org/themes/absolute-2026/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/absolute-2026.1.4.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/absolute-2026.1.5.0.zip"
   },
   {
     "name": "Absolutte",
@@ -197357,8 +197357,8 @@
     "version": "1.3.0",
     "author_name": "WP Radiant",
     "author_url": "https://profiles.wordpress.org/wpradiant/",
-    "rating": 0,
-    "num_ratings": 0,
+    "rating": 20,
+    "num_ratings": 1,
     "requires_wordpress": "6.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/radiant-adventure-tour/",
@@ -266024,25 +266024,25 @@
   {
     "name": "WowMart",
     "slug": "wowmart",
-    "version": "1.0.9",
+    "version": "1.1.0",
     "author_name": "Noor Alam",
     "author_url": "https://profiles.wordpress.org/nalam-1/",
     "rating": 100,
     "num_ratings": 1,
-    "requires_wordpress": "",
-    "requires_php": "5.6",
+    "requires_wordpress": "6.0",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wowmart/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wowmart/screenshot.png?ver=1.0.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wowmart/screenshot.png?ver=1.1.0",
     "homepage": "https://wordpress.org/themes/wowmart/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wowmart.1.0.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wowmart.1.1.0.zip"
   },
   {
     "name": "WoWmart Lite",
     "slug": "wowmart-lite",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author_name": "Noor Alam",
     "author_url": "https://profiles.wordpress.org/nalam-1/",
     "rating": 0,
@@ -266050,17 +266050,17 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wowmart-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wowmart-lite/screenshot.png?ver=1.0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wowmart-lite/screenshot.png?ver=1.0.3",
     "homepage": "https://wordpress.org/themes/wowmart-lite/",
     "template": "wowmart",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wowmart-lite.1.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wowmart-lite.1.0.3.zip"
   },
   {
     "name": "WoWmart Organic",
     "slug": "wowmart-organic",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author_name": "Noor Alam",
     "author_url": "https://profiles.wordpress.org/nalam-1/",
     "rating": 0,
@@ -266068,17 +266068,17 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wowmart-organic/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wowmart-organic/screenshot.png?ver=1.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wowmart-organic/screenshot.png?ver=1.0.2",
     "homepage": "https://wordpress.org/themes/wowmart-organic/",
     "template": "wowmart",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wowmart-organic.1.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wowmart-organic.1.0.2.zip"
   },
   {
     "name": "WoWmart Plus",
     "slug": "wowmart-plus",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author_name": "Noor Alam",
     "author_url": "https://profiles.wordpress.org/nalam-1/",
     "rating": 0,
@@ -266086,12 +266086,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wowmart-plus/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wowmart-plus/screenshot.png?ver=1.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wowmart-plus/screenshot.png?ver=1.0.2",
     "homepage": "https://wordpress.org/themes/wowmart-plus/",
     "template": "wowmart",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wowmart-plus.1.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wowmart-plus.1.0.2.zip"
   },
   {
     "name": "Wowsome",
