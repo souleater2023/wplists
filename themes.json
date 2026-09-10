@@ -79958,7 +79958,7 @@
   {
     "name": "eLearning",
     "slug": "elearning",
-    "version": "2.1.7",
+    "version": "2.1.8",
     "author_name": "masteriyo",
     "author_url": "https://profiles.wordpress.org/masteriyo/",
     "rating": 100,
@@ -79966,12 +79966,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/elearning/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/elearning/screenshot.jpg?ver=2.1.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/elearning/screenshot.jpg?ver=2.1.8",
     "homepage": "https://wordpress.org/themes/elearning/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/elearning.2.1.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/elearning.2.1.8.zip"
   },
   {
     "name": "Elearning Academy Education",
@@ -83752,6 +83752,24 @@
     "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/enterprise-one.1.0.zip"
+  },
+  {
+    "name": "Enterprise One Dark",
+    "slug": "enterprise-one-dark",
+    "version": "1.0",
+    "author_name": "thryvewp",
+    "author_url": "https://profiles.wordpress.org/thryvewp/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.5",
+    "requires_php": "7.0",
+    "preview_url": "https://wp-themes.com/enterprise-one-dark/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/enterprise-one-dark/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/enterprise-one-dark/",
+    "template": "enterprise-one",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/enterprise-one-dark.1.0.zip"
   },
   {
     "name": "Enterprise One Plus",
@@ -141302,7 +141320,7 @@
   {
     "name": "LMS Academic",
     "slug": "lms-academic",
-    "version": "1.0.15",
+    "version": "1.0.17",
     "author_name": "flawlesstheme",
     "author_url": "https://profiles.wordpress.org/flawlesstheme/",
     "rating": 0,
@@ -141310,12 +141328,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/lms-academic/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/lms-academic/screenshot.png?ver=1.0.15",
+    "screenshot_url": "//ts.w.org/wp-content/themes/lms-academic/screenshot.png?ver=1.0.17",
     "homepage": "https://wordpress.org/themes/lms-academic/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/lms-academic.1.0.15.zip"
+    "download_link": "https://downloads.wordpress.org/theme/lms-academic.1.0.17.zip"
   },
   {
     "name": "LMS Academy",
@@ -196828,6 +196846,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/quark.1.4.1.zip"
+  },
+  {
+    "name": "Quarkora",
+    "slug": "quarkora",
+    "version": "1.0.0",
+    "author_name": "Faysal Hasan",
+    "author_url": "https://profiles.wordpress.org/faysalhasan/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.6",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/quarkora/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/quarkora/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/quarkora/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/quarkora.1.0.0.zip"
   },
   {
     "name": "Quattuor",
