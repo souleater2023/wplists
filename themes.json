@@ -232760,7 +232760,7 @@
   {
     "name": "SuevaFree",
     "slug": "suevafree",
-    "version": "3.9.5.4",
+    "version": "3.9.5.5",
     "author_name": "alexvtn",
     "author_url": "https://profiles.wordpress.org/alexvtn/",
     "rating": 92,
@@ -232768,12 +232768,12 @@
     "requires_wordpress": "",
     "requires_php": "5.3",
     "preview_url": "https://wp-themes.com/suevafree/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/suevafree/screenshot.png?ver=3.9.5.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/suevafree/screenshot.png?ver=3.9.5.5",
     "homepage": "https://wordpress.org/themes/suevafree/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/suevafree.3.9.5.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/suevafree.3.9.5.5.zip"
   },
   {
     "name": "Suffice",
@@ -237998,20 +237998,20 @@
   {
     "name": "Tendo",
     "slug": "tendo",
-    "version": "1.6.3",
+    "version": "2.0.0",
     "author_name": "philhoyt",
     "author_url": "https://profiles.wordpress.org/philhoyt/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "6.1",
-    "requires_php": "5.6",
+    "requires_wordpress": "6.6",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/tendo/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/tendo/screenshot.png?ver=1.6.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/tendo/screenshot.png?ver=2.0.0",
     "homepage": "https://wordpress.org/themes/tendo/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/tendo.1.6.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/tendo.2.0.0.zip"
   },
   {
     "name": "Tenet",
