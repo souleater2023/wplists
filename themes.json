@@ -13592,25 +13592,25 @@
   {
     "name": "Astory",
     "slug": "astory",
-    "version": "1.0.9",
+    "version": "1.1.0",
     "author_name": "CODECLOVE",
     "author_url": "https://profiles.wordpress.org/codeclove/",
     "rating": 60,
     "num_ratings": 3,
-    "requires_wordpress": "6.0",
-    "requires_php": "5.6",
+    "requires_wordpress": "6.2",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/astory/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/astory/screenshot.png?ver=1.0.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/astory/screenshot.png?ver=1.1.0",
     "homepage": "https://wordpress.org/themes/astory/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/astory.1.0.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/astory.1.1.0.zip"
   },
   {
     "name": "Astra",
     "slug": "astra",
-    "version": "4.13.12",
+    "version": "4.14.0",
     "author_name": "Brainstorm Force",
     "author_url": "https://profiles.wordpress.org/brainstormforce/",
     "rating": 98,
@@ -13618,12 +13618,12 @@
     "requires_wordpress": "5.3",
     "requires_php": "5.3",
     "preview_url": "https://wp-themes.com/astra/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/astra/screenshot.jpg?ver=4.13.12",
+    "screenshot_url": "//ts.w.org/wp-content/themes/astra/screenshot.jpg?ver=4.14.0",
     "homepage": "https://wordpress.org/themes/astra/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/astra.4.13.12.zip"
+    "download_link": "https://downloads.wordpress.org/theme/astra.4.14.0.zip"
   },
   {
     "name": "Astral",
@@ -83700,6 +83700,24 @@
     "download_link": "https://downloads.wordpress.org/theme/entr.1.1.9.zip"
   },
   {
+    "name": "Entrace",
+    "slug": "entrace",
+    "version": "1.0.0",
+    "author_name": "gawibowo",
+    "author_url": "https://profiles.wordpress.org/gawibowo/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.7",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/entrace/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/entrace/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/entrace/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/entrace.1.0.0.zip"
+  },
+  {
     "name": "Entrepreneur Lite",
     "slug": "entrepreneur-lite",
     "version": "1.3.3",
@@ -100910,20 +100928,20 @@
   {
     "name": "FSE Eleven",
     "slug": "fse-eleven",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author_name": "flythemes",
     "author_url": "https://profiles.wordpress.org/fly2sky/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "6.1",
-    "requires_php": "7.2",
+    "requires_wordpress": "6.8",
+    "requires_php": "8.0",
     "preview_url": "https://wp-themes.com/fse-eleven/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fse-eleven/screenshot.png?ver=1.0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fse-eleven/screenshot.png?ver=1.0.4",
     "homepage": "https://wordpress.org/themes/fse-eleven/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fse-eleven.1.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fse-eleven.1.0.4.zip"
   },
   {
     "name": "FSE Empire",
@@ -141194,7 +141212,7 @@
   {
     "name": "Locale",
     "slug": "locale",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "author_name": "Michael Etokakpan",
     "author_url": "https://profiles.wordpress.org/micahele/",
     "rating": 0,
@@ -141202,12 +141220,12 @@
     "requires_wordpress": "6.4",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/locale/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/locale/screenshot.png?ver=1.0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/locale/screenshot.png?ver=1.1.0",
     "homepage": "https://wordpress.org/themes/locale/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/locale.1.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/locale.1.1.0.zip"
   },
   {
     "name": "LocalMerchant",
@@ -148606,6 +148624,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/mavix-agency.1.3.zip"
+  },
+  {
+    "name": "Mavix Bakery",
+    "slug": "mavix-bakery",
+    "version": "1.1",
+    "author_name": "creativthemes",
+    "author_url": "https://profiles.wordpress.org/creativthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.0",
+    "requires_php": "8.0",
+    "preview_url": "https://wp-themes.com/mavix-bakery/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/mavix-bakery/screenshot.png?ver=1.1",
+    "homepage": "https://wordpress.org/themes/mavix-bakery/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/mavix-bakery.1.1.zip"
   },
   {
     "name": "Mavix Beat",
@@ -188732,7 +188768,7 @@
   {
     "name": "Plumbing Works",
     "slug": "plumbing-works",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "author_name": "hemaganuwala",
     "author_url": "https://profiles.wordpress.org/hemaganuwala/",
     "rating": 0,
@@ -188740,12 +188776,12 @@
     "requires_wordpress": "",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/plumbing-works/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/plumbing-works/screenshot.png?ver=1.0.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/plumbing-works/screenshot.png?ver=1.0.7",
     "homepage": "https://wordpress.org/themes/plumbing-works/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/plumbing-works.1.0.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/plumbing-works.1.0.7.zip"
   },
   {
     "name": "Plus News",
@@ -189700,6 +189736,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/pool-cleaning-services.0.1.2.zip"
+  },
+  {
+    "name": "Pool Maintenance",
+    "slug": "pool-maintenance",
+    "version": "1.0",
+    "author_name": "drakearthur",
+    "author_url": "https://profiles.wordpress.org/drakearthur/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.9",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/pool-maintenance/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/pool-maintenance/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/pool-maintenance/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/pool-maintenance.1.0.zip"
   },
   {
     "name": "Pool Services Lite",
@@ -224516,7 +224570,7 @@
   {
     "name": "Soccer Sports Club",
     "slug": "soccer-sports-club",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author_name": "hemaganuwala",
     "author_url": "https://profiles.wordpress.org/hemaganuwala/",
     "rating": 0,
@@ -224524,12 +224578,12 @@
     "requires_wordpress": "",
     "requires_php": "8.0",
     "preview_url": "https://wp-themes.com/soccer-sports-club/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/soccer-sports-club/screenshot.png?ver=1.0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/soccer-sports-club/screenshot.png?ver=1.0.3",
     "homepage": "https://wordpress.org/themes/soccer-sports-club/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/soccer-sports-club.1.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/soccer-sports-club.1.0.3.zip"
   },
   {
     "name": "Sociable",
@@ -247232,20 +247286,20 @@
   {
     "name": "Travia",
     "slug": "travia",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "author_name": "alexathemes",
     "author_url": "https://profiles.wordpress.org/alexathemes/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "6.7",
-    "requires_php": "7.2",
+    "requires_wordpress": "6.8",
+    "requires_php": "8.0",
     "preview_url": "https://wp-themes.com/travia/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/travia/screenshot.png?ver=1.1.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/travia/screenshot.png?ver=1.1.5",
     "homepage": "https://wordpress.org/themes/travia/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/travia.1.1.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/travia.1.1.5.zip"
   },
   {
     "name": "Travix",
@@ -250504,6 +250558,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/uncover.1.0.11.zip"
+  },
+  {
+    "name": "Uncut News",
+    "slug": "uncut-news",
+    "version": "1.0.0",
+    "author_name": "artifythemes",
+    "author_url": "https://profiles.wordpress.org/artifythemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "8.0",
+    "preview_url": "https://wp-themes.com/uncut-news/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/uncut-news/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/uncut-news/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/uncut-news.1.0.0.zip"
   },
   {
     "name": "Undedicated",
