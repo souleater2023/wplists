@@ -11486,7 +11486,7 @@
   {
     "name": "Ariade",
     "slug": "ariade",
-    "version": "1.7.20",
+    "version": "1.7.26",
     "author_name": "Shivaji Mitra",
     "author_url": "https://profiles.wordpress.org/anblik/",
     "rating": 0,
@@ -11494,12 +11494,12 @@
     "requires_wordpress": "6.6",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/ariade/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/ariade/screenshot.png?ver=1.7.20",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ariade/screenshot.png?ver=1.7.26",
     "homepage": "https://wordpress.org/themes/ariade/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/ariade.1.7.20.zip"
+    "download_link": "https://downloads.wordpress.org/theme/ariade.1.7.26.zip"
   },
   {
     "name": "Aribest",
@@ -15568,6 +15568,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/automobile-twp.1.0.zip"
+  },
+  {
+    "name": "Automotive Car Dealer",
+    "slug": "automotive-car-dealer",
+    "version": "1.0",
+    "author_name": "revolutionwp",
+    "author_url": "https://profiles.wordpress.org/revolutionswp/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.5",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/automotive-car-dealer/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/automotive-car-dealer/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/automotive-car-dealer/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/automotive-car-dealer.1.0.zip"
   },
   {
     "name": "Automotive Centre",
