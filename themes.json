@@ -24446,20 +24446,20 @@
   {
     "name": "Bizroot",
     "slug": "bizroot",
-    "version": "2.1.1",
+    "version": "2.2",
     "author_name": "WEN Themes",
     "author_url": "https://profiles.wordpress.org/wenthemes/",
     "rating": 100,
     "num_ratings": 1,
     "requires_wordpress": "5.9",
-    "requires_php": "5.6",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/bizroot/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/bizroot/screenshot.png?ver=2.1.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/bizroot/screenshot.png?ver=2.2",
     "homepage": "https://wordpress.org/themes/bizroot/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/bizroot.2.1.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/bizroot.2.2.zip"
   },
   {
     "name": "BizSmart",
@@ -217568,20 +217568,20 @@
   {
     "name": "Signify Blocks",
     "slug": "signify-blocks",
-    "version": "3.1",
+    "version": "3.2",
     "author_name": "WEN Themes",
     "author_url": "https://profiles.wordpress.org/wenthemes/",
     "rating": 0,
     "num_ratings": 0,
     "requires_wordpress": "5.9",
-    "requires_php": "5.6",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/signify-blocks/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/signify-blocks/screenshot.png?ver=3.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/signify-blocks/screenshot.png?ver=3.2",
     "homepage": "https://wordpress.org/themes/signify-blocks/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/signify-blocks.3.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/signify-blocks.3.2.zip"
   },
   {
     "name": "Signify Corporate",
