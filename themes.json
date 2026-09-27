@@ -9308,7 +9308,7 @@
   {
     "name": "Antique Jewelry",
     "slug": "antique-jewelry",
-    "version": "4.1.5",
+    "version": "4.1.6",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -9316,12 +9316,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/antique-jewelry/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/antique-jewelry/screenshot.png?ver=4.1.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/antique-jewelry/screenshot.png?ver=4.1.6",
     "homepage": "https://wordpress.org/themes/antique-jewelry/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/antique-jewelry.4.1.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/antique-jewelry.4.1.6.zip"
   },
   {
     "name": "Antreas",
@@ -118622,7 +118622,7 @@
   {
     "name": "Home Decoration Shop",
     "slug": "home-decoration-shop",
-    "version": "4.3.5",
+    "version": "4.3.6",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -118630,12 +118630,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/home-decoration-shop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/home-decoration-shop/screenshot.png?ver=4.3.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/home-decoration-shop/screenshot.png?ver=4.3.6",
     "homepage": "https://wordpress.org/themes/home-decoration-shop/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/home-decoration-shop.4.3.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/home-decoration-shop.4.3.6.zip"
   },
   {
     "name": "Home Decorative Items",
@@ -163993,7 +163993,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/neonio/screenshot.jpg?ver=1.0.1",
     "homepage": "https://wordpress.org/themes/neonio/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/neonio.1.0.1.zip"
   },
@@ -191036,7 +191036,7 @@
   {
     "name": "Postfolio Blocks",
     "slug": "postfolio-blocks",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author_name": "Prosanta Roy",
     "author_url": "https://profiles.wordpress.org/prosanta10/",
     "rating": 0,
@@ -191044,12 +191044,12 @@
     "requires_wordpress": "6.6",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/postfolio-blocks/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/postfolio-blocks/screenshot.png?ver=1.0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/postfolio-blocks/screenshot.png?ver=1.0.3",
     "homepage": "https://wordpress.org/themes/postfolio-blocks/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/postfolio-blocks.1.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/postfolio-blocks.1.0.3.zip"
   },
   {
     "name": "Postly Blocgit Press",
@@ -203834,7 +203834,7 @@
   {
     "name": "Retailer Ecommerce",
     "slug": "retailer-ecommerce",
-    "version": "4.2.5",
+    "version": "4.2.6",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -203842,12 +203842,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/retailer-ecommerce/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/retailer-ecommerce/screenshot.png?ver=4.2.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/retailer-ecommerce/screenshot.png?ver=4.2.6",
     "homepage": "https://wordpress.org/themes/retailer-ecommerce/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/retailer-ecommerce.4.2.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/retailer-ecommerce.4.2.6.zip"
   },
   {
     "name": "Retailer Market",
@@ -243344,7 +243344,7 @@
   {
     "name": "Titan Digital Agency",
     "slug": "titan-digital-agency",
-    "version": "4.3.4",
+    "version": "4.3.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -243352,12 +243352,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/titan-digital-agency/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/titan-digital-agency/screenshot.png?ver=4.3.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/titan-digital-agency/screenshot.png?ver=4.3.5",
     "homepage": "https://wordpress.org/themes/titan-digital-agency/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/titan-digital-agency.4.3.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/titan-digital-agency.4.3.5.zip"
   },
   {
     "name": "Titan Elearning",
@@ -243398,7 +243398,7 @@
   {
     "name": "Titan News Blog",
     "slug": "titan-news-blog",
-    "version": "3.7.4",
+    "version": "3.7.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -243406,12 +243406,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/titan-news-blog/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/titan-news-blog/screenshot.png?ver=3.7.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/titan-news-blog/screenshot.png?ver=3.7.5",
     "homepage": "https://wordpress.org/themes/titan-news-blog/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/titan-news-blog.3.7.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/titan-news-blog.3.7.5.zip"
   },
   {
     "name": "Titan Tools center",
@@ -245576,7 +245576,7 @@
   {
     "name": "Travel Blogging",
     "slug": "travel-blogging",
-    "version": "4.2.4",
+    "version": "4.2.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -245584,12 +245584,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/travel-blogging/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/travel-blogging/screenshot.png?ver=4.2.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/travel-blogging/screenshot.png?ver=4.2.5",
     "homepage": "https://wordpress.org/themes/travel-blogging/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/travel-blogging.4.2.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/travel-blogging.4.2.5.zip"
   },
   {
     "name": "Travel Blogs",
@@ -246296,7 +246296,7 @@
   {
     "name": "Travel Manager",
     "slug": "travel-manager",
-    "version": "4.0.3",
+    "version": "4.0.4",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -246304,12 +246304,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/travel-manager/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/travel-manager/screenshot.png?ver=4.0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/travel-manager/screenshot.png?ver=4.0.4",
     "homepage": "https://wordpress.org/themes/travel-manager/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/travel-manager.4.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/travel-manager.4.0.4.zip"
   },
   {
     "name": "Travel Mania",
@@ -249086,7 +249086,7 @@
   {
     "name": "Tuition Coaching Center",
     "slug": "tuition-coaching-center",
-    "version": "4.0.4",
+    "version": "4.0.5",
     "author_name": "Titan Themes",
     "author_url": "https://profiles.wordpress.org/titanthemes/",
     "rating": 0,
@@ -249094,12 +249094,12 @@
     "requires_wordpress": "6.1",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/tuition-coaching-center/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/tuition-coaching-center/screenshot.png?ver=4.0.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/tuition-coaching-center/screenshot.png?ver=4.0.5",
     "homepage": "https://wordpress.org/themes/tuition-coaching-center/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/tuition-coaching-center.4.0.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/tuition-coaching-center.4.0.5.zip"
   },
   {
     "name": "Tulsi",
