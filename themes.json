@@ -49639,7 +49639,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/cheshta/screenshot.png?ver=1.0.0",
     "homepage": "https://wordpress.org/themes/cheshta/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/cheshta.1.0.0.zip"
   },
@@ -63848,7 +63848,7 @@
   {
     "name": "Creative Portfolio Lite",
     "slug": "creative-portfolio-lite",
-    "version": "6.4.3",
+    "version": "6.4.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 0,
@@ -63856,12 +63856,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/creative-portfolio-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/creative-portfolio-lite/screenshot.png?ver=6.4.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/creative-portfolio-lite/screenshot.png?ver=6.4.4",
     "homepage": "https://wordpress.org/themes/creative-portfolio-lite/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/creative-portfolio-lite.6.4.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/creative-portfolio-lite.6.4.4.zip"
   },
   {
     "name": "Creative Press",
@@ -69968,7 +69968,7 @@
   {
     "name": "Designer Services",
     "slug": "designer-services",
-    "version": "6.2.3",
+    "version": "6.2.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 0,
@@ -69976,12 +69976,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/designer-services/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/designer-services/screenshot.png?ver=6.2.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/designer-services/screenshot.png?ver=6.2.4",
     "homepage": "https://wordpress.org/themes/designer-services/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/designer-services.6.2.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/designer-services.6.2.4.zip"
   },
   {
     "name": "Designexo",
@@ -74450,7 +74450,7 @@
   {
     "name": "Drone Services",
     "slug": "drone-services",
-    "version": "1.0",
+    "version": "1.1",
     "author_name": "Stacy Dolan",
     "author_url": "https://profiles.wordpress.org/stacydolan/",
     "rating": 0,
@@ -74458,12 +74458,12 @@
     "requires_wordpress": "6.5",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/drone-services/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/drone-services/screenshot.png?ver=1.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/drone-services/screenshot.png?ver=1.1",
     "homepage": "https://wordpress.org/themes/drone-services/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/drone-services.1.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/drone-services.1.1.zip"
   },
   {
     "name": "dronen",
@@ -83000,7 +83000,7 @@
   {
     "name": "Engineering Manufacturing",
     "slug": "engineering-manufacturing",
-    "version": "6.1.3",
+    "version": "6.1.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 0,
@@ -83008,12 +83008,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/engineering-manufacturing/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/engineering-manufacturing/screenshot.png?ver=6.1.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/engineering-manufacturing/screenshot.png?ver=6.1.4",
     "homepage": "https://wordpress.org/themes/engineering-manufacturing/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/engineering-manufacturing.6.1.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/engineering-manufacturing.6.1.4.zip"
   },
   {
     "name": "English Speaking Classes",
@@ -83738,7 +83738,7 @@
   {
     "name": "Entertainment Media",
     "slug": "entertainment-media",
-    "version": "6.4.3",
+    "version": "6.4.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 20,
@@ -83746,12 +83746,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/entertainment-media/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/entertainment-media/screenshot.png?ver=6.4.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/entertainment-media/screenshot.png?ver=6.4.4",
     "homepage": "https://wordpress.org/themes/entertainment-media/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/entertainment-media.6.4.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/entertainment-media.6.4.4.zip"
   },
   {
     "name": "Entertainment Techup",
@@ -90308,7 +90308,7 @@
   {
     "name": "Fashion Boutique",
     "slug": "fashion-boutique",
-    "version": "6.3.3",
+    "version": "6.3.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 0,
@@ -90316,12 +90316,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/fashion-boutique/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fashion-boutique/screenshot.png?ver=6.3.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fashion-boutique/screenshot.png?ver=6.3.4",
     "homepage": "https://wordpress.org/themes/fashion-boutique/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fashion-boutique.6.3.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fashion-boutique.6.3.4.zip"
   },
   {
     "name": "Fashion Craze",
@@ -90452,7 +90452,7 @@
   {
     "name": "Fashion Footwear",
     "slug": "fashion-footwear",
-    "version": "6.5.3",
+    "version": "6.5.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 0,
@@ -90460,12 +90460,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/fashion-footwear/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fashion-footwear/screenshot.png?ver=6.5.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fashion-footwear/screenshot.png?ver=6.5.4",
     "homepage": "https://wordpress.org/themes/fashion-footwear/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fashion-footwear.6.5.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fashion-footwear.6.5.4.zip"
   },
   {
     "name": "Fashion Freak",
@@ -93980,7 +93980,7 @@
   {
     "name": "Fitness Coaching",
     "slug": "fitness-coaching",
-    "version": "6.8.3",
+    "version": "6.8.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 0,
@@ -93988,12 +93988,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/fitness-coaching/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fitness-coaching/screenshot.png?ver=6.8.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fitness-coaching/screenshot.png?ver=6.8.4",
     "homepage": "https://wordpress.org/themes/fitness-coaching/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fitness-coaching.6.8.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fitness-coaching.6.8.4.zip"
   },
   {
     "name": "Fitness Crossfit",
@@ -109118,7 +109118,7 @@
   {
     "name": "Green Environment",
     "slug": "green-environment",
-    "version": "5.8.3",
+    "version": "5.8.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 0,
@@ -109126,12 +109126,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/green-environment/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/green-environment/screenshot.png?ver=5.8.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/green-environment/screenshot.png?ver=5.8.4",
     "homepage": "https://wordpress.org/themes/green-environment/",
     "template": "ecology-nature",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/green-environment.5.8.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/green-environment.5.8.4.zip"
   },
   {
     "name": "GREEN EYE",
@@ -130621,7 +130621,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/kalpita/screenshot.png?ver=1.0.1",
     "homepage": "https://wordpress.org/themes/kalpita/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/kalpita.1.0.1.zip"
   },
@@ -132392,7 +132392,7 @@
   {
     "name": "Kids Fashion",
     "slug": "kids-fashion",
-    "version": "6.8.3",
+    "version": "6.8.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 100,
@@ -132400,12 +132400,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/kids-fashion/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/kids-fashion/screenshot.png?ver=6.8.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/kids-fashion/screenshot.png?ver=6.8.4",
     "homepage": "https://wordpress.org/themes/kids-fashion/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/kids-fashion.6.8.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/kids-fashion.6.8.4.zip"
   },
   {
     "name": "Kids Gift Shop",
@@ -141248,7 +141248,7 @@
   {
     "name": "LMS Education University",
     "slug": "lms-education-university",
-    "version": "7.5.3",
+    "version": "7.5.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 100,
@@ -141256,12 +141256,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/lms-education-university/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/lms-education-university/screenshot.png?ver=7.5.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/lms-education-university/screenshot.png?ver=7.5.4",
     "homepage": "https://wordpress.org/themes/lms-education-university/",
     "template": "lms-education",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/lms-education-university.7.5.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/lms-education-university.7.5.4.zip"
   },
   {
     "name": "LMS Training Institute",
@@ -141536,7 +141536,7 @@
   {
     "name": "Logistic Cargo Trucking",
     "slug": "logistic-cargo-trucking",
-    "version": "6.5.3",
+    "version": "6.5.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 0,
@@ -141544,12 +141544,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/logistic-cargo-trucking/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/logistic-cargo-trucking/screenshot.png?ver=6.5.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/logistic-cargo-trucking/screenshot.png?ver=6.5.4",
     "homepage": "https://wordpress.org/themes/logistic-cargo-trucking/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/logistic-cargo-trucking.6.5.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/logistic-cargo-trucking.6.5.4.zip"
   },
   {
     "name": "Logistic Hub",
@@ -191569,7 +191569,7 @@
     "screenshot_url": "//ts.w.org/wp-content/themes/prakata/screenshot.png?ver=1.0.0",
     "homepage": "https://wordpress.org/themes/prakata/",
     "template": "",
-    "is_commercial": false,
+    "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/prakata.1.0.0.zip"
   },
@@ -195284,7 +195284,7 @@
   {
     "name": "Psychologist Therapy",
     "slug": "psychologist-therapy",
-    "version": "6.3.3",
+    "version": "6.3.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 40,
@@ -195292,12 +195292,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/psychologist-therapy/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/psychologist-therapy/screenshot.png?ver=6.3.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/psychologist-therapy/screenshot.png?ver=6.3.4",
     "homepage": "https://wordpress.org/themes/psychologist-therapy/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/psychologist-therapy.6.3.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/psychologist-therapy.6.3.4.zip"
   },
   {
     "name": "Psychology and Wellness",
@@ -197768,7 +197768,7 @@
   {
     "name": "Radio Station",
     "slug": "radio-station",
-    "version": "6.3.3",
+    "version": "6.3.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 100,
@@ -197776,12 +197776,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/radio-station/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/radio-station/screenshot.png?ver=6.3.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/radio-station/screenshot.png?ver=6.3.4",
     "homepage": "https://wordpress.org/themes/radio-station/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/radio-station.6.3.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/radio-station.6.3.4.zip"
   },
   {
     "name": "Radium",
@@ -199154,7 +199154,7 @@
   {
     "name": "Real Esatate Property",
     "slug": "real-esatate-property",
-    "version": "5.8.3",
+    "version": "5.8.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 0,
@@ -199162,12 +199162,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/real-esatate-property/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/real-esatate-property/screenshot.png?ver=5.8.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/real-esatate-property/screenshot.png?ver=5.8.4",
     "homepage": "https://wordpress.org/themes/real-esatate-property/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/real-esatate-property.5.8.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/real-esatate-property.5.8.4.zip"
   },
   {
     "name": "Real Estate Agency",
@@ -199874,7 +199874,7 @@
   {
     "name": "Realestate Agent",
     "slug": "realestate-agent",
-    "version": "6.3.3",
+    "version": "6.3.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 0,
@@ -199882,12 +199882,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/realestate-agent/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/realestate-agent/screenshot.png?ver=6.3.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/realestate-agent/screenshot.png?ver=6.3.4",
     "homepage": "https://wordpress.org/themes/realestate-agent/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/realestate-agent.6.3.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/realestate-agent.6.3.4.zip"
   },
   {
     "name": "Realestate Base",
@@ -203420,7 +203420,7 @@
   {
     "name": "Restaurant Food Delivery",
     "slug": "restaurant-food-delivery",
-    "version": "6.3.3",
+    "version": "6.3.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 60,
@@ -203428,12 +203428,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/restaurant-food-delivery/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/restaurant-food-delivery/screenshot.png?ver=6.3.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/restaurant-food-delivery/screenshot.png?ver=6.3.4",
     "homepage": "https://wordpress.org/themes/restaurant-food-delivery/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/restaurant-food-delivery.6.3.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/restaurant-food-delivery.6.3.4.zip"
   },
   {
     "name": "Restaurant Food Shop",
@@ -205184,7 +205184,7 @@
   {
     "name": "Risolnet",
     "slug": "risolnet",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "author_name": "danielerisolo",
     "author_url": "https://profiles.wordpress.org/drisolo/",
     "rating": 0,
@@ -205192,12 +205192,12 @@
     "requires_wordpress": "6.4",
     "requires_php": "8.1",
     "preview_url": "https://wp-themes.com/risolnet/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/risolnet/screenshot.png?ver=1.0.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/risolnet/screenshot.png?ver=1.0.6",
     "homepage": "https://wordpress.org/themes/risolnet/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/risolnet.1.0.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/risolnet.1.0.6.zip"
   },
   {
     "name": "Rits Blog",
@@ -225002,7 +225002,7 @@
   {
     "name": "Social Media Expert",
     "slug": "social-media-expert",
-    "version": "6.3.3",
+    "version": "6.3.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 0,
@@ -225010,12 +225010,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/social-media-expert/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/social-media-expert/screenshot.png?ver=6.3.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/social-media-expert/screenshot.png?ver=6.3.4",
     "homepage": "https://wordpress.org/themes/social-media-expert/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/social-media-expert.6.3.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/social-media-expert.6.3.4.zip"
   },
   {
     "name": "Social Media Marketing",
@@ -237278,7 +237278,7 @@
   {
     "name": "Taxi Booking",
     "slug": "taxi-booking",
-    "version": "6.4.3",
+    "version": "6.4.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 100,
@@ -237286,12 +237286,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/taxi-booking/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/taxi-booking/screenshot.png?ver=6.4.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/taxi-booking/screenshot.png?ver=6.4.4",
     "homepage": "https://wordpress.org/themes/taxi-booking/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/taxi-booking.6.4.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/taxi-booking.6.4.4.zip"
   },
   {
     "name": "TC E-Commerce Shop",
@@ -241346,7 +241346,7 @@
   {
     "name": "The Travel Booking",
     "slug": "the-travel-booking",
-    "version": "6.6.3",
+    "version": "6.6.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 100,
@@ -241354,12 +241354,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/the-travel-booking/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/the-travel-booking/screenshot.png?ver=6.6.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/the-travel-booking/screenshot.png?ver=6.6.4",
     "homepage": "https://wordpress.org/themes/the-travel-booking/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/the-travel-booking.6.6.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/the-travel-booking.6.6.4.zip"
   },
   {
     "name": "The Ultralight",
@@ -261182,7 +261182,7 @@
   {
     "name": "Web Hosting Lite",
     "slug": "web-hosting-lite",
-    "version": "6.2.3",
+    "version": "6.2.4",
     "author_name": "Misbah WP",
     "author_url": "https://profiles.wordpress.org/misbahwp/",
     "rating": 0,
@@ -261190,12 +261190,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/web-hosting-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/web-hosting-lite/screenshot.png?ver=6.2.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/web-hosting-lite/screenshot.png?ver=6.2.4",
     "homepage": "https://wordpress.org/themes/web-hosting-lite/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/web-hosting-lite.6.2.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/web-hosting-lite.6.2.4.zip"
   },
   {
     "name": "Web Log",
