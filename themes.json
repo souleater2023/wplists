@@ -7112,7 +7112,7 @@
   {
     "name": "Alo Blog",
     "slug": "alo-blog",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author_name": "Monowar Hossain (devmonowar)",
     "author_url": "https://profiles.wordpress.org/kstmonowar/",
     "rating": 0,
@@ -7120,12 +7120,12 @@
     "requires_wordpress": "6.4",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/alo-blog/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/alo-blog/screenshot.png?ver=1.0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/alo-blog/screenshot.png?ver=1.0.3",
     "homepage": "https://wordpress.org/themes/alo-blog/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/alo-blog.1.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/alo-blog.1.0.3.zip"
   },
   {
     "name": "Alovernat",
@@ -71228,7 +71228,7 @@
   {
     "name": "DIGISTARTER",
     "slug": "digistarter",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "author_name": "DIGISTALTER GmbH",
     "author_url": "https://profiles.wordpress.org/digistalter/",
     "rating": 0,
@@ -71236,12 +71236,12 @@
     "requires_wordpress": "7.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/digistarter/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/digistarter/screenshot.png?ver=1.2.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/digistarter/screenshot.png?ver=1.2.4",
     "homepage": "https://wordpress.org/themes/digistarter/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/digistarter.1.2.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/digistarter.1.2.4.zip"
   },
   {
     "name": "Digital",
@@ -91872,6 +91872,24 @@
     "download_link": "https://downloads.wordpress.org/theme/feauty.28.2.zip"
   },
   {
+    "name": "FeedBuzz",
+    "slug": "feedbuzz",
+    "version": "1.0.2",
+    "author_name": "alivurun",
+    "author_url": "https://profiles.wordpress.org/alivurun/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.6",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/feedbuzz/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/feedbuzz/screenshot.png?ver=1.0.2",
+    "homepage": "https://wordpress.org/themes/feedbuzz/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/feedbuzz.1.0.2.zip"
+  },
+  {
     "name": "Feelin'Good",
     "slug": "feelingood",
     "version": "1.0.2",
@@ -107570,7 +107588,7 @@
   {
     "name": "Graceful",
     "slug": "graceful",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "author_name": "Aslam",
     "author_url": "https://profiles.wordpress.org/aslamnaik/",
     "rating": 100,
@@ -107578,12 +107596,12 @@
     "requires_wordpress": "5.3",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/graceful/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/graceful/screenshot.png?ver=1.0.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/graceful/screenshot.png?ver=1.0.6",
     "homepage": "https://wordpress.org/themes/graceful/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/graceful.1.0.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/graceful.1.0.6.zip"
   },
   {
     "name": "Graceful Arch Blog",
@@ -120148,6 +120166,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/hotel-hamburg.1.0.5.zip"
+  },
+  {
+    "name": "Hotel HMS Suitely",
+    "slug": "hotel-hms-suitely",
+    "version": "1.0.2",
+    "author_name": "HMS Hotel Software",
+    "author_url": "https://profiles.wordpress.org/hmsotel/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.7",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/hotel-hms-suitely/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/hotel-hms-suitely/screenshot.png?ver=1.0.2",
+    "homepage": "https://wordpress.org/themes/hotel-hms-suitely/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/hotel-hms-suitely.1.0.2.zip"
   },
   {
     "name": "Hotel Imperial",
@@ -195014,20 +195050,20 @@
   {
     "name": "ProMax",
     "slug": "promax",
-    "version": "2.7.1",
+    "version": "3.0.0",
     "author_name": "Sandy",
     "author_url": "https://profiles.wordpress.org/sandy786/",
     "rating": 100,
     "num_ratings": 3,
-    "requires_wordpress": "",
-    "requires_php": "5.6",
+    "requires_wordpress": "6.4",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/promax/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/promax/screenshot.png?ver=2.7.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/promax/screenshot.png?ver=3.0.0",
     "homepage": "https://wordpress.org/themes/promax/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/promax.2.7.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/promax.3.0.0.zip"
   },
   {
     "name": "Promo Newspaper",
@@ -230762,7 +230798,7 @@
   {
     "name": "Startup Shop",
     "slug": "startup-shop",
-    "version": "1.3.8",
+    "version": "1.3.9",
     "author_name": "aThemeArt",
     "author_url": "https://profiles.wordpress.org/athemeart/",
     "rating": 0,
@@ -230770,12 +230806,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/startup-shop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/startup-shop/screenshot.png?ver=1.3.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/startup-shop/screenshot.png?ver=1.3.9",
     "homepage": "https://wordpress.org/themes/startup-shop/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/startup-shop.1.3.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/startup-shop.1.3.9.zip"
   },
   {
     "name": "Startup Solutions",
@@ -262172,7 +262208,7 @@
   {
     "name": "Wedding Photographer Nook",
     "slug": "wedding-photographer-nook",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author_name": "thethemenook",
     "author_url": "https://profiles.wordpress.org/thethemenook/",
     "rating": 0,
@@ -262180,12 +262216,12 @@
     "requires_wordpress": "7.1",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wedding-photographer-nook/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wedding-photographer-nook/screenshot.png?ver=1.0.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wedding-photographer-nook/screenshot.png?ver=1.0.1",
     "homepage": "https://wordpress.org/themes/wedding-photographer-nook/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wedding-photographer-nook.1.0.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wedding-photographer-nook.1.0.1.zip"
   },
   {
     "name": "Wedding Photography",
@@ -262208,7 +262244,7 @@
   {
     "name": "Wedding Photography Nook",
     "slug": "wedding-photography-nook",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author_name": "thethemenook",
     "author_url": "https://profiles.wordpress.org/thethemenook/",
     "rating": 0,
@@ -262216,12 +262252,12 @@
     "requires_wordpress": "7.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/wedding-photography-nook/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wedding-photography-nook/screenshot.png?ver=1.0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wedding-photography-nook/screenshot.png?ver=1.0.3",
     "homepage": "https://wordpress.org/themes/wedding-photography-nook/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wedding-photography-nook.1.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wedding-photography-nook.1.0.3.zip"
   },
   {
     "name": "Wedding Photography Studio",
