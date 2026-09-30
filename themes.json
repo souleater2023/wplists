@@ -13092,7 +13092,7 @@
     "author_name": "WP Royal",
     "author_url": "https://profiles.wordpress.org/wproyal/",
     "rating": 98,
-    "num_ratings": 303,
+    "num_ratings": 304,
     "requires_wordpress": "4.7",
     "requires_php": "5.2.4",
     "preview_url": "https://wp-themes.com/ashe/",
@@ -21224,7 +21224,7 @@
   {
     "name": "BeShop",
     "slug": "beshop",
-    "version": "1.1.21",
+    "version": "1.1.22",
     "author_name": "Noor Alam",
     "author_url": "https://profiles.wordpress.org/nalam-1/",
     "rating": 100,
@@ -21232,30 +21232,30 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/beshop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/beshop/screenshot.png?ver=1.1.21",
+    "screenshot_url": "//ts.w.org/wp-content/themes/beshop/screenshot.png?ver=1.1.22",
     "homepage": "https://wordpress.org/themes/beshop/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/beshop.1.1.21.zip"
+    "download_link": "https://downloads.wordpress.org/theme/beshop.1.1.22.zip"
   },
   {
     "name": "Beshop Free",
     "slug": "beshop-free",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "author_name": "Noor Alam",
     "author_url": "https://profiles.wordpress.org/nalam-1/",
     "rating": 0,
     "num_ratings": 0,
     "requires_wordpress": "",
-    "requires_php": "5.6",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/beshop-free/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/beshop-free/screenshot.png?ver=1.1.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/beshop-free/screenshot.png?ver=1.1.5",
     "homepage": "https://wordpress.org/themes/beshop-free/",
     "template": "beshop",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/beshop-free.1.1.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/beshop-free.1.1.5.zip"
   },
   {
     "name": "Beshop Lite",
@@ -21278,20 +21278,20 @@
   {
     "name": "Beshop Plus",
     "slug": "beshop-plus",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "author_name": "Noor Alam",
     "author_url": "https://profiles.wordpress.org/nalam-1/",
     "rating": 0,
     "num_ratings": 0,
     "requires_wordpress": "",
-    "requires_php": "5.6",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/beshop-plus/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/beshop-plus/screenshot.png?ver=1.1.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/beshop-plus/screenshot.png?ver=1.1.2",
     "homepage": "https://wordpress.org/themes/beshop-plus/",
     "template": "beshop",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/beshop-plus.1.1.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/beshop-plus.1.1.2.zip"
   },
   {
     "name": "Best",
@@ -34756,6 +34756,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/boldly-go-green.0.1.5.zip"
+  },
+  {
+    "name": "Boldman Lite",
+    "slug": "boldman-lite",
+    "version": "1.0.5",
+    "author_name": "ThemetechMount",
+    "author_url": "https://profiles.wordpress.org/themetechmount/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/boldman-lite/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/boldman-lite/screenshot.png?ver=1.0.5",
+    "homepage": "https://wordpress.org/themes/boldman-lite/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/boldman-lite.1.0.5.zip"
   },
   {
     "name": "BoldNews",
@@ -62537,7 +62555,7 @@
     "version": "1.0.52",
     "author_name": "BurgerThemes",
     "author_url": "https://profiles.wordpress.org/burgersoftware/",
-    "rating": 92,
+    "rating": 88,
     "num_ratings": 28,
     "requires_wordpress": "",
     "requires_php": "5.6",
@@ -93512,7 +93530,7 @@
   {
     "name": "Fiona Blog",
     "slug": "fiona-blog",
-    "version": "22.2",
+    "version": "22.3",
     "author_name": "Nayra Themes",
     "author_url": "https://profiles.wordpress.org/nayrathemes/",
     "rating": 100,
@@ -93520,17 +93538,17 @@
     "requires_wordpress": "6.8",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/fiona-blog/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fiona-blog/screenshot.jpg?ver=22.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fiona-blog/screenshot.jpg?ver=22.3",
     "homepage": "https://wordpress.org/themes/fiona-blog/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fiona-blog.22.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fiona-blog.22.3.zip"
   },
   {
     "name": "Fiona Food",
     "slug": "fiona-food",
-    "version": "20.2",
+    "version": "20.3",
     "author_name": "Nayra Themes",
     "author_url": "https://profiles.wordpress.org/nayrathemes/",
     "rating": 0,
@@ -93538,17 +93556,17 @@
     "requires_wordpress": "4.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/fiona-food/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fiona-food/screenshot.jpg?ver=20.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fiona-food/screenshot.jpg?ver=20.3",
     "homepage": "https://wordpress.org/themes/fiona-food/",
     "template": "fiona-blog",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fiona-food.20.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fiona-food.20.3.zip"
   },
   {
     "name": "Fiona News",
     "slug": "fiona-news",
-    "version": "20.2",
+    "version": "20.3",
     "author_name": "Nayra Themes",
     "author_url": "https://profiles.wordpress.org/nayrathemes/",
     "rating": 0,
@@ -93556,12 +93574,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/fiona-news/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fiona-news/screenshot.jpg?ver=20.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fiona-news/screenshot.jpg?ver=20.3",
     "homepage": "https://wordpress.org/themes/fiona-news/",
     "template": "fiona-blog",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fiona-news.20.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fiona-news.20.3.zip"
   },
   {
     "name": "Fiore",
@@ -95078,7 +95096,7 @@
   {
     "name": "Flavita",
     "slug": "flavita",
-    "version": "21.2",
+    "version": "21.3",
     "author_name": "Nayra Themes",
     "author_url": "https://profiles.wordpress.org/nayrathemes/",
     "rating": 100,
@@ -95086,12 +95104,12 @@
     "requires_wordpress": "6.8",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/flavita/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/flavita/screenshot.jpg?ver=21.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/flavita/screenshot.jpg?ver=21.3",
     "homepage": "https://wordpress.org/themes/flavita/",
     "template": "gradiant",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/flavita.21.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/flavita.21.3.zip"
   },
   {
     "name": "Flawless Blog",
@@ -108488,7 +108506,7 @@
   {
     "name": "Gradiant",
     "slug": "gradiant",
-    "version": "23.2",
+    "version": "23.3",
     "author_name": "Nayra Themes",
     "author_url": "https://profiles.wordpress.org/nayrathemes/",
     "rating": 94,
@@ -108496,12 +108514,12 @@
     "requires_wordpress": "6.8",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/gradiant/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/gradiant/screenshot.jpg?ver=23.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/gradiant/screenshot.jpg?ver=23.3",
     "homepage": "https://wordpress.org/themes/gradiant/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/gradiant.23.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/gradiant.23.3.zip"
   },
   {
     "name": "GradiantX",
@@ -132122,7 +132140,7 @@
   {
     "name": "Kestra",
     "slug": "kestra",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author_name": "kiyanooshkhosravi",
     "author_url": "https://profiles.wordpress.org/kiyanooshkhosravi/",
     "rating": 0,
@@ -132130,12 +132148,12 @@
     "requires_wordpress": "6.7",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/kestra/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/kestra/screenshot.png?ver=1.0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/kestra/screenshot.png?ver=1.0.4",
     "homepage": "https://wordpress.org/themes/kestra/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/kestra.1.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/kestra.1.0.4.zip"
   },
   {
     "name": "Keto Organic Diet",
@@ -225704,7 +225722,7 @@
   {
     "name": "SoftMe",
     "slug": "softme",
-    "version": "1.1.69",
+    "version": "1.1.70",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 94,
@@ -225712,12 +225730,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/softme/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/softme/screenshot.png?ver=1.1.69",
+    "screenshot_url": "//ts.w.org/wp-content/themes/softme/screenshot.png?ver=1.1.70",
     "homepage": "https://wordpress.org/themes/softme/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/softme.1.1.69.zip"
+    "download_link": "https://downloads.wordpress.org/theme/softme.1.1.70.zip"
   },
   {
     "name": "SoftMunch",
