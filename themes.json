@@ -11558,7 +11558,7 @@
   {
     "name": "Ariade",
     "slug": "ariade",
-    "version": "1.7.69",
+    "version": "1.7.70",
     "author_name": "Shivaji Mitra",
     "author_url": "https://profiles.wordpress.org/anblik/",
     "rating": 0,
@@ -11566,12 +11566,12 @@
     "requires_wordpress": "6.6",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/ariade/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/ariade/screenshot.png?ver=1.7.69",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ariade/screenshot.png?ver=1.7.70",
     "homepage": "https://wordpress.org/themes/ariade/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/ariade.1.7.69.zip"
+    "download_link": "https://downloads.wordpress.org/theme/ariade.1.7.70.zip"
   },
   {
     "name": "Aribest",
@@ -32348,7 +32348,7 @@
   {
     "name": "Blogsum",
     "slug": "blogsum",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author_name": "WPMatcha",
     "author_url": "https://profiles.wordpress.org/wpmatcha/",
     "rating": 0,
@@ -32356,12 +32356,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/blogsum/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/blogsum/screenshot.png?ver=1.0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/blogsum/screenshot.png?ver=1.0.3",
     "homepage": "https://wordpress.org/themes/blogsum/",
     "template": "newsum",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/blogsum.1.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/blogsum.1.0.3.zip"
   },
   {
     "name": "Blogsy",
@@ -105230,7 +105230,7 @@
   {
     "name": "Giornale",
     "slug": "giornale",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "author_name": "alexvtn",
     "author_url": "https://profiles.wordpress.org/alexvtn/",
     "rating": 0,
@@ -105238,12 +105238,12 @@
     "requires_wordpress": "",
     "requires_php": "5.3",
     "preview_url": "https://wp-themes.com/giornale/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/giornale/screenshot.jpg?ver=1.1.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/giornale/screenshot.jpg?ver=1.1.3",
     "homepage": "https://wordpress.org/themes/giornale/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/giornale.1.1.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/giornale.1.1.3.zip"
   },
   {
     "name": "Giornalismo",
@@ -138386,20 +138386,20 @@
   {
     "name": "Leento",
     "slug": "leento",
-    "version": "1.1.8",
+    "version": "1.1.9",
     "author_name": "GecoDigital",
     "author_url": "https://profiles.wordpress.org/gecodigital/",
     "rating": 0,
     "num_ratings": 0,
-    "requires_wordpress": "",
-    "requires_php": "5.6",
+    "requires_wordpress": "5.2",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/leento/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/leento/screenshot.png?ver=1.1.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/leento/screenshot.png?ver=1.1.9",
     "homepage": "https://wordpress.org/themes/leento/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/leento.1.1.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/leento.1.1.9.zip"
   },
   {
     "name": "Leeway",
@@ -170102,7 +170102,7 @@
   {
     "name": "Newsum",
     "slug": "newsum",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author_name": "WPMatcha",
     "author_url": "https://profiles.wordpress.org/wpmatcha/",
     "rating": 0,
@@ -170110,12 +170110,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/newsum/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsum/screenshot.png?ver=1.0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsum/screenshot.png?ver=1.0.4",
     "homepage": "https://wordpress.org/themes/newsum/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsum.1.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsum.1.0.4.zip"
   },
   {
     "name": "Newsup",
@@ -213626,7 +213626,7 @@
   {
     "name": "Sheeba Lite",
     "slug": "sheeba-lite",
-    "version": "1.4.7",
+    "version": "1.4.8",
     "author_name": "alexvtn",
     "author_url": "https://profiles.wordpress.org/alexvtn/",
     "rating": 100,
@@ -213634,12 +213634,12 @@
     "requires_wordpress": "",
     "requires_php": "5.3",
     "preview_url": "https://wp-themes.com/sheeba-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/sheeba-lite/screenshot.jpg?ver=1.4.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/sheeba-lite/screenshot.jpg?ver=1.4.8",
     "homepage": "https://wordpress.org/themes/sheeba-lite/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/sheeba-lite.1.4.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/sheeba-lite.1.4.8.zip"
   },
   {
     "name": "Sheen",
@@ -242210,20 +242210,20 @@
   {
     "name": "Theia Lite",
     "slug": "theia-lite",
-    "version": "1.3.5",
+    "version": "1.3.6",
     "author_name": "GecoDigital",
     "author_url": "https://profiles.wordpress.org/gecodigital/",
     "rating": 100,
     "num_ratings": 1,
-    "requires_wordpress": "",
-    "requires_php": "5.6",
+    "requires_wordpress": "5.2",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/theia-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/theia-lite/screenshot.png?ver=1.3.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/theia-lite/screenshot.png?ver=1.3.6",
     "homepage": "https://wordpress.org/themes/theia-lite/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/theia-lite.1.3.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/theia-lite.1.3.6.zip"
   },
   {
     "name": "Themaga",
