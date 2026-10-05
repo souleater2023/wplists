@@ -9542,7 +9542,7 @@
   {
     "name": "AnyNews",
     "slug": "anynews",
-    "version": "1.0.52",
+    "version": "1.0.53",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 100,
@@ -9550,12 +9550,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/anynews/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/anynews/screenshot.png?ver=1.0.52",
+    "screenshot_url": "//ts.w.org/wp-content/themes/anynews/screenshot.png?ver=1.0.53",
     "homepage": "https://wordpress.org/themes/anynews/",
     "template": "newsmash",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/anynews.1.0.52.zip"
+    "download_link": "https://downloads.wordpress.org/theme/anynews.1.0.53.zip"
   },
   {
     "name": "Anzu",
@@ -13722,7 +13722,7 @@
     "author_name": "Brainstorm Force",
     "author_url": "https://profiles.wordpress.org/brainstormforce/",
     "rating": 98,
-    "num_ratings": 6534,
+    "num_ratings": 6535,
     "requires_wordpress": "5.3",
     "requires_php": "5.3",
     "preview_url": "https://wp-themes.com/astra/",
@@ -14348,7 +14348,7 @@
   {
     "name": "Atromax",
     "slug": "atromax",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 0,
@@ -14356,12 +14356,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/atromax/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/atromax/screenshot.png?ver=1.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/atromax/screenshot.png?ver=1.0.2",
     "homepage": "https://wordpress.org/themes/atromax/",
     "template": "ploto",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/atromax.1.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/atromax.1.0.2.zip"
   },
   {
     "name": "Atrux",
@@ -26224,6 +26224,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/blockskit-agency.1.0.1.zip"
+  },
+  {
+    "name": "Blockskit AI Agency",
+    "slug": "blockskit-ai-agency",
+    "version": "1.0.0",
+    "author_name": "BlockskitDev",
+    "author_url": "https://profiles.wordpress.org/blockskitdev/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.5",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/blockskit-ai-agency/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/blockskit-ai-agency/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/blockskit-ai-agency/",
+    "template": "blockskit-base",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/blockskit-ai-agency.1.0.0.zip"
   },
   {
     "name": "Blockskit Base",
@@ -39260,7 +39278,7 @@
   {
     "name": "BroadNews",
     "slug": "broadnews",
-    "version": "5.2.3",
+    "version": "5.2.4",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 96,
@@ -39268,12 +39286,12 @@
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/broadnews/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/broadnews/screenshot.png?ver=5.2.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/broadnews/screenshot.png?ver=5.2.4",
     "homepage": "https://wordpress.org/themes/broadnews/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/broadnews.5.2.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/broadnews.5.2.4.zip"
   },
   {
     "name": "Broadside",
@@ -46496,7 +46514,7 @@
   {
     "name": "Career Development",
     "slug": "career-development",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -46504,12 +46522,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/career-development/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/career-development/screenshot.png?ver=1.1.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/career-development/screenshot.png?ver=1.1.2",
     "homepage": "https://wordpress.org/themes/career-development/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/career-development.1.1.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/career-development.1.1.2.zip"
   },
   {
     "name": "Career Mentor Coach",
@@ -50816,7 +50834,7 @@
   {
     "name": "Chromax",
     "slug": "chromax",
-    "version": "1.0.52",
+    "version": "1.0.53",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 100,
@@ -50824,12 +50842,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/chromax/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/chromax/screenshot.png?ver=1.0.52",
+    "screenshot_url": "//ts.w.org/wp-content/themes/chromax/screenshot.png?ver=1.0.53",
     "homepage": "https://wordpress.org/themes/chromax/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/chromax.1.0.52.zip"
+    "download_link": "https://downloads.wordpress.org/theme/chromax.1.0.53.zip"
   },
   {
     "name": "ChromeBlog",
@@ -50888,7 +50906,7 @@
   {
     "name": "ChromeNews",
     "slug": "chromenews",
-    "version": "6.2.11",
+    "version": "6.2.12",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 98,
@@ -50896,17 +50914,17 @@
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/chromenews/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/chromenews/screenshot.png?ver=6.2.11",
+    "screenshot_url": "//ts.w.org/wp-content/themes/chromenews/screenshot.png?ver=6.2.12",
     "homepage": "https://wordpress.org/themes/chromenews/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/chromenews.6.2.11.zip"
+    "download_link": "https://downloads.wordpress.org/theme/chromenews.6.2.12.zip"
   },
   {
     "name": "Chromica",
     "slug": "chromica",
-    "version": "1.0.37",
+    "version": "1.0.38",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 0,
@@ -50914,12 +50932,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/chromica/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/chromica/screenshot.png?ver=1.0.37",
+    "screenshot_url": "//ts.w.org/wp-content/themes/chromica/screenshot.png?ver=1.0.38",
     "homepage": "https://wordpress.org/themes/chromica/",
     "template": "chromax",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/chromica.1.0.37.zip"
+    "download_link": "https://downloads.wordpress.org/theme/chromica.1.0.38.zip"
   },
   {
     "name": "Chronicle Journal",
@@ -50978,7 +50996,7 @@
   {
     "name": "Chrowix",
     "slug": "chrowix",
-    "version": "1.0.43",
+    "version": "1.0.44",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 0,
@@ -50986,12 +51004,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/chrowix/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/chrowix/screenshot.png?ver=1.0.43",
+    "screenshot_url": "//ts.w.org/wp-content/themes/chrowix/screenshot.png?ver=1.0.44",
     "homepage": "https://wordpress.org/themes/chrowix/",
     "template": "chromax",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/chrowix.1.0.43.zip"
+    "download_link": "https://downloads.wordpress.org/theme/chrowix.1.0.44.zip"
   },
   {
     "name": "Chuchadon",
@@ -60032,7 +60050,7 @@
   {
     "name": "Corbit",
     "slug": "corbit",
-    "version": "0.4",
+    "version": "0.5",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 0,
@@ -60040,12 +60058,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/corbit/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/corbit/screenshot.png?ver=0.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/corbit/screenshot.png?ver=0.5",
     "homepage": "https://wordpress.org/themes/corbit/",
     "template": "ploto",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/corbit.0.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/corbit.0.5.zip"
   },
   {
     "name": "CorBoost",
@@ -61634,7 +61652,7 @@
   {
     "name": "Corvix",
     "slug": "corvix",
-    "version": "1.0.13",
+    "version": "1.0.14",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 0,
@@ -61642,12 +61660,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/corvix/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/corvix/screenshot.png?ver=1.0.13",
+    "screenshot_url": "//ts.w.org/wp-content/themes/corvix/screenshot.png?ver=1.0.14",
     "homepage": "https://wordpress.org/themes/corvix/",
     "template": "chromax",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/corvix.1.0.13.zip"
+    "download_link": "https://downloads.wordpress.org/theme/corvix.1.0.14.zip"
   },
   {
     "name": "Corvona",
@@ -62210,7 +62228,7 @@
   {
     "name": "Courier Company",
     "slug": "courier-company",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -62218,12 +62236,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/courier-company/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/courier-company/screenshot.png?ver=1.1.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/courier-company/screenshot.png?ver=1.1.6",
     "homepage": "https://wordpress.org/themes/courier-company/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/courier-company.1.1.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/courier-company.1.1.6.zip"
   },
   {
     "name": "Courier Services",
@@ -62408,7 +62426,7 @@
   {
     "name": "CoverNews",
     "slug": "covernews",
-    "version": "7.5.3",
+    "version": "7.5.4",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 96,
@@ -62416,12 +62434,12 @@
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/covernews/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/covernews/screenshot.png?ver=7.5.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/covernews/screenshot.png?ver=7.5.4",
     "homepage": "https://wordpress.org/themes/covernews/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/covernews.7.5.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/covernews.7.5.4.zip"
   },
   {
     "name": "CoverStory",
@@ -67898,7 +67916,7 @@
   {
     "name": "DarkNews",
     "slug": "darknews",
-    "version": "3.5.9",
+    "version": "3.5.10",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 96,
@@ -67906,12 +67924,12 @@
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/darknews/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/darknews/screenshot.png?ver=3.5.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/darknews/screenshot.png?ver=3.5.10",
     "homepage": "https://wordpress.org/themes/darknews/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/darknews.3.5.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/darknews.3.5.10.zip"
   },
   {
     "name": "DarkOrange",
@@ -68330,7 +68348,7 @@
   {
     "name": "DayStory",
     "slug": "daystory",
-    "version": "1.1.43",
+    "version": "1.1.44",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 0,
@@ -68338,12 +68356,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/daystory/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/daystory/screenshot.png?ver=1.1.43",
+    "screenshot_url": "//ts.w.org/wp-content/themes/daystory/screenshot.png?ver=1.1.44",
     "homepage": "https://wordpress.org/themes/daystory/",
     "template": "newsmash",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/daystory.1.1.43.zip"
+    "download_link": "https://downloads.wordpress.org/theme/daystory.1.1.44.zip"
   },
   {
     "name": "Daytrip",
@@ -72830,7 +72848,7 @@
   {
     "name": "DIY Handmade",
     "slug": "diy-handmade",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -72838,12 +72856,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/diy-handmade/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/diy-handmade/screenshot.png?ver=1.0.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/diy-handmade/screenshot.png?ver=1.0.5",
     "homepage": "https://wordpress.org/themes/diy-handmade/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/diy-handmade.1.0.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/diy-handmade.1.0.5.zip"
   },
   {
     "name": "DIY Tutorials",
@@ -80804,7 +80822,7 @@
   {
     "name": "Elegant Magazine",
     "slug": "elegant-magazine",
-    "version": "4.5.3",
+    "version": "4.5.4",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 94,
@@ -80812,12 +80830,12 @@
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/elegant-magazine/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/elegant-magazine/screenshot.png?ver=4.5.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/elegant-magazine/screenshot.png?ver=4.5.4",
     "homepage": "https://wordpress.org/themes/elegant-magazine/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/elegant-magazine.4.5.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/elegant-magazine.4.5.4.zip"
   },
   {
     "name": "Elegant News Magazine",
@@ -83792,7 +83810,7 @@
   {
     "name": "EnterNews",
     "slug": "enternews",
-    "version": "3.5.3",
+    "version": "3.5.4",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 98,
@@ -83800,12 +83818,12 @@
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/enternews/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/enternews/screenshot.png?ver=3.5.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/enternews/screenshot.png?ver=3.5.4",
     "homepage": "https://wordpress.org/themes/enternews/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/enternews.3.5.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/enternews.3.5.4.zip"
   },
   {
     "name": "Enterprise Lite",
@@ -87032,7 +87050,7 @@
   {
     "name": "Exercise Workout Studio",
     "slug": "exercise-workout-studio",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -87040,12 +87058,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/exercise-workout-studio/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/exercise-workout-studio/screenshot.png?ver=1.1.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/exercise-workout-studio/screenshot.png?ver=1.1.6",
     "homepage": "https://wordpress.org/themes/exercise-workout-studio/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/exercise-workout-studio.1.1.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/exercise-workout-studio.1.1.6.zip"
   },
   {
     "name": "Exhibit",
@@ -88688,7 +88706,7 @@
   {
     "name": "Express Movers",
     "slug": "express-movers",
-    "version": "24.0.9",
+    "version": "24.0.10",
     "author_name": "hemaganuwala",
     "author_url": "https://profiles.wordpress.org/hemaganuwala/",
     "rating": 0,
@@ -88696,12 +88714,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/express-movers/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/express-movers/screenshot.png?ver=24.0.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/express-movers/screenshot.png?ver=24.0.10",
     "homepage": "https://wordpress.org/themes/express-movers/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/express-movers.24.0.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/express-movers.24.0.10.zip"
   },
   {
     "name": "Express News",
@@ -100154,7 +100172,7 @@
   {
     "name": "Freelancer Resume",
     "slug": "freelancer-resume",
-    "version": "18.0.10",
+    "version": "18.0.11",
     "author_name": "hemaganuwala",
     "author_url": "https://profiles.wordpress.org/hemaganuwala/",
     "rating": 0,
@@ -100162,12 +100180,12 @@
     "requires_wordpress": "",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/freelancer-resume/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/freelancer-resume/screenshot.png?ver=18.0.10",
+    "screenshot_url": "//ts.w.org/wp-content/themes/freelancer-resume/screenshot.png?ver=18.0.11",
     "homepage": "https://wordpress.org/themes/freelancer-resume/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/freelancer-resume.18.0.10.zip"
+    "download_link": "https://downloads.wordpress.org/theme/freelancer-resume.18.0.11.zip"
   },
   {
     "name": "Freelancer Services",
@@ -101234,7 +101252,7 @@
   {
     "name": "FSE Computing",
     "slug": "fse-computing",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -101242,12 +101260,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/fse-computing/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fse-computing/screenshot.png?ver=1.0.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fse-computing/screenshot.png?ver=1.0.3",
     "homepage": "https://wordpress.org/themes/fse-computing/",
     "template": "quantum-computing",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fse-computing.1.0.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fse-computing.1.0.3.zip"
   },
   {
     "name": "FSE Corporate Business",
@@ -101274,7 +101292,7 @@
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 100,
-    "num_ratings": 1,
+    "num_ratings": 2,
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/fse-dental-clinic/",
@@ -101612,7 +101630,7 @@
   {
     "name": "FSE Pet Shop",
     "slug": "fse-pet-shop",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 100,
@@ -101620,12 +101638,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/fse-pet-shop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fse-pet-shop/screenshot.png?ver=1.2.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fse-pet-shop/screenshot.png?ver=1.2.3",
     "homepage": "https://wordpress.org/themes/fse-pet-shop/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fse-pet-shop.1.2.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fse-pet-shop.1.2.3.zip"
   },
   {
     "name": "FSE Photographs",
@@ -101738,7 +101756,7 @@
   {
     "name": "FSE Renovation Services",
     "slug": "fse-renovation-services",
-    "version": "1.2.4",
+    "version": "1.2.5",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -101746,12 +101764,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/fse-renovation-services/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fse-renovation-services/screenshot.png?ver=1.2.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fse-renovation-services/screenshot.png?ver=1.2.5",
     "homepage": "https://wordpress.org/themes/fse-renovation-services/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fse-renovation-services.1.2.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fse-renovation-services.1.2.5.zip"
   },
   {
     "name": "FSE Responsive",
@@ -101954,7 +101972,7 @@
   {
     "name": "FSE Transportation Company",
     "slug": "fse-transportation-company",
-    "version": "1.1.7",
+    "version": "1.1.8",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -101962,12 +101980,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/fse-transportation-company/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fse-transportation-company/screenshot.png?ver=1.1.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fse-transportation-company/screenshot.png?ver=1.1.8",
     "homepage": "https://wordpress.org/themes/fse-transportation-company/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fse-transportation-company.1.1.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fse-transportation-company.1.1.8.zip"
   },
   {
     "name": "FSE Travel Agent",
@@ -102998,7 +103016,7 @@
   {
     "name": "Futuristic Vision",
     "slug": "futuristic-vision",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -103006,12 +103024,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/futuristic-vision/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/futuristic-vision/screenshot.png?ver=1.1.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/futuristic-vision/screenshot.png?ver=1.1.6",
     "homepage": "https://wordpress.org/themes/futuristic-vision/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/futuristic-vision.1.1.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/futuristic-vision.1.1.6.zip"
   },
   {
     "name": "Fuzion Blog",
@@ -111116,7 +111134,7 @@
   {
     "name": "Grocerymart",
     "slug": "grocerymart",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -111124,12 +111142,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/grocerymart/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/grocerymart/screenshot.png?ver=1.1.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/grocerymart/screenshot.png?ver=1.1.5",
     "homepage": "https://wordpress.org/themes/grocerymart/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/grocerymart.1.1.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/grocerymart.1.1.5.zip"
   },
   {
     "name": "Ground Floor",
@@ -127190,7 +127208,7 @@
   {
     "name": "IT Software Service",
     "slug": "it-software-service",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -127198,12 +127216,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/it-software-service/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/it-software-service/screenshot.png?ver=1.1.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/it-software-service/screenshot.png?ver=1.1.3",
     "homepage": "https://wordpress.org/themes/it-software-service/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/it-software-service.1.1.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/it-software-service.1.1.3.zip"
   },
   {
     "name": "IT Software Technology",
@@ -129080,7 +129098,7 @@
   {
     "name": "Job Recruitment Agency",
     "slug": "job-recruitment-agency",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -129088,12 +129106,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/job-recruitment-agency/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/job-recruitment-agency/screenshot.png?ver=1.0.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/job-recruitment-agency/screenshot.png?ver=1.0.8",
     "homepage": "https://wordpress.org/themes/job-recruitment-agency/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/job-recruitment-agency.1.0.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/job-recruitment-agency.1.0.8.zip"
   },
   {
     "name": "Job Seeker Resume",
@@ -144398,7 +144416,7 @@
   {
     "name": "Magazine 7",
     "slug": "magazine-7",
-    "version": "3.4.3",
+    "version": "3.4.4",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 88,
@@ -144406,12 +144424,12 @@
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/magazine-7/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/magazine-7/screenshot.png?ver=3.4.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/magazine-7/screenshot.png?ver=3.4.4",
     "homepage": "https://wordpress.org/themes/magazine-7/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/magazine-7.3.4.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/magazine-7.3.4.4.zip"
   },
   {
     "name": "Magazine Art",
@@ -145622,7 +145640,7 @@
   {
     "name": "Magnitude",
     "slug": "magnitude",
-    "version": "3.4.3",
+    "version": "3.4.4",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 100,
@@ -145630,12 +145648,12 @@
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/magnitude/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/magnitude/screenshot.png?ver=3.4.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/magnitude/screenshot.png?ver=3.4.4",
     "homepage": "https://wordpress.org/themes/magnitude/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/magnitude.3.4.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/magnitude.3.4.4.zip"
   },
   {
     "name": "Magnolia",
@@ -159104,7 +159122,7 @@
   {
     "name": "MoreNews",
     "slug": "morenews",
-    "version": "4.3.11",
+    "version": "4.3.12",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 98,
@@ -159112,12 +159130,12 @@
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/morenews/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/morenews/screenshot.png?ver=4.3.11",
+    "screenshot_url": "//ts.w.org/wp-content/themes/morenews/screenshot.png?ver=4.3.12",
     "homepage": "https://wordpress.org/themes/morenews/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/morenews.4.3.11.zip"
+    "download_link": "https://downloads.wordpress.org/theme/morenews.4.3.12.zip"
   },
   {
     "name": "Morfeu",
@@ -167186,7 +167204,7 @@
   {
     "name": "NewsAlt",
     "slug": "newsalt",
-    "version": "1.1.23",
+    "version": "1.1.24",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 100,
@@ -167194,12 +167212,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/newsalt/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsalt/screenshot.png?ver=1.1.23",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsalt/screenshot.png?ver=1.1.24",
     "homepage": "https://wordpress.org/themes/newsalt/",
     "template": "newsmash",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsalt.1.1.23.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsalt.1.1.24.zip"
   },
   {
     "name": "NewsArc",
@@ -167834,7 +167852,7 @@
   {
     "name": "NewsDaily",
     "slug": "newsdaily",
-    "version": "1.1.45",
+    "version": "1.1.46",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 100,
@@ -167842,12 +167860,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/newsdaily/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsdaily/screenshot.png?ver=1.1.45",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsdaily/screenshot.png?ver=1.1.46",
     "homepage": "https://wordpress.org/themes/newsdaily/",
     "template": "newsmash",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsdaily.1.1.45.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsdaily.1.1.46.zip"
   },
   {
     "name": "NewsDay",
@@ -167960,7 +167978,7 @@
   {
     "name": "Newsever",
     "slug": "newsever",
-    "version": "4.5.3",
+    "version": "4.5.4",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 98,
@@ -167968,12 +167986,12 @@
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/newsever/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsever/screenshot.png?ver=4.5.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsever/screenshot.png?ver=4.5.4",
     "homepage": "https://wordpress.org/themes/newsever/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsever.4.5.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsever.4.5.4.zip"
   },
   {
     "name": "NewsEverest",
@@ -168212,7 +168230,7 @@
   {
     "name": "NewsHours",
     "slug": "newshours",
-    "version": "1.1.16",
+    "version": "1.1.17",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 0,
@@ -168220,12 +168238,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/newshours/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newshours/screenshot.png?ver=1.1.16",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newshours/screenshot.png?ver=1.1.17",
     "homepage": "https://wordpress.org/themes/newshours/",
     "template": "newsmash",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newshours.1.1.16.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newshours.1.1.17.zip"
   },
   {
     "name": "Newsical",
@@ -168302,7 +168320,7 @@
   {
     "name": "Newsium",
     "slug": "newsium",
-    "version": "4.4.3",
+    "version": "4.4.4",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 100,
@@ -168310,12 +168328,12 @@
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/newsium/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsium/screenshot.png?ver=4.4.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsium/screenshot.png?ver=4.4.4",
     "homepage": "https://wordpress.org/themes/newsium/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsium.4.4.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsium.4.4.4.zip"
   },
   {
     "name": "Newsix",
@@ -168680,7 +168698,7 @@
   {
     "name": "NewsMash",
     "slug": "newsmash",
-    "version": "1.1.63",
+    "version": "1.1.64",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 60,
@@ -168688,12 +168706,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/newsmash/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsmash/screenshot.png?ver=1.1.63",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsmash/screenshot.png?ver=1.1.64",
     "homepage": "https://wordpress.org/themes/newsmash/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsmash.1.1.63.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsmash.1.1.64.zip"
   },
   {
     "name": "NewsMass",
@@ -168986,7 +169004,7 @@
   {
     "name": "NewsOnline",
     "slug": "newsonline",
-    "version": "0.7",
+    "version": "0.8",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 0,
@@ -168994,12 +169012,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/newsonline/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsonline/screenshot.png?ver=0.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsonline/screenshot.png?ver=0.8",
     "homepage": "https://wordpress.org/themes/newsonline/",
     "template": "newsmash",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsonline.0.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsonline.0.8.zip"
   },
   {
     "name": "Newsosa",
@@ -169598,7 +169616,7 @@
   {
     "name": "Newsphere",
     "slug": "newsphere",
-    "version": "4.6.9",
+    "version": "4.6.10",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 98,
@@ -169606,12 +169624,12 @@
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/newsphere/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsphere/screenshot.png?ver=4.6.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsphere/screenshot.png?ver=4.6.10",
     "homepage": "https://wordpress.org/themes/newsphere/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsphere.4.6.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsphere.4.6.10.zip"
   },
   {
     "name": "Newspin",
@@ -180200,7 +180218,7 @@
   {
     "name": "Outdoor Camping",
     "slug": "outdoor-camping",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -180208,12 +180226,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/outdoor-camping/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/outdoor-camping/screenshot.png?ver=1.2.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/outdoor-camping/screenshot.png?ver=1.2.4",
     "homepage": "https://wordpress.org/themes/outdoor-camping/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/outdoor-camping.1.2.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/outdoor-camping.1.2.4.zip"
   },
   {
     "name": "Outdoor Kitchen",
@@ -189182,7 +189200,7 @@
   {
     "name": "Ploto",
     "slug": "ploto",
-    "version": "1.0.12",
+    "version": "1.0.13",
     "author_name": "Desert Themes",
     "author_url": "https://profiles.wordpress.org/desertthemes/",
     "rating": 0,
@@ -189190,12 +189208,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/ploto/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/ploto/screenshot.png?ver=1.0.12",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ploto/screenshot.png?ver=1.0.13",
     "homepage": "https://wordpress.org/themes/ploto/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/ploto.1.0.12.zip"
+    "download_link": "https://downloads.wordpress.org/theme/ploto.1.0.13.zip"
   },
   {
     "name": "Plover",
@@ -189525,7 +189543,7 @@
     "name": "Pluto",
     "slug": "pluto",
     "version": "8.0.0.0",
-    "author_name": "Viavi Webtech",
+    "author_name": "VIAVIWEB",
     "author_url": "https://profiles.wordpress.org/viaviwebtech/",
     "rating": 40,
     "num_ratings": 1,
@@ -195122,7 +195140,7 @@
   {
     "name": "Project Manager",
     "slug": "project-manager",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -195130,12 +195148,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/project-manager/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/project-manager/screenshot.png?ver=1.0.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/project-manager/screenshot.png?ver=1.0.7",
     "homepage": "https://wordpress.org/themes/project-manager/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/project-manager.1.0.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/project-manager.1.0.7.zip"
   },
   {
     "name": "Prolific",
@@ -197030,7 +197048,7 @@
   {
     "name": "Quantum Computing",
     "slug": "quantum-computing",
-    "version": "1.3.2",
+    "version": "1.3.3",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -197038,12 +197056,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/quantum-computing/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/quantum-computing/screenshot.png?ver=1.3.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/quantum-computing/screenshot.png?ver=1.3.3",
     "homepage": "https://wordpress.org/themes/quantum-computing/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/quantum-computing.1.3.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/quantum-computing.1.3.3.zip"
   },
   {
     "name": "QuantumFashion",
@@ -204788,7 +204806,7 @@
   {
     "name": "ReviewNews",
     "slug": "reviewnews",
-    "version": "2.0.6",
+    "version": "2.0.7",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 100,
@@ -204796,12 +204814,12 @@
     "requires_wordpress": "4.0",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/reviewnews/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/reviewnews/screenshot.png?ver=2.0.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/reviewnews/screenshot.png?ver=2.0.7",
     "homepage": "https://wordpress.org/themes/reviewnews/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/reviewnews.2.0.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/reviewnews.2.0.7.zip"
   },
   {
     "name": "Revinfotech",
@@ -214940,7 +214958,7 @@
   {
     "name": "Shopical",
     "slug": "shopical",
-    "version": "2.5.9",
+    "version": "2.5.10",
     "author_name": "AF themes",
     "author_url": "https://profiles.wordpress.org/afthemes/",
     "rating": 88,
@@ -214948,12 +214966,12 @@
     "requires_wordpress": "",
     "requires_php": "5.0",
     "preview_url": "https://wp-themes.com/shopical/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/shopical/screenshot.png?ver=2.5.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/shopical/screenshot.png?ver=2.5.10",
     "homepage": "https://wordpress.org/themes/shopical/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/shopical.2.5.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/shopical.2.5.10.zip"
   },
   {
     "name": "Shopient",
@@ -238106,7 +238124,7 @@
   {
     "name": "Tech Software",
     "slug": "tech-software",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -238114,12 +238132,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/tech-software/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/tech-software/screenshot.png?ver=1.2.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/tech-software/screenshot.png?ver=1.2.3",
     "homepage": "https://wordpress.org/themes/tech-software/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/tech-software.1.2.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/tech-software.1.2.3.zip"
   },
   {
     "name": "Tech Software Company",
@@ -254558,7 +254576,7 @@
   {
     "name": "Vehicle Rental",
     "slug": "vehicle-rental",
-    "version": "1.0.9",
+    "version": "1.1.0",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -254566,12 +254584,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/vehicle-rental/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vehicle-rental/screenshot.png?ver=1.0.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vehicle-rental/screenshot.png?ver=1.1.0",
     "homepage": "https://wordpress.org/themes/vehicle-rental/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vehicle-rental.1.0.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vehicle-rental.1.1.0.zip"
   },
   {
     "name": "Veloce",
@@ -255440,7 +255458,7 @@
   {
     "name": "Veterinary Dogcare",
     "slug": "veterinary-dogcare",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -255448,12 +255466,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/veterinary-dogcare/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/veterinary-dogcare/screenshot.png?ver=1.2.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/veterinary-dogcare/screenshot.png?ver=1.2.1",
     "homepage": "https://wordpress.org/themes/veterinary-dogcare/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/veterinary-dogcare.1.2.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/veterinary-dogcare.1.2.1.zip"
   },
   {
     "name": "Veterinary Hospital",
@@ -262496,7 +262514,7 @@
   {
     "name": "Wedding Planner Firm",
     "slug": "wedding-planner-firm",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -262504,12 +262522,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/wedding-planner-firm/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wedding-planner-firm/screenshot.jpg?ver=1.2.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wedding-planner-firm/screenshot.jpg?ver=1.2.4",
     "homepage": "https://wordpress.org/themes/wedding-planner-firm/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wedding-planner-firm.1.2.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wedding-planner-firm.1.2.4.zip"
   },
   {
     "name": "Wedding Planner Lite",
@@ -262946,7 +262964,7 @@
   {
     "name": "Wellness Center",
     "slug": "wellness-center",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "author_name": "Creta Themes",
     "author_url": "https://profiles.wordpress.org/cretathemes/",
     "rating": 0,
@@ -262954,12 +262972,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/wellness-center/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/wellness-center/screenshot.png?ver=1.1.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/wellness-center/screenshot.png?ver=1.1.2",
     "homepage": "https://wordpress.org/themes/wellness-center/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/wellness-center.1.1.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/wellness-center.1.1.2.zip"
   },
   {
     "name": "Wellness Coach Lite",
