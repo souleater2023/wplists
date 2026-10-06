@@ -19944,6 +19944,24 @@
     "download_link": "https://downloads.wordpress.org/theme/bbird-under.1.0.4.zip"
   },
   {
+    "name": "bBlocks",
+    "slug": "bblocks",
+    "version": "1.0.2",
+    "author_name": "Prosanta Roy",
+    "author_url": "https://profiles.wordpress.org/prosanta10/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.6",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/bblocks/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/bblocks/screenshot.png?ver=1.0.2",
+    "homepage": "https://wordpress.org/themes/bblocks/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/bblocks.1.0.2.zip"
+  },
+  {
     "name": "BBlog",
     "slug": "bblog",
     "version": "1.2.2",
@@ -89696,7 +89714,7 @@
   {
     "name": "Fairport",
     "slug": "fairport",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "author_name": "philhoyt",
     "author_url": "https://profiles.wordpress.org/philhoyt/",
     "rating": 0,
@@ -89704,12 +89722,12 @@
     "requires_wordpress": "6.6",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/fairport/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/fairport/screenshot.png?ver=1.1.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/fairport/screenshot.png?ver=1.1.1",
     "homepage": "https://wordpress.org/themes/fairport/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/fairport.1.1.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/fairport.1.1.1.zip"
   },
   {
     "name": "Fairtimes",
@@ -127710,6 +127728,24 @@
     "download_link": "https://downloads.wordpress.org/theme/jackrabbit.1.0.2.zip"
   },
   {
+    "name": "Jadav Canvas",
+    "slug": "jadav-canvas",
+    "version": "1.0.3",
+    "author_name": "Jadav Sanjay",
+    "author_url": "https://profiles.wordpress.org/jadavsanjay/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.0",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/jadav-canvas/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/jadav-canvas/screenshot.png?ver=1.0.3",
+    "homepage": "https://wordpress.org/themes/jadav-canvas/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/jadav-canvas.1.0.3.zip"
+  },
+  {
     "name": "Jadro",
     "slug": "jadro",
     "version": "1.0.2",
@@ -142900,6 +142936,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/luca-portfolio.1.1.2.zip"
+  },
+  {
+    "name": "Lucent Folio",
+    "slug": "lucent-folio",
+    "version": "1.0.1",
+    "author_name": "trushiv",
+    "author_url": "https://profiles.wordpress.org/trushiv/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.4",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/lucent-folio/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/lucent-folio/screenshot.png?ver=1.0.1",
+    "homepage": "https://wordpress.org/themes/lucent-folio/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/lucent-folio.1.0.1.zip"
   },
   {
     "name": "Lucia",
@@ -239778,6 +239832,24 @@
     "download_link": "https://downloads.wordpress.org/theme/terminally.2.0.0.zip"
   },
   {
+    "name": "TerraSuite Agency",
+    "slug": "terrasuite-agency",
+    "version": "1.0.5",
+    "author_name": "havenswift-hosting",
+    "author_url": "https://profiles.wordpress.org/havenswift-hosting/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.7",
+    "requires_php": "8.1",
+    "preview_url": "https://wp-themes.com/terrasuite-agency/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/terrasuite-agency/screenshot.png?ver=1.0.5",
+    "homepage": "https://wordpress.org/themes/terrasuite-agency/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/terrasuite-agency.1.0.5.zip"
+  },
+  {
     "name": "Terravan",
     "slug": "terravan",
     "version": "1.0.1",
@@ -273008,7 +273080,7 @@
   {
     "name": "Zentorone",
     "slug": "zentorone",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "author_name": "Atakan Au",
     "author_url": "https://profiles.wordpress.org/atakanau/",
     "rating": 0,
@@ -273016,12 +273088,12 @@
     "requires_wordpress": "6.0",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/zentorone/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/zentorone/screenshot.png?ver=1.0.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/zentorone/screenshot.png?ver=1.0.6",
     "homepage": "https://wordpress.org/themes/zentorone/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/zentorone.1.0.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/zentorone.1.0.6.zip"
   },
   {
     "name": "Zenvy",
