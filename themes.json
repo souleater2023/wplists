@@ -1406,7 +1406,7 @@
   {
     "name": "Academic Education Lite",
     "slug": "academic-education-lite",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -1414,12 +1414,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/academic-education-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/academic-education-lite/screenshot.png?ver=0.2.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/academic-education-lite/screenshot.png?ver=0.2.4",
     "homepage": "https://wordpress.org/themes/academic-education-lite/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/academic-education-lite.0.2.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/academic-education-lite.0.2.4.zip"
   },
   {
     "name": "Academic Hub",
@@ -3494,7 +3494,7 @@
   {
     "name": "Adventure Tourism",
     "slug": "adventure-tourism",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -3502,12 +3502,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/adventure-tourism/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/adventure-tourism/screenshot.png?ver=0.3.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/adventure-tourism/screenshot.png?ver=0.3.2",
     "homepage": "https://wordpress.org/themes/adventure-tourism/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/adventure-tourism.0.3.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/adventure-tourism.0.3.2.zip"
   },
   {
     "name": "Adventure Trails",
@@ -8084,7 +8084,7 @@
   {
     "name": "Ambulance Paramedics",
     "slug": "ambulance-paramedics",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -8092,12 +8092,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/ambulance-paramedics/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/ambulance-paramedics/screenshot.png?ver=0.2.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ambulance-paramedics/screenshot.png?ver=0.2.5",
     "homepage": "https://wordpress.org/themes/ambulance-paramedics/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/ambulance-paramedics.0.2.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/ambulance-paramedics.0.2.5.zip"
   },
   {
     "name": "Amela",
@@ -11394,6 +11394,24 @@
     "download_link": "https://downloads.wordpress.org/theme/architectwp.1.0.6.zip"
   },
   {
+    "name": "Architrave",
+    "slug": "architrave",
+    "version": "1.4.87",
+    "author_name": "Manuel Esposito",
+    "author_url": "https://profiles.wordpress.org/manuelesposito/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.4",
+    "requires_php": "8.0",
+    "preview_url": "https://wp-themes.com/architrave/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/architrave/screenshot.png?ver=1.4.87",
+    "homepage": "https://wordpress.org/themes/architrave/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/architrave.1.4.87.zip"
+  },
+  {
     "name": "Archive News",
     "slug": "archive-news",
     "version": "1.0.0",
@@ -12422,7 +12440,7 @@
   {
     "name": "Article Blog Writer",
     "slug": "article-blog-writer",
-    "version": "0.1.8",
+    "version": "0.1.9",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -12430,12 +12448,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/article-blog-writer/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/article-blog-writer/screenshot.png?ver=0.1.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/article-blog-writer/screenshot.png?ver=0.1.9",
     "homepage": "https://wordpress.org/themes/article-blog-writer/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/article-blog-writer.0.1.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/article-blog-writer.0.1.9.zip"
   },
   {
     "name": "ArticlePress",
@@ -15014,7 +15032,7 @@
   {
     "name": "Author Book Publisher",
     "slug": "author-book-publisher",
-    "version": "0.6.6",
+    "version": "0.6.7",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -15022,12 +15040,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/author-book-publisher/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/author-book-publisher/screenshot.png?ver=0.6.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/author-book-publisher/screenshot.png?ver=0.6.7",
     "homepage": "https://wordpress.org/themes/author-book-publisher/",
     "template": "digital-books",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/author-book-publisher.0.6.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/author-book-publisher.0.6.7.zip"
   },
   {
     "name": "Author Book Writer",
@@ -15572,7 +15590,7 @@
   {
     "name": "Automobile Detailing Shop",
     "slug": "automobile-detailing-shop",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -15580,12 +15598,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/automobile-detailing-shop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/automobile-detailing-shop/screenshot.png?ver=0.2.2",
+    "screenshot_url": "//ts.w.org/wp-content/themes/automobile-detailing-shop/screenshot.png?ver=0.2.3",
     "homepage": "https://wordpress.org/themes/automobile-detailing-shop/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/automobile-detailing-shop.0.2.2.zip"
+    "download_link": "https://downloads.wordpress.org/theme/automobile-detailing-shop.0.2.3.zip"
   },
   {
     "name": "Automobile Elementor",
@@ -33138,6 +33156,24 @@
     "download_link": "https://downloads.wordpress.org/theme/blokio.1.0.2.zip"
   },
   {
+    "name": "Blokmark",
+    "slug": "blokmark",
+    "version": "1.0.1",
+    "author_name": "TUNET Digital Agency",
+    "author_url": "https://profiles.wordpress.org/tunetdesign/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.6",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/blokmark/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/blokmark/screenshot.png?ver=1.0.1",
+    "homepage": "https://wordpress.org/themes/blokmark/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/blokmark.1.0.1.zip"
+  },
+  {
     "name": "Blood Donation Campaign",
     "slug": "blood-donation-campaign",
     "version": "0.3.7",
@@ -38148,7 +38184,7 @@
     "author_name": "aThemes",
     "author_url": "https://profiles.wordpress.org/athemes/",
     "rating": 98,
-    "num_ratings": 163,
+    "num_ratings": 164,
     "requires_wordpress": "",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/botiga/",
@@ -65720,7 +65756,7 @@
   {
     "name": "Cupcake Shop",
     "slug": "cupcake-shop",
-    "version": "0.2.6",
+    "version": "0.2.7",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -65728,12 +65764,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/cupcake-shop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/cupcake-shop/screenshot.png?ver=0.2.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/cupcake-shop/screenshot.png?ver=0.2.7",
     "homepage": "https://wordpress.org/themes/cupcake-shop/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/cupcake-shop.0.2.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/cupcake-shop.0.2.7.zip"
   },
   {
     "name": "Cuppa",
@@ -69122,7 +69158,7 @@
   {
     "name": "Deep Cleaning",
     "slug": "deep-cleaning",
-    "version": "0.2.8",
+    "version": "0.2.9",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -69130,12 +69166,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/deep-cleaning/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/deep-cleaning/screenshot.png?ver=0.2.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/deep-cleaning/screenshot.png?ver=0.2.9",
     "homepage": "https://wordpress.org/themes/deep-cleaning/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/deep-cleaning.0.2.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/deep-cleaning.0.2.9.zip"
   },
   {
     "name": "Deep Mix",
@@ -76448,7 +76484,7 @@
   {
     "name": "Eauto Repair",
     "slug": "eauto-repair",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -76456,12 +76492,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/eauto-repair/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/eauto-repair/screenshot.png?ver=0.2.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/eauto-repair/screenshot.png?ver=0.2.4",
     "homepage": "https://wordpress.org/themes/eauto-repair/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/eauto-repair.0.2.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/eauto-repair.0.2.4.zip"
   },
   {
     "name": "EazyShop",
@@ -86240,7 +86276,7 @@
   {
     "name": "Event Dining Catering",
     "slug": "event-dining-catering",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -86248,12 +86284,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/event-dining-catering/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/event-dining-catering/screenshot.png?ver=0.2.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/event-dining-catering/screenshot.png?ver=0.2.5",
     "homepage": "https://wordpress.org/themes/event-dining-catering/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/event-dining-catering.0.2.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/event-dining-catering.0.2.5.zip"
   },
   {
     "name": "Event Elementor",
@@ -98048,7 +98084,7 @@
   {
     "name": "Food Restro Zone",
     "slug": "food-restro-zone",
-    "version": "0.2.5",
+    "version": "0.2.6",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -98056,12 +98092,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/food-restro-zone/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/food-restro-zone/screenshot.png?ver=0.2.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/food-restro-zone/screenshot.png?ver=0.2.6",
     "homepage": "https://wordpress.org/themes/food-restro-zone/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/food-restro-zone.0.2.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/food-restro-zone.0.2.6.zip"
   },
   {
     "name": "Food Studio",
@@ -103232,7 +103268,7 @@
   {
     "name": "Futuristic Architecture",
     "slug": "futuristic-architecture",
-    "version": "0.2.7",
+    "version": "0.2.8",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -103240,12 +103276,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/futuristic-architecture/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/futuristic-architecture/screenshot.png?ver=0.2.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/futuristic-architecture/screenshot.png?ver=0.2.8",
     "homepage": "https://wordpress.org/themes/futuristic-architecture/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/futuristic-architecture.0.2.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/futuristic-architecture.0.2.8.zip"
   },
   {
     "name": "Futuristic Vision",
@@ -107934,7 +107970,7 @@
     "author_name": "Aslam",
     "author_url": "https://profiles.wordpress.org/aslamnaik/",
     "rating": 100,
-    "num_ratings": 8,
+    "num_ratings": 9,
     "requires_wordpress": "5.3",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/graceful/",
@@ -114968,7 +115004,7 @@
   {
     "name": "Hakoniwa",
     "slug": "hakoniwa",
-    "version": "1.4.12",
+    "version": "1.4.13",
     "author_name": "Tetsuya Imamura",
     "author_url": "https://profiles.wordpress.org/s56bouya/",
     "rating": 100,
@@ -114976,12 +115012,12 @@
     "requires_wordpress": "6.9",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/hakoniwa/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/hakoniwa/screenshot.jpg?ver=1.4.12",
+    "screenshot_url": "//ts.w.org/wp-content/themes/hakoniwa/screenshot.jpg?ver=1.4.13",
     "homepage": "https://wordpress.org/themes/hakoniwa/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/hakoniwa.1.4.12.zip"
+    "download_link": "https://downloads.wordpress.org/theme/hakoniwa.1.4.13.zip"
   },
   {
     "name": "Halcyon",
@@ -201314,7 +201350,7 @@
   {
     "name": "Recipe Maker",
     "slug": "recipe-maker",
-    "version": "0.2.8",
+    "version": "0.2.9",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -201322,12 +201358,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/recipe-maker/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/recipe-maker/screenshot.png?ver=0.2.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/recipe-maker/screenshot.png?ver=0.2.9",
     "homepage": "https://wordpress.org/themes/recipe-maker/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/recipe-maker.0.2.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/recipe-maker.0.2.9.zip"
   },
   {
     "name": "Recipe Quest",
@@ -221924,7 +221960,7 @@
   {
     "name": "Skin Care Products",
     "slug": "skin-care-products",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -221932,12 +221968,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/skin-care-products/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/skin-care-products/screenshot.png?ver=0.3.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/skin-care-products/screenshot.png?ver=0.3.2",
     "homepage": "https://wordpress.org/themes/skin-care-products/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/skin-care-products.0.3.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/skin-care-products.0.3.2.zip"
   },
   {
     "name": "Skin Care Solutions",
@@ -226100,7 +226136,7 @@
   {
     "name": "Social Media Marketing",
     "slug": "social-media-marketing",
-    "version": "0.2.7",
+    "version": "0.2.8",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -226108,12 +226144,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/social-media-marketing/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/social-media-marketing/screenshot.png?ver=0.2.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/social-media-marketing/screenshot.png?ver=0.2.8",
     "homepage": "https://wordpress.org/themes/social-media-marketing/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/social-media-marketing.0.2.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/social-media-marketing.0.2.8.zip"
   },
   {
     "name": "Social News",
@@ -227702,7 +227738,7 @@
   {
     "name": "Spa Sauna",
     "slug": "spa-sauna",
-    "version": "0.2.7",
+    "version": "0.2.8",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -227710,12 +227746,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/spa-sauna/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/spa-sauna/screenshot.png?ver=0.2.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/spa-sauna/screenshot.png?ver=0.2.8",
     "homepage": "https://wordpress.org/themes/spa-sauna/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/spa-sauna.0.2.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/spa-sauna.0.2.8.zip"
   },
   {
     "name": "Spa Serenity",
@@ -232400,7 +232436,7 @@
   {
     "name": "Store Eshop",
     "slug": "store-eshop",
-    "version": "0.2.6",
+    "version": "0.2.7",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -232408,12 +232444,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/store-eshop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/store-eshop/screenshot.png?ver=0.2.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/store-eshop/screenshot.png?ver=0.2.7",
     "homepage": "https://wordpress.org/themes/store-eshop/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/store-eshop.0.2.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/store-eshop.0.2.7.zip"
   },
   {
     "name": "Store Expert",
@@ -257618,7 +257654,7 @@
   {
     "name": "Virtual Yoga Sessions",
     "slug": "virtual-yoga-sessions",
-    "version": "0.2.7",
+    "version": "0.2.8",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -257626,12 +257662,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/virtual-yoga-sessions/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/virtual-yoga-sessions/screenshot.png?ver=0.2.7",
+    "screenshot_url": "//ts.w.org/wp-content/themes/virtual-yoga-sessions/screenshot.png?ver=0.2.8",
     "homepage": "https://wordpress.org/themes/virtual-yoga-sessions/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/virtual-yoga-sessions.0.2.7.zip"
+    "download_link": "https://downloads.wordpress.org/theme/virtual-yoga-sessions.0.2.8.zip"
   },
   {
     "name": "Virtue",
@@ -258446,7 +258482,7 @@
   {
     "name": "Vlog Channel",
     "slug": "vlog-channel",
-    "version": "0.2.6",
+    "version": "0.2.7",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -258454,12 +258490,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/vlog-channel/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/vlog-channel/screenshot.png?ver=0.2.6",
+    "screenshot_url": "//ts.w.org/wp-content/themes/vlog-channel/screenshot.png?ver=0.2.7",
     "homepage": "https://wordpress.org/themes/vlog-channel/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/vlog-channel.0.2.6.zip"
+    "download_link": "https://downloads.wordpress.org/theme/vlog-channel.0.2.7.zip"
   },
   {
     "name": "Vlogger Video Blog",
@@ -261758,7 +261794,7 @@
   {
     "name": "Water Delivery Services",
     "slug": "water-delivery-services",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "author_name": "themagnifico52",
     "author_url": "https://profiles.wordpress.org/themagnifico52/",
     "rating": 0,
@@ -261766,12 +261802,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/water-delivery-services/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/water-delivery-services/screenshot.png?ver=0.3.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/water-delivery-services/screenshot.png?ver=0.3.1",
     "homepage": "https://wordpress.org/themes/water-delivery-services/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/water-delivery-services.0.3.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/water-delivery-services.0.3.1.zip"
   },
   {
     "name": "Water Filter",
