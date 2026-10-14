@@ -1688,7 +1688,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 37,
     "last_updated": "2026-10-13 10:44pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/360-orbit-speed-optimizer.1.1.1.zip"
@@ -1748,6 +1748,20 @@
     "last_updated": "2026-10-12 3:47pm GMT",
     "added": "2026-09-24",
     "download_link": "https://downloads.wordpress.org/plugin/360-qr.1.0.12.zip"
+  },
+  {
+    "name": "360 Reclamaciones",
+    "slug": "360-reclamaciones",
+    "version": "1.4.14",
+    "requires_wordpress": "6.2",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 3:31am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/360-reclamaciones.1.4.14.zip"
   },
   {
     "name": "Algori 360 Video",
@@ -9122,7 +9136,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 27,
+    "downloaded": 39,
     "last_updated": "2026-10-13 7:19pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/accesstrace-for-learndash.1.0.0.zip"
@@ -13568,16 +13582,16 @@
   {
     "name": "Activity Track \u0026#8211; User Activity Log",
     "slug": "activity-track",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "requires_wordpress": "6.4",
     "tested": "7.1.3",
     "requires_php": "8.0",
     "num_ratings": 1,
     "active_installs": 10,
     "downloaded": 2080,
-    "last_updated": "2026-10-05 1:18am GMT",
+    "last_updated": "2026-10-14 12:58am GMT",
     "added": "2025-05-15",
-    "download_link": "https://downloads.wordpress.org/plugin/activity-track.1.2.2.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/activity-track.1.2.3.zip"
   },
   {
     "name": "Activity Tracker",
@@ -26174,7 +26188,7 @@
     "requires_php": "7.4",
     "num_ratings": 34,
     "active_installs": 9000,
-    "downloaded": 161437,
+    "downloaded": 161463,
     "last_updated": "2026-10-13 6:35pm GMT",
     "added": "2021-03-20",
     "download_link": "https://downloads.wordpress.org/plugin/advanced-accordion-block.5.6.0.zip"
@@ -31276,6 +31290,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/aeomatic.1.2.6.zip"
   },
   {
+    "name": "Aepto Domain Expiry, SSL \u0026amp; DNS Monitor",
+    "slug": "aepto-domain-ssl-dns-monitor",
+    "version": "1.0.1",
+    "requires_wordpress": "5.8",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 35,
+    "last_updated": "2026-10-13 11:00pm GMT",
+    "added": "2026-10-13",
+    "download_link": "https://downloads.wordpress.org/plugin/aepto-domain-ssl-dns-monitor.1.0.1.zip"
+  },
+  {
     "name": "Events Manager and Register",
     "slug": "aerin-events-register",
     "version": "1.0",
@@ -34560,7 +34588,7 @@
     "requires_php": "7.4",
     "num_ratings": 5,
     "active_installs": 70,
-    "downloaded": 2690,
+    "downloaded": 2703,
     "last_updated": "2026-10-13 7:47pm GMT",
     "added": "2026-06-03",
     "download_link": "https://downloads.wordpress.org/plugin/agentic-commerce-for-woocommerce.0.8.0.zip"
@@ -35988,7 +36016,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 14,
+    "downloaded": 51,
     "last_updated": "2026-10-13 7:51pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/ahtesham-web-vitals-booster.1.0.0.zip"
@@ -37746,16 +37774,16 @@
   {
     "name": "AI Hotel Chatbot by Lobbychat",
     "slug": "ai-hotel-chatbot-by-lobbychat",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "requires_wordpress": "6.0",
     "tested": "7.0.7",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 444,
-    "last_updated": "2026-10-06 3:38am GMT",
+    "last_updated": "2026-10-14 2:49am GMT",
     "added": "2026-07-12",
-    "download_link": "https://downloads.wordpress.org/plugin/ai-hotel-chatbot-by-lobbychat.2.0.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/ai-hotel-chatbot-by-lobbychat.2.1.0.zip"
   },
   {
     "name": "AI Humanizer \u0026amp; AI Detector – Uncertify AI",
@@ -46376,7 +46404,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 61,
+    "downloaded": 72,
     "last_updated": "2026-10-11 3:22pm GMT",
     "added": "2026-10-11",
     "download_link": "https://downloads.wordpress.org/plugin/alkamy-product-descriptions-for-woocommerce.1.0.2.zip"
@@ -48896,7 +48924,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 1244,
+    "downloaded": 1275,
     "last_updated": "2026-10-13 9:38pm GMT",
     "added": "2026-06-20",
     "download_link": "https://downloads.wordpress.org/plugin/alnora-clinic.1.3.7.zip"
@@ -56100,16 +56128,16 @@
   {
     "name": "Anni Marketing",
     "slug": "anni-marketing",
-    "version": "1.2.0",
+    "version": "1.4.0",
     "requires_wordpress": "5.9",
-    "tested": "7.0.7",
+    "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 279,
-    "last_updated": "2026-09-28 8:30am GMT",
+    "last_updated": "2026-10-14 4:33am GMT",
     "added": "2026-08-17",
-    "download_link": "https://downloads.wordpress.org/plugin/anni-marketing.1.2.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/anni-marketing.1.4.0.zip"
   },
   {
     "name": "Anniversary For WooCommerce",
@@ -57132,6 +57160,20 @@
     "last_updated": "2023-09-20 9:05am GMT",
     "added": "2020-05-11",
     "download_link": "https://downloads.wordpress.org/plugin/answerforce.2.3.zip"
+  },
+  {
+    "name": "AnswerHawk – AI Email Support by WizeHawk",
+    "slug": "answerhawk-ai-email-support-by-wizehawk",
+    "version": "1.0.1",
+    "requires_wordpress": "7.0",
+    "tested": "7.1.3",
+    "requires_php": "8.0",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 23,
+    "last_updated": "2026-10-13 11:52pm GMT",
+    "added": "2026-10-13",
+    "download_link": "https://downloads.wordpress.org/plugin/answerhawk-ai-email-support-by-wizehawk.1.0.1.zip"
   },
   {
     "name": "Answering Contact Form",
@@ -58696,7 +58738,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 23,
+    "downloaded": 53,
     "last_updated": "2026-10-13 9:21pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/anywarex-debug-switch.1.0.1.zip"
@@ -71484,6 +71526,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/atelier-scroll-top.zip"
   },
   {
+    "name": "Atelixo Changelog Digest",
+    "slug": "atelixo-changelog-digest",
+    "version": "1.0.0",
+    "requires_wordpress": "6.0",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 4:37am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/atelixo-changelog-digest.1.0.0.zip"
+  },
+  {
     "name": "Atelixo Closed \u0026amp; Abandoned Alert",
     "slug": "atelixo-closed-abandoned-alert",
     "version": "1.0.1",
@@ -71526,6 +71582,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/ath-movil-pay-button-payment-gateway.2.0.1.zip"
   },
   {
+    "name": "ATH Vouchers for Geniki Taxydromiki",
+    "slug": "ath-vouchers-for-geniki-taxydromiki",
+    "version": "1.0.1",
+    "requires_wordpress": "6.8",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 20,
+    "last_updated": "2026-10-14 12:22am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/ath-vouchers-for-geniki-taxydromiki.1.0.1.zip"
+  },
+  {
     "name": "ATH XML Feed for Skroutz – WooCommerce Product Feed",
     "slug": "ath-xml-feed-for-skroutz",
     "version": "1.0.1",
@@ -71534,8 +71604,8 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 52,
-    "last_updated": "2026-10-13 12:31pm GMT",
+    "downloaded": 65,
+    "last_updated": "2026-10-14 12:23am GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/ath-xml-feed-for-skroutz.1.0.1.zip"
   },
@@ -71626,16 +71696,16 @@
   {
     "name": "Athena AI Content Assistant",
     "slug": "athena-ai-content-assistant",
-    "version": "1.9.16",
+    "version": "1.9.17",
     "requires_wordpress": "5.8",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 1948,
-    "last_updated": "2026-10-05 4:40am GMT",
+    "last_updated": "2026-10-14 3:39am GMT",
     "added": "2025-12-06",
-    "download_link": "https://downloads.wordpress.org/plugin/athena-ai-content-assistant.1.9.16.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/athena-ai-content-assistant.1.9.17.zip"
   },
   {
     "name": "Athena Post Expiration",
@@ -74468,16 +74538,16 @@
   {
     "name": "Aulaa for WooCommerce",
     "slug": "aulaa-for-woocommerce",
-    "version": "2.0.6",
+    "version": "2.1.0",
     "requires_wordpress": "6.0",
     "tested": "7.0.7",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 504,
-    "last_updated": "2026-09-18 1:05am GMT",
+    "last_updated": "2026-10-14 2:39am GMT",
     "added": "2026-07-23",
-    "download_link": "https://downloads.wordpress.org/plugin/aulaa-for-woocommerce.2.0.6.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/aulaa-for-woocommerce.2.1.0.zip"
   },
   {
     "name": "AumChat",
@@ -77806,7 +77876,7 @@
     "requires_php": "7.4",
     "num_ratings": 1,
     "active_installs": 200,
-    "downloaded": 12207,
+    "downloaded": 12246,
     "last_updated": "2026-10-13 9:46pm GMT",
     "added": "2025-12-04",
     "download_link": "https://downloads.wordpress.org/plugin/auto-form-builder.1.5.3.zip"
@@ -80802,7 +80872,7 @@
     "requires_php": "7.4.0",
     "num_ratings": 379,
     "active_installs": 200000,
-    "downloaded": 4795638,
+    "downloaded": 4796015,
     "last_updated": "2025-12-10 3:45pm GMT",
     "added": "2015-05-29",
     "download_link": "https://downloads.wordpress.org/plugin/autodescription.5.1.4.zip"
@@ -81068,7 +81138,7 @@
     "requires_php": "7.0",
     "num_ratings": 6,
     "active_installs": 60,
-    "downloaded": 3822,
+    "downloaded": 3859,
     "last_updated": "2026-10-13 9:55pm GMT",
     "added": "2019-07-26",
     "download_link": "https://downloads.wordpress.org/plugin/autolisticle-automatically-update-numbered-list-articles.1.5.zip"
@@ -82042,16 +82112,16 @@
   {
     "name": "Automatic Product Categories for WooCommerce",
     "slug": "automatic-product-categories-for-woocommerce",
-    "version": "1.2.9",
+    "version": "1.2.10",
     "requires_wordpress": "6.2",
-    "tested": "7.0.7",
+    "tested": "7.1.3",
     "requires_php": "7.0",
     "num_ratings": 7,
     "active_installs": 400,
     "downloaded": 9497,
-    "last_updated": "2026-08-08 2:35am GMT",
+    "last_updated": "2026-10-13 11:33pm GMT",
     "added": "2024-03-18",
-    "download_link": "https://downloads.wordpress.org/plugin/automatic-product-categories-for-woocommerce.1.2.9.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/automatic-product-categories-for-woocommerce.1.2.10.zip"
   },
   {
     "name": "Automatic Quotes",
@@ -83126,7 +83196,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 273,
+    "downloaded": 299,
     "last_updated": "2026-10-13 8:53pm GMT",
     "added": "2026-10-06",
     "download_link": "https://downloads.wordpress.org/plugin/autoroicalc-event-tracking.1.3.0.zip"
@@ -83140,7 +83210,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 2825,
+    "downloaded": 2854,
     "last_updated": "2026-10-13 8:53pm GMT",
     "added": "2024-01-29",
     "download_link": "https://downloads.wordpress.org/plugin/autoroicalc-for-woocommerce.1.3.0.zip"
@@ -84996,16 +85066,16 @@
   {
     "name": "AWC Member Pricing for WooCommerce",
     "slug": "awc-member-pricing-for-woocommerce",
-    "version": "0.0.9",
+    "version": "1.0.0",
     "requires_wordpress": "5.8",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 110,
-    "last_updated": "2026-09-28 8:07am GMT",
+    "last_updated": "2026-10-14 1:57am GMT",
     "added": "2026-09-28",
-    "download_link": "https://downloads.wordpress.org/plugin/awc-member-pricing-for-woocommerce.0.0.9.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/awc-member-pricing-for-woocommerce.1.0.0.zip"
   },
   {
     "name": "AWC Vehicle Fitment Search",
@@ -93640,7 +93710,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 33,
     "last_updated": "2026-10-13 7:55pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/bannerproof.1.0.5.zip"
@@ -101010,6 +101080,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/belarusian-b-symbol-for-woocommerce.1.0.3.zip"
   },
   {
+    "name": "Belayline Agent Governance",
+    "slug": "belayline-agent-governance",
+    "version": "0.4.5",
+    "requires_wordpress": "7.0",
+    "tested": "7.1.3",
+    "requires_php": "8.1",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 1:14am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/belayline-agent-governance.0.4.5.zip"
+  },
+  {
     "name": "Belco.io for Woocommerce",
     "slug": "belcoio",
     "version": "0.9.4",
@@ -105190,7 +105274,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 30,
-    "downloaded": 1846,
+    "downloaded": 1857,
     "last_updated": "2026-10-13 6:20pm GMT",
     "added": "2026-08-15",
     "download_link": "https://downloads.wordpress.org/plugin/bg-couriers.0.4.30.zip"
@@ -111820,16 +111904,16 @@
   {
     "name": "Block Collections",
     "slug": "block-collections",
-    "version": "2.3.6",
+    "version": "2.3.9",
     "requires_wordpress": "6.4",
     "tested": "7.1.3",
     "requires_php": "8.2.10",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 3672,
-    "last_updated": "2026-10-13 1:37am GMT",
+    "last_updated": "2026-10-14 1:13am GMT",
     "added": "2023-12-02",
-    "download_link": "https://downloads.wordpress.org/plugin/block-collections.2.3.6.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/block-collections.2.3.9.zip"
   },
   {
     "name": "Block Comment Spam Bots",
@@ -113456,18 +113540,18 @@
     "download_link": "https://downloads.wordpress.org/plugin/blocked-in-china.1.1.8.zip"
   },
   {
-    "name": "Blockenberg — 600+ Advanced Gutenberg Blocks \u0026amp; AI Agent for WordPress Block Editor",
+    "name": "Blockenberg — 618 Advanced Gutenberg Blocks, 683 Templates and AI Agent for WordPress Block Editor",
     "slug": "blockenberg",
-    "version": "2.0.14",
+    "version": "2.0.15",
     "requires_wordpress": "5.6",
     "tested": "7.1.3",
     "requires_php": "",
     "num_ratings": 4,
     "active_installs": 1000,
-    "downloaded": 12082,
-    "last_updated": "2026-10-11 2:39pm GMT",
+    "downloaded": 12093,
+    "last_updated": "2026-10-13 11:50pm GMT",
     "added": "2026-01-16",
-    "download_link": "https://downloads.wordpress.org/plugin/blockenberg.2.0.14.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/blockenberg.2.0.15.zip"
   },
   {
     "name": "BlockEnsert",
@@ -120604,7 +120688,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 243,
+    "downloaded": 270,
     "last_updated": "2026-10-13 8:03pm GMT",
     "added": "2026-09-30",
     "download_link": "https://downloads.wordpress.org/plugin/bookira.1.4.1.zip"
@@ -127848,6 +127932,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/brandop.1.0.0.zip"
   },
   {
+    "name": "Brandora Product Brand Pages for Elementor",
+    "slug": "brandora-product-brand-pages-for-elementor",
+    "version": "1.0.0",
+    "requires_wordpress": "6.2",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 3:26am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/brandora-product-brand-pages-for-elementor.1.0.0.zip"
+  },
+  {
     "name": "Brandpoint Feed Importer",
     "slug": "brandpoint-feed-importer",
     "version": "1.0",
@@ -129316,6 +129414,20 @@
     "last_updated": "2026-09-17 10:01am GMT",
     "added": "2026-09-17",
     "download_link": "https://downloads.wordpress.org/plugin/briefwing-ai-summary.1.0.0.zip"
+  },
+  {
+    "name": "Brigade Blocks Addons",
+    "slug": "brigade-blocks-addons",
+    "version": "1.0.0",
+    "requires_wordpress": "6.5",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-13 11:14pm GMT",
+    "added": "2026-10-13",
+    "download_link": "https://downloads.wordpress.org/plugin/brigade-blocks-addons.1.0.0.zip"
   },
   {
     "name": "Bright Addons for Elementor",
@@ -135718,16 +135830,16 @@
   {
     "name": "Bulgaro GDPR",
     "slug": "bulgaro-gdpr",
-    "version": "1.7.16",
+    "version": "1.7.17",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 237,
-    "last_updated": "2026-10-13 9:46pm GMT",
+    "downloaded": 273,
+    "last_updated": "2026-10-14 5:00am GMT",
     "added": "2026-10-07",
-    "download_link": "https://downloads.wordpress.org/plugin/bulgaro-gdpr.1.7.16.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/bulgaro-gdpr.1.7.17.zip"
   },
   {
     "name": "Bulglish Permalinks",
@@ -137544,7 +137656,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 26,
+    "downloaded": 49,
     "last_updated": "2026-10-13 8:01pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/bundlewp-notification-bar.1.0.0.zip"
@@ -141506,7 +141618,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 231,
+    "downloaded": 242,
     "last_updated": "2026-10-13 5:13pm GMT",
     "added": "2026-09-26",
     "download_link": "https://downloads.wordpress.org/plugin/cabina.1.2.3.zip"
@@ -142528,7 +142640,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 36,
     "last_updated": "2026-10-13 9:54pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/calcstudio-calculators.1.2.0.zip"
@@ -142640,7 +142752,7 @@
     "requires_php": "",
     "num_ratings": 973,
     "active_installs": 40000,
-    "downloaded": 11004783,
+    "downloaded": 11005005,
     "last_updated": "2026-10-13 8:46pm GMT",
     "added": "2013-03-12",
     "download_link": "https://downloads.wordpress.org/plugin/calculated-fields-form.5.5.2.0.zip"
@@ -143998,7 +144110,7 @@
     "requires_php": "",
     "num_ratings": 10,
     "active_installs": 100,
-    "downloaded": 18722,
+    "downloaded": 18733,
     "last_updated": "2026-10-13 7:16pm GMT",
     "added": "2016-10-08",
     "download_link": "https://downloads.wordpress.org/plugin/calorie-calculator.3.5.0.zip"
@@ -148528,14 +148640,14 @@
   {
     "name": "Cart tracking for WooCommerce",
     "slug": "cart-tracking-for-woocommerce",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "requires_wordpress": "4.0",
-    "tested": "6.9.10",
+    "tested": "7.1.3",
     "requires_php": "",
     "num_ratings": 3,
     "active_installs": 200,
     "downloaded": 6033,
-    "last_updated": "2026-05-08 11:11am GMT",
+    "last_updated": "2026-10-13 11:07pm GMT",
     "added": "2021-01-09",
     "download_link": "https://downloads.wordpress.org/plugin/cart-tracking-for-woocommerce.zip"
   },
@@ -149374,7 +149486,7 @@
     "requires_php": "8.1",
     "num_ratings": 25,
     "active_installs": 4000,
-    "downloaded": 146053,
+    "downloaded": 146077,
     "last_updated": "2026-10-13 5:42pm GMT",
     "added": "2021-01-20",
     "download_link": "https://downloads.wordpress.org/plugin/cartpops.2.0.11.zip"
@@ -149736,9 +149848,9 @@
     "requires_wordpress": "6.2",
     "tested": "7.1.3",
     "requires_php": "7.4",
-    "num_ratings": 0,
+    "num_ratings": 1,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 48,
     "last_updated": "2026-10-13 7:51pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/casa-quick-salon-book.1.0.0.zip"
@@ -149808,7 +149920,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 674,
+    "downloaded": 703,
     "last_updated": "2026-10-13 7:47pm GMT",
     "added": "2026-09-28",
     "download_link": "https://downloads.wordpress.org/plugin/casavolab-business-manager.1.1.90.zip"
@@ -157508,7 +157620,7 @@
     "requires_php": "7.0",
     "num_ratings": 31,
     "active_installs": 1000,
-    "downloaded": 168343,
+    "downloaded": 168400,
     "last_updated": "2026-10-13 7:38pm GMT",
     "added": "2015-12-21",
     "download_link": "https://downloads.wordpress.org/plugin/cf-geoplugin.9.0.3.zip"
@@ -158026,7 +158138,7 @@
     "requires_php": "",
     "num_ratings": 8,
     "active_installs": 300,
-    "downloaded": 34595,
+    "downloaded": 34636,
     "last_updated": "2026-10-13 9:52pm GMT",
     "added": "2021-03-31",
     "download_link": "https://downloads.wordpress.org/plugin/cf7-data-source.1.9.6.zip"
@@ -159328,7 +159440,7 @@
     "requires_php": "8.0",
     "num_ratings": 22,
     "active_installs": 10000,
-    "downloaded": 87642,
+    "downloaded": 87691,
     "last_updated": "2026-10-13 7:45pm GMT",
     "added": "2018-08-01",
     "download_link": "https://downloads.wordpress.org/plugin/cf7-telegram.1.2.0.zip"
@@ -165272,16 +165384,16 @@
   {
     "name": "Checknaut",
     "slug": "checknaut",
-    "version": "1.6.5",
+    "version": "1.6.6",
     "requires_wordpress": "6.5",
     "tested": "7.1.3",
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 145,
-    "last_updated": "2026-10-13 3:35pm GMT",
+    "last_updated": "2026-10-14 1:09am GMT",
     "added": "2026-10-11",
-    "download_link": "https://downloads.wordpress.org/plugin/checknaut.1.6.5.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/checknaut.1.6.6.zip"
   },
   {
     "name": "CheckOO \u0026#8211; Checkout Monitor \u0026amp; Uptime Tracker for WooCommerce",
@@ -174197,7 +174309,7 @@
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 443,
-    "last_updated": "2026-09-07 3:50am GMT",
+    "last_updated": "2026-10-14 1:13am GMT",
     "added": "2026-08-06",
     "download_link": "https://downloads.wordpress.org/plugin/clickblog.1.5.2.zip"
   },
@@ -178612,6 +178724,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/coaderhub-reusable-blocks.1.0.0.zip"
   },
   {
+    "name": "Coaderhub Table of Contents",
+    "slug": "coaderhub-table-of-contents",
+    "version": "1.0.0",
+    "requires_wordpress": "6.0",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 4:57am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/coaderhub-table-of-contents.1.0.0.zip"
+  },
+  {
     "name": "Coastal Factoid",
     "slug": "coastal-factoid",
     "version": "0.95",
@@ -179012,7 +179138,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 395,
+    "downloaded": 429,
     "last_updated": "2026-10-13 9:23pm GMT",
     "added": "2026-09-02",
     "download_link": "https://downloads.wordpress.org/plugin/cod-scale-bridge.1.4.40.zip"
@@ -182036,7 +182162,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 10,
-    "downloaded": 1526,
+    "downloaded": 1537,
     "last_updated": "2026-10-13 5:19pm GMT",
     "added": "2024-04-02",
     "download_link": "https://downloads.wordpress.org/plugin/codingfreaks-cookiemanager.2.2.0.zip"
@@ -191108,7 +191234,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 18,
+    "downloaded": 30,
     "last_updated": "2026-10-13 6:35pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/confidr.1.0.0.zip"
@@ -200334,7 +200460,7 @@
     "requires_php": "7.4",
     "num_ratings": 3025,
     "active_installs": 800000,
-    "downloaded": 43832805,
+    "downloaded": 43833647,
     "last_updated": "2026-10-13 5:31pm GMT",
     "added": "2013-07-08",
     "download_link": "https://downloads.wordpress.org/plugin/cookie-notice.3.1.16.zip"
@@ -206474,16 +206600,16 @@
   {
     "name": "Course Access Extender for LearnDash",
     "slug": "course-access-extender-for-learndash",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "requires_wordpress": "6.0",
-    "tested": "7.0.7",
+    "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 311,
-    "last_updated": "2026-05-28 11:02pm GMT",
+    "last_updated": "2026-10-14 1:11am GMT",
     "added": "2026-04-28",
-    "download_link": "https://downloads.wordpress.org/plugin/course-access-extender-for-learndash.1.1.2.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/course-access-extender-for-learndash.1.1.3.zip"
   },
   {
     "name": "Course Booking Platform",
@@ -208812,16 +208938,16 @@
   {
     "name": "CrashAlert",
     "slug": "crashalert",
-    "version": "0.1.7",
+    "version": "0.1.8",
     "requires_wordpress": "6.2",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 326,
-    "last_updated": "2026-10-13 12:02pm GMT",
+    "downloaded": 337,
+    "last_updated": "2026-10-14 4:10am GMT",
     "added": "2026-10-02",
-    "download_link": "https://downloads.wordpress.org/plugin/crashalert.0.1.7.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/crashalert.0.1.8.zip"
   },
   {
     "name": "CrashGuard Lite",
@@ -226599,7 +226725,7 @@
     "num_ratings": 3,
     "active_installs": 400,
     "downloaded": 5698,
-    "last_updated": "2026-09-28 5:31am GMT",
+    "last_updated": "2026-10-14 3:20am GMT",
     "added": "2021-08-31",
     "download_link": "https://downloads.wordpress.org/plugin/customize-private-protected.1.6.0.zip"
   },
@@ -229224,16 +229350,16 @@
   {
     "name": "D11 Random Quote Loader",
     "slug": "d11-random-quote-loader",
-    "version": "2.3.3",
+    "version": "2.3.4",
     "requires_wordpress": "6.9",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 421,
-    "last_updated": "2026-10-08 4:58am GMT",
+    "downloaded": 455,
+    "last_updated": "2026-10-13 10:56pm GMT",
     "added": "2026-05-28",
-    "download_link": "https://downloads.wordpress.org/plugin/d11-random-quote-loader.2.3.3.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/d11-random-quote-loader.2.3.4.zip"
   },
   {
     "name": "D2i Accessibility Toolkit",
@@ -230700,7 +230826,7 @@
     "requires_php": "7.4",
     "num_ratings": 1,
     "active_installs": 50,
-    "downloaded": 1974,
+    "downloaded": 2008,
     "last_updated": "2026-10-13 6:18pm GMT",
     "added": "2026-01-16",
     "download_link": "https://downloads.wordpress.org/plugin/dailybuddy.1.4.2.zip"
@@ -231232,7 +231358,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 22,
+    "downloaded": 34,
     "last_updated": "2026-10-13 5:01pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/damasoft-focusdesk.1.1.4.zip"
@@ -237084,7 +237210,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 132,
+    "downloaded": 143,
     "last_updated": "2026-10-13 5:12pm GMT",
     "added": "2026-09-28",
     "download_link": "https://downloads.wordpress.org/plugin/dd-admin-visibility-manager.1.2.10.zip"
@@ -240514,7 +240640,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 36,
     "last_updated": "2026-10-13 9:50pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/defyn-shipping-pro.1.0.0.zip"
@@ -242524,16 +242650,16 @@
   {
     "name": "Demfilz Sync for Xero",
     "slug": "demfilz-sync-for-xero",
-    "version": "1.2.6",
+    "version": "1.2.8",
     "requires_wordpress": "6.2",
     "tested": "7.1.3",
     "requires_php": "7.2",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 403,
-    "last_updated": "2026-10-13 12:58am GMT",
+    "downloaded": 426,
+    "last_updated": "2026-10-14 4:03am GMT",
     "added": "2026-07-15",
-    "download_link": "https://downloads.wordpress.org/plugin/demfilz-sync-for-xero.1.2.6.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/demfilz-sync-for-xero.1.2.8.zip"
   },
   {
     "name": "Demfilz Wholesale Tier Pricing for WooCommerce",
@@ -243944,7 +244070,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 80,
-    "downloaded": 1647,
+    "downloaded": 1658,
     "last_updated": "2026-10-13 5:44pm GMT",
     "added": "2025-10-30",
     "download_link": "https://downloads.wordpress.org/plugin/deposet.1.1.5.zip"
@@ -244064,16 +244190,16 @@
   {
     "name": "Dermaself AI Beauty Agent",
     "slug": "dermaself-skin-advisor",
-    "version": "1.3.8",
+    "version": "1.3.10",
     "requires_wordpress": "6.5",
     "tested": "7.1.3",
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 342,
-    "last_updated": "2026-10-13 4:11pm GMT",
+    "downloaded": 353,
+    "last_updated": "2026-10-14 1:55am GMT",
     "added": "2026-09-11",
-    "download_link": "https://downloads.wordpress.org/plugin/dermaself-skin-advisor.1.3.8.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/dermaself-skin-advisor.1.3.10.zip"
   },
   {
     "name": "Dermatriq \u0026#8211; Dermatology Clinic Management System",
@@ -244728,7 +244854,7 @@
     "requires_php": "7.4",
     "num_ratings": 3,
     "active_installs": 7000,
-    "downloaded": 262426,
+    "downloaded": 262556,
     "last_updated": "2026-10-13 10:23pm GMT",
     "added": "2025-11-14",
     "download_link": "https://downloads.wordpress.org/plugin/designsetgo.2.10.0.zip"
@@ -245876,7 +246002,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 24,
+    "downloaded": 46,
     "last_updated": "2026-10-13 7:08pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/devdiggers-order-via-chat-for-woocommerce.1.0.0.zip"
@@ -247584,7 +247710,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 34,
     "last_updated": "2026-10-13 9:36pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/devstudio8848-shipping-rates-spreadsheet.1.0.0.zip"
@@ -249124,7 +249250,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 20,
-    "downloaded": 739,
+    "downloaded": 762,
     "last_updated": "2026-10-13 10:08pm GMT",
     "added": "2026-06-11",
     "download_link": "https://downloads.wordpress.org/plugin/dienstplan.3.9.0.zip"
@@ -250964,6 +251090,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/digitizer-ai-agent-log.1.2.1.zip"
   },
   {
+    "name": "Digitizer Shabbat Keeper",
+    "slug": "digitizer-shabbat-keeper",
+    "version": "1.0.0",
+    "requires_wordpress": "5.7",
+    "tested": "7.1.3",
+    "requires_php": "7.2",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 12:39am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/digitizer-shabbat-keeper.1.0.0.zip"
+  },
+  {
     "name": "SiteAgent for Aura",
     "slug": "digitizer-site-worker",
     "version": "2.23.1",
@@ -251000,7 +251140,7 @@
     "requires_php": "8.2",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 166,
+    "downloaded": 196,
     "last_updated": "2026-10-13 8:31pm GMT",
     "added": "2026-09-17",
     "download_link": "https://downloads.wordpress.org/plugin/digito-toolkit.1.1.0.zip"
@@ -251532,7 +251672,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 10,
-    "downloaded": 966,
+    "downloaded": 994,
     "last_updated": "2026-10-13 9:02pm GMT",
     "added": "2026-04-16",
     "download_link": "https://downloads.wordpress.org/plugin/dinesync-for-clover.1.0.14.zip"
@@ -261696,7 +261836,7 @@
     "requires_php": "7.2.5",
     "num_ratings": 50,
     "active_installs": 20000,
-    "downloaded": 421909,
+    "downloaded": 422026,
     "last_updated": "2026-10-13 7:19pm GMT",
     "added": "2020-07-08",
     "download_link": "https://downloads.wordpress.org/plugin/docket-cache.26.04.10.zip"
@@ -263166,7 +263306,7 @@
     "requires_php": "5.6",
     "num_ratings": 13,
     "active_installs": 8000,
-    "downloaded": 190209,
+    "downloaded": 190233,
     "last_updated": "2026-10-13 5:10pm GMT",
     "added": "2019-09-27",
     "download_link": "https://downloads.wordpress.org/plugin/dologin.5.1.3.zip"
@@ -264076,7 +264216,7 @@
     "requires_php": "7.2.0",
     "num_ratings": 0,
     "active_installs": 300,
-    "downloaded": 4676,
+    "downloaded": 4688,
     "last_updated": "2026-10-13 6:32pm GMT",
     "added": "2023-03-13",
     "download_link": "https://downloads.wordpress.org/plugin/donation-forms-by-givecloud.1.0.13.zip"
@@ -265294,7 +265434,7 @@
     "requires_php": "7.4",
     "num_ratings": 6,
     "active_installs": 80,
-    "downloaded": 6808,
+    "downloaded": 6830,
     "last_updated": "2026-10-13 7:16pm GMT",
     "added": "2026-05-25",
     "download_link": "https://downloads.wordpress.org/plugin/doublescale.1.6.2.zip"
@@ -266142,16 +266282,16 @@
   {
     "name": "Dox POS for WooCommerce",
     "slug": "dox-pos",
-    "version": "0.52.0",
+    "version": "0.53.0",
     "requires_wordpress": "6.5",
     "tested": "7.1.3",
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 832,
-    "last_updated": "2026-10-13 10:17pm GMT",
+    "downloaded": 846,
+    "last_updated": "2026-10-14 12:40am GMT",
     "added": "2026-09-18",
-    "download_link": "https://downloads.wordpress.org/plugin/dox-pos.0.52.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/dox-pos.0.53.0.zip"
   },
   {
     "name": "Dozent LMS \u0026#8211; Powerful WordPress LMS plugin",
@@ -268402,7 +268542,7 @@
     "requires_php": "7.4",
     "num_ratings": 2,
     "active_installs": 10,
-    "downloaded": 1405,
+    "downloaded": 1422,
     "last_updated": "2026-10-13 9:25pm GMT",
     "added": "2025-12-10",
     "download_link": "https://downloads.wordpress.org/plugin/drive-downloads-lite.2.3.24.zip"
@@ -269088,7 +269228,7 @@
     "requires_php": "7.2",
     "num_ratings": 1,
     "active_installs": 10,
-    "downloaded": 2458,
+    "downloaded": 2469,
     "last_updated": "2026-10-13 7:53pm GMT",
     "added": "2023-08-29",
     "download_link": "https://downloads.wordpress.org/plugin/dropp-pay-per-use.1.2.zip"
@@ -272372,16 +272512,16 @@
   {
     "name": "Dynamic Copyright Year",
     "slug": "dynamic-copyright-year",
-    "version": "1.5.7",
+    "version": "1.5.8",
     "requires_wordpress": "",
     "tested": "7.1.3",
     "requires_php": "",
     "num_ratings": 3,
     "active_installs": 700,
-    "downloaded": 18068,
-    "last_updated": "2026-10-13 6:25pm GMT",
+    "downloaded": 18079,
+    "last_updated": "2026-10-14 4:38am GMT",
     "added": "2022-12-01",
-    "download_link": "https://downloads.wordpress.org/plugin/dynamic-copyright-year.1.5.7.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/dynamic-copyright-year.1.5.8.zip"
   },
   {
     "name": "Dynamic Year and Copyright Shortcode",
@@ -276068,16 +276208,16 @@
   {
     "name": "Easy Age Verify",
     "slug": "easy-age-verify",
-    "version": "2.0.13",
+    "version": "2.0.14",
     "requires_wordpress": "4.6",
     "tested": "7.0.7",
     "requires_php": "5.6",
     "num_ratings": 4,
     "active_installs": 1000,
-    "downloaded": 37481,
-    "last_updated": "2026-10-13 6:34pm GMT",
+    "downloaded": 37505,
+    "last_updated": "2026-10-14 4:35am GMT",
     "added": "2019-10-10",
-    "download_link": "https://downloads.wordpress.org/plugin/easy-age-verify.2.0.13.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/easy-age-verify.2.0.14.zip"
   },
   {
     "name": "Easy AI Blog Generator",
@@ -280058,16 +280198,16 @@
   {
     "name": "Marijuana Age Verify",
     "slug": "easy-marijuana-age-verify",
-    "version": "2.1",
+    "version": "2.1.1",
     "requires_wordpress": "4.6",
     "tested": "7.1.3",
     "requires_php": "5.6",
     "num_ratings": 4,
     "active_installs": 1000,
-    "downloaded": 36293,
-    "last_updated": "2026-10-13 6:34pm GMT",
+    "downloaded": 36315,
+    "last_updated": "2026-10-14 4:34am GMT",
     "added": "2019-02-26",
-    "download_link": "https://downloads.wordpress.org/plugin/easy-marijuana-age-verify.2.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/easy-marijuana-age-verify.2.1.1.zip"
   },
   {
     "name": "Easy Mask",
@@ -280334,6 +280474,20 @@
     "last_updated": "2011-03-30 7:43pm GMT",
     "added": "2011-03-29",
     "download_link": "https://downloads.wordpress.org/plugin/easy-mortgage-rates.zip"
+  },
+  {
+    "name": "Easy Move Docs Layout",
+    "slug": "easy-move-docs-layout",
+    "version": "1.0.2",
+    "requires_wordpress": "6.7",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 2:11am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/easy-move-docs-layout.1.0.2.zip"
   },
   {
     "name": "Multi Step Form Plugin",
@@ -281486,16 +281640,16 @@
   {
     "name": "Easy Property Listings",
     "slug": "easy-property-listings",
-    "version": "3.5.27",
+    "version": "3.5.28",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 112,
     "active_installs": 5000,
-    "downloaded": 488219,
-    "last_updated": "2026-10-13 8:54am GMT",
+    "downloaded": 489216,
+    "last_updated": "2026-10-14 4:12am GMT",
     "added": "2014-06-27",
-    "download_link": "https://downloads.wordpress.org/plugin/easy-property-listings.3.5.27.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/easy-property-listings.3.5.28.zip"
   },
   {
     "name": "Import into Easy Property Listings",
@@ -286994,7 +287148,7 @@
     "requires_php": "7.4",
     "num_ratings": 1,
     "active_installs": 0,
-    "downloaded": 723,
+    "downloaded": 754,
     "last_updated": "2026-10-13 8:32pm GMT",
     "added": "2025-08-19",
     "download_link": "https://downloads.wordpress.org/plugin/ecom-email-health-check.1.8.0.zip"
@@ -290424,7 +290578,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 281,
+    "downloaded": 308,
     "last_updated": "2026-10-13 10:23pm GMT",
     "added": "2026-09-11",
     "download_link": "https://downloads.wordpress.org/plugin/editrail.1.0.5.zip"
@@ -291734,44 +291888,44 @@
   {
     "name": "EffortLess Multisite Auto Translate",
     "slug": "effortless-multisite-auto-translate",
-    "version": "3.3.7",
+    "version": "3.3.10",
     "requires_wordpress": "5.4",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 266,
-    "last_updated": "2026-10-12 1:34pm GMT",
+    "downloaded": 279,
+    "last_updated": "2026-10-13 11:45pm GMT",
     "added": "2026-10-07",
-    "download_link": "https://downloads.wordpress.org/plugin/effortless-multisite-auto-translate.3.3.7.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/effortless-multisite-auto-translate.3.3.10.zip"
   },
   {
     "name": "EffortLess Multisite Form Creator",
     "slug": "effortless-multisite-form-creator",
-    "version": "7.5.56",
+    "version": "7.5.65",
     "requires_wordpress": "5.8",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 642,
-    "last_updated": "2026-10-13 10:53pm GMT",
+    "downloaded": 686,
+    "last_updated": "2026-10-14 1:48am GMT",
     "added": "2026-07-04",
-    "download_link": "https://downloads.wordpress.org/plugin/effortless-multisite-form-creator.7.5.56.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/effortless-multisite-form-creator.7.5.65.zip"
   },
   {
     "name": "EffortLess Multisite Language Switcher",
     "slug": "effortless-multisite-language-switcher",
-    "version": "1.1.13",
+    "version": "1.1.14",
     "requires_wordpress": "6.2",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 1,
     "active_installs": 0,
-    "downloaded": 1386,
-    "last_updated": "2026-10-13 3:10pm GMT",
+    "downloaded": 1397,
+    "last_updated": "2026-10-14 1:36am GMT",
     "added": "2025-04-26",
-    "download_link": "https://downloads.wordpress.org/plugin/effortless-multisite-language-switcher.1.1.13.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/effortless-multisite-language-switcher.1.1.14.zip"
   },
   {
     "name": "EffortLess Multisite Template Copier",
@@ -298292,7 +298446,7 @@
     "requires_php": "",
     "num_ratings": 47,
     "active_installs": 8000,
-    "downloaded": 437980,
+    "downloaded": 438007,
     "last_updated": "2026-10-13 5:56pm GMT",
     "added": "2018-05-30",
     "download_link": "https://downloads.wordpress.org/plugin/emails-verification-for-woocommerce.3.3.1.zip"
@@ -300658,7 +300812,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 41,
     "last_updated": "2026-10-13 9:14pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/emmad-video-gallery.1.0.0.zip"
@@ -304116,7 +304270,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 712,
+    "downloaded": 745,
     "last_updated": "2026-10-13 10:45pm GMT",
     "added": "2026-09-28",
     "download_link": "https://downloads.wordpress.org/plugin/ensomedia-security.1.1.18.zip"
@@ -307386,16 +307540,16 @@
   {
     "name": "Errorgap",
     "slug": "errorgap",
-    "version": "0.6.0",
+    "version": "0.7.1",
     "requires_wordpress": "5.8",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 441,
-    "last_updated": "2026-10-13 2:09am GMT",
+    "downloaded": 467,
+    "last_updated": "2026-10-14 1:35am GMT",
     "added": "2026-10-05",
-    "download_link": "https://downloads.wordpress.org/plugin/errorgap.0.6.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/errorgap.0.7.1.zip"
   },
   {
     "name": "errorHandle",
@@ -307406,7 +307560,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 166,
+    "downloaded": 198,
     "last_updated": "2026-10-13 9:49pm GMT",
     "added": "2026-10-11",
     "download_link": "https://downloads.wordpress.org/plugin/errorhandle.0.2.10.zip"
@@ -308366,16 +308520,16 @@
   {
     "name": "Essentials – Essential Elements for WordPress",
     "slug": "essential-elements",
-    "version": "1.2.8",
-    "requires_wordpress": "5.2",
+    "version": "1.2.9",
+    "requires_wordpress": "6.3",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 1228,
-    "last_updated": "2026-10-04 3:26am GMT",
+    "last_updated": "2026-10-14 2:52am GMT",
     "added": "2025-04-11",
-    "download_link": "https://downloads.wordpress.org/plugin/essential-elements.1.2.8.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/essential-elements.1.2.9.zip"
   },
   {
     "name": "Essential Form \u0026#8211; The lightest plugin for contact forms, ultra lightweight and no spam",
@@ -311340,7 +311494,7 @@
     "requires_php": "7.4",
     "num_ratings": 235,
     "active_installs": 90000,
-    "downloaded": 8147189,
+    "downloaded": 8147534,
     "last_updated": "2026-10-13 8:17pm GMT",
     "added": "2015-12-02",
     "download_link": "https://downloads.wordpress.org/plugin/event-tickets.5.30.1.zip"
@@ -313286,7 +313440,7 @@
     "requires_php": "7.4",
     "num_ratings": 1841,
     "active_installs": 1000000,
-    "downloaded": 50360150,
+    "downloaded": 50360788,
     "last_updated": "2026-10-13 5:11pm GMT",
     "added": "2012-06-07",
     "download_link": "https://downloads.wordpress.org/plugin/ewww-image-optimizer.8.9.0.zip"
@@ -315648,12 +315802,12 @@
     "slug": "export-all-urls",
     "version": "6.0",
     "requires_wordpress": "3.6",
-    "tested": "7.0.7",
+    "tested": "7.1.3",
     "requires_php": "5.4",
     "num_ratings": 94,
     "active_installs": 50000,
-    "downloaded": 851657,
-    "last_updated": "2026-06-25 5:27am GMT",
+    "downloaded": 851786,
+    "last_updated": "2026-10-14 5:01am GMT",
     "added": "2016-04-07",
     "download_link": "https://downloads.wordpress.org/plugin/export-all-urls.6.0.zip"
   },
@@ -316234,16 +316388,16 @@
   {
     "name": "WP All Export – User Export Add-On",
     "slug": "export-wp-users-xml-csv",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "requires_wordpress": "5.2",
     "tested": "7.1.3",
     "requires_php": "7.0",
     "num_ratings": 7,
     "active_installs": 2000,
-    "downloaded": 66411,
-    "last_updated": "2026-10-08 8:05pm GMT",
+    "downloaded": 66447,
+    "last_updated": "2026-10-13 10:45pm GMT",
     "added": "2019-07-11",
-    "download_link": "https://downloads.wordpress.org/plugin/export-wp-users-xml-csv.1.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/export-wp-users-xml-csv.1.0.4.zip"
   },
   {
     "name": "Exporter vos comptes en fiche contact vCard",
@@ -319250,7 +319404,7 @@
     "requires_php": "7.4",
     "num_ratings": 53,
     "active_installs": 10000,
-    "downloaded": 2132900,
+    "downloaded": 2132962,
     "last_updated": "2026-10-13 7:20pm GMT",
     "added": "2018-04-20",
     "download_link": "https://downloads.wordpress.org/plugin/ezoic-integration.zip"
@@ -323548,7 +323702,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 13,
+    "downloaded": 37,
     "last_updated": "2026-10-13 7:37pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/farmtours-bookings.1.0.0.zip"
@@ -327462,16 +327616,16 @@
   {
     "name": "Featured Images in RSS for Mailchimp \u0026amp; More",
     "slug": "featured-images-for-rss-feeds",
-    "version": "1.7.3",
+    "version": "1.7.4",
     "requires_wordpress": "2.9",
     "tested": "7.1.3",
     "requires_php": "5.6",
     "num_ratings": 113,
     "active_installs": 20000,
-    "downloaded": 728668,
-    "last_updated": "2026-10-13 6:34pm GMT",
+    "downloaded": 728730,
+    "last_updated": "2026-10-14 4:39am GMT",
     "added": "2013-08-22",
-    "download_link": "https://downloads.wordpress.org/plugin/featured-images-for-rss-feeds.1.7.3.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/featured-images-for-rss-feeds.1.7.4.zip"
   },
   {
     "name": "Featured Images for Shopp",
@@ -329352,16 +329506,16 @@
   {
     "name": "Feel Chatbot",
     "slug": "feel-chatbot",
-    "version": "1.7.0",
+    "version": "1.8.0",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 458,
-    "last_updated": "2026-10-09 10:20pm GMT",
+    "last_updated": "2026-10-14 3:30am GMT",
     "added": "2026-06-29",
-    "download_link": "https://downloads.wordpress.org/plugin/feel-chatbot.1.7.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/feel-chatbot.1.8.0.zip"
   },
   {
     "name": "FeenBan",
@@ -331710,7 +331864,7 @@
     "requires_php": "7.4",
     "num_ratings": 1123,
     "active_installs": 200000,
-    "downloaded": 7200592,
+    "downloaded": 7201018,
     "last_updated": "2026-10-13 8:28pm GMT",
     "added": "2018-07-02",
     "download_link": "https://downloads.wordpress.org/plugin/filebird.6.5.9.zip"
@@ -331766,7 +331920,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 62,
+    "downloaded": 95,
     "last_updated": "2026-10-13 9:51pm GMT",
     "added": "2026-10-11",
     "download_link": "https://downloads.wordpress.org/plugin/filedeck-store-master.3.0.0.zip"
@@ -334090,7 +334244,7 @@
     "requires_php": "7.4",
     "num_ratings": 1,
     "active_installs": 0,
-    "downloaded": 723,
+    "downloaded": 754,
     "last_updated": "2026-10-13 10:04pm GMT",
     "added": "2026-04-24",
     "download_link": "https://downloads.wordpress.org/plugin/firepixel-for-woocommerce.1.2.2.zip"
@@ -337864,30 +338018,30 @@
   {
     "name": "Flexa Media Folders",
     "slug": "flexa-media-folders",
-    "version": "1.4.3",
+    "version": "1.4.4",
     "requires_wordpress": "6.2",
     "tested": "7.1.3",
     "requires_php": "8.2",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 494,
-    "last_updated": "2026-10-13 3:03am GMT",
+    "downloaded": 506,
+    "last_updated": "2026-10-14 12:46am GMT",
     "added": "2026-06-13",
-    "download_link": "https://downloads.wordpress.org/plugin/flexa-media-folders.1.4.3.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/flexa-media-folders.1.4.4.zip"
   },
   {
     "name": "Flexa SEO \u0026#8211; AEO | AI SEO \u0026amp; Answer Engine Optimization",
     "slug": "flexa-seo-aeo",
-    "version": "0.5.2",
+    "version": "0.5.5",
     "requires_wordpress": "6.5",
     "tested": "7.1.3",
     "requires_php": "8.2",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 421,
-    "last_updated": "2026-09-28 5:25am GMT",
+    "downloaded": 440,
+    "last_updated": "2026-10-14 12:39am GMT",
     "added": "2026-09-02",
-    "download_link": "https://downloads.wordpress.org/plugin/flexa-seo-aeo.0.5.2.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/flexa-seo-aeo.0.5.5.zip"
   },
   {
     "name": "Flexa Site Migrator \u0026#8211; Migration \u0026amp; Staging",
@@ -338570,7 +338724,7 @@
     "requires_php": "7.4",
     "num_ratings": 77,
     "active_installs": 7000,
-    "downloaded": 761454,
+    "downloaded": 761494,
     "last_updated": "2026-10-13 6:45pm GMT",
     "added": "2018-02-08",
     "download_link": "https://downloads.wordpress.org/plugin/flexible-shipping-ups.3.9.1.zip"
@@ -341188,7 +341342,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 109,
+    "downloaded": 143,
     "last_updated": "2026-10-13 8:33pm GMT",
     "added": "2026-10-11",
     "download_link": "https://downloads.wordpress.org/plugin/flooring-calculator.1.0.7.zip"
@@ -344296,7 +344450,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 59,
+    "downloaded": 71,
     "last_updated": "2026-10-13 7:00pm GMT",
     "added": "2026-10-12",
     "download_link": "https://downloads.wordpress.org/plugin/followly.1.0.1.zip"
@@ -348832,7 +348986,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 31,
+    "downloaded": 42,
     "last_updated": "2026-10-13 6:38pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/formixsoftware-rental-quotes.0.1.3.zip"
@@ -358632,7 +358786,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 23,
+    "downloaded": 57,
     "last_updated": "2026-10-13 10:28pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/fusion-pay-tbi.3.3.zip"
@@ -360124,30 +360278,30 @@
   {
     "name": "g-FFL Checkout",
     "slug": "g-ffl-checkout",
-    "version": "2.2.5",
+    "version": "2.2.6",
     "requires_wordpress": "5.0",
     "tested": "7.1.3",
     "requires_php": "7.0",
     "num_ratings": 4,
     "active_installs": 700,
-    "downloaded": 17180,
-    "last_updated": "2026-09-02 5:49pm GMT",
+    "downloaded": 17193,
+    "last_updated": "2026-10-14 2:43am GMT",
     "added": "2023-02-16",
-    "download_link": "https://downloads.wordpress.org/plugin/g-ffl-checkout.2.2.5.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/g-ffl-checkout.2.2.6.zip"
   },
   {
     "name": "g-FFL Cockpit",
     "slug": "g-ffl-cockpit",
-    "version": "2.0.36",
+    "version": "2.0.37",
     "requires_wordpress": "5.0",
     "tested": "7.1.3",
     "requires_php": "7.0",
     "num_ratings": 2,
     "active_installs": 600,
-    "downloaded": 33690,
-    "last_updated": "2026-09-29 5:51pm GMT",
+    "downloaded": 33701,
+    "last_updated": "2026-10-14 2:28am GMT",
     "added": "2023-05-13",
-    "download_link": "https://downloads.wordpress.org/plugin/g-ffl-cockpit.2.0.36.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/g-ffl-cockpit.2.0.37.zip"
   },
   {
     "name": "G File Merge \u0026amp; Minify",
@@ -360292,14 +360446,14 @@
   {
     "name": "GWiz IT Content Locker",
     "slug": "g-wiz-it-content-locker",
-    "version": "1.8.1",
+    "version": "1.10.0",
     "requires_wordpress": "6.5",
-    "tested": "7.1.3",
+    "tested": "6.9.10",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 192,
-    "last_updated": "2026-10-07 7:48pm GMT",
+    "last_updated": "2026-10-14 3:28am GMT",
     "added": "2026-09-24",
     "download_link": "https://downloads.wordpress.org/plugin/g-wiz-it-content-locker.zip"
   },
@@ -363306,9 +363460,9 @@
     "requires_wordpress": "7.1",
     "tested": "7.1.3",
     "requires_php": "8.1",
-    "num_ratings": 0,
+    "num_ratings": 1,
     "active_installs": 0,
-    "downloaded": 97,
+    "downloaded": 121,
     "last_updated": "2026-10-13 10:19pm GMT",
     "added": "2026-10-10",
     "download_link": "https://downloads.wordpress.org/plugin/gate-house-spam-protection-captcha.1.21.1.zip"
@@ -363848,58 +364002,58 @@
   {
     "name": "Gather Grove Booking",
     "slug": "gather-grove-booking",
-    "version": "1.243.1",
+    "version": "1.244.0",
     "requires_wordpress": "6.9",
     "tested": "7.1.3",
     "requires_php": "8.2",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 1011,
-    "last_updated": "2026-10-12 10:35pm GMT",
+    "last_updated": "2026-10-14 4:46am GMT",
     "added": "2026-09-22",
-    "download_link": "https://downloads.wordpress.org/plugin/gather-grove-booking.1.243.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/gather-grove-booking.1.244.0.zip"
   },
   {
     "name": "Gather Grove Communities",
     "slug": "gather-grove-communities",
-    "version": "1.77.2",
+    "version": "1.78.0",
     "requires_wordpress": "6.9",
     "tested": "7.1.3",
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 61,
-    "last_updated": "2026-10-10 11:35pm GMT",
+    "downloaded": 72,
+    "last_updated": "2026-10-14 4:46am GMT",
     "added": "2026-10-10",
-    "download_link": "https://downloads.wordpress.org/plugin/gather-grove-communities.1.77.2.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/gather-grove-communities.1.78.0.zip"
   },
   {
     "name": "Gather Grove Courses",
     "slug": "gather-grove-courses",
-    "version": "1.47.0",
+    "version": "1.48.2",
     "requires_wordpress": "6.9",
     "tested": "7.1.3",
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 390,
-    "last_updated": "2026-10-06 6:15am GMT",
+    "last_updated": "2026-10-14 4:46am GMT",
     "added": "2026-09-30",
-    "download_link": "https://downloads.wordpress.org/plugin/gather-grove-courses.1.47.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/gather-grove-courses.1.48.2.zip"
   },
   {
     "name": "Gather Grove Forms",
     "slug": "gather-grove-forms",
-    "version": "1.34.0",
+    "version": "1.36.0",
     "requires_wordpress": "6.9",
     "tested": "7.1.3",
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 450,
-    "last_updated": "2026-10-05 10:51pm GMT",
+    "last_updated": "2026-10-14 4:47am GMT",
     "added": "2026-09-28",
-    "download_link": "https://downloads.wordpress.org/plugin/gather-grove-forms.1.34.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/gather-grove-forms.1.36.0.zip"
   },
   {
     "name": "Gather Grove Sync for Notion",
@@ -363938,7 +364092,7 @@
     "requires_php": "8.1",
     "num_ratings": 1,
     "active_installs": 100,
-    "downloaded": 9404,
+    "downloaded": 9416,
     "last_updated": "2026-09-17 1:44am GMT",
     "added": "2024-06-28",
     "download_link": "https://downloads.wordpress.org/plugin/gatherpress.0.35.4.zip"
@@ -369104,7 +369258,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 62,
+    "downloaded": 73,
     "last_updated": "2026-10-13 8:40pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/georg-kloster-slavonic-translator.1.1.1.zip"
@@ -374886,7 +375040,7 @@
     "requires_php": "7.4",
     "num_ratings": 708,
     "active_installs": 100000,
-    "downloaded": 12614014,
+    "downloaded": 12614521,
     "last_updated": "2026-10-13 8:00pm GMT",
     "added": "2015-04-07",
     "download_link": "https://downloads.wordpress.org/plugin/give.4.19.0.zip"
@@ -376056,16 +376210,16 @@
   {
     "name": "Global Weather Pro: Weather Widget for WP",
     "slug": "global-weather-pro",
-    "version": "2.11.2",
+    "version": "2.11.4",
     "requires_wordpress": "6.6",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 10,
-    "downloaded": 5046,
-    "last_updated": "2026-10-13 4:22am GMT",
+    "downloaded": 5075,
+    "last_updated": "2026-10-14 3:28am GMT",
     "added": "2025-07-23",
-    "download_link": "https://downloads.wordpress.org/plugin/global-weather-pro.2.11.2.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/global-weather-pro.2.11.4.zip"
   },
   {
     "name": "GlobalChatbot – AI Chat Agent",
@@ -376402,6 +376556,20 @@
     "last_updated": "2026-08-31 4:37am GMT",
     "added": "2026-08-31",
     "download_link": "https://downloads.wordpress.org/plugin/globepay-for-woocommerce.0.1.24.zip"
+  },
+  {
+    "name": "GlobeProof – 3D Customer \u0026amp; Review Globe for WooCommerce",
+    "slug": "globeproof",
+    "version": "1.0.0",
+    "requires_wordpress": "6.5",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 18,
+    "last_updated": "2026-10-14 1:34am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/globeproof.1.0.0.zip"
   },
   {
     "name": "GlobeSign Content Markdown Mirror",
@@ -378498,7 +378666,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 168,
+    "downloaded": 181,
     "last_updated": "2026-10-13 5:18pm GMT",
     "added": "2026-10-08",
     "download_link": "https://downloads.wordpress.org/plugin/go-top-seo-bridge.3.1.1.zip"
@@ -384946,16 +385114,16 @@
   {
     "name": "Granpai3DGlobe",
     "slug": "granpai3dglobe",
-    "version": "2.10.0",
+    "version": "2.10.1",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 359,
-    "last_updated": "2026-09-30 12:14pm GMT",
+    "last_updated": "2026-10-14 4:26am GMT",
     "added": "2026-08-26",
-    "download_link": "https://downloads.wordpress.org/plugin/granpai3dglobe.2.10.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/granpai3dglobe.2.10.1.zip"
   },
   {
     "name": "GranTech Accessibility Audit",
@@ -387430,7 +387598,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 1902,
+    "downloaded": 1931,
     "last_updated": "2026-10-13 9:15pm GMT",
     "added": "2026-04-23",
     "download_link": "https://downloads.wordpress.org/plugin/greenskeeper.2.4.6.zip"
@@ -388166,16 +388334,16 @@
   {
     "name": "Grinner Blocks",
     "slug": "grinner-blocks",
-    "version": "1.6.1",
+    "version": "1.7.0",
     "requires_wordpress": "6.5",
     "tested": "7.1.3",
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 119,
-    "last_updated": "2026-09-26 12:13pm GMT",
+    "last_updated": "2026-10-13 11:26pm GMT",
     "added": "2026-09-26",
-    "download_link": "https://downloads.wordpress.org/plugin/grinner-blocks.1.6.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/grinner-blocks.1.7.0.zip"
   },
   {
     "name": "Chatbot by gripspace",
@@ -389880,8 +390048,8 @@
     "requires_php": "7.2",
     "num_ratings": 178,
     "active_installs": 3000,
-    "downloaded": 204028,
-    "last_updated": "2026-10-07 2:12pm GMT",
+    "downloaded": 204039,
+    "last_updated": "2026-10-13 11:26pm GMT",
     "added": "2013-02-18",
     "download_link": "https://downloads.wordpress.org/plugin/gspeech.3.23.1.zip"
   },
@@ -391714,7 +391882,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 28,
     "last_updated": "2026-10-13 7:46pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/guru-project-manager.1.0.zip"
@@ -394458,7 +394626,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 31,
+    "downloaded": 43,
     "last_updated": "2026-10-13 6:14pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/handoverly.1.0.0.zip"
@@ -394546,6 +394714,20 @@
     "last_updated": "2019-05-23 4:55am GMT",
     "added": "2019-05-23",
     "download_link": "https://downloads.wordpress.org/plugin/handy-custom-fields.zip"
+  },
+  {
+    "name": "HandyPal Accessibility Widget",
+    "slug": "handypal",
+    "version": "1.4.4",
+    "requires_wordpress": "5.0",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 44,
+    "last_updated": "2026-10-14 2:51am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/handypal.1.4.4.zip"
   },
   {
     "name": "HandyPay for WooCommerce",
@@ -397012,6 +397194,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/hdwebmobile-checkout-delivery-scheduler.1.0.1.zip"
   },
   {
+    "name": "HDWebmobile Formula Pricing",
+    "slug": "hdwebmobile-formula-pricing",
+    "version": "1.0.0",
+    "requires_wordpress": "6.9",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-13 11:51pm GMT",
+    "added": "2026-10-13",
+    "download_link": "https://downloads.wordpress.org/plugin/hdwebmobile-formula-pricing.1.0.0.zip"
+  },
+  {
     "name": "HDWebmobile Frequently Bought Together",
     "slug": "hdwebmobile-frequently-bought-together",
     "version": "1.0.0",
@@ -398266,7 +398462,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 30,
-    "downloaded": 1338,
+    "downloaded": 1350,
     "last_updated": "2026-10-13 6:17pm GMT",
     "added": "2025-03-20",
     "download_link": "https://downloads.wordpress.org/plugin/health-monitor.1.4.6.zip"
@@ -400520,7 +400716,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 84,
+    "downloaded": 114,
     "last_updated": "2026-10-13 9:34pm GMT",
     "added": "2026-10-09",
     "download_link": "https://downloads.wordpress.org/plugin/helpframe-knowledge-base.1.0.1.zip"
@@ -429766,7 +429962,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 45,
     "last_updated": "2026-10-13 8:35pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/incode-automations.0.1.9.zip"
@@ -451648,7 +451844,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 150,
+    "downloaded": 161,
     "last_updated": "2026-10-13 6:53pm GMT",
     "added": "2026-09-27",
     "download_link": "https://downloads.wordpress.org/plugin/jeytech-30-day-price-history.1.0.1.zip"
@@ -451662,7 +451858,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 258,
+    "downloaded": 269,
     "last_updated": "2026-10-13 6:49pm GMT",
     "added": "2026-10-06",
     "download_link": "https://downloads.wordpress.org/plugin/jeytech-checkout-hours.1.0.1.zip"
@@ -451676,7 +451872,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 357,
+    "downloaded": 368,
     "last_updated": "2026-10-13 6:48pm GMT",
     "added": "2026-10-05",
     "download_link": "https://downloads.wordpress.org/plugin/jeytech-order-transfer-qr.1.0.1.zip"
@@ -451704,7 +451900,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 222,
+    "downloaded": 235,
     "last_updated": "2026-10-13 6:50pm GMT",
     "added": "2026-10-07",
     "download_link": "https://downloads.wordpress.org/plugin/jeytech-shipping-cutoff.1.0.1.zip"
@@ -451718,7 +451914,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 39,
+    "downloaded": 50,
     "last_updated": "2026-10-13 6:54pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/jeytech-unit-price-guard.1.0.1.zip"
@@ -451732,7 +451928,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 249,
+    "downloaded": 260,
     "last_updated": "2026-10-13 6:48pm GMT",
     "added": "2026-09-25",
     "download_link": "https://downloads.wordpress.org/plugin/jeytech-unpaid-transfer-guard.3.0.1.zip"
@@ -451908,16 +452104,16 @@
   {
     "name": "JHMG AI Editor for Divi 5",
     "slug": "jhmg-ai-editor-for-divi-5",
-    "version": "4.8.0",
+    "version": "4.10.0",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "8.1",
-    "num_ratings": 3,
+    "num_ratings": 4,
     "active_installs": 50,
-    "downloaded": 842,
-    "last_updated": "2026-10-12 12:31pm GMT",
+    "downloaded": 882,
+    "last_updated": "2026-10-14 1:38am GMT",
     "added": "2026-10-04",
-    "download_link": "https://downloads.wordpress.org/plugin/jhmg-ai-editor-for-divi-5.4.8.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/jhmg-ai-editor-for-divi-5.4.10.0.zip"
   },
   {
     "name": "JHMG Converter For Beaver Builder to Divi 5",
@@ -453034,7 +453230,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 785,
+    "downloaded": 834,
     "last_updated": "2026-10-13 7:59pm GMT",
     "added": "2026-08-10",
     "download_link": "https://downloads.wordpress.org/plugin/jkd-theme-companion.1.3.14.zip"
@@ -454518,7 +454714,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 32,
+    "downloaded": 58,
     "last_updated": "2026-10-13 8:53pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/joliapp-creator-video-embed.0.1.2.zip"
@@ -459852,7 +460048,7 @@
     "requires_php": "7.4",
     "num_ratings": 332,
     "active_installs": 600000,
-    "downloaded": 41888279,
+    "downloaded": 41889646,
     "last_updated": "2026-10-13 9:08pm GMT",
     "added": "2018-08-19",
     "download_link": "https://downloads.wordpress.org/plugin/kadence-blocks.3.8.0.zip"
@@ -460476,16 +460672,16 @@
   {
     "name": "Kakunin Modal for Contact Form 7",
     "slug": "kakunin-modal-for-contact-form-7",
-    "version": "0.9.1",
+    "version": "0.9.2",
     "requires_wordpress": "5.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 10,
     "downloaded": 282,
-    "last_updated": "2026-10-05 9:52am GMT",
+    "last_updated": "2026-10-14 3:56am GMT",
     "added": "2026-08-06",
-    "download_link": "https://downloads.wordpress.org/plugin/kakunin-modal-for-contact-form-7.0.9.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/kakunin-modal-for-contact-form-7.0.9.2.zip"
   },
   {
     "name": "KAL-AI – Learning Mentor (LearnDash) | Content Expert (content sites)",
@@ -460692,7 +460888,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 10,
-    "downloaded": 2819,
+    "downloaded": 2842,
     "last_updated": "2026-10-13 9:06pm GMT",
     "added": "2026-06-18",
     "download_link": "https://downloads.wordpress.org/plugin/kalicart-bridge.1.0.143.zip"
@@ -461686,7 +461882,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 29,
+    "downloaded": 40,
     "last_updated": "2026-10-13 6:48pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/kashida-color-library.2.6.11.zip"
@@ -465788,7 +465984,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 34,
     "last_updated": "2026-10-13 8:24pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/kieran-epk-social-metadata.1.2.5.zip"
@@ -467272,7 +467468,7 @@
     "requires_php": "8.1",
     "num_ratings": 6,
     "active_installs": 700,
-    "downloaded": 6256,
+    "downloaded": 6327,
     "last_updated": "2026-10-13 6:34pm GMT",
     "added": "2025-08-11",
     "download_link": "https://downloads.wordpress.org/plugin/kitgenix-captcha-for-cloudflare-turnstile.2.1.3.zip"
@@ -471500,7 +471696,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 51,
+    "downloaded": 80,
     "last_updated": "2026-10-13 8:40pm GMT",
     "added": "2026-10-12",
     "download_link": "https://downloads.wordpress.org/plugin/kpikit-fixes.0.3.4.zip"
@@ -472612,7 +472808,7 @@
     "download_link": "https://downloads.wordpress.org/plugin/kudoask-review-invites-for-woocommerce.1.0.0.zip"
   },
   {
-    "name": "KudoMetrics AI Blog Summarizer \u0026#8211; AI Blog Post Summarizer \u0026amp; Smart Action Buttons",
+    "name": "KudoMetrics AI Blog Summarizer – One-Click AI Actions for 8 AI Engines",
     "slug": "kudometrics-ai-blog-summarizer",
     "version": "1.0.1",
     "requires_wordpress": "5.6",
@@ -472621,12 +472817,12 @@
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 365,
-    "last_updated": "2026-10-03 7:26pm GMT",
+    "last_updated": "2026-10-14 4:57am GMT",
     "added": "2026-10-03",
     "download_link": "https://downloads.wordpress.org/plugin/kudometrics-ai-blog-summarizer.1.0.1.zip"
   },
   {
-    "name": "KudoMetrics Preferred Source Button for Google",
+    "name": "KudoMetrics Google Preferred Sources Button – 40+ Custom Styles",
     "slug": "kudometrics-preferred-source-button-for-google",
     "version": "1.7.46",
     "requires_wordpress": "6.0",
@@ -472635,7 +472831,7 @@
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 197,
-    "last_updated": "2026-09-10 4:54pm GMT",
+    "last_updated": "2026-10-14 4:58am GMT",
     "added": "2026-09-10",
     "download_link": "https://downloads.wordpress.org/plugin/kudometrics-preferred-source-button-for-google.1.7.46.zip"
   },
@@ -473212,6 +473408,20 @@
     "last_updated": "2026-08-13 10:04am GMT",
     "added": "2026-05-03",
     "download_link": "https://downloads.wordpress.org/plugin/kurl-short-url-manager-yourls.1.0.9.zip"
+  },
+  {
+    "name": "KUROFUNE LINK",
+    "slug": "kurofune-link",
+    "version": "1.3.4",
+    "requires_wordpress": "6.5",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 1:22am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/kurofune-link.1.3.4.zip"
   },
   {
     "name": "Kurs BCA",
@@ -475294,7 +475504,7 @@
     "requires_php": "7.4",
     "num_ratings": 1,
     "active_installs": 70,
-    "downloaded": 2304,
+    "downloaded": 2327,
     "last_updated": "2026-10-13 8:07pm GMT",
     "added": "2026-07-06",
     "download_link": "https://downloads.wordpress.org/plugin/landtech-extras-for-elementor.3.0.5.zip"
@@ -475476,7 +475686,7 @@
     "requires_php": "8.0",
     "num_ratings": 1,
     "active_installs": 0,
-    "downloaded": 1112,
+    "downloaded": 1127,
     "last_updated": "2026-10-13 8:57pm GMT",
     "added": "2026-04-29",
     "download_link": "https://downloads.wordpress.org/plugin/langrelay.2.5.3.zip"
@@ -479654,6 +479864,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/lc-disable-cdn.1.0.3.zip"
   },
   {
+    "name": "LC HoverPeek",
+    "slug": "lc-hoverpeek",
+    "version": "1.0.6",
+    "requires_wordpress": "5.0",
+    "tested": "7.1.3",
+    "requires_php": "7.2",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 697,
+    "last_updated": "2026-10-12 11:07am GMT",
+    "added": "2026-03-26",
+    "download_link": "https://downloads.wordpress.org/plugin/lc-hoverpeek.1.0.6.zip"
+  },
+  {
     "name": "LC Lightbox Lite",
     "slug": "lc-lightbox-lite",
     "version": "1.0.0",
@@ -481350,16 +481574,16 @@
   {
     "name": "Lean SMTP",
     "slug": "lean-smtp",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 10,
     "downloaded": 376,
-    "last_updated": "2026-10-11 5:02pm GMT",
+    "last_updated": "2026-10-14 2:38am GMT",
     "added": "2026-07-31",
-    "download_link": "https://downloads.wordpress.org/plugin/lean-smtp.0.5.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/lean-smtp.0.6.0.zip"
   },
   {
     "name": "Lean Video and Audio Player",
@@ -481888,7 +482112,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 26,
+    "downloaded": 37,
     "last_updated": "2026-10-13 6:19pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/lecouz-core.1.5.0.zip"
@@ -483694,7 +483918,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 415,
+    "downloaded": 435,
     "last_updated": "2026-10-13 10:34pm GMT",
     "added": "2026-08-09",
     "download_link": "https://downloads.wordpress.org/plugin/letterness.4.1.4.zip"
@@ -488748,7 +488972,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 10,
-    "downloaded": 381,
+    "downloaded": 395,
     "last_updated": "2026-10-13 9:14pm GMT",
     "added": "2026-04-06",
     "download_link": "https://downloads.wordpress.org/plugin/limited-admin-role.2.9.3.zip"
@@ -491955,9 +492179,9 @@
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 152,
-    "last_updated": "2026-10-13 10:40am GMT",
+    "last_updated": "2026-10-14 4:12am GMT",
     "added": "2026-09-29",
-    "download_link": "https://downloads.wordpress.org/plugin/lion-parcel.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/lion-parcel.1.0.2.zip"
   },
   {
     "name": "Lion Social Share",
@@ -496168,7 +496392,7 @@
     "requires_php": "8.2",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 23,
+    "downloaded": 34,
     "last_updated": "2026-10-13 6:16pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/lknform-login-and-register.1.0.0.zip"
@@ -497624,7 +497848,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 42,
+    "downloaded": 55,
     "last_updated": "2026-10-13 6:10pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/lobbit-cookie-consent.1.8.zip"
@@ -499248,7 +499472,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 40,
-    "downloaded": 959,
+    "downloaded": 970,
     "last_updated": "2026-10-13 5:18pm GMT",
     "added": "2026-07-31",
     "download_link": "https://downloads.wordpress.org/plugin/locktura.2.7.0.zip"
@@ -503938,7 +504162,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 191,
+    "downloaded": 219,
     "last_updated": "2026-10-13 8:39pm GMT",
     "added": "2026-10-08",
     "download_link": "https://downloads.wordpress.org/plugin/loreainsworth-quotes-testimonials-studio.1.0.6.zip"
@@ -506906,7 +507130,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 36,
+    "downloaded": 63,
     "last_updated": "2026-10-13 10:06pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/lumn-analytics.1.0.1.zip"
@@ -507628,16 +507852,16 @@
   {
     "name": "LW Simple Forms",
     "slug": "lw-simple-forms",
-    "version": "1.3.1",
+    "version": "1.3.2",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 10,
-    "downloaded": 1079,
-    "last_updated": "2026-10-08 6:50am GMT",
+    "downloaded": 1094,
+    "last_updated": "2026-10-14 3:29am GMT",
     "added": "2025-04-17",
-    "download_link": "https://downloads.wordpress.org/plugin/lw-simple-forms.1.3.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/lw-simple-forms.1.3.2.zip"
   },
   {
     "name": "Lwakit Autoblog",
@@ -512562,7 +512786,7 @@
     "requires_php": "7.4",
     "num_ratings": 438,
     "active_installs": 10000,
-    "downloaded": 2485747,
+    "downloaded": 2485817,
     "last_updated": "2026-10-13 6:10pm GMT",
     "added": "2017-07-17",
     "download_link": "https://downloads.wordpress.org/plugin/mailoptin.1.2.78.7.zip"
@@ -512808,16 +513032,16 @@
   {
     "name": "MailSentra: Email Logging \u0026amp; Diagnostics",
     "slug": "mailsentra-email-logging-diagnostics",
-    "version": "1.5.6",
+    "version": "1.5.8",
     "requires_wordpress": "5.8",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 128,
-    "last_updated": "2026-10-08 3:18pm GMT",
+    "downloaded": 154,
+    "last_updated": "2026-10-14 1:24am GMT",
     "added": "2026-10-08",
-    "download_link": "https://downloads.wordpress.org/plugin/mailsentra-email-logging-diagnostics.1.5.6.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/mailsentra-email-logging-diagnostics.zip"
   },
   {
     "name": "mailshogun",
@@ -512954,7 +513178,7 @@
     "requires_php": "",
     "num_ratings": 0,
     "active_installs": 20,
-    "downloaded": 5680,
+    "downloaded": 5691,
     "last_updated": "2026-10-13 7:50pm GMT",
     "added": "2017-01-13",
     "download_link": "https://downloads.wordpress.org/plugin/mailster-dummy-mailer.1.3.0.zip"
@@ -513136,7 +513360,7 @@
     "requires_php": "",
     "num_ratings": 4,
     "active_installs": 1000,
-    "downloaded": 28646,
+    "downloaded": 28673,
     "last_updated": "2026-10-13 7:21pm GMT",
     "added": "2017-01-13",
     "download_link": "https://downloads.wordpress.org/plugin/mailster-recaptcha.2.0.2.zip"
@@ -513836,7 +514060,7 @@
     "requires_php": "7.4",
     "num_ratings": 2351,
     "active_installs": 20000,
-    "downloaded": 1911223,
+    "downloaded": 1911472,
     "last_updated": "2026-10-13 5:21pm GMT",
     "added": "2014-02-26",
     "download_link": "https://downloads.wordpress.org/plugin/mainwp.6.3.zip"
@@ -513850,7 +514074,7 @@
     "requires_php": "7.4",
     "num_ratings": 70,
     "active_installs": 700000,
-    "downloaded": 50725711,
+    "downloaded": 50727016,
     "last_updated": "2026-10-13 5:24pm GMT",
     "added": "2013-08-27",
     "download_link": "https://downloads.wordpress.org/plugin/mainwp-child.6.3.zip"
@@ -528284,7 +528508,7 @@
     "requires_php": "7.2",
     "num_ratings": 0,
     "active_installs": 200,
-    "downloaded": 15734,
+    "downloaded": 15745,
     "last_updated": "2026-10-13 5:32pm GMT",
     "added": "2025-08-28",
     "download_link": "https://downloads.wordpress.org/plugin/mega-ai.2.15.0.zip"
@@ -528736,6 +528960,20 @@
     "last_updated": "2026-08-23 3:32pm GMT",
     "added": "2026-04-27",
     "download_link": "https://downloads.wordpress.org/plugin/megurio-subscriptions-for-woocommerce.1.1.0.zip"
+  },
+  {
+    "name": "Meguro Writer",
+    "slug": "meguro-writer",
+    "version": "3.5.3",
+    "requires_wordpress": "6.2",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 29,
+    "last_updated": "2026-10-14 3:46am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/meguro-writer.3.5.3.zip"
   },
   {
     "name": "Mehdi Order Alerts with Telegram for WooCommerce",
@@ -539204,7 +539442,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 22,
+    "downloaded": 33,
     "last_updated": "2026-10-13 6:50pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/mingo-conditional-shipping-display.1.0.0.zip"
@@ -540660,7 +540898,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 1005,
+    "downloaded": 1018,
     "last_updated": "2026-10-13 7:31pm GMT",
     "added": "2026-06-12",
     "download_link": "https://downloads.wordpress.org/plugin/minty-orange.1.7.1.zip"
@@ -545174,6 +545412,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/moco-smart-search.1.4.zip"
   },
   {
+    "name": "MoCRA Compliance Checker for WooCommerce",
+    "slug": "mocra-compliance-checker",
+    "version": "1.1.0",
+    "requires_wordpress": "6.0",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 4:27am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/mocra-compliance-checker.1.1.0.zip"
+  },
+  {
     "name": "Mocursor Smart TOC",
     "slug": "mocursor-toc",
     "version": "1.1.0",
@@ -546400,7 +546652,7 @@
     "requires_php": "7.4",
     "num_ratings": 127,
     "active_installs": 40000,
-    "downloaded": 1332164,
+    "downloaded": 1332205,
     "last_updated": "2026-10-13 5:57pm GMT",
     "added": "2023-02-17",
     "download_link": "https://downloads.wordpress.org/plugin/modular-connector.3.4.0.zip"
@@ -550431,9 +550683,9 @@
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
-    "active_installs": 0,
+    "active_installs": 10,
     "downloaded": 67,
-    "last_updated": "2026-10-12 10:53am GMT",
+    "last_updated": "2026-10-14 4:44am GMT",
     "added": "2026-10-12",
     "download_link": "https://downloads.wordpress.org/plugin/motionkit.1.6.0.zip"
   },
@@ -558202,7 +558454,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 22,
+    "downloaded": 33,
     "last_updated": "2026-10-13 5:24pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/muq-seo-site-checker.1.0.1.zip"
@@ -565188,10 +565440,24 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 213,
+    "downloaded": 234,
     "last_updated": "2026-10-13 10:11pm GMT",
     "added": "2026-09-16",
     "download_link": "https://downloads.wordpress.org/plugin/nahnu-code-block.1.0.3.zip"
+  },
+  {
+    "name": "Nahnu Login Shield",
+    "slug": "nahnu-login-shield",
+    "version": "1.0.10",
+    "requires_wordpress": "6.2",
+    "tested": "7.1.3",
+    "requires_php": "8.3",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 3:48am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/nahnu-login-shield.1.0.10.zip"
   },
   {
     "name": "Nahnu Video For Bunny Stream (Bunny.net)",
@@ -568912,7 +569178,7 @@
     "requires_php": "7.4",
     "num_ratings": 3,
     "active_installs": 0,
-    "downloaded": 1242,
+    "downloaded": 1253,
     "last_updated": "2026-10-13 7:22pm GMT",
     "added": "2026-06-19",
     "download_link": "https://downloads.wordpress.org/plugin/nemynai-seo-autopilot.2.3.1.zip"
@@ -574436,16 +574702,16 @@
   {
     "name": "NexraOne Agent",
     "slug": "nexraone-agent",
-    "version": "0.4.25",
+    "version": "0.4.27",
     "requires_wordpress": "5.8",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 30,
-    "downloaded": 1372,
-    "last_updated": "2026-10-10 11:39am GMT",
+    "downloaded": 1383,
+    "last_updated": "2026-10-14 12:10am GMT",
     "added": "2026-05-25",
-    "download_link": "https://downloads.wordpress.org/plugin/nexraone-agent.0.4.25.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/nexraone-agent.0.4.27.zip"
   },
   {
     "name": "Nexron AI Chat",
@@ -576822,7 +577088,7 @@
     "requires_php": "7.4",
     "num_ratings": 7,
     "active_installs": 100,
-    "downloaded": 6762,
+    "downloaded": 6810,
     "last_updated": "2026-10-13 8:01pm GMT",
     "added": "2020-04-25",
     "download_link": "https://downloads.wordpress.org/plugin/ni-payment-reminder-for-woocommerce.1.3.0.zip"
@@ -576864,7 +577130,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 11,
+    "downloaded": 33,
     "last_updated": "2026-10-13 7:35pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/ni-stock-import-export.1.0.2.zip"
@@ -585034,16 +585300,16 @@
   {
     "name": "NotifyKit — заявки и заказы WordPress в MAX",
     "slug": "notifykit-for-max-cf7",
-    "version": "1.1.1",
-    "requires_wordpress": "6.2",
+    "version": "1.1.2",
+    "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 60,
-    "downloaded": 709,
-    "last_updated": "2026-10-13 4:15am GMT",
+    "downloaded": 740,
+    "last_updated": "2026-10-14 2:43am GMT",
     "added": "2026-05-10",
-    "download_link": "https://downloads.wordpress.org/plugin/notifykit-for-max-cf7.1.1.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/notifykit-for-max-cf7.1.1.2.zip"
   },
   {
     "name": "Notify.lk SMS for WooCommerce",
@@ -589254,7 +589520,7 @@
     "requires_php": "7.0",
     "num_ratings": 4,
     "active_installs": 200,
-    "downloaded": 43968,
+    "downloaded": 43980,
     "last_updated": "2026-10-13 5:07pm GMT",
     "added": "2017-02-02",
     "download_link": "https://downloads.wordpress.org/plugin/obituary-assistant-by-funeral-home-website-solutions.zip"
@@ -590934,7 +591200,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 34,
     "last_updated": "2026-10-13 8:17pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/odisal-header.1.0.0.zip"
@@ -593160,7 +593426,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 44,
     "last_updated": "2026-10-13 9:53pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/okm-lobo-admin.0.1.0.zip"
@@ -594476,7 +594742,7 @@
     "requires_php": "7.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 32,
+    "downloaded": 43,
     "last_updated": "2026-10-13 6:50pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/omniconva-ai-sales-agent-connector.1.0.0.zip"
@@ -600692,7 +600958,7 @@
     "requires_php": "8.2",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 164,
+    "downloaded": 201,
     "last_updated": "2026-10-13 10:54pm GMT",
     "added": "2026-10-10",
     "download_link": "https://downloads.wordpress.org/plugin/openreceive.0.4.25.zip"
@@ -607678,7 +607944,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 640,
+    "downloaded": 652,
     "last_updated": "2026-10-13 7:34pm GMT",
     "added": "2025-12-19",
     "download_link": "https://downloads.wordpress.org/plugin/otppal.2.5.1.zip"
@@ -609722,7 +609988,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 75,
+    "downloaded": 86,
     "last_updated": "2026-10-13 5:31pm GMT",
     "added": "2026-10-12",
     "download_link": "https://downloads.wordpress.org/plugin/oxialink-crypto-payments-for-woocommerce.1.1.3.zip"
@@ -611520,18 +611786,18 @@
     "download_link": "https://downloads.wordpress.org/plugin/pagarme-payments-for-woocommerce.3.10.1.zip"
   },
   {
-    "name": "PagBank / PagSeguro Connect para WooCommerce",
+    "name": "PagBank / PagSeguro e Vindi para WooCommerce",
     "slug": "pagbank-connect",
-    "version": "4.57.4",
+    "version": "5.0.0",
     "requires_wordpress": "5.2",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 63,
     "active_installs": 3000,
-    "downloaded": 124590,
-    "last_updated": "2026-09-08 2:42am GMT",
+    "downloaded": 124615,
+    "last_updated": "2026-10-14 1:12am GMT",
     "added": "2024-01-10",
-    "download_link": "https://downloads.wordpress.org/plugin/pagbank-connect.4.57.4.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/pagbank-connect.5.0.0.zip"
   },
   {
     "name": "PagBank for WooCommerce",
@@ -618032,16 +618298,16 @@
   {
     "name": "PASS Addons \u0026#8211; AI \u0026amp; Toolkit for Elementor",
     "slug": "pass-addons",
-    "version": "1.1.48",
+    "version": "1.1.49",
     "requires_wordpress": "5.9",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 10,
     "downloaded": 2288,
-    "last_updated": "2026-10-12 11:31am GMT",
+    "last_updated": "2026-10-14 4:42am GMT",
     "added": "2025-10-21",
-    "download_link": "https://downloads.wordpress.org/plugin/pass-addons.1.1.48.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/pass-addons.zip"
   },
   {
     "name": "Pass URL Parameters to Embedded iFrame",
@@ -618962,7 +619228,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 1607,
+    "downloaded": 1619,
     "last_updated": "2026-10-13 6:13pm GMT",
     "added": "2026-08-05",
     "download_link": "https://downloads.wordpress.org/plugin/patcherly.2.11.7.zip"
@@ -619172,7 +619438,7 @@
     "requires_php": "7.4",
     "num_ratings": 55,
     "active_installs": 3000,
-    "downloaded": 295686,
+    "downloaded": 295849,
     "last_updated": "2026-10-13 8:51pm GMT",
     "added": "2017-12-05",
     "download_link": "https://downloads.wordpress.org/plugin/patreon-connect.1.12.0.zip"
@@ -631948,16 +632214,16 @@
   {
     "name": "PhotoPress",
     "slug": "photopress",
-    "version": "1.9.0",
+    "version": "2.0.0",
     "requires_wordpress": "6.6",
     "tested": "7.1.3",
     "requires_php": "",
     "num_ratings": 3,
     "active_installs": 100,
     "downloaded": 18141,
-    "last_updated": "2026-10-09 6:34am GMT",
+    "last_updated": "2026-10-14 3:17am GMT",
     "added": "2005-03-18",
-    "download_link": "https://downloads.wordpress.org/plugin/photopress.1.9.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/photopress.2.0.0.zip"
   },
   {
     "name": "PhotoPress \u0026#8211; Gallery",
@@ -632144,16 +632410,16 @@
   {
     "name": "Photospace Responsive Gallery",
     "slug": "photospace-responsive",
-    "version": "2.2.2",
+    "version": "2.2.3",
     "requires_wordpress": "3.0",
-    "tested": "6.3.13",
+    "tested": "7.1.3",
     "requires_php": "",
     "num_ratings": 11,
     "active_installs": 800,
-    "downloaded": 46017,
-    "last_updated": "2026-10-13 7:12am GMT",
+    "downloaded": 46062,
+    "last_updated": "2026-10-13 11:57pm GMT",
     "added": "2013-03-11",
-    "download_link": "https://downloads.wordpress.org/plugin/photospace-responsive.2.2.2.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/photospace-responsive.2.2.3.zip"
   },
   {
     "name": "PhotoStack Slider",
@@ -632214,16 +632480,16 @@
   {
     "name": "Photoswipe Masonry Gallery",
     "slug": "photoswipe-masonry",
-    "version": "1.2.34",
+    "version": "1.2.35",
     "requires_wordpress": "6.0",
-    "tested": "6.4.13",
+    "tested": "7.1.3",
     "requires_php": "",
     "num_ratings": 46,
     "active_installs": 6000,
-    "downloaded": 176500,
-    "last_updated": "2026-10-13 7:10am GMT",
+    "downloaded": 176814,
+    "last_updated": "2026-10-13 11:24pm GMT",
     "added": "2014-12-28",
-    "download_link": "https://downloads.wordpress.org/plugin/photoswipe-masonry.1.2.34.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/photoswipe-masonry.1.2.35.zip"
   },
   {
     "name": "Temperal PhotoSynth",
@@ -633080,18 +633346,18 @@
     "download_link": "https://downloads.wordpress.org/plugin/pi-testimonials.1.0.0.zip"
   },
   {
-    "name": "PiWeb Delivery \u0026amp; Pickup Date Time for WooCommerce",
+    "name": "PI Delivery \u0026amp; Pickup Date Time for WooCommerce",
     "slug": "pi-woocommerce-order-date-time-and-type",
-    "version": "3.0.76",
+    "version": "3.0.77",
     "requires_wordpress": "5.3",
     "tested": "7.1.3",
     "requires_php": "7.2",
     "num_ratings": 90,
     "active_installs": 400,
-    "downloaded": 219773,
-    "last_updated": "2026-10-13 10:19am GMT",
+    "downloaded": 219894,
+    "last_updated": "2026-10-14 1:49am GMT",
     "added": "2018-10-20",
-    "download_link": "https://downloads.wordpress.org/plugin/pi-woocommerce-order-date-time-and-type.3.0.76.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/pi-woocommerce-order-date-time-and-type.3.0.77.zip"
   },
   {
     "name": "Piano",
@@ -639032,16 +639298,16 @@
   {
     "name": "Platecraft Addons for Elementor",
     "slug": "platecraft-addons-for-elementor",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "requires_wordpress": "6.5",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 74,
-    "last_updated": "2026-10-13 9:39am GMT",
+    "downloaded": 85,
+    "last_updated": "2026-10-14 12:02am GMT",
     "added": "2026-10-12",
-    "download_link": "https://downloads.wordpress.org/plugin/platecraft-addons-for-elementor.1.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/platecraft-addons-for-elementor.1.0.4.zip"
   },
   {
     "name": "PlatformInfo",
@@ -640242,7 +640508,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 21,
+    "downloaded": 32,
     "last_updated": "2026-10-13 6:02pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/pload.1.0.0.zip"
@@ -641152,7 +641418,7 @@
     "requires_php": "5.3",
     "num_ratings": 49,
     "active_installs": 5000,
-    "downloaded": 240038,
+    "downloaded": 240049,
     "last_updated": "2026-10-13 5:14pm GMT",
     "added": "2018-05-12",
     "download_link": "https://downloads.wordpress.org/plugin/plugin-detective.1.2.37.zip"
@@ -658520,16 +658786,16 @@
   {
     "name": "PrayTime.me Bible Verses",
     "slug": "praytime-me-bible-verses",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "requires_wordpress": "5.8",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 198,
-    "last_updated": "2026-10-10 5:07pm GMT",
+    "downloaded": 213,
+    "last_updated": "2026-10-14 3:57am GMT",
     "added": "2026-10-08",
-    "download_link": "https://downloads.wordpress.org/plugin/praytime-me-bible-verses.1.2.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/praytime-me-bible-verses.1.2.2.zip"
   },
   {
     "name": "PRBLEM Airmail Notice",
@@ -659904,6 +660170,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/prerender-and-prefetch.zip"
   },
   {
+    "name": "PrerenderX – Instant Page \u0026amp; Speculation Preloader",
+    "slug": "prerenderx-instant-preloader",
+    "version": "1.1.0",
+    "requires_wordpress": "5.7",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 2:45am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/prerenderx-instant-preloader.1.1.0.zip"
+  },
+  {
     "name": "Dark Mode for Elementor \u0026#8211; Global colors mapping",
     "slug": "presario-dark-mode",
     "version": "1.1.0",
@@ -659926,7 +660206,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 10,
-    "downloaded": 4844,
+    "downloaded": 4904,
     "last_updated": "2026-10-13 9:57pm GMT",
     "added": "2026-07-21",
     "download_link": "https://downloads.wordpress.org/plugin/presence-api.0.18.1.zip"
@@ -660578,16 +660858,16 @@
   {
     "name": "PressedMail \u0026#8211; Email Client, Inbox \u0026amp; Webmail",
     "slug": "pressedmail",
-    "version": "1.6.1",
+    "version": "1.7.0",
     "requires_wordpress": "6.6",
     "tested": "7.1.3",
     "requires_php": "8.2",
     "num_ratings": 2,
     "active_installs": 0,
-    "downloaded": 985,
-    "last_updated": "2026-10-12 3:24am GMT",
+    "downloaded": 996,
+    "last_updated": "2026-10-14 12:12am GMT",
     "added": "2026-09-04",
-    "download_link": "https://downloads.wordpress.org/plugin/pressedmail.1.6.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/pressedmail.1.7.0.zip"
   },
   {
     "name": "Pressenter",
@@ -661024,6 +661304,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/presstags.zip"
   },
   {
+    "name": "Pressundo Image Optimizer",
+    "slug": "pressundo-image-optimizer",
+    "version": "1.2.2",
+    "requires_wordpress": "6.4",
+    "tested": "7.1.3",
+    "requires_php": "8.1",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 18,
+    "last_updated": "2026-10-14 12:39am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/pressundo-image-optimizer.1.2.2.zip"
+  },
+  {
     "name": "PressVitals Site Auditor",
     "slug": "pressvitals-site-auditor",
     "version": "1.5.1",
@@ -661446,16 +661740,16 @@
   {
     "name": "Pretty Simple Popup Builder",
     "slug": "pretty-simple-popup-builder",
-    "version": "2.2",
+    "version": "2.2.1",
     "requires_wordpress": "4.6",
     "tested": "7.1.3",
     "requires_php": "5.6",
     "num_ratings": 1,
     "active_installs": 300,
-    "downloaded": 8630,
-    "last_updated": "2026-08-25 5:29am GMT",
+    "downloaded": 8641,
+    "last_updated": "2026-10-14 4:37am GMT",
     "added": "2022-03-12",
-    "download_link": "https://downloads.wordpress.org/plugin/pretty-simple-popup-builder.2.2.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/pretty-simple-popup-builder.2.2.1.zip"
   },
   {
     "name": "Pretty Simple Progress meter",
@@ -663496,7 +663790,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 104,
+    "downloaded": 116,
     "last_updated": "2026-10-13 5:04pm GMT",
     "added": "2026-10-09",
     "download_link": "https://downloads.wordpress.org/plugin/primocrm.1.0.1.zip"
@@ -665618,16 +665912,16 @@
   {
     "name": "Proactive Site Advisor – Privacy‑First Anomaly Alerts",
     "slug": "proactive-site-advisor",
-    "version": "1.2.6",
+    "version": "1.2.7",
     "requires_wordpress": "6.1",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 1,
     "active_installs": 0,
     "downloaded": 1024,
-    "last_updated": "2026-10-02 1:07pm GMT",
+    "last_updated": "2026-10-13 11:32pm GMT",
     "added": "2026-06-15",
-    "download_link": "https://downloads.wordpress.org/plugin/proactive-site-advisor.1.2.6.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/proactive-site-advisor.1.2.7.zip"
   },
   {
     "name": "ProAI TXT Manager for LLMS and Robots",
@@ -669118,16 +669412,16 @@
   {
     "name": "Product Upload: AI Dropshipping \u0026amp; Product Importer for WooCommerce",
     "slug": "product-upload",
-    "version": "1.2.6",
+    "version": "1.3.0",
     "requires_wordpress": "6.2",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 1,
     "active_installs": 100,
-    "downloaded": 3512,
-    "last_updated": "2026-10-10 1:10am GMT",
+    "downloaded": 3523,
+    "last_updated": "2026-10-14 2:59am GMT",
     "added": "2026-06-08",
-    "download_link": "https://downloads.wordpress.org/plugin/product-upload.1.2.6.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/product-upload.1.3.0.zip"
   },
   {
     "name": "Product Variant Dropdown or Radio Button for WooCommerce",
@@ -669510,30 +669804,30 @@
   {
     "name": "Productive Commerce \u0026#8211; Wishlist, Compare \u0026amp; MiniCart",
     "slug": "productive-commerce",
-    "version": "1.1.48",
+    "version": "1.1.49",
     "requires_wordpress": "5.9",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 1,
     "active_installs": 20,
     "downloaded": 9706,
-    "last_updated": "2026-10-12 11:31am GMT",
+    "last_updated": "2026-10-14 4:46am GMT",
     "added": "2023-01-20",
-    "download_link": "https://downloads.wordpress.org/plugin/productive-commerce.1.1.48.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/productive-commerce.zip"
   },
   {
     "name": "Productive Demo Importer",
     "slug": "productive-demo-importer",
-    "version": "1.1.48",
+    "version": "1.1.49",
     "requires_wordpress": "5.9",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 10,
     "downloaded": 7125,
-    "last_updated": "2026-10-12 11:32am GMT",
+    "last_updated": "2026-10-14 4:48am GMT",
     "added": "2022-10-29",
-    "download_link": "https://downloads.wordpress.org/plugin/productive-demo-importer.1.1.48.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/productive-demo-importer.zip"
   },
   {
     "name": "Productive Forms \u0026#8211; Contact Us, Newsletter Opt-ins \u0026amp; Content Publishing",
@@ -672358,7 +672652,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 40,
     "last_updated": "2026-10-13 10:49pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/proofcanvas.1.7.0.zip"
@@ -673316,18 +673610,18 @@
     "download_link": "https://downloads.wordpress.org/plugin/protect-wp-config-from-phishing-attacks.zip"
   },
   {
-    "name": "Protect WP Login",
+    "name": "Protect WP Login – Password Protect wp-login.php with Basic Auth",
     "slug": "protect-wp-login",
-    "version": "1.1",
+    "version": "1.1.1",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 1122,
-    "last_updated": "2026-10-13 5:15pm GMT",
+    "last_updated": "2026-10-14 1:37am GMT",
     "added": "2024-09-25",
-    "download_link": "https://downloads.wordpress.org/plugin/protect-wp-login.1.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/protect-wp-login.1.1.1.zip"
   },
   {
     "name": "Protect WordPress Videos",
@@ -674038,7 +674332,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 62,
+    "downloaded": 90,
     "last_updated": "2026-10-13 7:58pm GMT",
     "added": "2026-10-11",
     "download_link": "https://downloads.wordpress.org/plugin/prozen-ai-proofreader.1.0.1.zip"
@@ -677180,6 +677474,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/pureguard-performance.6.2.0.zip"
   },
   {
+    "name": "PureHost Send-Mails",
+    "slug": "purehost-send-mails",
+    "version": "1.0.7",
+    "requires_wordpress": "6.4",
+    "tested": "7.1.3",
+    "requires_php": "8.1",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 17,
+    "last_updated": "2026-10-14 3:02am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/purehost-send-mails.1.0.7.zip"
+  },
+  {
     "name": "PureMetrix – Cookieless Web Analytics",
     "slug": "puremetrix-analytics",
     "version": "0.1.23",
@@ -678336,7 +678644,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 24,
+    "downloaded": 35,
     "last_updated": "2026-10-13 5:48pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/pushwi.1.0.0.zip"
@@ -686638,7 +686946,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 266,
+    "downloaded": 301,
     "last_updated": "2026-10-13 8:00pm GMT",
     "added": "2026-08-24",
     "download_link": "https://downloads.wordpress.org/plugin/quickstock-for-woocommerce.5.13.28.zip"
@@ -688332,7 +688640,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 40,
     "last_updated": "2026-10-13 9:01pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/quppuq-stock-token-toolkit.1.0.0.zip"
@@ -695347,7 +695655,7 @@
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 324,
-    "last_updated": "2026-10-13 4:04pm GMT",
+    "last_updated": "2026-10-14 1:32am GMT",
     "added": "2026-09-14",
     "download_link": "https://downloads.wordpress.org/plugin/rawnaq.1.4.0.zip"
   },
@@ -697930,16 +698238,16 @@
   {
     "name": "ReadySpace Headless SEO Bridge for Rank Math",
     "slug": "readyspace-headless-seo-bridge-for-rank-math",
-    "version": "0.2.1",
+    "version": "0.4.0",
     "requires_wordpress": "6.7",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 31,
-    "last_updated": "2026-10-13 12:07pm GMT",
+    "downloaded": 59,
+    "last_updated": "2026-10-14 1:03am GMT",
     "added": "2026-10-13",
-    "download_link": "https://downloads.wordpress.org/plugin/readyspace-headless-seo-bridge-for-rank-math.0.2.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/readyspace-headless-seo-bridge-for-rank-math.0.4.0.zip"
   },
   {
     "name": "Newsletter for UltimateSales.AI",
@@ -704790,16 +705098,16 @@
   {
     "name": "Redkirin Ad Click Verification",
     "slug": "redkirin-ad-click-verification",
-    "version": "1.3.0",
+    "version": "1.4.1",
     "requires_wordpress": "5.8",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 168,
-    "last_updated": "2026-10-13 9:15am GMT",
+    "downloaded": 216,
+    "last_updated": "2026-10-14 4:55am GMT",
     "added": "2026-10-11",
-    "download_link": "https://downloads.wordpress.org/plugin/redkirin-ad-click-verification.1.3.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/redkirin-ad-click-verification.1.4.1.zip"
   },
   {
     "name": "Redlaxia",
@@ -705132,7 +705440,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 33,
     "last_updated": "2026-10-13 7:57pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/reelbhai-shoppable-stories-video-for-woocommerce.1.2.0.zip"
@@ -706098,7 +706406,7 @@
     "requires_php": "7.0",
     "num_ratings": 22,
     "active_installs": 700,
-    "downloaded": 32937,
+    "downloaded": 32982,
     "last_updated": "2026-10-13 9:07pm GMT",
     "added": "2024-03-14",
     "download_link": "https://downloads.wordpress.org/plugin/regallery.1.20.17.zip"
@@ -712924,16 +713232,16 @@
   {
     "name": "Repeater Fields for Gravity Forms",
     "slug": "repeater-for-gravity-forms",
-    "version": "3.2.3",
+    "version": "3.2.4",
     "requires_wordpress": "2.0",
     "tested": "7.1.3",
     "requires_php": "5.2",
     "num_ratings": 5,
     "active_installs": 1000,
-    "downloaded": 22335,
-    "last_updated": "2026-10-03 2:39am GMT",
+    "downloaded": 22359,
+    "last_updated": "2026-10-14 3:09am GMT",
     "added": "2024-05-10",
-    "download_link": "https://downloads.wordpress.org/plugin/repeater-for-gravity-forms.3.2.3.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/repeater-for-gravity-forms.3.2.4.zip"
   },
   {
     "name": "Arts Repeater Tags for Elementor and ACF",
@@ -714848,7 +715156,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 69,
+    "downloaded": 80,
     "last_updated": "2026-10-13 7:36pm GMT",
     "added": "2026-10-12",
     "download_link": "https://downloads.wordpress.org/plugin/reservation-calendar-by-beryl.0.6.4.zip"
@@ -714960,7 +715268,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 24,
+    "downloaded": 51,
     "last_updated": "2026-10-13 7:52pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/reservepro.1.5.1.zip"
@@ -719700,16 +720008,16 @@
   {
     "name": "Restrict Usernames Emails Characters",
     "slug": "restrict-usernames-emails-characters",
-    "version": "5.0.3",
+    "version": "5.1",
     "requires_wordpress": "3.0",
-    "tested": "7.0.7",
+    "tested": "7.1.3",
     "requires_php": "5.4",
     "num_ratings": 25,
     "active_installs": 1000,
-    "downloaded": 46715,
-    "last_updated": "2026-07-13 7:56pm GMT",
+    "downloaded": 46760,
+    "last_updated": "2026-10-13 11:13pm GMT",
     "added": "2016-09-05",
-    "download_link": "https://downloads.wordpress.org/plugin/restrict-usernames-emails-characters.5.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/restrict-usernames-emails-characters.5.1.zip"
   },
   {
     "name": "Restrict Website Access",
@@ -728540,7 +728848,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 40,
-    "downloaded": 848,
+    "downloaded": 883,
     "last_updated": "2026-10-13 10:02pm GMT",
     "added": "2026-07-13",
     "download_link": "https://downloads.wordpress.org/plugin/roobely.1.0.11.zip"
@@ -728600,6 +728908,20 @@
     "last_updated": "2026-04-03 10:52am GMT",
     "added": "2014-08-16",
     "download_link": "https://downloads.wordpress.org/plugin/roomcloud.2.0.32.zip"
+  },
+  {
+    "name": "RoomJotter Handyman Job List",
+    "slug": "roomjotter-handyman-job-list",
+    "version": "0.1.0",
+    "requires_wordpress": "6.3",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 1:47am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/roomjotter-handyman-job-list.0.1.0.zip"
   },
   {
     "name": "Roomvu Marketing",
@@ -736240,7 +736562,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 1186,
+    "downloaded": 1205,
     "last_updated": "2026-10-13 10:46pm GMT",
     "added": "2026-04-27",
     "download_link": "https://downloads.wordpress.org/plugin/safeship-pk.1.14.19.zip"
@@ -738844,7 +739166,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 40,
     "last_updated": "2026-10-13 8:09pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/sanbar-express-fiscal-check-br.1.0.zip"
@@ -745130,7 +745452,7 @@
     "requires_php": "7.4",
     "num_ratings": 31,
     "active_installs": 600,
-    "downloaded": 25130,
+    "downloaded": 25141,
     "last_updated": "2026-10-13 5:53pm GMT",
     "added": "2016-01-26",
     "download_link": "https://downloads.wordpress.org/plugin/screen-reader-with-fontsize.3.38.zip"
@@ -749338,16 +749660,16 @@
   {
     "name": "SearchMiner",
     "slug": "searchminer",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 305,
-    "last_updated": "2026-10-13 11:34am GMT",
+    "downloaded": 316,
+    "last_updated": "2026-10-14 4:10am GMT",
     "added": "2026-09-17",
-    "download_link": "https://downloads.wordpress.org/plugin/searchminer.0.2.3.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/searchminer.0.2.4.zip"
   },
   {
     "name": "SearchPilot for WooCommerce",
@@ -749730,16 +750052,16 @@
   {
     "name": "SeaTryon – AI Virtual Try-On for WooCommerce",
     "slug": "seatryon-ai-virtual-try-on-for-woocommerce",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "requires_wordpress": "7.0",
     "tested": "7.0.7",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 347,
-    "last_updated": "2026-09-14 3:19am GMT",
+    "last_updated": "2026-10-14 2:21am GMT",
     "added": "2026-08-24",
-    "download_link": "https://downloads.wordpress.org/plugin/seatryon-ai-virtual-try-on-for-woocommerce.1.1.5.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/seatryon-ai-virtual-try-on-for-woocommerce.1.1.6.zip"
   },
   {
     "name": "Seazonify",
@@ -751878,7 +752200,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 1707,
+    "downloaded": 1740,
     "last_updated": "2026-10-13 9:05pm GMT",
     "added": "2026-08-01",
     "download_link": "https://downloads.wordpress.org/plugin/seeonwall-for-woocommerce.1.36.0.zip"
@@ -751998,16 +752320,16 @@
   {
     "name": "Segurium – Free Malware Removal \u0026amp; Auto Cleanup for Hacked Websites, Antivirus Scanner, Vulnerability Alerts",
     "slug": "segurium",
-    "version": "1.5.0",
+    "version": "1.5.1",
     "requires_wordpress": "6.2",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 3,
     "active_installs": 90,
     "downloaded": 2078,
-    "last_updated": "2026-10-02 11:17am GMT",
+    "last_updated": "2026-10-13 11:41pm GMT",
     "added": "2026-07-07",
-    "download_link": "https://downloads.wordpress.org/plugin/segurium.1.5.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/segurium.1.5.1.zip"
   },
   {
     "name": "Real Seguro Viagem",
@@ -753810,7 +754132,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 134,
+    "downloaded": 145,
     "last_updated": "2026-10-13 10:26pm GMT",
     "added": "2026-09-28",
     "download_link": "https://downloads.wordpress.org/plugin/semly-ai-visibility-geo.0.2.1.zip"
@@ -754608,7 +754930,7 @@
     "requires_php": "7.4",
     "num_ratings": 2,
     "active_installs": 30,
-    "downloaded": 2172,
+    "downloaded": 2213,
     "last_updated": "2026-10-13 8:29pm GMT",
     "added": "2026-04-30",
     "download_link": "https://downloads.wordpress.org/plugin/sendforce-mail-relay.1.1.2.zip"
@@ -754650,7 +754972,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 270,
+    "downloaded": 282,
     "last_updated": "2026-10-13 7:01pm GMT",
     "added": "2026-09-11",
     "download_link": "https://downloads.wordpress.org/plugin/sendground.1.3.0.zip"
@@ -756330,7 +756652,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 20,
-    "downloaded": 1705,
+    "downloaded": 1716,
     "last_updated": "2026-10-13 6:01pm GMT",
     "added": "2026-04-01",
     "download_link": "https://downloads.wordpress.org/plugin/seo-content-publisher-for-8ight-ai.1.9.3.zip"
@@ -756582,7 +756904,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 10,
-    "downloaded": 756,
+    "downloaded": 768,
     "last_updated": "2026-10-13 6:13pm GMT",
     "added": "2026-07-10",
     "download_link": "https://downloads.wordpress.org/plugin/seo-for-ai-bots.1.3.8.zip"
@@ -760586,7 +760908,7 @@
     "requires_php": "",
     "num_ratings": 1,
     "active_installs": 0,
-    "downloaded": 2465,
+    "downloaded": 2496,
     "last_updated": "2026-10-13 10:25pm GMT",
     "added": "2025-09-19",
     "download_link": "https://downloads.wordpress.org/plugin/servvai-event-booking.2.5.0.zip"
@@ -762876,16 +763198,16 @@
   {
     "name": "Shapiko 3D Configurator for WooCommerce",
     "slug": "shapiko-configurator",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "requires_wordpress": "6.5",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 62,
-    "last_updated": "2026-10-10 4:32pm GMT",
+    "last_updated": "2026-10-14 2:02am GMT",
     "added": "2026-10-10",
-    "download_link": "https://downloads.wordpress.org/plugin/shapiko-configurator.1.0.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/shapiko-configurator.1.0.1.zip"
   },
   {
     "name": "ShaplaPay Payment Gateway with bKash for FluentCart",
@@ -765808,8 +766130,8 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 39,
-    "last_updated": "2026-10-12 9:47am GMT",
+    "downloaded": 50,
+    "last_updated": "2026-10-14 4:13am GMT",
     "added": "2026-10-12",
     "download_link": "https://downloads.wordpress.org/plugin/shimebill.1.1.0.zip"
   },
@@ -771248,16 +771570,16 @@
   {
     "name": "ShortPixel Image Optimizer \u0026#8211; Optimize Images, Convert WebP \u0026amp; AVIF",
     "slug": "shortpixel-image-optimiser",
-    "version": "6.6.0",
+    "version": "6.6.1",
     "requires_wordpress": "5.9.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 828,
     "active_installs": 300000,
-    "downloaded": 20215832,
-    "last_updated": "2026-10-09 10:06am GMT",
+    "downloaded": 20216927,
+    "last_updated": "2026-10-14 4:03am GMT",
     "added": "2014-11-05",
-    "download_link": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.6.6.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/shortpixel-image-optimiser.6.6.1.zip"
   },
   {
     "name": "Shorts Video Embedder for YouTube",
@@ -774376,7 +774698,7 @@
     "requires_php": "7.4",
     "num_ratings": 1,
     "active_installs": 0,
-    "downloaded": 687,
+    "downloaded": 703,
     "last_updated": "2026-10-13 4:57pm GMT",
     "added": "2026-10-01",
     "download_link": "https://downloads.wordpress.org/plugin/sidcraft-page-builder.1.3.0.zip"
@@ -774390,7 +774712,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 66,
+    "downloaded": 101,
     "last_updated": "2026-10-13 9:55pm GMT",
     "added": "2026-10-12",
     "download_link": "https://downloads.wordpress.org/plugin/sidcraft-restaurant-for-sidcraft-commerce.1.1.2.zip"
@@ -780824,16 +781146,16 @@
   {
     "name": "Simple Fatoora",
     "slug": "simple-fatoora",
-    "version": "4.16",
+    "version": "4.17",
     "requires_wordpress": "5.2",
     "tested": "6.9.10",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 2666,
-    "last_updated": "2026-10-12 10:37pm GMT",
+    "last_updated": "2026-10-14 4:48am GMT",
     "added": "2025-09-24",
-    "download_link": "https://downloads.wordpress.org/plugin/simple-fatoora.4.16.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/simple-fatoora.4.17.zip"
   },
   {
     "name": "Simple Feature Requests Free \u0026#8211; User Feedback Board",
@@ -791246,7 +791568,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 10,
-    "downloaded": 723,
+    "downloaded": 736,
     "last_updated": "2026-10-13 10:45pm GMT",
     "added": "2026-07-03",
     "download_link": "https://downloads.wordpress.org/plugin/simpliroot-lead-capture.3.2.0.zip"
@@ -791582,7 +791904,7 @@
     "requires_php": "7.4",
     "num_ratings": 155,
     "active_installs": 50000,
-    "downloaded": 4255598,
+    "downloaded": 4255811,
     "last_updated": "2026-10-13 10:13pm GMT",
     "added": "2018-05-23",
     "download_link": "https://downloads.wordpress.org/plugin/simply-schedule-appointments.1.6.12.35.zip"
@@ -793150,7 +793472,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 252,
+    "downloaded": 263,
     "last_updated": "2026-10-13 6:00pm GMT",
     "added": "2026-09-30",
     "download_link": "https://downloads.wordpress.org/plugin/site-answers-llms-txt-ai-crawler-log-markdown.1.1.1.zip"
@@ -793732,16 +794054,16 @@
   {
     "name": "Site Reviews",
     "slug": "site-reviews",
-    "version": "8.3.4",
+    "version": "8.3.5",
     "requires_wordpress": "6.8",
     "tested": "7.1.3",
     "requires_php": "8.1.2",
     "num_ratings": 373,
     "active_installs": 60000,
-    "downloaded": 3518221,
-    "last_updated": "2026-10-04 5:19pm GMT",
+    "downloaded": 3518282,
+    "last_updated": "2026-10-13 11:34pm GMT",
     "added": "2016-10-22",
-    "download_link": "https://downloads.wordpress.org/plugin/site-reviews.8.3.4.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/site-reviews.8.3.5.zip"
   },
   {
     "name": "Site Scripts \u0026amp; Speed Manager",
@@ -795536,18 +795858,18 @@
     "download_link": "https://downloads.wordpress.org/plugin/sitespeaker-widget.zip"
   },
   {
-    "name": "SiteStaffr – AI Receptionist, Chat and Voice Agent for WordPress",
+    "name": "SiteStaffr: AI Receptionist with Free AI Chat for WordPress",
     "slug": "sitestaffr",
-    "version": "1.58.3",
+    "version": "1.59.4",
     "requires_wordpress": "6.2",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 2646,
-    "last_updated": "2026-10-12 3:59am GMT",
+    "last_updated": "2026-10-14 1:20am GMT",
     "added": "2026-06-05",
-    "download_link": "https://downloads.wordpress.org/plugin/sitestaffr.1.58.3.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/sitestaffr.1.59.4.zip"
   },
   {
     "name": "SiteStats",
@@ -798274,7 +798596,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 529,
+    "downloaded": 562,
     "last_updated": "2026-10-13 7:58pm GMT",
     "added": "2026-05-23",
     "download_link": "https://downloads.wordpress.org/plugin/skyservers-product-sync-for-emag.3.11.2.zip"
@@ -806044,7 +806366,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 10,
-    "downloaded": 3882,
+    "downloaded": 3896,
     "last_updated": "2026-10-13 5:01pm GMT",
     "added": "2026-02-04",
     "download_link": "https://downloads.wordpress.org/plugin/smartcloud-ai-kit.1.6.6.zip"
@@ -816012,7 +816334,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 397,
+    "downloaded": 430,
     "last_updated": "2026-10-13 10:08pm GMT",
     "added": "2026-10-04",
     "download_link": "https://downloads.wordpress.org/plugin/softvoltai-voice-agent.1.1.0.zip"
@@ -817538,7 +817860,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 627,
+    "downloaded": 663,
     "last_updated": "2026-10-13 9:05pm GMT",
     "added": "2026-08-31",
     "download_link": "https://downloads.wordpress.org/plugin/sompia-ai-site-mapper-content-writer-igaming.1.0.1.zip"
@@ -819428,7 +819750,7 @@
     "requires_php": "7.2",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 43,
+    "downloaded": 76,
     "last_updated": "2026-10-13 8:13pm GMT",
     "added": "2026-10-12",
     "download_link": "https://downloads.wordpress.org/plugin/sowtrack.1.7.1.zip"
@@ -819768,6 +820090,20 @@
     "last_updated": "2016-12-21 11:02am GMT",
     "added": "2014-11-11",
     "download_link": "https://downloads.wordpress.org/plugin/space-remover.zip"
+  },
+  {
+    "name": "SpaceBay \u0026#8211; Community, Activity Feed, Group Chat \u0026amp; Events",
+    "slug": "spacebay",
+    "version": "1.0.0",
+    "requires_wordpress": "6.2",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 32,
+    "last_updated": "2026-10-13 10:59pm GMT",
+    "added": "2026-10-13",
+    "download_link": "https://downloads.wordpress.org/plugin/spacebay.1.0.0.zip"
   },
   {
     "name": "Spacento \u0026#8211; Property listings for Real estate agents",
@@ -821168,6 +821504,20 @@
     "last_updated": "2026-10-06 9:48am GMT",
     "added": "2026-07-31",
     "download_link": "https://downloads.wordpress.org/plugin/specflux-marketing-analytics-chat.0.4.0.zip"
+  },
+  {
+    "name": "Specflux Site Agent",
+    "slug": "specflux-site-agent",
+    "version": "0.3.3",
+    "requires_wordpress": "7.0",
+    "tested": "7.1.3",
+    "requires_php": "8.1",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 12:51am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/specflux-site-agent.0.3.3.zip"
   },
   {
     "name": "Specia Companion",
@@ -824888,7 +825238,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 264,
+    "downloaded": 281,
     "last_updated": "2026-10-13 6:37pm GMT",
     "added": "2026-10-06",
     "download_link": "https://downloads.wordpress.org/plugin/sprint-engine.0.2.2.zip"
@@ -830930,16 +831280,16 @@
   {
     "name": "Stedica SEO",
     "slug": "stedica-seo",
-    "version": "3.33.2",
+    "version": "3.33.3",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 10,
-    "downloaded": 1513,
-    "last_updated": "2026-10-09 8:40pm GMT",
+    "downloaded": 1524,
+    "last_updated": "2026-10-14 5:00am GMT",
     "added": "2026-08-30",
-    "download_link": "https://downloads.wordpress.org/plugin/stedica-seo.3.33.2.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/stedica-seo.3.33.3.zip"
   },
   {
     "name": "Stedica Surveys",
@@ -835262,7 +835612,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 46,
     "last_updated": "2026-10-13 8:19pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/storecanvas-lite.1.0.11.zip"
@@ -838398,7 +838748,7 @@
     "requires_php": "7.4",
     "num_ratings": 1,
     "active_installs": 0,
-    "downloaded": 2095,
+    "downloaded": 2133,
     "last_updated": "2026-10-13 9:27pm GMT",
     "added": "2026-07-16",
     "download_link": "https://downloads.wordpress.org/plugin/studiometa-voice-ai.1.9.7.zip"
@@ -838556,6 +838906,20 @@
     "last_updated": "2026-10-13 12:36am GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/stuff-and-things-reading-estimate.1.0.0.zip"
+  },
+  {
+    "name": "Stuff \u0026amp; Things Business Hours",
+    "slug": "stuff-things-business-hours",
+    "version": "1.0.0",
+    "requires_wordpress": "5.6",
+    "tested": "7.1.3",
+    "requires_php": "7.2",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 12:29am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/stuff-things-business-hours.1.0.0.zip"
   },
   {
     "name": "STUlab Download Manager",
@@ -841198,7 +841562,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 46,
     "last_updated": "2026-10-13 7:55pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/sudokugrid-guaranteed-unique-solution.1.5.1.zip"
@@ -842444,7 +842808,7 @@
     "requires_php": "7.4",
     "num_ratings": 137,
     "active_installs": 1000,
-    "downloaded": 229994,
+    "downloaded": 230038,
     "last_updated": "2026-10-13 5:01pm GMT",
     "added": "2015-08-06",
     "download_link": "https://downloads.wordpress.org/plugin/sunshine-photo-cart.3.7.5.zip"
@@ -857396,7 +857760,7 @@
     "requires_php": "7.4",
     "num_ratings": 2,
     "active_installs": 2000,
-    "downloaded": 27718,
+    "downloaded": 27763,
     "last_updated": "2026-10-13 5:30pm GMT",
     "added": "2025-06-04",
     "download_link": "https://downloads.wordpress.org/plugin/tasty-recipes-lite.1.2.11.zip"
@@ -863396,16 +863760,16 @@
   {
     "name": "Tengill for dk",
     "slug": "tengill-for-dk",
-    "version": "0.8.1",
+    "version": "0.8.2",
     "requires_wordpress": "6.9",
     "tested": "7.1.3",
     "requires_php": "8.3",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 129,
-    "last_updated": "2026-10-12 2:03pm GMT",
+    "last_updated": "2026-10-14 12:48am GMT",
     "added": "2026-10-09",
-    "download_link": "https://downloads.wordpress.org/plugin/tengill-for-dk.0.8.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/tengill-for-dk.0.8.2.zip"
   },
   {
     "name": "tenKinetic Medic",
@@ -865608,16 +865972,16 @@
   {
     "name": "Text to Speech \u0026#8211; TTSWP",
     "slug": "text-to-speech-tts",
-    "version": "3.3.36",
+    "version": "3.3.37",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "7.2",
     "num_ratings": 6,
     "active_installs": 100,
-    "downloaded": 29948,
-    "last_updated": "2026-10-04 11:44am GMT",
+    "downloaded": 29960,
+    "last_updated": "2026-10-14 3:09am GMT",
     "added": "2025-04-24",
-    "download_link": "https://downloads.wordpress.org/plugin/text-to-speech-tts.3.3.36.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/text-to-speech-tts.3.3.37.zip"
   },
   {
     "name": "Text To Speech Widget",
@@ -867476,7 +867840,7 @@
     "requires_php": "7.4",
     "num_ratings": 2459,
     "active_installs": 600000,
-    "downloaded": 87748468,
+    "downloaded": 87750003,
     "last_updated": "2026-10-13 8:17pm GMT",
     "added": "2010-01-19",
     "download_link": "https://downloads.wordpress.org/plugin/the-events-calendar.6.18.1.zip"
@@ -872068,7 +872432,7 @@
     "requires_php": "7.4",
     "num_ratings": 34,
     "active_installs": 10000,
-    "downloaded": 181264,
+    "downloaded": 181396,
     "last_updated": "2026-10-13 5:33pm GMT",
     "added": "2025-08-10",
     "download_link": "https://downloads.wordpress.org/plugin/thinkrank.2.15.0.zip"
@@ -878110,16 +878474,16 @@
   {
     "name": "TitanCart Lite",
     "slug": "titancart-lite",
-    "version": "0.2.42",
+    "version": "0.2.44",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 637,
-    "last_updated": "2026-10-07 3:00am GMT",
+    "last_updated": "2026-10-13 11:06pm GMT",
     "added": "2026-08-30",
-    "download_link": "https://downloads.wordpress.org/plugin/titancart-lite.0.2.42.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/titancart-lite.0.2.44.zip"
   },
   {
     "name": "Titanium Nav Menu Roles \u0026amp; Visibility Rules",
@@ -881406,7 +881770,7 @@
     "requires_php": "",
     "num_ratings": 8,
     "active_installs": 1000,
-    "downloaded": 148822,
+    "downloaded": 148892,
     "last_updated": "2026-10-13 8:44pm GMT",
     "added": "2019-05-21",
     "download_link": "https://downloads.wordpress.org/plugin/toocheke-companion.2.32.zip"
@@ -887272,7 +887636,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 60,
-    "downloaded": 4811,
+    "downloaded": 4823,
     "last_updated": "2026-10-13 4:56pm GMT",
     "added": "2026-07-14",
     "download_link": "https://downloads.wordpress.org/plugin/translate-rocket.1.8.3.zip"
@@ -887294,16 +887658,16 @@
   {
     "name": "Linguator AI – Auto Translate \u0026amp; Create Multilingual Sites",
     "slug": "translate-words",
-    "version": "2.2.0",
+    "version": "2.2.1",
     "requires_wordpress": "6.8",
     "tested": "7.1.3",
     "requires_php": "7.2",
     "num_ratings": 20,
     "active_installs": 3000,
-    "downloaded": 51415,
-    "last_updated": "2026-08-24 5:54am GMT",
+    "downloaded": 51437,
+    "last_updated": "2026-10-14 4:13am GMT",
     "added": "2021-04-30",
-    "download_link": "https://downloads.wordpress.org/plugin/translate-words.2.2.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/translate-words.2.2.1.zip"
   },
   {
     "name": "Translate WordPress with Google Languages Translator",
@@ -887910,16 +888274,16 @@
   {
     "name": "Tranzly™ – AI Translation \u0026amp; Multilingual",
     "slug": "tranzly",
-    "version": "3.27.3",
+    "version": "3.27.8",
     "requires_wordpress": "6.8",
     "tested": "7.1.3",
     "requires_php": "8.2",
     "num_ratings": 1,
-    "active_installs": 6000,
-    "downloaded": 19002,
-    "last_updated": "2026-10-13 4:48pm GMT",
+    "active_installs": 7000,
+    "downloaded": 19063,
+    "last_updated": "2026-10-14 3:39am GMT",
     "added": "2020-10-21",
-    "download_link": "https://downloads.wordpress.org/plugin/tranzly.3.27.3.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/tranzly.3.27.8.zip"
   },
   {
     "name": "TrapFlux Request Firewall",
@@ -893240,6 +893604,20 @@
     "last_updated": "2026-02-01 3:41pm GMT",
     "added": "2009-02-10",
     "download_link": "https://downloads.wordpress.org/plugin/tune-library.1.6.4.zip"
+  },
+  {
+    "name": "TuneSera Internet Radio Directory",
+    "slug": "tunesera-internet-radio-directory",
+    "version": "0.1.0",
+    "requires_wordpress": "6.6",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 2:41am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/tunesera-internet-radio-directory.0.1.0.zip"
   },
   {
     "name": "Tunesly",
@@ -899018,7 +899396,7 @@
     "requires_php": "",
     "num_ratings": 0,
     "active_installs": 10,
-    "downloaded": 2850,
+    "downloaded": 2866,
     "last_updated": "2026-10-13 10:25pm GMT",
     "added": "2016-02-29",
     "download_link": "https://downloads.wordpress.org/plugin/ucf-header-bar.1.07.zip"
@@ -900754,7 +901132,7 @@
     "requires_php": "7.4",
     "num_ratings": 438,
     "active_installs": 30000,
-    "downloaded": 2382240,
+    "downloaded": 2382333,
     "last_updated": "2026-10-13 6:10pm GMT",
     "added": "2014-07-15",
     "download_link": "https://downloads.wordpress.org/plugin/ultimate-faqs.2.6.0.zip"
@@ -901608,7 +901986,7 @@
     "requires_php": "7.4",
     "num_ratings": 233,
     "active_installs": 4000,
-    "downloaded": 1412857,
+    "downloaded": 1412893,
     "last_updated": "2026-10-13 6:13pm GMT",
     "added": "2013-08-21",
     "download_link": "https://downloads.wordpress.org/plugin/ultimate-product-catalogue.5.5.0.zip"
@@ -903238,6 +903616,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/umbrella-membership-wp-courseware-connector.1.0.zip"
   },
   {
+    "name": "Umbrella Web B2B Pricing for WooCommerce",
+    "slug": "umbrella-web-b2b-pricing-for-woocommerce",
+    "version": "0.2.0",
+    "requires_wordpress": "6.0",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-14 3:30am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/umbrella-web-b2b-pricing-for-woocommerce.0.2.0.zip"
+  },
+  {
     "name": "Smart Image Optimizer",
     "slug": "umii-image-optimizer",
     "version": "1.0",
@@ -903264,6 +903656,20 @@
     "last_updated": "2026-09-14 2:19pm GMT",
     "added": "2026-09-14",
     "download_link": "https://downloads.wordpress.org/plugin/umipay-restaurant-menu-ordering.1.0.1.zip"
+  },
+  {
+    "name": "Umnico Live Chat",
+    "slug": "umnico-live-chat",
+    "version": "1.0.2",
+    "requires_wordpress": "6.7",
+    "tested": "7.1.3",
+    "requires_php": "8.1",
+    "num_ratings": 9,
+    "active_installs": 30,
+    "downloaded": 3151,
+    "last_updated": "2026-10-08 1:27pm GMT",
+    "added": "2024-05-03",
+    "download_link": "https://downloads.wordpress.org/plugin/umnico-live-chat.1.0.2.zip"
   },
   {
     "name": "uMOVA Smooth Lessons",
@@ -906456,6 +906862,20 @@
     "last_updated": "2026-07-02 1:20am GMT",
     "added": "2026-01-02",
     "download_link": "https://downloads.wordpress.org/plugin/unstoppable-shipping-to-delivery.1.2.2.zip"
+  },
+  {
+    "name": "Unstoppable Site Connector",
+    "slug": "unstoppable-site-connector",
+    "version": "0.5.5",
+    "requires_wordpress": "5.8",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 18,
+    "last_updated": "2026-10-14 12:06am GMT",
+    "added": "2026-10-14",
+    "download_link": "https://downloads.wordpress.org/plugin/unstoppable-site-connector.0.5.5.zip"
   },
   {
     "name": "Unstoppable Inventory Alerts for WooCommerce",
@@ -910680,7 +911100,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 11,
+    "downloaded": 35,
     "last_updated": "2026-10-13 7:36pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/useclick.1.5.0.zip"
@@ -915868,16 +916288,16 @@
   {
     "name": "Vachr Short-Term Rental Reservations",
     "slug": "vachr-short-term-rental-reservations",
-    "version": "2.2.5",
+    "version": "2.2.10",
     "requires_wordpress": "5.7",
     "tested": "7.1.3",
     "requires_php": "7.2",
     "num_ratings": 2,
     "active_installs": 20,
-    "downloaded": 4239,
-    "last_updated": "2026-10-08 9:26pm GMT",
+    "downloaded": 4251,
+    "last_updated": "2026-10-14 12:17am GMT",
     "added": "2026-04-02",
-    "download_link": "https://downloads.wordpress.org/plugin/vachr-short-term-rental-reservations.2.2.5.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/vachr-short-term-rental-reservations.2.2.10.zip"
   },
   {
     "name": "Vacuum Image Optimizer",
@@ -916894,7 +917314,7 @@
     "requires_wordpress": "5.8",
     "tested": "7.1.3",
     "requires_php": "7.4",
-    "num_ratings": 1,
+    "num_ratings": 2,
     "active_installs": 0,
     "downloaded": 48,
     "last_updated": "2026-10-13 6:22pm GMT",
@@ -916924,7 +917344,7 @@
     "requires_php": "7.4",
     "num_ratings": 9,
     "active_installs": 20,
-    "downloaded": 3688,
+    "downloaded": 3699,
     "last_updated": "2026-10-13 5:58pm GMT",
     "added": "2026-06-29",
     "download_link": "https://downloads.wordpress.org/plugin/vanquish-upload-files-for-woocommerce.2.0.2.zip"
@@ -917862,7 +918282,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 0,
+    "downloaded": 39,
     "last_updated": "2026-10-13 9:13pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/vaultfeed.0.9.0.zip"
@@ -924834,7 +925254,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 32,
+    "downloaded": 43,
     "last_updated": "2026-10-13 2:40pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/vidup-player.1.0.1.zip"
@@ -925414,46 +925834,46 @@
     "download_link": "https://downloads.wordpress.org/plugin/views-output-formats.2.1.zip"
   },
   {
-    "name": "Vieww Directory – Business Directory, Member Listings \u0026amp; Local Directory Plugin",
+    "name": "Vieww Directory – Business Directory, Member Listings \u0026amp; Local Directory",
     "slug": "vieww-directory",
-    "version": "1.4.5",
-    "requires_wordpress": "5.6",
-    "tested": "7.0.7",
+    "version": "1.5.0",
+    "requires_wordpress": "5.9",
+    "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 636,
-    "last_updated": "2026-08-11 2:25am GMT",
+    "last_updated": "2026-10-14 1:39am GMT",
     "added": "2026-04-22",
-    "download_link": "https://downloads.wordpress.org/plugin/vieww-directory.1.4.5.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/vieww-directory.1.5.0.zip"
   },
   {
-    "name": "Vieww Events Calendar – Recurring Events, Event Map \u0026amp; Calendar Plugin",
+    "name": "Vieww Events Calendar – Recurring Events, Event Map \u0026amp; Calendar",
     "slug": "vieww-events-calendar",
-    "version": "2.5.1",
-    "requires_wordpress": "5.0",
-    "tested": "7.0.7",
+    "version": "2.6.0",
+    "requires_wordpress": "5.9",
+    "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 1,
     "active_installs": 20,
     "downloaded": 1061,
-    "last_updated": "2026-08-07 2:58am GMT",
+    "last_updated": "2026-10-14 1:38am GMT",
     "added": "2026-01-05",
-    "download_link": "https://downloads.wordpress.org/plugin/vieww-events-calendar.2.5.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/vieww-events-calendar.2.6.0.zip"
   },
   {
-    "name": "Vieww Property Listings – Real Estate Plugin for Agents \u0026amp; Property Managers",
+    "name": "Vieww Property Listings – Real Estate for Agents \u0026amp; Property Managers",
     "slug": "vieww-property-listings",
-    "version": "2.5.6",
-    "requires_wordpress": "5.6",
-    "tested": "7.0.7",
+    "version": "2.6.0",
+    "requires_wordpress": "5.9",
+    "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 476,
-    "last_updated": "2026-08-11 2:25am GMT",
+    "last_updated": "2026-10-14 1:41am GMT",
     "added": "2026-05-25",
-    "download_link": "https://downloads.wordpress.org/plugin/vieww-property-listings.2.5.6.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/vieww-property-listings.2.6.0.zip"
   },
   {
     "name": "Vifee Visual Feedback – Client Website Review \u0026amp; Bug Reporting",
@@ -925562,7 +925982,7 @@
     "requires_php": "7.4",
     "num_ratings": 21,
     "active_installs": 3000,
-    "downloaded": 50050,
+    "downloaded": 50158,
     "last_updated": "2026-10-13 10:29pm GMT",
     "added": "2026-02-11",
     "download_link": "https://downloads.wordpress.org/plugin/vigilante.3.0.6.zip"
@@ -926136,7 +926556,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 200,
-    "downloaded": 3663,
+    "downloaded": 3699,
     "last_updated": "2026-10-13 9:13pm GMT",
     "added": "2024-08-13",
     "download_link": "https://downloads.wordpress.org/plugin/vinoshipper.1.6.0.zip"
@@ -929112,16 +929532,16 @@
   {
     "name": "Visualithic Phyllix",
     "slug": "visualithic-phyllix",
-    "version": "2.3.1",
+    "version": "2.3.4",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 379,
-    "last_updated": "2026-10-09 2:52am GMT",
+    "downloaded": 397,
+    "last_updated": "2026-10-14 4:54am GMT",
     "added": "2026-09-14",
-    "download_link": "https://downloads.wordpress.org/plugin/visualithic-phyllix.2.3.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/visualithic-phyllix.2.3.4.zip"
   },
   {
     "name": "Visualize",
@@ -929230,7 +929650,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 28,
+    "downloaded": 41,
     "last_updated": "2026-10-13 5:59pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/visuaro-product-designer-for-woocommerce.1.0.0.zip"
@@ -931162,7 +931582,7 @@
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 111,
+    "downloaded": 143,
     "last_updated": "2026-10-13 9:06pm GMT",
     "added": "2026-10-07",
     "download_link": "https://downloads.wordpress.org/plugin/volance-detection.2.0.0.zip"
@@ -931582,7 +932002,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 1122,
+    "downloaded": 1133,
     "last_updated": "2026-10-13 6:51pm GMT",
     "added": "2026-02-18",
     "download_link": "https://downloads.wordpress.org/plugin/vonseo.2.5.0.zip"
@@ -934236,16 +934656,16 @@
   {
     "name": "Cloud Maestro \u0026#8211; WAF Security Suite for Cloudflare",
     "slug": "waf-security-suite-for-cloudflare",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 4,
-    "active_installs": 80,
-    "downloaded": 1975,
-    "last_updated": "2026-08-28 4:55am GMT",
+    "active_installs": 70,
+    "downloaded": 1986,
+    "last_updated": "2026-10-14 4:33am GMT",
     "added": "2026-01-29",
-    "download_link": "https://downloads.wordpress.org/plugin/waf-security-suite-for-cloudflare.1.4.2.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/waf-security-suite-for-cloudflare.1.4.3.zip"
   },
   {
     "name": "WaffarAD Affiliate Network",
@@ -934928,7 +935348,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 202,
+    "downloaded": 213,
     "last_updated": "2026-10-13 7:36pm GMT",
     "added": "2026-10-09",
     "download_link": "https://downloads.wordpress.org/plugin/wallacenana-content-rank-connector.1.2.9.zip"
@@ -937994,7 +938414,7 @@
     "requires_php": "7.4",
     "num_ratings": 23,
     "active_installs": 10000,
-    "downloaded": 397159,
+    "downloaded": 397229,
     "last_updated": "2026-10-13 9:17pm GMT",
     "added": "2016-08-12",
     "download_link": "https://downloads.wordpress.org/plugin/wc-apg-nifcifnie-field.4.17.0.zip"
@@ -939156,7 +939576,7 @@
     "requires_php": "7.1",
     "num_ratings": 99,
     "active_installs": 7000,
-    "downloaded": 89654,
+    "downloaded": 89706,
     "last_updated": "2026-10-13 7:41pm GMT",
     "added": "2021-10-09",
     "download_link": "https://downloads.wordpress.org/plugin/wc-donation-platform.1.5.0.zip"
@@ -950000,16 +950420,16 @@
   {
     "name": "Webmastery Site Toolkit for MCP",
     "slug": "webmastery-site-toolkit-for-mcp",
-    "version": "2.6.0",
+    "version": "3.0.0",
     "requires_wordpress": "6.9",
     "tested": "7.1.3",
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 10,
-    "downloaded": 1010,
-    "last_updated": "2026-09-21 9:20pm GMT",
+    "downloaded": 1021,
+    "last_updated": "2026-10-14 2:57am GMT",
     "added": "2026-07-10",
-    "download_link": "https://downloads.wordpress.org/plugin/webmastery-site-toolkit-for-mcp.2.6.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/webmastery-site-toolkit-for-mcp.3.0.0.zip"
   },
   {
     "name": "WebMate AI Assistant",
@@ -953786,7 +954206,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 29,
+    "downloaded": 40,
     "last_updated": "2026-10-13 5:14pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/wegly.1.3.4.zip"
@@ -954402,7 +954822,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 63,
+    "downloaded": 90,
     "last_updated": "2026-10-13 9:07pm GMT",
     "added": "2026-10-11",
     "download_link": "https://downloads.wordpress.org/plugin/well-done-suite-connector.0.6.1.zip"
@@ -955410,7 +955830,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 21,
+    "downloaded": 32,
     "last_updated": "2026-10-13 6:21pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/wexofy-ship-estimate-for-woocommerce.1.0.0.zip"
@@ -958288,16 +958708,16 @@
   {
     "name": "Widewalk – Accessibility Toolbar",
     "slug": "widewalk",
-    "version": "1.1.2",
+    "version": "1.2.0",
     "requires_wordpress": "6.2",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 100,
-    "downloaded": 2415,
-    "last_updated": "2026-09-28 6:42am GMT",
+    "downloaded": 2442,
+    "last_updated": "2026-10-14 2:44am GMT",
     "added": "2026-09-01",
-    "download_link": "https://downloads.wordpress.org/plugin/widewalk.1.1.2.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/widewalk.1.2.0.zip"
   },
   {
     "name": "widget-2x2forum",
@@ -962570,6 +962990,20 @@
     "download_link": "https://downloads.wordpress.org/plugin/wishsuite.1.5.10.zip"
   },
   {
+    "name": "Wisnoob Media Cleanup",
+    "slug": "wisnoob-media-cleanup",
+    "version": "1.1.0",
+    "requires_wordpress": "5.8",
+    "tested": "7.1.3",
+    "requires_php": "7.4",
+    "num_ratings": 0,
+    "active_installs": 0,
+    "downloaded": 0,
+    "last_updated": "2026-10-13 11:20pm GMT",
+    "added": "2026-10-13",
+    "download_link": "https://downloads.wordpress.org/plugin/wisnoob-media-cleanup.1.1.0.zip"
+  },
+  {
     "name": "Wisp Gallery",
     "slug": "wisp-gallery",
     "version": "1.2.0",
@@ -963082,7 +963516,7 @@
     "requires_php": "8.1",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 387,
+    "downloaded": 398,
     "last_updated": "2026-10-13 7:33pm GMT",
     "added": "2026-05-22",
     "download_link": "https://downloads.wordpress.org/plugin/wizupapp.2.0.0.zip"
@@ -965056,7 +965490,7 @@
     "requires_php": "7.4",
     "num_ratings": 23,
     "active_installs": 8000,
-    "downloaded": 198821,
+    "downloaded": 198912,
     "last_updated": "2026-10-13 8:04pm GMT",
     "added": "2018-06-05",
     "download_link": "https://downloads.wordpress.org/plugin/woo-asaas.2.7.9.zip"
@@ -972638,16 +973072,16 @@
   {
     "name": "Japanized for WooCommerce",
     "slug": "woocommerce-for-japan",
-    "version": "2.9.16",
+    "version": "2.9.17",
     "requires_wordpress": "6.7",
     "tested": "7.1.3",
     "requires_php": "8.3",
     "num_ratings": 21,
     "active_installs": 10000,
-    "downloaded": 589815,
-    "last_updated": "2026-09-07 4:32pm GMT",
+    "downloaded": 590305,
+    "last_updated": "2026-10-13 8:17am GMT",
     "added": "2014-06-22",
-    "download_link": "https://downloads.wordpress.org/plugin/woocommerce-for-japan.2.9.16.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/woocommerce-for-japan.2.9.17.zip"
   },
   {
     "name": "PAYGENT for WooCommerce",
@@ -977202,16 +977636,16 @@
   {
     "name": "WordWave \u0026#8211; Text to Speech AI Narration",
     "slug": "wordwave",
-    "version": "1.2.9",
+    "version": "1.2.10",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 10,
-    "downloaded": 1099,
-    "last_updated": "2026-10-05 8:55pm GMT",
+    "downloaded": 1110,
+    "last_updated": "2026-10-14 4:32am GMT",
     "added": "2026-05-29",
-    "download_link": "https://downloads.wordpress.org/plugin/wordwave.1.2.9.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/wordwave.1.2.10.zip"
   },
   {
     "name": "Work Time Allocator",
@@ -985860,7 +986294,7 @@
     "requires_php": "8.0",
     "num_ratings": 1,
     "active_installs": 1000,
-    "downloaded": 18628,
+    "downloaded": 18677,
     "last_updated": "2026-10-13 9:05pm GMT",
     "added": "2019-03-15",
     "download_link": "https://downloads.wordpress.org/plugin/wp-commerce7.1.8.2.zip"
@@ -988226,7 +988660,7 @@
     "requires_php": "7.4",
     "num_ratings": 88,
     "active_installs": 10000,
-    "downloaded": 892486,
+    "downloaded": 892529,
     "last_updated": "2026-10-13 6:02pm GMT",
     "added": "2017-12-22",
     "download_link": "https://downloads.wordpress.org/plugin/wp-data-access.5.5.88.zip"
@@ -995556,16 +995990,16 @@
   {
     "name": "WPGraphQL",
     "slug": "wp-graphql",
-    "version": "2.23.1",
+    "version": "2.24.0",
     "requires_wordpress": "6.0",
     "tested": "7.0.7",
     "requires_php": "7.4",
     "num_ratings": 48,
     "active_installs": 30000,
-    "downloaded": 1713338,
-    "last_updated": "2026-09-22 6:37pm GMT",
+    "downloaded": 1713583,
+    "last_updated": "2026-10-14 3:12am GMT",
     "added": "2020-11-14",
-    "download_link": "https://downloads.wordpress.org/plugin/wp-graphql.2.23.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/wp-graphql.2.24.0.zip"
   },
   {
     "name": "WPGraphQL BuddyPress",
@@ -1004446,14 +1004880,14 @@
   {
     "name": "WP Notification Bell",
     "slug": "wp-notification-bell",
-    "version": "1.4.7",
+    "version": "1.4.8",
     "requires_wordpress": "4.0",
-    "tested": "6.9.10",
+    "tested": "7.1.3",
     "requires_php": "5.6",
     "num_ratings": 12,
     "active_installs": 700,
     "downloaded": 28427,
-    "last_updated": "2026-03-02 2:05pm GMT",
+    "last_updated": "2026-10-13 11:00pm GMT",
     "added": "2020-10-15",
     "download_link": "https://downloads.wordpress.org/plugin/wp-notification-bell.zip"
   },
@@ -1017934,7 +1018368,7 @@
     "requires_php": "",
     "num_ratings": 23,
     "active_installs": 1000,
-    "downloaded": 201120,
+    "downloaded": 201191,
     "last_updated": "2026-10-13 10:28pm GMT",
     "added": "2016-11-02",
     "download_link": "https://downloads.wordpress.org/plugin/wp-stripe-checkout.zip"
@@ -1026860,16 +1027294,16 @@
   {
     "name": "WPC Composite Products for WooCommerce",
     "slug": "wpc-composite-products",
-    "version": "8.0.3",
+    "version": "8.0.4",
     "requires_wordpress": "5.9",
     "tested": "7.1.3",
     "requires_php": "",
     "num_ratings": 76,
     "active_installs": 9000,
-    "downloaded": 662009,
-    "last_updated": "2026-09-16 8:17am GMT",
+    "downloaded": 662050,
+    "last_updated": "2026-10-14 3:25am GMT",
     "added": "2019-03-29",
-    "download_link": "https://downloads.wordpress.org/plugin/wpc-composite-products.8.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/wpc-composite-products.8.0.4.zip"
   },
   {
     "name": "WPC Copy Billing Address for WooCommerce",
@@ -1030752,16 +1031186,16 @@
   {
     "name": "WPGraphQL Smart Cache",
     "slug": "wpgraphql-smart-cache",
-    "version": "2.3.2",
+    "version": "2.3.3",
     "requires_wordpress": "6.0",
     "tested": "7.0.7",
     "requires_php": "7.4",
     "num_ratings": 4,
     "active_installs": 6000,
-    "downloaded": 142997,
-    "last_updated": "2026-09-15 6:22pm GMT",
+    "downloaded": 143049,
+    "last_updated": "2026-10-14 12:42am GMT",
     "added": "2022-12-02",
-    "download_link": "https://downloads.wordpress.org/plugin/wpgraphql-smart-cache.2.3.2.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/wpgraphql-smart-cache.2.3.3.zip"
   },
   {
     "name": "WPGreeks CPT",
@@ -1031220,7 +1031654,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 141,
+    "downloaded": 152,
     "last_updated": "2026-10-13 7:27pm GMT",
     "added": "2026-10-08",
     "download_link": "https://downloads.wordpress.org/plugin/wpintegrations-connector-for-elementor-rd-station.1.0.1.zip"
@@ -1032943,7 +1033377,7 @@
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 600,
-    "last_updated": "2026-10-13 12:16pm GMT",
+    "last_updated": "2026-10-14 2:21am GMT",
     "added": "2025-12-15",
     "download_link": "https://downloads.wordpress.org/plugin/wpmmcc.2.1.10.zip"
   },
@@ -1035546,7 +1035980,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 16,
+    "downloaded": 39,
     "last_updated": "2026-10-13 8:36pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/wpsp-ad-blocker-alert.4.4.4.zip"
@@ -1039600,16 +1040034,16 @@
   {
     "name": "WWB SEO Master – Complete SEO Toolkit",
     "slug": "wwb-seo-master",
-    "version": "5.46.0",
+    "version": "5.46.1",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 543,
-    "last_updated": "2026-10-13 10:12pm GMT",
+    "downloaded": 574,
+    "last_updated": "2026-10-13 11:30pm GMT",
     "added": "2026-09-01",
-    "download_link": "https://downloads.wordpress.org/plugin/wwb-seo-master.5.46.0.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/wwb-seo-master.5.46.1.zip"
   },
   {
     "name": "WWD Mailer",
@@ -1047874,16 +1048308,16 @@
   {
     "name": "Yodsira Accessibility Markup Audit",
     "slug": "yodsira-accessibility-markup-audit",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 72,
-    "last_updated": "2026-10-13 11:55am GMT",
+    "downloaded": 84,
+    "last_updated": "2026-10-14 4:11am GMT",
     "added": "2026-10-12",
-    "download_link": "https://downloads.wordpress.org/plugin/yodsira-accessibility-markup-audit.0.2.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/yodsira-accessibility-markup-audit.0.2.2.zip"
   },
   {
     "name": "yoel bootstrap easy product catalog",
@@ -1049176,16 +1049610,16 @@
   {
     "name": "Youtix Sync Connector",
     "slug": "youtix-sync-connector",
-    "version": "1.6.9",
+    "version": "1.7.1",
     "requires_wordpress": "6.4",
     "tested": "7.1.3",
     "requires_php": "7.1",
     "num_ratings": 0,
     "active_installs": 50,
-    "downloaded": 811,
-    "last_updated": "2026-10-07 7:41am GMT",
+    "downloaded": 822,
+    "last_updated": "2026-10-14 1:27am GMT",
     "added": "2026-09-06",
-    "download_link": "https://downloads.wordpress.org/plugin/youtix-sync-connector.1.6.9.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/youtix-sync-connector.1.7.1.zip"
   },
   {
     "name": "Youtube Activator",
@@ -1051448,9 +1051882,9 @@
     "requires_wordpress": "6.0",
     "tested": "7.1.3",
     "requires_php": "7.4",
-    "num_ratings": 0,
+    "num_ratings": 1,
     "active_installs": 0,
-    "downloaded": 21,
+    "downloaded": 47,
     "last_updated": "2026-10-13 7:24pm GMT",
     "added": "2026-10-13",
     "download_link": "https://downloads.wordpress.org/plugin/zaia-security.1.0.0.zip"
@@ -1052836,7 +1053270,7 @@
     "requires_php": "7.4",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 279,
+    "downloaded": 294,
     "last_updated": "2026-10-13 9:03pm GMT",
     "added": "2026-09-18",
     "download_link": "https://downloads.wordpress.org/plugin/zeismo-seo.1.2.0.zip"
@@ -1055770,16 +1056204,16 @@
   {
     "name": "Zinn® Cache",
     "slug": "zinn-cache",
-    "version": "1.10.1",
+    "version": "1.10.5",
     "requires_wordpress": "6.6",
     "tested": "7.1.3",
     "requires_php": "8.2",
     "num_ratings": 0,
-    "active_installs": 30,
-    "downloaded": 1311,
-    "last_updated": "2026-10-12 12:29am GMT",
+    "active_installs": 20,
+    "downloaded": 1353,
+    "last_updated": "2026-10-14 3:39am GMT",
     "added": "2026-09-25",
-    "download_link": "https://downloads.wordpress.org/plugin/zinn-cache.1.10.1.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/zinn-cache.1.10.5.zip"
   },
   {
     "name": "Zinn® Connector",
@@ -1055812,16 +1056246,16 @@
   {
     "name": "Zinn® Reseller Toolkit",
     "slug": "zinn-reseller",
-    "version": "1.7.10",
+    "version": "1.7.14",
     "requires_wordpress": "6.6",
     "tested": "7.1.3",
     "requires_php": "8.2",
     "num_ratings": 0,
     "active_installs": 0,
-    "downloaded": 740,
-    "last_updated": "2026-10-08 12:23am GMT",
+    "downloaded": 775,
+    "last_updated": "2026-10-14 3:40am GMT",
     "added": "2026-09-28",
-    "download_link": "https://downloads.wordpress.org/plugin/zinn-reseller.1.7.10.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/zinn-reseller.1.7.14.zip"
   },
   {
     "name": "Zinn® Translate",
@@ -1058108,16 +1058542,16 @@
   {
     "name": "Z UpTime by Zubbin – Uptime \u0026amp; Site Health Monitoring",
     "slug": "zubbin-uptime-node",
-    "version": "2.2.15",
+    "version": "2.2.16",
     "requires_wordpress": "6.0",
-    "tested": "7.0.7",
+    "tested": "7.1.3",
     "requires_php": "8.0",
     "num_ratings": 0,
     "active_installs": 0,
     "downloaded": 2126,
-    "last_updated": "2026-08-17 2:43am GMT",
+    "last_updated": "2026-10-14 4:50am GMT",
     "added": "2026-02-07",
-    "download_link": "https://downloads.wordpress.org/plugin/zubbin-uptime-node.2.2.15.zip"
+    "download_link": "https://downloads.wordpress.org/plugin/zubbin-uptime-node.2.2.16.zip"
   },
   {
     "name": "Zuczkowski AI Chat Assistant",
