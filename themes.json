@@ -11630,7 +11630,7 @@
   {
     "name": "Ariade",
     "slug": "ariade",
-    "version": "1.7.110",
+    "version": "1.7.118",
     "author_name": "Shivaji Mitra",
     "author_url": "https://profiles.wordpress.org/anblik/",
     "rating": 0,
@@ -11638,12 +11638,12 @@
     "requires_wordpress": "6.6",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/ariade/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/ariade/screenshot.png?ver=1.7.110",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ariade/screenshot.png?ver=1.7.118",
     "homepage": "https://wordpress.org/themes/ariade/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/ariade.1.7.110.zip"
+    "download_link": "https://downloads.wordpress.org/theme/ariade.1.7.118.zip"
   },
   {
     "name": "Aribest",
@@ -28226,20 +28226,20 @@
   {
     "name": "Blog Grow",
     "slug": "blog-grow",
-    "version": "1.0.5",
+    "version": "1.1.0",
     "author_name": "Dhrumil Kumbhani",
     "author_url": "https://profiles.wordpress.org/dhrumilk/",
     "rating": 100,
     "num_ratings": 2,
-    "requires_wordpress": "5.0",
-    "requires_php": "5.6",
+    "requires_wordpress": "6.0",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/blog-grow/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/blog-grow/screenshot.png?ver=1.0.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/blog-grow/screenshot.png?ver=1.1.0",
     "homepage": "https://wordpress.org/themes/blog-grow/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/blog-grow.1.0.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/blog-grow.1.1.0.zip"
   },
   {
     "name": "Blog Guten",
@@ -43130,7 +43130,7 @@
   {
     "name": "Business School",
     "slug": "business-school",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "author_name": "classictemplate",
     "author_url": "https://profiles.wordpress.org/classictemplate/",
     "rating": 0,
@@ -43138,12 +43138,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/business-school/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/business-school/screenshot.png?ver=0.5.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/business-school/screenshot.png?ver=0.5.2",
     "homepage": "https://wordpress.org/themes/business-school/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/business-school.0.5.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/business-school.0.5.2.zip"
   },
   {
     "name": "Business Shop",
@@ -52310,7 +52310,7 @@
   {
     "name": "Classic Barbershop",
     "slug": "classic-barbershop",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author_name": "classictemplate",
     "author_url": "https://profiles.wordpress.org/classictemplate/",
     "rating": 0,
@@ -52318,12 +52318,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/classic-barbershop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/classic-barbershop/screenshot.png?ver=1.0.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/classic-barbershop/screenshot.png?ver=1.0.4",
     "homepage": "https://wordpress.org/themes/classic-barbershop/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/classic-barbershop.1.0.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/classic-barbershop.1.0.4.zip"
   },
   {
     "name": "Classic Beauty Parlour",
@@ -52418,7 +52418,7 @@
   {
     "name": "Classic Charity NGO",
     "slug": "classic-charity-ngo",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "author_name": "classictemplate",
     "author_url": "https://profiles.wordpress.org/classictemplate/",
     "rating": 0,
@@ -52426,12 +52426,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/classic-charity-ngo/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/classic-charity-ngo/screenshot.png?ver=0.5.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/classic-charity-ngo/screenshot.png?ver=0.5.1",
     "homepage": "https://wordpress.org/themes/classic-charity-ngo/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/classic-charity-ngo.0.5.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/classic-charity-ngo.0.5.1.zip"
   },
   {
     "name": "Classic Coffee Shop",
@@ -52490,7 +52490,7 @@
   {
     "name": "Classic Cosmetics",
     "slug": "classic-cosmetics",
-    "version": "0.7.3",
+    "version": "0.7.4",
     "author_name": "classictemplate",
     "author_url": "https://profiles.wordpress.org/classictemplate/",
     "rating": 100,
@@ -52498,12 +52498,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/classic-cosmetics/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/classic-cosmetics/screenshot.png?ver=0.7.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/classic-cosmetics/screenshot.png?ver=0.7.4",
     "homepage": "https://wordpress.org/themes/classic-cosmetics/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/classic-cosmetics.0.7.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/classic-cosmetics.0.7.4.zip"
   },
   {
     "name": "Classic Coworking Space",
@@ -52544,7 +52544,7 @@
   {
     "name": "Classic Digital Marketing",
     "slug": "classic-digital-marketing",
-    "version": "0.8.3",
+    "version": "0.8.4",
     "author_name": "classictemplate",
     "author_url": "https://profiles.wordpress.org/classictemplate/",
     "rating": 0,
@@ -52552,12 +52552,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/classic-digital-marketing/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/classic-digital-marketing/screenshot.png?ver=0.8.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/classic-digital-marketing/screenshot.png?ver=0.8.4",
     "homepage": "https://wordpress.org/themes/classic-digital-marketing/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/classic-digital-marketing.0.8.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/classic-digital-marketing.0.8.4.zip"
   },
   {
     "name": "Classic Dog Breeder",
@@ -52598,7 +52598,7 @@
   {
     "name": "Classic Events",
     "slug": "classic-events",
-    "version": "0.8.8",
+    "version": "0.8.9",
     "author_name": "classictemplate",
     "author_url": "https://profiles.wordpress.org/classictemplate/",
     "rating": 0,
@@ -52606,12 +52606,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/classic-events/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/classic-events/screenshot.png?ver=0.8.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/classic-events/screenshot.png?ver=0.8.9",
     "homepage": "https://wordpress.org/themes/classic-events/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/classic-events.0.8.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/classic-events.0.8.9.zip"
   },
   {
     "name": "Classic Fashion Blog",
@@ -52652,7 +52652,7 @@
   {
     "name": "Classic Industry",
     "slug": "classic-industry",
-    "version": "1.3.1",
+    "version": "1.3.2",
     "author_name": "classictemplate",
     "author_url": "https://profiles.wordpress.org/classictemplate/",
     "rating": 100,
@@ -52660,12 +52660,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/classic-industry/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/classic-industry/screenshot.png?ver=1.3.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/classic-industry/screenshot.png?ver=1.3.2",
     "homepage": "https://wordpress.org/themes/classic-industry/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/classic-industry.1.3.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/classic-industry.1.3.2.zip"
   },
   {
     "name": "Classic Interior",
@@ -52904,7 +52904,7 @@
   {
     "name": "Classic Tour Booking",
     "slug": "classic-tour-booking",
-    "version": "0.5.4",
+    "version": "0.5.5",
     "author_name": "classictemplate",
     "author_url": "https://profiles.wordpress.org/classictemplate/",
     "rating": 0,
@@ -52912,12 +52912,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/classic-tour-booking/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/classic-tour-booking/screenshot.png?ver=0.5.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/classic-tour-booking/screenshot.png?ver=0.5.5",
     "homepage": "https://wordpress.org/themes/classic-tour-booking/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/classic-tour-booking.0.5.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/classic-tour-booking.0.5.5.zip"
   },
   {
     "name": "Classic Toy Store",
@@ -76700,7 +76700,7 @@
   {
     "name": "Ebooks Collection",
     "slug": "ebooks-collection",
-    "version": "1.4.9",
+    "version": "1.5.0",
     "author_name": "classictemplate",
     "author_url": "https://profiles.wordpress.org/classictemplate/",
     "rating": 0,
@@ -76708,12 +76708,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/ebooks-collection/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/ebooks-collection/screenshot.png?ver=1.4.9",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ebooks-collection/screenshot.png?ver=1.5.0",
     "homepage": "https://wordpress.org/themes/ebooks-collection/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/ebooks-collection.1.4.9.zip"
+    "download_link": "https://downloads.wordpress.org/theme/ebooks-collection.1.5.0.zip"
   },
   {
     "name": "eBoost",
@@ -122456,7 +122456,7 @@
   {
     "name": "Iconic One",
     "slug": "iconic-one",
-    "version": "3.5",
+    "version": "3.5.1",
     "author_name": "Themonic",
     "author_url": "https://profiles.wordpress.org/themonic/",
     "rating": 94,
@@ -122464,12 +122464,12 @@
     "requires_wordpress": "6.7",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/iconic-one/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/iconic-one/screenshot.png?ver=3.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/iconic-one/screenshot.png?ver=3.5.1",
     "homepage": "https://wordpress.org/themes/iconic-one/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/iconic-one.3.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/iconic-one.3.5.1.zip"
   },
   {
     "name": "iConvert Beauty",
@@ -237278,7 +237278,7 @@
   {
     "name": "Swimwear Shop",
     "slug": "swimwear-shop",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "author_name": "classictemplate",
     "author_url": "https://profiles.wordpress.org/classictemplate/",
     "rating": 0,
@@ -237286,12 +237286,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/swimwear-shop/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/swimwear-shop/screenshot.png?ver=0.5.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/swimwear-shop/screenshot.png?ver=0.5.2",
     "homepage": "https://wordpress.org/themes/swimwear-shop/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/swimwear-shop.0.5.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/swimwear-shop.0.5.2.zip"
   },
   {
     "name": "Swimwear Store",
@@ -254342,7 +254342,7 @@
   {
     "name": "Urbanews",
     "slug": "urbanews",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "author_name": "alexvtn",
     "author_url": "https://profiles.wordpress.org/alexvtn/",
     "rating": 0,
@@ -254350,12 +254350,12 @@
     "requires_wordpress": "",
     "requires_php": "5.3",
     "preview_url": "https://wp-themes.com/urbanews/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/urbanews/screenshot.jpg?ver=1.1.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/urbanews/screenshot.jpg?ver=1.1.1",
     "homepage": "https://wordpress.org/themes/urbanews/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/urbanews.1.1.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/urbanews.1.1.1.zip"
   },
   {
     "name": "Urbanpulse",
@@ -257168,7 +257168,7 @@
   {
     "name": "Videography Studio",
     "slug": "videography-studio",
-    "version": "0.9.3",
+    "version": "0.9.4",
     "author_name": "classictemplate",
     "author_url": "https://profiles.wordpress.org/classictemplate/",
     "rating": 0,
@@ -257176,12 +257176,12 @@
     "requires_wordpress": "5.0",
     "requires_php": "5.6",
     "preview_url": "https://wp-themes.com/videography-studio/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/videography-studio/screenshot.png?ver=0.9.3",
+    "screenshot_url": "//ts.w.org/wp-content/themes/videography-studio/screenshot.png?ver=0.9.4",
     "homepage": "https://wordpress.org/themes/videography-studio/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/videography-studio.0.9.3.zip"
+    "download_link": "https://downloads.wordpress.org/theme/videography-studio.0.9.4.zip"
   },
   {
     "name": "VideoLife",
