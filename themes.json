@@ -72722,7 +72722,7 @@
   {
     "name": "Dirtbag",
     "slug": "dirtbag",
-    "version": "0.1.16",
+    "version": "0.1.19",
     "author_name": "Dan Knauss",
     "author_url": "https://profiles.wordpress.org/dpknauss/",
     "rating": 0,
@@ -72730,12 +72730,12 @@
     "requires_wordpress": "7.0",
     "requires_php": "7.2",
     "preview_url": "https://wp-themes.com/dirtbag/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/dirtbag/screenshot.png?ver=0.1.16",
+    "screenshot_url": "//ts.w.org/wp-content/themes/dirtbag/screenshot.png?ver=0.1.19",
     "homepage": "https://wordpress.org/themes/dirtbag/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/dirtbag.0.1.16.zip"
+    "download_link": "https://downloads.wordpress.org/theme/dirtbag.0.1.19.zip"
   },
   {
     "name": "Disciple",
@@ -240788,20 +240788,20 @@
   {
     "name": "Terrifico",
     "slug": "terrifico",
-    "version": "1.8.0.1",
+    "version": "2.0.0",
     "author_name": "vpthemes",
     "author_url": "https://profiles.wordpress.org/vpthemes/",
     "rating": 76,
     "num_ratings": 12,
-    "requires_wordpress": "",
-    "requires_php": "",
+    "requires_wordpress": "6.6",
+    "requires_php": "8.1",
     "preview_url": "https://wp-themes.com/terrifico/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/terrifico/screenshot.png?ver=1.8.0.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/terrifico/screenshot.png?ver=2.0.0",
     "homepage": "https://wordpress.org/themes/terrifico/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/terrifico.1.8.0.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/terrifico.2.0.0.zip"
   },
   {
     "name": "Teruterubozu",
