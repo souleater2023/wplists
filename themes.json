@@ -11648,7 +11648,7 @@
   {
     "name": "Ariade",
     "slug": "ariade",
-    "version": "1.7.118",
+    "version": "1.7.135",
     "author_name": "Shivaji Mitra",
     "author_url": "https://profiles.wordpress.org/anblik/",
     "rating": 0,
@@ -11656,12 +11656,12 @@
     "requires_wordpress": "6.6",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/ariade/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/ariade/screenshot.png?ver=1.7.118",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ariade/screenshot.png?ver=1.7.135",
     "homepage": "https://wordpress.org/themes/ariade/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/ariade.1.7.118.zip"
+    "download_link": "https://downloads.wordpress.org/theme/ariade.1.7.135.zip"
   },
   {
     "name": "Aribest",
@@ -20536,6 +20536,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/beauty-cosmetic-store.0.4.1.zip"
+  },
+  {
+    "name": "Beauty Cosmetics Lite",
+    "slug": "beauty-cosmetics-lite",
+    "version": "0.1",
+    "author_name": "themagnifico52",
+    "author_url": "https://profiles.wordpress.org/themagnifico52/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "5.0",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/beauty-cosmetics-lite/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/beauty-cosmetics-lite/screenshot.png?ver=0.1",
+    "homepage": "https://wordpress.org/themes/beauty-cosmetics-lite/",
+    "template": "beauty-cosmetic-store",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/beauty-cosmetics-lite.0.1.zip"
   },
   {
     "name": "Beauty Ecommerce X",
@@ -29882,7 +29900,7 @@
   {
     "name": "BlogBull",
     "slug": "blogbull",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "author_name": "WPInterface",
     "author_url": "https://profiles.wordpress.org/wpinterface/",
     "rating": 0,
@@ -29890,12 +29908,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/blogbull/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/blogbull/screenshot.png?ver=1.1.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/blogbull/screenshot.png?ver=1.1.6",
     "homepage": "https://wordpress.org/themes/blogbull/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/blogbull.1.1.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/blogbull.1.1.6.zip"
   },
   {
     "name": "Blogbuster",
@@ -31754,7 +31772,7 @@
   {
     "name": "BlogNest",
     "slug": "blognest",
-    "version": "1.1.10",
+    "version": "1.1.11",
     "author_name": "WPInterface",
     "author_url": "https://profiles.wordpress.org/wpinterface/",
     "rating": 100,
@@ -31762,12 +31780,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/blognest/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/blognest/screenshot.png?ver=1.1.10",
+    "screenshot_url": "//ts.w.org/wp-content/themes/blognest/screenshot.png?ver=1.1.11",
     "homepage": "https://wordpress.org/themes/blognest/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/blognest.1.1.10.zip"
+    "download_link": "https://downloads.wordpress.org/theme/blognest.1.1.11.zip"
   },
   {
     "name": "BlogNet",
@@ -70364,7 +70382,7 @@
   {
     "name": "Denves Lite",
     "slug": "denves-lite",
-    "version": "1.5.1",
+    "version": "1.5.2",
     "author_name": "alexvtn",
     "author_url": "https://profiles.wordpress.org/alexvtn/",
     "rating": 0,
@@ -70372,12 +70390,12 @@
     "requires_wordpress": "",
     "requires_php": "5.3",
     "preview_url": "https://wp-themes.com/denves-lite/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/denves-lite/screenshot.jpg?ver=1.5.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/denves-lite/screenshot.jpg?ver=1.5.2",
     "homepage": "https://wordpress.org/themes/denves-lite/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/denves-lite.1.5.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/denves-lite.1.5.2.zip"
   },
   {
     "name": "Deoblog Lite",
@@ -125280,6 +125298,24 @@
     "download_link": "https://downloads.wordpress.org/theme/ink-context-blog.1.1.4.zip"
   },
   {
+    "name": "Ink St",
+    "slug": "ink-st",
+    "version": "1.0.1",
+    "author_name": "LocalStarter Themes",
+    "author_url": "https://profiles.wordpress.org/localstarter/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.4",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/ink-st/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/ink-st/screenshot.png?ver=1.0.1",
+    "homepage": "https://wordpress.org/themes/ink-st/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/ink-st.1.0.1.zip"
+  },
+  {
     "name": "Inkblot",
     "slug": "inkblot",
     "version": "4.5.2",
@@ -138292,6 +138328,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/lawson.1.1.zip"
+  },
+  {
+    "name": "Lawyer Attorney Firm",
+    "slug": "lawyer-attorney-firm",
+    "version": "1.0.0",
+    "author_name": "Creta Themes",
+    "author_url": "https://profiles.wordpress.org/cretathemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.0",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/lawyer-attorney-firm/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/lawyer-attorney-firm/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/lawyer-attorney-firm/",
+    "template": "fse-lawyer-firm",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/lawyer-attorney-firm.1.0.0.zip"
   },
   {
     "name": "Lawyer Consultant",
@@ -168284,7 +168338,7 @@
   {
     "name": "NewsBerry",
     "slug": "newsberry",
-    "version": "1.2.5",
+    "version": "1.2.6",
     "author_name": "WPInterface",
     "author_url": "https://profiles.wordpress.org/wpinterface/",
     "rating": 0,
@@ -168292,12 +168346,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/newsberry/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newsberry/screenshot.png?ver=1.2.5",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsberry/screenshot.png?ver=1.2.6",
     "homepage": "https://wordpress.org/themes/newsberry/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newsberry.1.2.5.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newsberry.1.2.6.zip"
   },
   {
     "name": "Newsbes",
@@ -168842,7 +168896,7 @@
   {
     "name": "NewsCurve",
     "slug": "newscurve",
-    "version": "1.1.11",
+    "version": "1.1.12",
     "author_name": "WPInterface",
     "author_url": "https://profiles.wordpress.org/wpinterface/",
     "rating": 80,
@@ -168850,12 +168904,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/newscurve/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/newscurve/screenshot.png?ver=1.1.11",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newscurve/screenshot.png?ver=1.1.12",
     "homepage": "https://wordpress.org/themes/newscurve/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/newscurve.1.1.11.zip"
+    "download_link": "https://downloads.wordpress.org/theme/newscurve.1.1.12.zip"
   },
   {
     "name": "NewsDaily",
@@ -171902,7 +171956,7 @@
   {
     "name": "NextZenMag",
     "slug": "nextzenmag",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "author_name": "WPInterface",
     "author_url": "https://profiles.wordpress.org/wpinterface/",
     "rating": 0,
@@ -171910,12 +171964,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/nextzenmag/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/nextzenmag/screenshot.png?ver=1.1.4",
+    "screenshot_url": "//ts.w.org/wp-content/themes/nextzenmag/screenshot.png?ver=1.1.5",
     "homepage": "https://wordpress.org/themes/nextzenmag/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/nextzenmag.1.1.4.zip"
+    "download_link": "https://downloads.wordpress.org/theme/nextzenmag.1.1.5.zip"
   },
   {
     "name": "Nexum",
@@ -191610,6 +191664,24 @@
     "download_link": "https://downloads.wordpress.org/theme/poodle.1.0.2.zip"
   },
   {
+    "name": "Pool Care Business",
+    "slug": "pool-care-business",
+    "version": "1.0.0",
+    "author_name": "WP Radiant",
+    "author_url": "https://profiles.wordpress.org/wpradiant/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.0",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/pool-care-business/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/pool-care-business/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/pool-care-business/",
+    "template": "swimming-pool-service",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/pool-care-business.1.0.0.zip"
+  },
+  {
     "name": "Pool Cleaning",
     "slug": "pool-cleaning",
     "version": "0.3.6",
@@ -202592,7 +202664,7 @@
   {
     "name": "ReelCraft",
     "slug": "reelcraft",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "author_name": "WPInterface",
     "author_url": "https://profiles.wordpress.org/wpinterface/",
     "rating": 0,
@@ -202600,12 +202672,12 @@
     "requires_wordpress": "5.9",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/reelcraft/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/reelcraft/screenshot.png?ver=1.0.8",
+    "screenshot_url": "//ts.w.org/wp-content/themes/reelcraft/screenshot.png?ver=1.0.9",
     "homepage": "https://wordpress.org/themes/reelcraft/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/reelcraft.1.0.8.zip"
+    "download_link": "https://downloads.wordpress.org/theme/reelcraft.1.0.9.zip"
   },
   {
     "name": "Reference",
