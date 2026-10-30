@@ -27524,7 +27524,7 @@
   {
     "name": "Blocksy",
     "slug": "blocksy",
-    "version": "2.1.60",
+    "version": "2.1.61",
     "author_name": "Creative Themes",
     "author_url": "https://profiles.wordpress.org/creativethemeshq/",
     "rating": 100,
@@ -27532,12 +27532,12 @@
     "requires_wordpress": "6.7",
     "requires_php": "7.0",
     "preview_url": "https://wp-themes.com/blocksy/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/blocksy/screenshot.jpg?ver=2.1.60",
+    "screenshot_url": "//ts.w.org/wp-content/themes/blocksy/screenshot.jpg?ver=2.1.61",
     "homepage": "https://wordpress.org/themes/blocksy/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/blocksy.2.1.60.zip"
+    "download_link": "https://downloads.wordpress.org/theme/blocksy.2.1.61.zip"
   },
   {
     "name": "BlockVerse",
@@ -46334,7 +46334,7 @@
   {
     "name": "Car Dealer Blocks",
     "slug": "car-dealer-blocks",
-    "version": "0.3.10",
+    "version": "0.4.1",
     "author_name": "Jaroslav Svetlik",
     "author_url": "https://profiles.wordpress.org/jerryscg/",
     "rating": 0,
@@ -46342,12 +46342,12 @@
     "requires_wordpress": "6.6",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/car-dealer-blocks/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/car-dealer-blocks/screenshot.jpg?ver=0.3.10",
+    "screenshot_url": "//ts.w.org/wp-content/themes/car-dealer-blocks/screenshot.jpg?ver=0.4.1",
     "homepage": "https://wordpress.org/themes/car-dealer-blocks/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/car-dealer-blocks.0.3.10.zip"
+    "download_link": "https://downloads.wordpress.org/theme/car-dealer-blocks.0.4.1.zip"
   },
   {
     "name": "Car Dealer NexCars",
@@ -76390,6 +76390,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/easy-blog.2.1.zip"
+  },
+  {
+    "name": "Easy Building Company",
+    "slug": "easy-building-company",
+    "version": "1.5.2",
+    "author_name": "hweb",
+    "author_url": "https://profiles.wordpress.org/hweb/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.0",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/easy-building-company/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/easy-building-company/screenshot.png?ver=1.5.2",
+    "homepage": "https://wordpress.org/themes/easy-building-company/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/easy-building-company.1.5.2.zip"
   },
   {
     "name": "Easy Business",
@@ -169164,6 +169182,24 @@
     "download_link": "https://downloads.wordpress.org/theme/newsexpress.0.0.4.zip"
   },
   {
+    "name": "NewsFlux",
+    "slug": "newsflux",
+    "version": "0.1",
+    "author_name": "themeansar",
+    "author_url": "https://profiles.wordpress.org/themeansar/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.0",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/newsflux/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/newsflux/screenshot.jpg?ver=0.1",
+    "homepage": "https://wordpress.org/themes/newsflux/",
+    "template": "newsup",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/newsflux.0.1.zip"
+  },
+  {
     "name": "NewsFrame",
     "slug": "newsframe",
     "version": "2.3.4",
@@ -197352,6 +197388,24 @@
     "download_link": "https://downloads.wordpress.org/theme/pubnews.1.0.12.zip"
   },
   {
+    "name": "Pubnews Mag",
+    "slug": "pubnews-mag",
+    "version": "1.0.0",
+    "author_name": "blazethemes",
+    "author_url": "https://profiles.wordpress.org/blazethemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "",
+    "requires_php": "5.6",
+    "preview_url": "https://wp-themes.com/pubnews-mag/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/pubnews-mag/screenshot.png?ver=1.0.0",
+    "homepage": "https://wordpress.org/themes/pubnews-mag/",
+    "template": "pubnews",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/pubnews-mag.1.0.0.zip"
+  },
+  {
     "name": "Pubnews Plus",
     "slug": "pubnews-plus",
     "version": "1.0.0",
@@ -209302,6 +209356,24 @@
     "is_commercial": false,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/saas-consulting-agency.1.0.1.zip"
+  },
+  {
+    "name": "SaaS Courses",
+    "slug": "saas-courses",
+    "version": "1.0",
+    "author_name": "Titan Themes",
+    "author_url": "https://profiles.wordpress.org/titanthemes/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.1",
+    "requires_php": "7.2",
+    "preview_url": "https://wp-themes.com/saas-courses/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/saas-courses/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/saas-courses/",
+    "template": "digital-online-courses",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/saas-courses.1.0.zip"
   },
   {
     "name": "Saas Services",
@@ -243540,6 +243612,24 @@
     "download_link": "https://downloads.wordpress.org/theme/the-storefront-woocommerce.2.3.9.zip"
   },
   {
+    "name": "The Streamer",
+    "slug": "the-streamer",
+    "version": "1.0",
+    "author_name": "SuperbThemes",
+    "author_url": "https://profiles.wordpress.org/superbthemescom/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "7.0",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/the-streamer/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/the-streamer/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/the-streamer/",
+    "template": "the-entertainer",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/the-streamer.1.0.zip"
+  },
+  {
     "name": "The Swallow",
     "slug": "the-swallow",
     "version": "1.10",
@@ -247950,6 +248040,24 @@
     "download_link": "https://downloads.wordpress.org/theme/travel-blog-journeys.1.1.zip"
   },
   {
+    "name": "Travel Blog Lite",
+    "slug": "travel-blog-lite",
+    "version": "1.0",
+    "author_name": "astertheme",
+    "author_url": "https://profiles.wordpress.org/astertheme/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/travel-blog-lite/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/travel-blog-lite/screenshot.png?ver=1.0",
+    "homepage": "https://wordpress.org/themes/travel-blog-lite/",
+    "template": "aster-travel-blog",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/travel-blog-lite.1.0.zip"
+  },
+  {
     "name": "Travel Blogger",
     "slug": "travel-blogger",
     "version": "1.7.1",
@@ -250868,7 +250976,7 @@
   {
     "name": "Tropicana",
     "slug": "tropicana",
-    "version": "1.1.03",
+    "version": "1.1.04",
     "author_name": "Out the Box",
     "author_url": "https://profiles.wordpress.org/outtheboxthemes/",
     "rating": 100,
@@ -250876,12 +250984,12 @@
     "requires_wordpress": "4.7",
     "requires_php": "5.3",
     "preview_url": "https://wp-themes.com/tropicana/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/tropicana/screenshot.png?ver=1.1.03",
+    "screenshot_url": "//ts.w.org/wp-content/themes/tropicana/screenshot.png?ver=1.1.04",
     "homepage": "https://wordpress.org/themes/tropicana/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/tropicana.1.1.03.zip"
+    "download_link": "https://downloads.wordpress.org/theme/tropicana.1.1.04.zip"
   },
   {
     "name": "Trouvelot",
