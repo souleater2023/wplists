@@ -126434,7 +126434,7 @@
   {
     "name": "Inspiro",
     "slug": "inspiro",
-    "version": "2.3.1",
+    "version": "2.3.3",
     "author_name": "WPZOOM",
     "author_url": "https://profiles.wordpress.org/wpzoom/",
     "rating": 94,
@@ -126442,12 +126442,12 @@
     "requires_wordpress": "6.4",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/inspiro/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/inspiro/screenshot.png?ver=2.3.1",
+    "screenshot_url": "//ts.w.org/wp-content/themes/inspiro/screenshot.png?ver=2.3.3",
     "homepage": "https://wordpress.org/themes/inspiro/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/inspiro.2.3.1.zip"
+    "download_link": "https://downloads.wordpress.org/theme/inspiro.2.3.3.zip"
   },
   {
     "name": "Inspiro Blocks",
@@ -176400,6 +176400,24 @@
     "download_link": "https://downloads.wordpress.org/theme/oakridge-carpenter-and-joinery.1.5.zip"
   },
   {
+    "name": "Oakwright",
+    "slug": "oakwright",
+    "version": "1.0.9",
+    "author_name": "Felsflow",
+    "author_url": "https://profiles.wordpress.org/wpmagics/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.6",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/oakwright/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/oakwright/screenshot.png?ver=1.0.9",
+    "homepage": "https://wordpress.org/themes/oakwright/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/oakwright.1.0.9.zip"
+  },
+  {
     "name": "Oasis",
     "slug": "oasis",
     "version": "1.0.39",
@@ -226280,20 +226298,20 @@
   {
     "name": "Sky Enterprise",
     "slug": "sky-enterprise",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "author_name": "Kiran",
     "author_url": "https://profiles.wordpress.org/kiranmulmi/",
     "rating": 0,
     "num_ratings": 0,
     "requires_wordpress": "5.9",
-    "requires_php": "7.0",
+    "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/sky-enterprise/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/sky-enterprise/screenshot.png?ver=1.1.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/sky-enterprise/screenshot.png?ver=1.2.0",
     "homepage": "https://wordpress.org/themes/sky-enterprise/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/sky-enterprise.1.1.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/sky-enterprise.1.2.0.zip"
   },
   {
     "name": "SkyFall",
