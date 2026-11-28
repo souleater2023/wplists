@@ -18866,7 +18866,7 @@
   {
     "name": "Backline",
     "slug": "backline",
-    "version": "1.6.0",
+    "version": "1.7.0",
     "author_name": "gridwerkthemes",
     "author_url": "https://profiles.wordpress.org/gridwerkthemes/",
     "rating": 0,
@@ -18874,12 +18874,12 @@
     "requires_wordpress": "6.9",
     "requires_php": "7.4",
     "preview_url": "https://wp-themes.com/backline/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/backline/screenshot.png?ver=1.6.0",
+    "screenshot_url": "//ts.w.org/wp-content/themes/backline/screenshot.png?ver=1.7.0",
     "homepage": "https://wordpress.org/themes/backline/",
     "template": "",
     "is_commercial": false,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/backline.1.6.0.zip"
+    "download_link": "https://downloads.wordpress.org/theme/backline.1.7.0.zip"
   },
   {
     "name": "Backphoto",
@@ -40678,6 +40678,24 @@
     "is_commercial": true,
     "is_community": false,
     "download_link": "https://downloads.wordpress.org/theme/build-lite.2.2.zip"
+  },
+  {
+    "name": "Build Notes",
+    "slug": "build-notes",
+    "version": "1.0.2",
+    "author_name": "aileensmith",
+    "author_url": "https://profiles.wordpress.org/aileensmith/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.6",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/build-notes/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/build-notes/screenshot.png?ver=1.0.2",
+    "homepage": "https://wordpress.org/themes/build-notes/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/build-notes.1.0.2.zip"
   },
   {
     "name": "Buildapp",
@@ -206406,6 +206424,24 @@
     "download_link": "https://downloads.wordpress.org/theme/rennews-child.1.2.zip"
   },
   {
+    "name": "Renora Lite",
+    "slug": "renora-lite",
+    "version": "1.0.5",
+    "author_name": "nordicwptheme",
+    "author_url": "https://profiles.wordpress.org/nordicwptheme/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.6",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/renora-lite/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/renora-lite/screenshot.png?ver=1.0.5",
+    "homepage": "https://wordpress.org/themes/renora-lite/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/renora-lite.1.0.5.zip"
+  },
+  {
     "name": "Renoval",
     "slug": "renoval",
     "version": "21.6",
@@ -237978,6 +238014,24 @@
     "download_link": "https://downloads.wordpress.org/theme/study-education-lite.0.5.zip"
   },
   {
+    "name": "Study For Next",
+    "slug": "study-for-next",
+    "version": "1.0.5",
+    "author_name": "Study For Next",
+    "author_url": "https://profiles.wordpress.org/yogendrasinghrajput/",
+    "rating": 0,
+    "num_ratings": 0,
+    "requires_wordpress": "6.0",
+    "requires_php": "7.4",
+    "preview_url": "https://wp-themes.com/study-for-next/",
+    "screenshot_url": "//ts.w.org/wp-content/themes/study-for-next/screenshot.png?ver=1.0.5",
+    "homepage": "https://wordpress.org/themes/study-for-next/",
+    "template": "",
+    "is_commercial": false,
+    "is_community": false,
+    "download_link": "https://downloads.wordpress.org/theme/study-for-next.1.0.5.zip"
+  },
+  {
     "name": "Stunning",
     "slug": "stunning",
     "version": "2.0.0",
@@ -259742,7 +259796,7 @@
   {
     "name": "Verba",
     "slug": "verba",
-    "version": "1.4.16",
+    "version": "1.4.17",
     "author_name": "jkdevstudio",
     "author_url": "https://profiles.wordpress.org/jkdevstudio/",
     "rating": 0,
@@ -259750,12 +259804,12 @@
     "requires_wordpress": "7.0",
     "requires_php": "8.1",
     "preview_url": "https://wp-themes.com/verba/",
-    "screenshot_url": "//ts.w.org/wp-content/themes/verba/screenshot.png?ver=1.4.16",
+    "screenshot_url": "//ts.w.org/wp-content/themes/verba/screenshot.png?ver=1.4.17",
     "homepage": "https://wordpress.org/themes/verba/",
     "template": "",
     "is_commercial": true,
     "is_community": false,
-    "download_link": "https://downloads.wordpress.org/theme/verba.1.4.16.zip"
+    "download_link": "https://downloads.wordpress.org/theme/verba.1.4.17.zip"
   },
   {
     "name": "Verbosa",
